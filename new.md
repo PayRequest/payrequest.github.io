@@ -4,7 +4,8 @@ layout: default
 
 some text here
 
-{% include_ header.md %}
+{% include footer.html %}
+
 
 some more text here
 
