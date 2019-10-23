@@ -1,10 +1,6 @@
----
-layout: default
----
+{% include footer.html %}
 
 some text here
-
-{% include footer.html %}
 
 
 some more text here
