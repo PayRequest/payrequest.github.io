@@ -4,7 +4,7 @@ layout: default
 
 some text here
 
-{% include_relative header.md %}
+{% include_ header.md %}
 
 some more text here
 
