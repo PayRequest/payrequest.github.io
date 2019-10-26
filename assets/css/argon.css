@@ -17440,7 +17440,7 @@ textarea[resize='horizontal']
 }
 .section-shaped .shape-style-1.shape-primary
 {
-    background: linear-gradient(150deg, #281483 15%, #8f6ed5 70%, #d782d9 94%);
+        background-image: linear-gradient(130deg, #1951bf 0%, #25b7c7 89%);
 }
 .section-shaped .shape-style-1.shape-default
 {
