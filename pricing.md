@@ -5,4 +5,4 @@
 
 
 
-{% include integrations.html %}
+{% include pricing.html %}
