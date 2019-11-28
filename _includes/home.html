@@ -1,4 +1,32 @@
-  <link type="text/css" href="./assets/css/argon-home.css" rel="stylesheet">
+<style>
+.section-content .image-container {
+    height: 400px;
+}
+.section-content .image-container .img-comments {
+    z-index: 3;
+    left: -100px;
+    top: -40px;
+}
+.section-content .image-container img {
+    position: absolute;
+    width: 100%;
+    max-width: 380px;
+}
+[class*=shadow] {
+    transition: all .15s ease;
+}
+.section-content .image-container .img-blog {
+    z-index: 4;
+    left: 100px;
+    top: 20px;
+}
+.profile-page .card-profile .card-profile-image img, .shadow {
+    box-shadow: 0 15px 35px rgba(50,50,93,.1),0 5px 15px rgba(0,0,0,.07)!important;
+}
+rounded {
+    border-radius: .25rem!important;
+}
+</style>
 
 
 
@@ -185,7 +213,7 @@
 
 
 <!-- Start Powerful Dashboard Info Section -->
-<section class="section-content">
+<section class="section-content" style="padding: 80px 0;">
       <div class="container">
         <div class="row">
           <div class="col-lg-6 mt-md-5 order-md-2 order-lg-1">
