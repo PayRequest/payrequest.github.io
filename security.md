@@ -1,3 +1,6 @@
-security.md
+---
+title: PayRequest.io | Security
+description: We at PayRequests takes security seriously
+---
 
-check
+{% include security.html %}
