@@ -1,6 +1,6 @@
 ---
 title: PayRequest.io | Mollie Payment Request
-description: Connect Mollie with PayRequest
+description: With PayRequest, it is very easy to send a payment request via Mollie,
 ---
 
-{% include mollie.html %}
+{% include mollie-payment-request.html %}
