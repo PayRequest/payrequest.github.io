@@ -1,5 +1,5 @@
 ---
-title: PayRequest.io | Open Startup
+title: PayRequest.io | Open Startup 
 ---
 
 {% include open.html %}
