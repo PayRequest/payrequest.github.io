@@ -2,10 +2,6 @@
 title: PayRequest.io | Payment Pages
 description: Create your own payrequest.me payment page and share it with everyone.
 ---
-
-{% include payment-pages.html %}
-
-
 <section class="section section-lg section-shaped">
 		<!-- Background circles -->
 		<div class="shape shape-style-self shape-primary">
