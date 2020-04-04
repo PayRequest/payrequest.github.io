@@ -1,4 +1,5 @@
 ---
-title: PayRequest.io | PayRequest Blog 
+title: PayRequest.io | PayRequest Blog
 ---
+
 {% include blog.html %}
