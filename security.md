@@ -22,7 +22,7 @@ description: We at PayRequests takes security seriously
 		<div class="container shape-container d-flex align-items-center">
 			<div class="row text-center justify-content-center">
 				<div class="col-lg-8">
-					<h3 class="display-3 text-white">PayRequest Security
+					<h3 class="display-3 text-white">PayRequest Security.
 					
 					</h3>
 					<p class="lead text-white">We at PayRequests takes security seriously, 
