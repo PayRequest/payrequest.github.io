@@ -26,7 +26,7 @@ description: We at PayRequests takes security seriously
 					
 					</h3>
 					<p class="lead text-white">We at PayRequests takes security seriously, 
-						see here what we do to make our platform more secure.
+see here what we do to make our platform secure.
 					
 					</p>
 				</div>
