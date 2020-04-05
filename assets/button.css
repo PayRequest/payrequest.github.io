@@ -1,0 +1,14 @@
+.payrequest-btn {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    background-color: #25b7c7;
+    height: 46px;
+    padding: 8px 16px;
+    border-radius: 8px;
+    border: none;
+}
+.payrequest-btn img {
+    height: 23px;
+}
