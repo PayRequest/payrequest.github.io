@@ -55,12 +55,11 @@ date: 2020-04-05 18:33:00 Z
 
 <br> <br>
 <link href="https://payrequest.io/assets/button.css" target="_blank" rel="stylesheet">
-<a href="https://payrequest.me/yourname">
+<a>
 <button type="submit" class="payrequest-btn">
 <img src="https://payrequest.io/assets/logos/payrequest-logo-white.png">
 </button>
 </a>
-
                 </p>
                 
               </div>
@@ -78,18 +77,9 @@ date: 2020-04-05 18:33:00 Z
             
             <div class="col-md-12">
                 <div class="pl-md-5">
-                    <div class="icon icon-lg icon-shape icon-shape-warning shadow rounded-circle mb-5" style="
-    float: left;
-">
-<i class="fa fa-info-bill" aria-hidden="true"></i>
-
+<div class="icon icon-lg icon-shape icon-shape-warning shadow rounded-circle mb-5" style="float: left;">
+<i class="fa fa-mouse" aria-hidden="true"></i>
                     </div>
-
-
-
-
-
-
 
 <h3 style="
     /* float: right; */
