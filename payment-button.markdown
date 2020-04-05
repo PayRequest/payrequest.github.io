@@ -81,7 +81,7 @@ date: 2020-04-05 18:33:00 Z
                     <div class="icon icon-lg icon-shape icon-shape-warning shadow rounded-circle mb-5" style="
     float: left;
 ">
-                        <i class="fa fa-money-bill" aria-hidden="true"></i>
+<i class="fa fa-info-bill" aria-hidden="true"></i>
 
                     </div>
 
@@ -94,7 +94,8 @@ date: 2020-04-05 18:33:00 Z
 <h3 style="
     /* float: right; */
     margin-left: 90px;
-">Start sending Payment Links in 3 simple steps.</h3>
+">Add the below HTML code to your website (WIX,WordPress,..)
+</h3>
                     
                     
 <br> 
@@ -169,10 +170,8 @@ rounded {
 </style>
 
 
-<div class="row">
-          
-          
-<script async="" src="//jsfiddle.net/9mCN7/embed/html,result/dark/"></script>
+<div class="row">  
+<script async="" src="//jsfiddle.net/5o972wne/embed/html,result/dark/"></script>
 <script async="" src="https://static.codepen.io/assets/embed/ei.js"></script>
         </div>
                 
