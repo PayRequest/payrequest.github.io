@@ -62,7 +62,7 @@ description: Create your own payrequest.me payment page and share it with everyo
                 
               </div>
               <div class="col-lg-6 col-12 pl-0">
-                <img class="ml-lg-5" src="https://i.imgur.com/MDhh3Rz.png" width="100%">
+                <img class="ml-lg-5" src="https://payrequest.io/assets/images/illustrations/payment-page-illustration.png" width="100%">
               </div>
             </div>
           </div>
