@@ -1,7 +1,7 @@
 <main>
 	
 	
-	<section class="section section-lg section-shaped">
+<section class="section section-lg section-shaped">
 		<!-- Background circles -->
 		<div class="shape shape-style-self shape-primary">
 			<span class="span-150"></span>
@@ -18,26 +18,24 @@
 		<div class="container shape-container d-flex align-items-center">
 			<div class="col px-0">
 				<div class="row align-items-center justify-content-center">
-					<div class="col-lg-7 text-center">
-<div class="icon icon-shape bg-gradient-white shadow rounded-circle mb-3"><i class="fa fa-hand-browser text-warning" aria-hidden="true"></i></div>
-						<h1 class="text-white">Payment Pages
+<div class="col-lg-7 text-center">
+<div class="icon icon-shape bg-gradient-white shadow rounded-circle mb-3"><i class="fab fa-paypal text-info" aria-hidden="true"></i></div>
+            <h1 class="text-white">Belgium Payment Providers
 </h1>
-						<p class="lead text-white">
-					Create your own payrequest.me payment page and share it with everyone.
-						</p>
-					
-					
-					</div>
-				</div>
-			</div>
-		</div>
+            <p class="lead text-white">PayRequest supports different payment providers for Belgium.</p>
+          
+
+ </div>
+	</div>
+</div>
+</div>
 		<!-- SVG separator -->
 		<div class="separator separator-bottom separator-skew zindex-100">
 			<svg x="0" y="0" viewBox="0 0 2560 100" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
 				<polygon class="fill-white" points="2560 0 2560 100 0 100"></polygon>
 			</svg>
 		</div>
-	</section>
+</section>
 
 <section class="section section-lg">
           <div class="container">
