@@ -600,9 +600,7 @@ rounded {
 
 
 
-
-
-                    <a href="https://alternativeto.net/software/payrequest/" target="_blank" style="width:25%;float:left;padding:20px;">
+ <a href="https://alternativeto.net/software/payrequest/" target="_blank" style="width:25%;float:left;padding:20px;">
                         <img alt="Alternative.to" src="https://www.yourmusicplatform.com/assets/img/partners/mollie.png" style="width: 100%;" class="img-fluid">
                     </a>
                     <a href="https://www.producthunt.com/posts/payrequest/" target="_blank" style="width:25%;float:left;padding:20px">
