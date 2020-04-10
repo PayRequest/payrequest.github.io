@@ -1,7 +1,6 @@
 ---
 title: Payment Providers
 date: 2020-04-10 11:38:00 Z
-permalink: "/payment-providers"
 layout: default
 ---
 
