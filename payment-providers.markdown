@@ -27,9 +27,8 @@ layout: default
 						<div class="icon icon-shape bg-gradient-white shadow rounded-circle mb-3"><i class="fa fa-globe-europe text-info" aria-hidden="true"></i></div>
 						<h1 class="text-white">Payment Providers</h1>
 						<p class="lead text-white">PayRequest supports different payment providers in almost every country.</p>
-					
-					
-					</div>
+
+</div>
 				</div>
 			</div>
 		</div>
@@ -57,7 +56,9 @@ layout: default
 
 
 <div class="row">
+  <span class="badge badge-primary badge-pill mb-3">Payment Providers in Europe</span>
 <div class="col-lg-4 d-flex align-items-stretch">
+
 
 <div class="card card-profile" data-image="img-rounded">
               <div class="card-avatar">
@@ -67,20 +68,8 @@ layout: default
               </div>
               <div class="card-body ">
                 
-                <h4 class="card-title">Payment Providers for Belgium
+<h4 class="card-title">Payment Providers for Belgium
 </h4>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -108,9 +97,8 @@ layout: default
 							<span class="btn-inner--text">More information</span>
 						</a>
 
-                
-              </div>
-            </div>
+</div>
+</div>
 
 </div><div class="col-lg-4 d-flex align-items-stretch">
 
@@ -122,7 +110,7 @@ layout: default
               </div>
               <div class="card-body ">
                 
-                <h4 class="card-title">Payment Providers for Netherlands
+<h4 class="card-title">Payment Providers for Netherlands
 </h4>
 
 
