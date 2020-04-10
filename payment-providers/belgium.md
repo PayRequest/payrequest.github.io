@@ -72,6 +72,81 @@
                         <div class="pl-md-5">  
                     <h3>Payment Providers available in Belgium.</h3>
                 </div>
+
+
+
+<ul class="media-images media-images--config-dynamic">
+  <li class="media-images__item">
+    <img class="media-images__image" src="https://www.yourmusicplatform.com/assets/img/partners/mollie.png" alt="Ars Technica" />
+  </li>
+  <li class="media-images__item">
+    <img class="media-images__image" src="https://europeansting.files.wordpress.com/2016/02/stripe-logo.png" alt="Business Insider" />
+  </li>
+  <li class="media-images__item">
+    <img class="media-images__image" src="https://i.imgur.com/enDNlbw.png" alt="Fast Company" />
+  </li>
+
+</ul>
+
+<style>
+.media-images {
+  margin: 2rem;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.media-images__image {
+  margin: 1rem;
+}
+
+.media-images.media-images--config-width .media-images__image {
+  width: 6.25rem;
+}
+
+.media-images.media-images--config-height .media-images__image {
+  height: 1.5rem;
+}
+</style>
+
+
+<script>
+(function() {
+
+  "use strict";
+
+  window.onload = function() {
+
+    var images = document.querySelectorAll(".media-images.media-images--config-dynamic .media-images__image");
+
+    function adjustImageWidth(image) {
+      var widthBase   = 70;
+      var scaleFactor = 0.525;
+      var imageRatio  = image.naturalWidth / image.naturalHeight;
+
+      image.width = Math.pow(imageRatio, scaleFactor) * widthBase;
+    }
+
+    images.forEach(adjustImageWidth);
+
+  };
+
+}());
+</script>
+
+
+
+
+
+
+
+
+
+
+
                 <p class="lead text-white mt-3">
                     <a href="https://alternativeto.net/software/payrequest/" target="_blank" style="width:25%;float:left;padding:20px;">
                         <img alt="Alternative.to" src="https://www.yourmusicplatform.com/assets/img/partners/mollie.png" style="width: 100%;" class="img-fluid">
