@@ -40,22 +40,22 @@
 <section class="section section-lg">
           <div class="container">
             <div class="row align-items-center text-left">
-              <div class="col-lg-6 col-12">
+              <div class="col-lg-1 col-12 pl-0"> </div>
+
+
+<div class="col-lg-3 col-12 pl-0">
+                <img class="ml-lg-5" src="https://payspacelv.com/wp-content/uploads/2018/09/belgium.svg" width="40%">
+              </div>
+
+
+<div class="col-lg-8 col-12">
                 <span class="badge badge-info badge-pill mb-3">payment providers belgium</span>
 <h1 class="display-3">Payment Providers,
 <span class="text-primary">for Belgium.</span></h1>
-                <p class="lead pb-4">PayRequest makes it easy to create donation pages for charity, fundraising or non-profits. <br>Share your donation page worldwide and use your own logo, background and branding name.
-
-
- 
-
-
-                </p>
+                <p class="lead pb-4">PayRequest makes it easy to create donation pages for charity, fundraising or non-profits. </p>
                 
               </div>
-              <div class="col-lg-6 col-12 pl-0">
-                <img class="ml-lg-5" src="https://payspacelv.com/wp-content/uploads/2018/09/belgium.svg" width="50%">
-              </div>
+              
             </div>
           </div>
 
@@ -68,20 +68,20 @@
                 <div class="row align-items-center">
                     <div class="col-lg-12 text-center">
                         <div class="pl-md-5">  
-                    <h3>Payment Providers available in Belgium.</h3>
+                    <h3>Payment Providers available in Belgium:</h3>
                 </div>
 
 
 
 <ul class="media-images media-images--config-dynamic">
   <li class="media-images__item">
-    <img class="media-images__image" src="https://www.yourmusicplatform.com/assets/img/partners/mollie.png" alt="Ars Technica" />
+    <img class="media-images__image" src="https://www.yourmusicplatform.com/assets/img/partners/mollie.png" alt="Ars Technica" width="100">
   </li>
   <li class="media-images__item">
-    <img class="media-images__image" src="https://europeansting.files.wordpress.com/2016/02/stripe-logo.png" alt="Business Insider" />
+    <img class="media-images__image" src="https://europeansting.files.wordpress.com/2016/02/stripe-logo.png" alt="Business Insider" width="104">
   </li>
   <li class="media-images__item">
-    <img class="media-images__image" src="https://i.imgur.com/enDNlbw.png" alt="Fast Company" />
+    <img class="media-images__image" src="https://i.imgur.com/enDNlbw.png" alt="Fast Company" width="95">
   </li>
 
 </ul>
@@ -145,18 +145,7 @@
 
 
 
- <p class="lead text-white mt-3">
-                    <a href="https://alternativeto.net/software/payrequest/" target="_blank" style="width:25%;float:left;padding:20px;">
-                        <img alt="Alternative.to" src="https://www.yourmusicplatform.com/assets/img/partners/mollie.png" style="width: 100%;" class="img-fluid">
-                    </a>
-                    <a href="https://www.producthunt.com/posts/payrequest/" target="_blank" style="width:25%;float:left;padding:20px">
-                    <img src="https://europeansting.files.wordpress.com/2016/02/stripe-logo.png" alt="Product hunt" data-src-desktop-1x="./assets/img/asseenon/product-hunt.svg" data-src-mobile-1x="//d9hhrg4mnvzow.cloudfront.net/www.rivers.im/get-rivers/1ff6afdc-product-hunt.svg" srcset="" style="width: 100%;">
-                    </a>
-                    <a href="https://www.capterra.com/p/198184/PayRequest/" target="_self" style="width:25%;float:left;padding:20px">
-                        <img src="https://i.imgur.com/enDNlbw.png" alt="Capterra" data-src-desktop-1x="./assets/img/asseenon/capterra-logo.svg" data-src-mobile-1x="//d9hhrg4mnvzow.cloudfront.net/www.rivers.im/get-rivers/1ff6afdc-product-hunt.svg" srcset="" style="width: 100%;">
-                    </a>
-                      
-</p>
+ 
                     </div>
                     <div class="col-lg-3 ml-lg-auto">
                         
