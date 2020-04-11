@@ -71,15 +71,17 @@
                         <div class="pl-md-5">  
                     <h3>Payment Gateway available in Netherlands:</h3>
                 </div>
-
+  <li class="media-images__item">
+ <img class="media-images__image" src="https://payrequest.io/assets/img/providers/mollie-logo.png" alt="Mollie payment gateway" width="100">
+  </li>
 
 
 <ul class="media-images media-images--config-dynamic">
   <li class="media-images__item">
-    <img class="media-images__image" src="https://europeansting.files.wordpress.com/2016/02/stripe-logo.png" alt="Business Insider" width="104">
+    <img class="media-images__image" src="https://payrequest.io/assets/img/providers/stripe-logo.png" alt="Stripe payment gateway" width="104">
   </li>
   <li class="media-images__item">
-    <img class="media-images__image" src="https://i.imgur.com/enDNlbw.png" alt="Fast Company" width="95">
+    <img class="media-images__image" src="https://payrequest.io/assets/img/providers/paypal-logo.png" alt="Paypal payment gateway" width="95">
   </li>
 
 </ul>
