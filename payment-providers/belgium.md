@@ -510,19 +510,15 @@ border-radius: 0px !important;
     <div class="container">
         <div class="row row-grid align-items-center">
             
-            <div class="col-md-12">
-                <div class="pl-md-5">
-                    <div class="icon icon-lg icon-shape icon-shape-warning shadow rounded-circle mb-5" style="
-    float: left;
-">
-                        <i class="fa fa-money-bill" aria-hidden="true"></i>
+<div class="col-md-12">
+ <div class="pl-md-5">
+ <div class="icon icon-lg icon-shape icon-shape-warning shadow rounded-circle mb-5" style="float: left;">
+<i class="flag flag-be" aria-hidden="true"></i>
 
-                    </div>
+</div>
 
-<h3 style="
-    /* float: right; */
-    margin-left: 90px;
-">Start create your Donation Page in 3 simple steps.</h3>
+<h3 style="/* float: right; */margin-left: 90px;
+">Accept Belgium Payments in 3 simple steps.</h3>
                     
                     
 <br> 
