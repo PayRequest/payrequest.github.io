@@ -19,7 +19,8 @@
 			<div class="col px-0">
 				<div class="row align-items-center justify-content-center">
 <div class="col-lg-7 text-center">
-<div class="icon icon-shape bg-gradient-white shadow rounded-circle mb-3"><i class="fab fa-paypal text-info" aria-hidden="true"></i></div>
+<div class="icon icon-shape bg-gradient-white shadow rounded-circle mb-3">
+  <i class="flag flag-be text-info" aria-hidden="true"></i></div>
             <h1 class="text-white">Belgium Payment Providers
 </h1>
             <p class="lead text-white">PayRequest supports different payment providers for Belgium.</p>
