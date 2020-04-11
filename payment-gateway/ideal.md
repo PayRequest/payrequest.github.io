@@ -20,7 +20,7 @@
 				<div class="row align-items-center justify-content-center">
 <div class="col-lg-7 text-center">
 <div class="icon icon-shape bg-gradient-white shadow rounded-circle mb-3">
-  <i class="flag flag-nl text-info" aria-hidden="true"></i></div>
+  <i class="fab fa-ideal text-info" aria-hidden="true"></i></div>
             <h1 class="text-white">iDeal Payment Gateway
 </h1>
             <p class="lead text-white">PayRequest supports different payment Gateway for iDeal.</p>
@@ -512,12 +512,11 @@ border-radius: 0px !important;
 <div class="col-md-12">
  <div class="pl-md-5">
  <div class="icon icon-lg icon-shape icon-shape-warning shadow rounded-circle mb-5" style="float: left;">
-<i class="flag flag-be" aria-hidden="true"></i>
+<i class="fab fa-ideal" aria-hidden="true"></i>
 
 </div>
 
-<h3 style="/* float: right; */margin-left: 90px;
-">Accept iDeal Payments in 3 simple steps.</h3>
+<h3 style="/* float: right; */margin-left: 90px;">Accept iDeal Payments in 3 simple steps.</h3>
                     
                     
 <br> 
