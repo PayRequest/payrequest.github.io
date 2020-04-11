@@ -183,7 +183,7 @@ border-radius: 0px !important;
 <div class="card-body">
 <div class="row">
 <div class="col-md-12 text-center">
-<img src="../assets/img/payment-icons/creditcard@2x.png" class="payment-icon-style">
+<img src="../assets/img/payment-icons/creditcard@2x.png" alt="creditcard payment method" class="payment-icon-style">
 <h5 class="text-uppercase">Creditcard</h5>
 
 <hr class="bg-info">
@@ -198,7 +198,7 @@ border-radius: 0px !important;
 <div class="card-body">
 <div class="row">
 <div class="col-md-12 text-center">
-<img src="../assets/img/payment-icons/ideal@2x.png" class="payment-icon-style">
+<img src="../assets/img/payment-icons/ideal@2x.png" alt="ideal payment method" class="payment-icon-style">
 <h5 class="text-uppercase">iDeal</h5>
 
 <hr class="bg-info">
@@ -212,7 +212,7 @@ border-radius: 0px !important;
 <div class="card-body">
 <div class="row">
 <div class="col-md-12 text-center">
-<img src="../assets/img/payment-icons/paypal@2x.png" class="payment-icon-style">
+<img src="../assets/img/payment-icons/paypal@2x.png" alt="paypal payment method" class="payment-icon-style">
 <h5 class="text-uppercase">PayPal</h5>
 
 <hr class="bg-info">
@@ -227,7 +227,7 @@ border-radius: 0px !important;
 <div class="card-body">
 <div class="row">
 <div class="col-md-12 text-center">
-<img src="../assets/img/payment-icons/visa@2x.png" class="payment-icon-style">
+<img src="../assets/img/payment-icons/visa@2x.png" alt="visa payment method" class="payment-icon-style">
 <h5 class="text-uppercase">VISA</h5>
 <hr class="bg-info">
 </div>
@@ -240,7 +240,7 @@ border-radius: 0px !important;
 <div class="card-body">
 <div class="row">
 <div class="col-md-12 text-center">
-<img src="../assets/img/payment-icons/mastercard@2x.png" class="payment-icon-style">
+<img src="../assets/img/payment-icons/mastercard@2x.png" alt="mastercard payment method" class="payment-icon-style">
 <h5 class="text-uppercase">MASTERCARD</h5>
 <hr class="bg-info">
 </div>
@@ -254,7 +254,7 @@ border-radius: 0px !important;
 <div class="card-body">
 <div class="row">
 <div class="col-md-12 text-center">
-<img src="../assets/img/payment-icons/visa@2x.png" class="payment-icon-style">
+<img src="../assets/img/payment-icons/sofort@2x.png" alt="sofort payment method" class="payment-icon-style">
 <h5 class="text-uppercase">SOFORT Banking</h5>
 <hr class="bg-info">
 </div>
@@ -267,7 +267,7 @@ border-radius: 0px !important;
 <div class="card-body">
 <div class="row">
 <div class="col-md-12 text-center">
-<img src="../assets/img/payment-icons/Przelewy24@2x.png" class="payment-icon-style">
+<img src="../assets/img/payment-icons/Przelewy24@2x.png" alt="Przelewy24 payment method" class="payment-icon-style">
 <h5 class="text-uppercase">Przelewy24</h5>
 <hr class="bg-info">
 </div>
@@ -279,7 +279,7 @@ border-radius: 0px !important;
 <div class="card-body">
 <div class="row">
 <div class="col-md-12 text-center">
-<img src="../assets/img/payment-icons/maestro@2x.png" class="payment-icon-style">
+<img src="../assets/img/payment-icons/maestro@2x.png" alt="Maestro payment method" class="payment-icon-style">
 <h5 class="text-uppercase">Maestro</h5>
 <hr class="bg-info">
 </div>
@@ -291,7 +291,7 @@ border-radius: 0px !important;
 <div class="card-body">
 <div class="row">
 <div class="col-md-12 text-center">
-<img src="../assets/img/payment-icons/paysafecard@2x.png" class="payment-icon-style">
+<img src="../assets/img/payment-icons/paysafecard@2x.png" alt="PaySafeCard payment method" class="payment-icon-style">
 <h5 class="text-uppercase">PaySafeCard</h5>
 <hr class="bg-info">
 </div>
@@ -303,7 +303,7 @@ border-radius: 0px !important;
 <div class="card-body">
 <div class="row">
 <div class="col-md-12 text-center">
-<img src="../assets/img/payment-icons/klarna@2x.png" class="payment-icon-style">
+<img src="../assets/img/payment-icons/klarna@2x.png" alt="Klarna payment method" class="payment-icon-style">
 <h5 class="text-uppercase">Klarna</h5>
 <hr class="bg-info">
 </div>
@@ -315,7 +315,7 @@ border-radius: 0px !important;
 <div class="card-body">
 <div class="row">
 <div class="col-md-12 text-center">
-<img src="../assets/img/payment-icons/inghomepay@2x.png" class="payment-icon-style">
+<img src="../assets/img/payment-icons/inghomepay@2x.png" alt="ING Home Pay payment method" class="payment-icon-style">
 <h5 class="text-uppercase">ING Home’Pay</h5>
 <hr class="bg-info">
 </div>
@@ -326,7 +326,7 @@ border-radius: 0px !important;
 <div class="card-body">
 <div class="row">
 <div class="col-md-12 text-center">
-<img src="../assets/img/payment-icons/giropay@2x.png" class="payment-icon-style">
+<img src="../assets/img/payment-icons/giropay@2x.png" alt="GirePay payment method" class="payment-icon-style">
 <h5 class="text-uppercase">Giropay</h5>
 <hr class="bg-info">
 </div>
@@ -337,7 +337,7 @@ border-radius: 0px !important;
 <div class="card-body">
 <div class="row">
 <div class="col-md-12 text-center">
-<img src="../assets/img/payment-icons/eps@2x.png" class="payment-icon-style">
+<img src="../assets/img/payment-icons/eps@2x.png" alt="EPS payment method" class="payment-icon-style">
 <h5 class="text-uppercase">EPS</h5>
 <hr class="bg-info">
 </div>
@@ -348,7 +348,7 @@ border-radius: 0px !important;
 <div class="card-body">
 <div class="row">
 <div class="col-md-12 text-center">
-<img src="../assets/img/payment-icons/directdebit@2x.png" class="payment-icon-style">
+<img src="../assets/img/payment-icons/directdebit@2x.png" alt="Direct Debit payment method" class="payment-icon-style">
 <h5 class="text-uppercase">Direct Debit</h5>
 <hr class="bg-info">
 </div>
@@ -359,7 +359,7 @@ border-radius: 0px !important;
 <div class="card-body">
 <div class="row">
 <div class="col-md-12 text-center">
-<img src="../assets/img/payment-icons/cartebancaire@2x.png" class="payment-icon-style">
+<img src="../assets/img/payment-icons/cartebancaire@2x.png" alt="Cartes Bancaires payment method" class="payment-icon-style">
 <h5 class="text-uppercase">Cartes Bancaires</h5>
 <hr class="bg-info">
 </div>
@@ -371,7 +371,7 @@ border-radius: 0px !important;
 <div class="card-body">
 <div class="row">
 <div class="col-md-12 text-center">
-<img src="../assets/img/payment-icons/amex@2x.png" class="payment-icon-style">
+<img src="../assets/img/payment-icons/amex@2x.png" alt="American Express payment method"class="payment-icon-style">
 <h5 class="text-uppercase">American Express</h5>
 <hr class="bg-info">
 </div>
@@ -383,7 +383,7 @@ border-radius: 0px !important;
 <div class="card-body">
 <div class="row">
 <div class="col-md-12 text-center">
-<img src="../assets/img/payment-icons/applepay@2x.png" class="payment-icon-style">
+<img src="../assets/img/payment-icons/applepay@2x.png" alt="Apple Pay payment method"class="payment-icon-style">
 <h5 class="text-uppercase">Apple Pay</h5>
 <hr class="bg-info">
 </div>
@@ -395,7 +395,7 @@ border-radius: 0px !important;
 <div class="card-body">
 <div class="row">
 <div class="col-md-12 text-center">
-<img src="../assets/img/payment-icons/belfius@2x.png" class="payment-icon-style">
+<img src="../assets/img/payment-icons/belfius@2x.png" alt="Belfius Pay payment method" class="payment-icon-style">
 <h5 class="text-uppercase">Belfius Pay Button</h5>
 <hr class="bg-info">
 </div>
@@ -407,7 +407,7 @@ border-radius: 0px !important;
 <div class="card-body">
 <div class="row">
 <div class="col-md-12 text-center">
-<img src="../assets/img/payment-icons/kbc@2x.png" class="payment-icon-style">
+<img src="../assets/img/payment-icons/kbc@2x.png" alt="KBC Payment Button payment method" class="payment-icon-style">
 <h5 class="text-uppercase">KBC Payment Button</h5>
 <hr class="bg-info">
 </div>
@@ -418,7 +418,7 @@ border-radius: 0px !important;
 <div class="card-body">
 <div class="row">
 <div class="col-md-12 text-center">
-<img src="../assets/img/payment-icons/postepay-logo.png" class="payment-icon-style">
+<img src="../assets/img/payment-icons/postepay-logo.png" alt="Postpay payment method" class="payment-icon-style">
 <h5 class="text-uppercase">Postepay</h5>
 <hr class="bg-info">
 </div>
@@ -429,7 +429,7 @@ border-radius: 0px !important;
 <div class="card-body">
 <div class="row">
 <div class="col-md-12 text-center">
-<img src="../assets/img/payment-icons/giropay@2x.png" class="payment-icon-style">
+<img src="../assets/img/payment-icons/giropay@2x.png" alt="Giropay payment method" class="payment-icon-style">
 <h5 class="text-uppercase">Giropay</h5>
 <hr class="bg-info">
 </div>
@@ -445,7 +445,7 @@ border-radius: 0px !important;
 <svg width="66px" height="46px" viewBox="0 0 66 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 61.1 (89650) - https://sketch.com -->
     <title>Wechatpay2</title>
-    <desc>Created with Sketch.</desc>
+    <desc>Wechatpay2 payment method</desc>
     <g id="Cards" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="White" transform="translate(-338.000000, -31.000000)">
             <g id="Wechatpay2" transform="translate(338.000000, 31.000000)" fill="#FFFFFF" stroke="#E6E7E8">
