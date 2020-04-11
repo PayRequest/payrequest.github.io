@@ -45,7 +45,7 @@
 
 
 <div class="col-lg-3 col-12 pl-0">
-                <img class="ml-lg-5" src="https://payrequest.io/assets/img/country-flag-rounded/ghana.svg" width="40%">
+                <img alt="ghana payment gateway" class="ml-lg-5" src="https://payrequest.io/assets/img/country-flag-rounded/ghana.svg" width="40%">
               </div>
 
 
