@@ -45,7 +45,7 @@
 
 
 <div class="col-lg-3 col-12 pl-0">
-                <img class="ml-lg-5" src="https://payspacelv.com/wp-content/uploads/2018/09/Ghana.svg" width="40%">
+                <img class="ml-lg-5" src="https://payrequest.io/assets/img/country-flag-rounded/ghana.svg" width="40%">
               </div>
 
 
@@ -75,9 +75,6 @@
 
 
 <ul class="media-images media-images--config-dynamic">
-  <li class="media-images__item">
-    <img class="media-images__image" src="https://www.yourmusicplatform.com/assets/img/partners/mollie.png" alt="Ars Technica" width="100">
-  </li>
   <li class="media-images__item">
     <img class="media-images__image" src="https://europeansting.files.wordpress.com/2016/02/stripe-logo.png" alt="Business Insider" width="104">
   </li>
