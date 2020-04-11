@@ -600,7 +600,7 @@ rounded {
               <span class="bubble-number">1</span>
             </div>
             <h4>
-              1. Connect a payment provider like Stripe.
+              1. Connect belgium payment provider.
             </h4>
           </div>
           <div class="col-sm-4 aos-init aos-animate" data-aos="fade-up" data-aos-easing="delay-slide" data-aos-duration="1300" data-aos-delay="500" data-aos-offset="-100">
@@ -608,14 +608,14 @@ rounded {
                     <img src="https://payrequest.io/assets/img/screens/new-request.png" alt="create your own payment link">
               <span class="bubble-number">2</span>
             </div>
-            <h4>2. Create your donation page.</h4>
+            <h4>2. Create a payment request.</h4>
           </div>
           <div class="col-sm-4 aos-init aos-animate" data-aos="fade-up" data-aos-easing="delay-slide" data-aos-duration="1300" data-aos-delay="600" data-aos-offset="-100">
             <div class="img-wrap">
               <img src="https://payrequest.io/assets/img/screens/payment-link.png" alt="Share your payment link and get paid">
               <span class="bubble-number">3</span>
             </div>
-            <h4>3. Share and recieve donations!</h4>
+            <h4>3. Start and recieve payments!</h4>
           </div>
         </div>
                 
@@ -652,3 +652,36 @@ rounded {
     </section>
 
 	
+<section class="section-free-demo bg-secondary" style="
+    padding: 40px 0;
+">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-7 col-md-12">
+            <div class="section-description">
+              <h3 class="display-3">Accept payments in Belgium</h3>
+              <p class="lead mb-4">Just signup for an PayRequest account an connect a supported belgium payment provider.</p>
+              <a href="http://dashboard.payrequest.io/dashboard" target="_blank" class="btn btn-neutral btn-icon">
+                <span class="btn-inner--icon">
+                  <i class="fa fa-sign-in mr-2" aria-hidden="true"></i>
+                </span>
+              <span class="nav-link-inner--text"> Create your account</span>
+            </a>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-12">
+            <div class="github-background-container" style="
+    position: absolute;
+    right: -120px;
+    top: 15px;
+">
+              <i class="fal fa-flag" aria-hidden="true" style="
+    font-size: 200px;
+    opacity: .1;
+"></i>
+            </div>
+          </div>
+        </div>
+        
+      </div>
+    </section>
