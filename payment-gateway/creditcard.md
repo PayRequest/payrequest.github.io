@@ -21,9 +21,9 @@
 <div class="col-lg-7 text-center">
 <div class="icon icon-shape bg-gradient-white shadow rounded-circle mb-3">
   <i class="fal fa-credit-card text-info" aria-hidden="true"></i></div>
-            <h1 class="text-white">Creditcard Payment Gateway
+            <h1 class="text-white">Credit Card Payment Gateway
 </h1>
-            <p class="lead text-white">PayRequest supports different payment Gateway for Creditcard.</p>
+            <p class="lead text-white">PayRequest supports different payment Gateway for Credit Card.</p>
           
 
  </div>
@@ -45,15 +45,15 @@
 
 
 <div class="col-lg-3 col-12 pl-0">
-                <img alt="Creditcard payment gateway" class="ml-lg-5" src="https://payrequest.io/assets/img/payment-icons/creditcard@2x.png" width="40%">
+                <img alt="Credit Card payment gateway" class="ml-lg-5" src="https://payrequest.io/assets/img/payment-icons/Credit Card@2x.png" width="40%">
               </div>
 
 
 <div class="col-lg-8 col-12">
-                <span class="badge badge-info badge-pill mb-3">payment Gateway Creditcard</span>
+                <span class="badge badge-info badge-pill mb-3">payment Gateway Credit Card</span>
 <h1 class="display-3">Payment Gateway,
-<span class="text-primary">for Creditcard.</span></h1>
- <p class="lead pb-4">PayRequest mission is to make paymeny requests worldwide possible, we have select the best payment Gateway for Creditcard.
+<span class="text-primary">for Credit Card.</span></h1>
+ <p class="lead pb-4">PayRequest mission is to make paymeny requests worldwide possible, we have select the best payment Gateway for Credit Card.
 </p>
                 
 </div>
@@ -69,7 +69,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-12 text-center">
                         <div class="pl-md-5">  
-                    <h3>Payment Gateway available for Creditcard:</h3>
+                    <h3>Payment Gateway available for Credit Card:</h3>
                 </div>
 
 
@@ -167,8 +167,8 @@ border-radius: 0px !important;
       <div class="container">
         <div class="row">
           <div class="col-md-12 ml-auto mr-auto text-center" style="margin-top: 40px;">
-            <h3 class="display-3">Alternative payment methods instead Creditcard</h3>
-            <h4 class="description">Thanks to all our payment Gateway integrations we can offer different payment methods then Creditcard.</h4>
+            <h3 class="display-3">Alternative payment methods instead Credit Card</h3>
+            <h4 class="description">Thanks to all our payment Gateway integrations we can offer different payment methods then Credit Card.</h4>
           </div>
         </div>
         
@@ -182,8 +182,8 @@ border-radius: 0px !important;
 <div class="card-body">
 <div class="row">
 <div class="col-md-12 text-center">
-<img src="../assets/img/payment-icons/creditcard@2x.png" alt="creditcard payment method" class="payment-icon-style">
-<h5 class="text-uppercase">Creditcard</h5>
+<img src="../assets/img/payment-icons/creditcard@2x.png" alt="Credit Card payment method" class="payment-icon-style">
+<h5 class="text-uppercase">Credit Card</h5>
 
 <hr class="bg-info">
 </div>
@@ -516,7 +516,7 @@ border-radius: 0px !important;
 
 </div>
 
-<h3 style="/* float: right; */margin-left: 90px;">Accept Creditcard Payments in 3 simple steps.</h3>
+<h3 style="/* float: right; */margin-left: 90px;">Accept Credit Card Payments in 3 simple steps.</h3>
                     
                     
 <br> 
@@ -598,7 +598,7 @@ rounded {
               <span class="bubble-number">1</span>
             </div>
             <h4>
-              1. Connect Creditcard payment Gateway.
+              1. Connect Credit Card payment Gateway.
             </h4>
           </div>
           <div class="col-sm-4 aos-init aos-animate" data-aos="fade-up" data-aos-easing="delay-slide" data-aos-duration="1300" data-aos-delay="500" data-aos-offset="-100">
@@ -606,14 +606,14 @@ rounded {
                     <img src="https://payrequest.io/assets/img/screens/new-request.png" alt="create your own payment link">
               <span class="bubble-number">2</span>
             </div>
-            <h4>2. Create a Creditcard payment link.</h4>
+            <h4>2. Create a Credit Card payment link.</h4>
           </div>
           <div class="col-sm-4 aos-init aos-animate" data-aos="fade-up" data-aos-easing="delay-slide" data-aos-duration="1300" data-aos-delay="600" data-aos-offset="-100">
             <div class="img-wrap">
               <img src="https://payrequest.io/assets/img/screens/payment-link.png" alt="Share your payment link and get paid">
               <span class="bubble-number">3</span>
             </div>
-            <h4>3. Recieve Creditcard payments!</h4>
+            <h4>3. Recieve Credit Card payments!</h4>
           </div>
         </div>
                 
@@ -657,8 +657,8 @@ rounded {
         <div class="row">
           <div class="col-lg-7 col-md-12">
             <div class="section-description">
-              <h3 class="display-3">Accept Creditcard payments</h3>
-              <p class="lead mb-4">Just signup for an PayRequest account an connect a supported Creditcard payment Gateway.</p>
+              <h3 class="display-3">Accept Credit Card payments</h3>
+              <p class="lead mb-4">Just signup for an PayRequest account an connect a supported Credit Card payment Gateway.</p>
               <a href="http://dashboard.payrequest.io/dashboard" target="_blank" class="btn btn-neutral btn-icon">
                 <span class="btn-inner--icon">
                   <i class="fa fa-sign-in mr-2" aria-hidden="true"></i>
