@@ -371,7 +371,7 @@ border-radius: 0px !important;
 <div class="card-body">
 <div class="row">
 <div class="col-md-12 text-center">
-<img src="../assets/img/payment-icons/amex@2x.png" alt="American Express payment method"class="payment-icon-style">
+<img src="../assets/img/payment-icons/amex@2x.png" alt="American Express payment method" class="payment-icon-style">
 <h5 class="text-uppercase">American Express</h5>
 <hr class="bg-info">
 </div>
@@ -383,7 +383,7 @@ border-radius: 0px !important;
 <div class="card-body">
 <div class="row">
 <div class="col-md-12 text-center">
-<img src="../assets/img/payment-icons/applepay@2x.png" alt="Apple Pay payment method"class="payment-icon-style">
+<img src="../assets/img/payment-icons/applepay@2x.png" alt="Apple Pay payment method" class="payment-icon-style">
 <h5 class="text-uppercase">Apple Pay</h5>
 <hr class="bg-info">
 </div>
