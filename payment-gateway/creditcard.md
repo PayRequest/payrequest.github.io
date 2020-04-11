@@ -20,7 +20,7 @@
 				<div class="row align-items-center justify-content-center">
 <div class="col-lg-7 text-center">
 <div class="icon icon-shape bg-gradient-white shadow rounded-circle mb-3">
-  <i class="fab fa-creditcard text-info" aria-hidden="true"></i></div>
+  <i class="fal fa-credit-card text-info" aria-hidden="true"></i></div>
             <h1 class="text-white">Creditcard Payment Gateway
 </h1>
             <p class="lead text-white">PayRequest supports different payment Gateway for Creditcard.</p>
@@ -197,8 +197,8 @@ border-radius: 0px !important;
 <div class="card-body">
 <div class="row">
 <div class="col-md-12 text-center">
-<img src="../assets/img/payment-icons/Creditcard@2x.png" alt="Creditcard payment method" class="payment-icon-style">
-<h5 class="text-uppercase">Creditcard</h5>
+<img src="../assets/img/payment-icons/ideal@2x.png" alt="iDeal payment method" class="payment-icon-style">
+<h5 class="text-uppercase">iDeal</h5>
 
 <hr class="bg-info">
 </div>
@@ -512,7 +512,7 @@ border-radius: 0px !important;
 <div class="col-md-12">
  <div class="pl-md-5">
  <div class="icon icon-lg icon-shape icon-shape-warning shadow rounded-circle mb-5" style="float: left;">
-<i class="fab fa-creditcard" aria-hidden="true"></i>
+<i class="fal fa-credit-card" aria-hidden="true"></i>
 
 </div>
 
