@@ -53,12 +53,12 @@
                 <span class="badge badge-info badge-pill mb-3">payment providers belgium</span>
 <h1 class="display-3">Payment Providers,
 <span class="text-primary">for Belgium.</span></h1>
-                <p class="lead pb-4">PayRequest makes it easy to create donation pages for charity, fundraising or non-profits. </p>
+ <p class="lead pb-4">PayRequest mission is to make paymeny requests worldwide possible, we have select the best payment providers in Belgium.
+</p>
                 
-              </div>
-              
-            </div>
-          </div>
+</div>
+</div>
+</div>
 
 
 
@@ -141,15 +141,8 @@
 
 
 
-
-
-
-
-
- 
-                    </div>
-                    <div class="col-lg-3 ml-lg-auto">
-                        
+</div>
+ <div class="col-lg-3 ml-lg-auto">                      
  </div>
                 </div>
             </div>
@@ -236,7 +229,6 @@ border-radius: 0px !important;
 <div class="col-md-12 text-center">
 <img src="../assets/img/payment-icons/visa@2x.png" class="payment-icon-style">
 <h5 class="text-uppercase">VISA</h5>
-<span>Worldwide</span>
 <hr class="bg-info">
 </div>
 </div></div>
@@ -250,7 +242,6 @@ border-radius: 0px !important;
 <div class="col-md-12 text-center">
 <img src="../assets/img/payment-icons/mastercard@2x.png" class="payment-icon-style">
 <h5 class="text-uppercase">MASTERCARD</h5>
-<span>Worldwide</span>
 <hr class="bg-info">
 </div>
 </div></div>
@@ -265,7 +256,6 @@ border-radius: 0px !important;
 <div class="col-md-12 text-center">
 <img src="../assets/img/payment-icons/visa@2x.png" class="payment-icon-style">
 <h5 class="text-uppercase">SOFORT Banking</h5>
-<span>Europe</span>
 <hr class="bg-info">
 </div>
 </div></div>
@@ -279,7 +269,6 @@ border-radius: 0px !important;
 <div class="col-md-12 text-center">
 <img src="../assets/img/payment-icons/Przelewy24@2x.png" class="payment-icon-style">
 <h5 class="text-uppercase">Przelewy24</h5>
-<span>Poland</span>
 <hr class="bg-info">
 </div>
 </div></div>
@@ -292,7 +281,6 @@ border-radius: 0px !important;
 <div class="col-md-12 text-center">
 <img src="../assets/img/payment-icons/maestro@2x.png" class="payment-icon-style">
 <h5 class="text-uppercase">Maestro</h5>
-<span>WorldWide</span>
 <hr class="bg-info">
 </div>
 </div></div></div></div>
@@ -305,7 +293,6 @@ border-radius: 0px !important;
 <div class="col-md-12 text-center">
 <img src="../assets/img/payment-icons/paysafecard@2x.png" class="payment-icon-style">
 <h5 class="text-uppercase">PaySafeCard</h5>
-<span>WorldWide</span>
 <hr class="bg-info">
 </div>
 </div></div></div></div>
@@ -318,7 +305,6 @@ border-radius: 0px !important;
 <div class="col-md-12 text-center">
 <img src="../assets/img/payment-icons/klarna@2x.png" class="payment-icon-style">
 <h5 class="text-uppercase">Klarna</h5>
-<span>Europe</span>
 <hr class="bg-info">
 </div>
 </div></div></div></div>
@@ -331,7 +317,6 @@ border-radius: 0px !important;
 <div class="col-md-12 text-center">
 <img src="../assets/img/payment-icons/inghomepay@2x.png" class="payment-icon-style">
 <h5 class="text-uppercase">ING Home’Pay</h5>
-<span>Belgium</span>
 <hr class="bg-info">
 </div>
 </div></div></div></div>
@@ -343,7 +328,6 @@ border-radius: 0px !important;
 <div class="col-md-12 text-center">
 <img src="../assets/img/payment-icons/giropay@2x.png" class="payment-icon-style">
 <h5 class="text-uppercase">Giropay</h5>
-<span>Germany</span>
 <hr class="bg-info">
 </div>
 </div></div></div></div>
@@ -355,7 +339,6 @@ border-radius: 0px !important;
 <div class="col-md-12 text-center">
 <img src="../assets/img/payment-icons/eps@2x.png" class="payment-icon-style">
 <h5 class="text-uppercase">EPS</h5>
-<span>Austria</span>
 <hr class="bg-info">
 </div>
 </div></div></div></div>
@@ -367,7 +350,6 @@ border-radius: 0px !important;
 <div class="col-md-12 text-center">
 <img src="../assets/img/payment-icons/directdebit@2x.png" class="payment-icon-style">
 <h5 class="text-uppercase">Direct Debit</h5>
-<span>Worldwide</span>
 <hr class="bg-info">
 </div>
 </div></div></div></div>
@@ -379,7 +361,6 @@ border-radius: 0px !important;
 <div class="col-md-12 text-center">
 <img src="../assets/img/payment-icons/cartebancaire@2x.png" class="payment-icon-style">
 <h5 class="text-uppercase">Cartes Bancaires</h5>
-<span>France</span>
 <hr class="bg-info">
 </div>
 </div></div></div></div>
@@ -392,7 +373,6 @@ border-radius: 0px !important;
 <div class="col-md-12 text-center">
 <img src="../assets/img/payment-icons/amex@2x.png" class="payment-icon-style">
 <h5 class="text-uppercase">American Express</h5>
-<span>Worldwide</span>
 <hr class="bg-info">
 </div>
 </div></div></div></div>
@@ -405,7 +385,6 @@ border-radius: 0px !important;
 <div class="col-md-12 text-center">
 <img src="../assets/img/payment-icons/applepay@2x.png" class="payment-icon-style">
 <h5 class="text-uppercase">Apple Pay</h5>
-<span>Worldwide</span>
 <hr class="bg-info">
 </div>
 </div></div></div></div>
@@ -418,7 +397,6 @@ border-radius: 0px !important;
 <div class="col-md-12 text-center">
 <img src="../assets/img/payment-icons/belfius@2x.png" class="payment-icon-style">
 <h5 class="text-uppercase">Belfius Pay Button</h5>
-<span>Belgium</span>
 <hr class="bg-info">
 </div>
 </div></div></div></div>
@@ -431,7 +409,6 @@ border-radius: 0px !important;
 <div class="col-md-12 text-center">
 <img src="../assets/img/payment-icons/kbc@2x.png" class="payment-icon-style">
 <h5 class="text-uppercase">KBC Payment Button</h5>
-<span>Belgium</span>
 <hr class="bg-info">
 </div>
 </div></div></div></div>
@@ -443,7 +420,6 @@ border-radius: 0px !important;
 <div class="col-md-12 text-center">
 <img src="../assets/img/payment-icons/postepay-logo.png" class="payment-icon-style">
 <h5 class="text-uppercase">Postepay</h5>
-<span>Italy</span>
 <hr class="bg-info">
 </div>
 </div></div></div></div>
@@ -455,7 +431,6 @@ border-radius: 0px !important;
 <div class="col-md-12 text-center">
 <img src="../assets/img/payment-icons/giropay@2x.png" class="payment-icon-style">
 <h5 class="text-uppercase">Giropay</h5>
-<span>Germany</span>
 <hr class="bg-info">
 </div>
 </div></div></div></div>
@@ -485,7 +460,6 @@ border-radius: 0px !important;
     </g>
 </svg>
 <h5 class="text-uppercase">WeChat Pay</h5>
-<span>Asia</span>
 <hr class="bg-info">
 </div>
 </div></div></div></div>
@@ -515,7 +489,6 @@ border-radius: 0px !important;
     </g>
 </svg>
 <h5 class="text-uppercase">AliPay</h5>
-<span>Asia</span>
 <hr class="bg-info">
 </div>
 </div></div></div></div>
