@@ -45,7 +45,7 @@
 
 
 <div class="col-lg-3 col-12 pl-0">
-                <img alt="iDeal payment gateway" class="ml-lg-5" src="https://payrequest.io/assets/img/country-flag-rounded/iDeal.svg" width="40%">
+                <img alt="iDeal payment gateway" class="ml-lg-5" src="https://payrequest.io/assets/img/payment-icons/ideal@2x.png" width="40%">
               </div>
 
 
