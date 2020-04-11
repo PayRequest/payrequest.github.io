@@ -169,7 +169,7 @@ border-radius: 0px !important;
         <div class="row">
           <div class="col-md-12 ml-auto mr-auto text-center" style="margin-top: 40px;">
             <h3 class="display-3">Supported payment methods for Belgium</h3>
-            <h4 class="description">Thanks to all our payment provider integrations we can offer different belgium payment methods.</h4>
+            <h4 class="description">Thanks to all our payment Gateway integrations we can offer different belgium payment methods.</h4>
           </div>
         </div>
         
@@ -600,7 +600,7 @@ rounded {
               <span class="bubble-number">1</span>
             </div>
             <h4>
-              1. Connect belgium payment provider.
+              1. Connect belgium payment Gateway.
             </h4>
           </div>
           <div class="col-sm-4 aos-init aos-animate" data-aos="fade-up" data-aos-easing="delay-slide" data-aos-duration="1300" data-aos-delay="500" data-aos-offset="-100">
@@ -660,7 +660,7 @@ rounded {
           <div class="col-lg-7 col-md-12">
             <div class="section-description">
               <h3 class="display-3">Accept payments in Belgium</h3>
-              <p class="lead mb-4">Just signup for an PayRequest account an connect a supported belgium payment provider.</p>
+              <p class="lead mb-4">Just signup for an PayRequest account an connect a supported belgium payment Gateway.</p>
               <a href="http://dashboard.payrequest.io/dashboard" target="_blank" class="btn btn-neutral btn-icon">
                 <span class="btn-inner--icon">
                   <i class="fa fa-sign-in mr-2" aria-hidden="true"></i>
