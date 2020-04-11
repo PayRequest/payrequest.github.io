@@ -21,9 +21,9 @@
 <div class="col-lg-7 text-center">
 <div class="icon icon-shape bg-gradient-white shadow rounded-circle mb-3">
   <i class="flag flag-nl text-info" aria-hidden="true"></i></div>
-            <h1 class="text-white">Netherlands Payment Gateway
+            <h1 class="text-white">iDeal Payment Gateway
 </h1>
-            <p class="lead text-white">PayRequest supports different payment Gateway for Netherlands.</p>
+            <p class="lead text-white">PayRequest supports different payment Gateway for iDeal.</p>
           
 
  </div>
@@ -45,15 +45,15 @@
 
 
 <div class="col-lg-3 col-12 pl-0">
-                <img alt="Netherlands payment gateway" class="ml-lg-5" src="https://payrequest.io/assets/img/country-flag-rounded/netherlands.svg" width="40%">
+                <img alt="iDeal payment gateway" class="ml-lg-5" src="https://payrequest.io/assets/img/country-flag-rounded/iDeal.svg" width="40%">
               </div>
 
 
 <div class="col-lg-8 col-12">
-                <span class="badge badge-info badge-pill mb-3">payment Gateway Netherlands</span>
+                <span class="badge badge-info badge-pill mb-3">payment Gateway iDeal</span>
 <h1 class="display-3">Payment Gateway,
-<span class="text-primary">for Netherlands.</span></h1>
- <p class="lead pb-4">PayRequest mission is to make paymeny requests worldwide possible, we have select the best payment Gateway in Netherlands.
+<span class="text-primary">for iDeal.</span></h1>
+ <p class="lead pb-4">PayRequest mission is to make paymeny requests worldwide possible, we have select the best payment Gateway for iDeal.
 </p>
                 
 </div>
@@ -69,7 +69,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-12 text-center">
                         <div class="pl-md-5">  
-                    <h3>Payment Gateway available in Netherlands:</h3>
+                    <h3>Payment Gateway available for iDeal:</h3>
                 </div>
 
 
@@ -167,8 +167,8 @@ border-radius: 0px !important;
       <div class="container">
         <div class="row">
           <div class="col-md-12 ml-auto mr-auto text-center" style="margin-top: 40px;">
-            <h3 class="display-3">Supported payment methods for Netherlands</h3>
-            <h4 class="description">Thanks to all our payment Gateway integrations we can offer different Netherlands payment methods.</h4>
+            <h3 class="display-3">Alternative payment methods instead iDeal</h3>
+            <h4 class="description">Thanks to all our payment Gateway integrations we can offer different payment methods then iDeal.</h4>
           </div>
         </div>
         
@@ -517,7 +517,7 @@ border-radius: 0px !important;
 </div>
 
 <h3 style="/* float: right; */margin-left: 90px;
-">Accept Netherlands Payments in 3 simple steps.</h3>
+">Accept iDeal Payments in 3 simple steps.</h3>
                     
                     
 <br> 
@@ -599,7 +599,7 @@ rounded {
               <span class="bubble-number">1</span>
             </div>
             <h4>
-              1. Connect Netherlands payment Gateway.
+              1. Connect iDeal payment Gateway.
             </h4>
           </div>
           <div class="col-sm-4 aos-init aos-animate" data-aos="fade-up" data-aos-easing="delay-slide" data-aos-duration="1300" data-aos-delay="500" data-aos-offset="-100">
@@ -607,14 +607,14 @@ rounded {
                     <img src="https://payrequest.io/assets/img/screens/new-request.png" alt="create your own payment link">
               <span class="bubble-number">2</span>
             </div>
-            <h4>2. Create a payment request.</h4>
+            <h4>2. Create a iDeal payment link.</h4>
           </div>
           <div class="col-sm-4 aos-init aos-animate" data-aos="fade-up" data-aos-easing="delay-slide" data-aos-duration="1300" data-aos-delay="600" data-aos-offset="-100">
             <div class="img-wrap">
               <img src="https://payrequest.io/assets/img/screens/payment-link.png" alt="Share your payment link and get paid">
               <span class="bubble-number">3</span>
             </div>
-            <h4>3. Start and recieve payments!</h4>
+            <h4>3. Recieve iDeal payments!</h4>
           </div>
         </div>
                 
@@ -658,8 +658,8 @@ rounded {
         <div class="row">
           <div class="col-lg-7 col-md-12">
             <div class="section-description">
-              <h3 class="display-3">Accept payments in Netherlands</h3>
-              <p class="lead mb-4">Just signup for an PayRequest account an connect a supported Netherlands payment Gateway.</p>
+              <h3 class="display-3">Accept iDeal payments</h3>
+              <p class="lead mb-4">Just signup for an PayRequest account an connect a supported iDeal payment Gateway.</p>
               <a href="http://dashboard.payrequest.io/dashboard" target="_blank" class="btn btn-neutral btn-icon">
                 <span class="btn-inner--icon">
                   <i class="fa fa-sign-in mr-2" aria-hidden="true"></i>
