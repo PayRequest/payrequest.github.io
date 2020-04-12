@@ -22,7 +22,7 @@
   <i class="fal fa-money-bill text-info" aria-hidden="true"></i></div>
             <h1 class="text-white">PayPal.me Alternative
 </h1>
-            <p class="lead text-white">PayRequest is a great alternative for PayPal.me.</p>
+            <p class="lead text-white">PayRequest is a great alternative for PayPal.me</p>
           
 
  </div>
