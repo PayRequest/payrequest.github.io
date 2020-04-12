@@ -20,7 +20,7 @@
 				<div class="row align-items-center justify-content-center">
 <div class="col-lg-7 text-center">
 <div class="icon icon-shape bg-gradient-white shadow rounded-circle mb-3">
-  <i class="fab fa-money-bill text-info" aria-hidden="true"></i></div>
+  <i class="fal fa-money-bill text-info" aria-hidden="true"></i></div>
             <h1 class="text-white">Bunq.me Alternative
 </h1>
             <p class="lead text-white">PayRequest is a great alternative for Bunq.me.</p>
@@ -45,7 +45,7 @@
 
 
 <div class="col-lg-3 col-12 pl-0">
-                <img alt="Mollie Payment Links" class="ml-lg-5" src="https://payrequest.io/assets/img/providers/mollie-logo.png" width="40%">
+                <img alt="Bunqme alternative" class="ml-lg-5" src="https://payrequest.io/assets/img/providers/bunq-logo.png" width="40%">
               </div>
 
 
@@ -517,7 +517,7 @@ border-radius: 0px !important;
 <div class="col-md-12">
  <div class="pl-md-5">
  <div class="icon icon-lg icon-shape icon-shape-warning shadow rounded-circle mb-5" style="float: left;">
-<i class="fal fa-Mollie" aria-hidden="true"></i>
+<i class="fal fa-money-bill" aria-hidden="true"></i>
 
 </div>
 
