@@ -55,12 +55,12 @@ description: Create your own payrequest.me payment page and share it with everyo
 <br> <br>
 <a href="https://dashboard.payrequest.io" class="btn btn-lg btn-github btn-icon mb-3 mb-sm-0">
                                 <span class="btn-inner--icon"><i class="fal fa-hand-holding-heart" aria-hidden="true"></i></span>
-                                <span class="btn-inner--text">Create your doantion page</span>
+                                <span class="btn-inner--text">Create your payrequest.me page</span>
                             </a>
 
-                </p>
+  </p>
                 
-              </div>
+   </div>
               <div class="col-lg-6 col-12 pl-0">
                 <img class="ml-lg-5" src="https://payrequest.io/assets/img/illustrations/payment-page-illustration.png" width="100%">
               </div>
@@ -73,21 +73,20 @@ description: Create your own payrequest.me payment page and share it with everyo
     <div class="container">
         <div class="row row-grid align-items-center">
             
-            <div class="col-md-12">
+ <div class="col-md-12">
                 <div class="pl-md-5">
                     <div class="icon icon-lg icon-shape icon-shape-warning shadow rounded-circle mb-5" style="
     float: left;
 ">
                         <i class="fa fa-money-bill" aria-hidden="true"></i>
 
-                    </div>
+   </div>
 
 <h3 style="
     /* float: right; */
     margin-left: 90px;
-">Start create your Donation Page in 3 simple steps.</h3>
-                    
-                    
+">Start create your Payment Page in 3 simple steps.</h3>
+                  
 <br> 
                     
 <style>
@@ -175,14 +174,14 @@ rounded {
                     <img src="https://payrequest.io/assets/img/screens/new-request.png" alt="create your own payment link">
               <span class="bubble-number">2</span>
             </div>
-            <h4>2. Create your donation page.</h4>
+            <h4>2. Create your payment page.</h4>
           </div>
           <div class="col-sm-4 aos-init aos-animate" data-aos="fade-up" data-aos-easing="delay-slide" data-aos-duration="1300" data-aos-delay="600" data-aos-offset="-100">
             <div class="img-wrap">
               <img src="https://payrequest.io/assets/img/screens/payment-link.png" alt="Share your payment link and get paid">
               <span class="bubble-number">3</span>
             </div>
-            <h4>3. Share and recieve donations!</h4>
+            <h4>3. Share your payrequest.me page!</h4>
           </div>
         </div>
                 
@@ -303,3 +302,34 @@ rounded {
         </div>
       </div>
     </section>
+
+
+
+
+
+<section class="section-free-demo bg-secondary" style="
+    padding: 40px 0;
+">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-7 col-md-12">
+            <div class="section-description">
+              <h3 class="display-3">Claim your payrequest.me/name </h3>
+              <p class="lead mb-4">Get your own payment page and share it with your clients, or place our payment button on your website with your payrequest.me link.</p>
+              <a href="http://dashboard.payrequest.io/dashboard" target="_blank" class="btn btn-neutral btn-icon">
+                <span class="btn-inner--icon">
+                  <i class="fa fa-sign-in mr-2" aria-hidden="true"></i>
+                </span>
+              <span class="nav-link-inner--text"> Create your payrequest.me page</span>
+            </a>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-12">
+<div class="github-background-container" style="position: absolute;right: -120px;top: 15px;">
+ <i class="fa fa-browser" aria-hidden="true" style="font-size: 200px;opacity: .1;"></i>
+            </div>
+          </div>
+        </div>
+        
+      </div>
+    </section>    
