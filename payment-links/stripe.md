@@ -20,7 +20,7 @@
 				<div class="row align-items-center justify-content-center">
 <div class="col-lg-7 text-center">
 <div class="icon icon-shape bg-gradient-white shadow rounded-circle mb-3">
-  <i class="fal fa-Stripe text-info" aria-hidden="true"></i></div>
+  <i class="fab fa-stripe text-info" aria-hidden="true"></i></div>
             <h1 class="text-white">Stripe Payment Links
 </h1>
             <p class="lead text-white">PayRequest supports different Payment Links for Stripe.</p>
@@ -45,7 +45,7 @@
 
 
 <div class="col-lg-3 col-12 pl-0">
-                <img alt="Stripe Payment Links" class="ml-lg-5" src="https://payrequest.io/assets/img/payment-icons/Stripe@2x.png" width="40%">
+                <img alt="Stripe Payment Links" class="ml-lg-5" src="https://payrequest.io/assets/img/providers/stripe-logo.png" width="40%">
               </div>
 
 
