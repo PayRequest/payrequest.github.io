@@ -24,12 +24,9 @@ description: Create your own payrequest.me payment page and share it with everyo
 <div class="icon icon-shape bg-gradient-white shadow rounded-circle mb-3"><i class="fa fa-hand-browser text-warning"></i></div>
 						<h1 class="text-white">Payment Pages
 </h1>
-						<p class="lead text-white">
-					Create your own payrequest.me payment page and share it with everyone.
-						</p>
+						<p class="lead text-white">Create your own payrequest.me payment page and share it with everyone.</p>
 					
-					
-					</div>
+</div>
 				</div>
 			</div>
 		</div>
@@ -46,12 +43,10 @@ description: Create your own payrequest.me payment page and share it with everyo
           <div class="container">
             <div class="row align-items-center text-left">
               <div class="col-lg-6 col-12">
-                <span class="badge badge-info badge-pill mb-3">0% fees for non-profits</span>
+                <span class="badge badge-info badge-pill mb-3">payrequest.me/yourname</span>
 <h1 class="display-3">Payment Pages,
 <span class="text-primary">Get your own payrequest.me/yourname</span></h1>
                 <p class="lead pb-4">PayRequest makes it easy to create donation pages for charity, fundraising or non-profits. <br>Share your donation page worldwide and use your own logo, background and branding name.
-
-
 <br> <br>
 <a href="https://dashboard.payrequest.io" class="btn btn-lg btn-github btn-icon mb-3 mb-sm-0">
                                 <span class="btn-inner--icon"><i class="fal fa-hand-holding-heart" aria-hidden="true"></i></span>
@@ -192,94 +187,7 @@ rounded {
 </section>
 
 
-<section class="section section-lg">
-	<div class="container">
-		<h3 style="margin-left: 200px;">
-<div class="icon icon-md icon-shape icon-shape-info shadow" style="">
-<i class="fa fa-thumbs-up" aria-hidden="true"></i>
-</div>  COVID-19 initiatives using donation pages</h3>
-<br />
-<div class="row">
-
-			<div class="col-lg-4 col-md-6">
-				<div class="card">
-					<div class="card-header mt-2">
-						<div class="float-left">
-							<i class="fa fa-home-heart" aria-hidden="true"></i>
-							<p class="d-inline">  COVID-19 initiative</p>
-						</div>
-					</div>
-					<div class="card-body text-center p-4">
-						<a href="https://www.mollie.com/" target="_blank">
-							<img src="https://razorpay.com/assets/marketplace/clients/pharmeasy.jpg" alt="Circle image" class="img-fluid rounded-circle shadow" style="width: 100px;">
-						</a>
-						<h4 class="card-title mt-3 mb-0">PharmEasy</h4>
-						<p class="card-description">Let us join hands and ensure their safety! Come, gift them an N95 mask or as many as you like and PharmEasy shall pledge one for every N95 mask you gift! Their role during the crisis is pivotal and cannot be repaid for. 
-
-</p>
-						<a href="/integrations/mollie" class="btn btn-md btn-github btn-icon mb-3 mb-sm-0">
-							<span class="btn-inner--icon"><i class="fal fa-donate" aria-hidden="true"></i></span>
-							<span class="btn-inner--text">Donate now</span>
-						</a>
-
-					</div>
-				</div>
-			</div>
-			<div class="col-lg-4 col-md-6">
-				<div class="card">
-					<div class="card-header mt-2">
-						<div class="float-left">
-							<i class="fa fa-home-heart" aria-hidden="true"></i>
-							<p class="d-inline">  COVID-19 initiative</p>
-						</div>
-					</div>
-					<div class="card-body text-center p-4">
-						<a href="https://www.mollie.com/" target="_blank">
-							<img src="https://razorpay.com/assets/marketplace/clients/pharmeasy.jpg" alt="Circle image" class="img-fluid rounded-circle shadow" style="width: 100px;">
-						</a>
-						<h4 class="card-title mt-3 mb-0">PharmEasy</h4>
-						<p class="card-description">Let us join hands and ensure their safety! Come, gift them an N95 mask or as many as you like and PharmEasy shall pledge one for every N95 mask you gift! Their role during the crisis is pivotal and cannot be repaid for. 
-
-</p>
-						<a href="/integrations/mollie" class="btn btn-md btn-github btn-icon mb-3 mb-sm-0">
-							<span class="btn-inner--icon"><i class="fal fa-donate" aria-hidden="true"></i></span>
-							<span class="btn-inner--text">Donate now</span>
-						</a>
-
-					</div>
-				</div>
-			</div>
-
-			<div class="col-lg-4 col-md-6">
-				<div class="card">
-					<div class="card-header mt-2">
-						<div class="float-left">
-							<i class="fa fa-home-heart" aria-hidden="true"></i>
-							<p class="d-inline">  COVID-19 initiative</p>
-						</div>
-					</div>
-					<div class="card-body text-center p-4">
-						<a href="https://www.mollie.com/" target="_blank">
-							<img src="https://razorpay.com/assets/marketplace/clients/pharmeasy.jpg" alt="Circle image" class="img-fluid rounded-circle shadow" style="width: 100px;">
-						</a>
-						<h4 class="card-title mt-3 mb-0">PharmEasy</h4>
-						<p class="card-description">Let us join hands and ensure their safety! Come, gift them an N95 mask or as many as you like and PharmEasy shall pledge one for every N95 mask you gift! Their role during the crisis is pivotal and cannot be repaid for. 
-
-</p>
-						<a href="/integrations/mollie" class="btn btn-md btn-github btn-icon mb-3 mb-sm-0">
-							<span class="btn-inner--icon"><i class="fal fa-donate" aria-hidden="true"></i></span>
-							<span class="btn-inner--text">Donate now</span>
-						</a>
-
-					</div>
-				</div>
-			</div>
-		
-		
-		</div>
-	
-	</div>
-</section>
+{% include features-block.html %}
 
 
 <section class="section-content" style="padding: 80px 0;">
