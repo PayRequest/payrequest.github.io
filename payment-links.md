@@ -220,27 +220,7 @@ rounded {
 
 
 
-<div class="section">
-      <div class="container py-md">
-        <div class="row justify-content-between align-items-center">
-         
-          <div class="col-lg-6 mb-6 mb-lg-0">
-            <h1 class="font-weight-light">Reusable Payment Links
-</h1>
-            <p class="lead mt-4">Want to let customers pay more then once? no problem! with Reusable payment links you can accept many payments with just one link.</p>
-            <a href="https://demos.creative-tim.com/argon-design-system-pro/docs/1.0/components/carousel.html" class="btn btn-white mt-4">Start sending reusable payment links</a>
-          </div>
-
-           <div class="col-lg-6 mb-lg-auto">
-            <div class="image-container">
-              
-              <img class="img shadow rounded mt-5 w-100" alt="Payrequest Request overview" src="https://i.imgur.com/3ljILKs.png">
-            </div>
-          </div>
-          
-        </div>
-      </div>
-    </div>
+{% include features-block.html %}
 
 
 
@@ -335,8 +315,8 @@ If you have any questions about supporting countries just contact our support te
                 </div>
               </div>
             
-            </div>
-          </div>
+  </div>
+   </div>
         </div>
       </div>
     </div>
@@ -345,21 +325,21 @@ If you have any questions about supporting countries just contact our support te
       <div class="container">
         <div class="row justify-content-between align-items-center">
          
-          <div class="col-lg-6 mb-6 mb-lg-0">
+  <div class="col-lg-6 mb-6 mb-lg-0">
             <h1 class="font-weight-light">Reusable Payment Links
 </h1>
             <p class="lead mt-4">Want to let customers pay more then once? no problem! with Reusable payment links you can accept many payments with just one link.</p>
             <a href="https://demos.creative-tim.com/argon-design-system-pro/docs/1.0/components/carousel.html" class="btn btn-white mt-4">Start sending reusable payment links</a>
           </div>
 
-           <div class="col-lg-6 mb-lg-auto">
+<div class="col-lg-6 mb-lg-auto">
             <div class="image-container">
               
-              <img class="img shadow rounded mt-5 w-100" alt="Payrequest Request overview" src="https://i.imgur.com/3ljILKs.png">
+   <img class="img shadow rounded mt-5 w-100" alt="Payrequest Request overview" src="https://i.imgur.com/3ljILKs.png">
             </div>
           </div>
           
-        </div>
+  </div>
       </div>
     </div>
 
