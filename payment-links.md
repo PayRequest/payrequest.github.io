@@ -197,7 +197,7 @@ rounded {
 </section>
 
 
-{% include customers.html %}
+
 
 
 <section class="section-content" style="padding: 80px 0;">
