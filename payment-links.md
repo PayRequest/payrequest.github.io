@@ -347,3 +347,38 @@ If you have any questions about supporting countries just contact our support te
       </div>
     </div>
 
+
+
+<section class="section-free-demo bg-secondary" style="
+    padding: 40px 0;
+">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-7 col-md-12">
+            <div class="section-description">
+              <h3 class="display-3"> Start sending payment links</h3>
+              <p class="lead mb-4">Create a payment link for your customer or use reusaable links to let all your customers pay.</p>
+              <a href="http://dashboard.payrequest.io/dashboard" target="_blank" class="btn btn-neutral btn-icon">
+                <span class="btn-inner--icon">
+                  <i class="fa fa-sign-in mr-2" aria-hidden="true"></i>
+                </span>
+              <span class="nav-link-inner--text"> Create your payment link </span>
+            </a>
+            </div>
+          </div>
+          <div class="col-lg-4 col-md-12">
+            <div class="github-background-container" style="
+    position: absolute;
+    right: -120px;
+    top: 15px;
+">
+              <i class="fal fa-link" aria-hidden="true" style="
+    font-size: 200px;
+    opacity: .1;
+"></i>
+            </div>
+          </div>
+        </div>
+        
+      </div>
+    </section>
