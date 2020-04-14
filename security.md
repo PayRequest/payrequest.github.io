@@ -57,7 +57,7 @@ description: We at PayRequests takes security seriously
                 <span class="badge badge-info badge-pill mb-3">Security</span>
 <h1 class="display-3">We make Payment Requests,
 <span class="text-primary">more secure.</span></h1>
- <p class="lead pb-4">PayRequest mission is to make paymeny requests worldwide possible, we make it easy to create Payment Links for Stripe.
+ <p class="lead pb-4">Our platform is build with the best technologies and best infrastructure to keep it safe and secure.
 </p>
                 
 </div>
