@@ -42,31 +42,28 @@ description: We at PayRequests takes security seriously
 
 
 <div class="section features-4">
-	<div class="container">
-		<div class="row">
-			<div class="col-md-8 text-center mx-auto">
-				<h3 class="display-3">We make payments more secure</h3>
-				<p class="lead">
-					Our platform is build with the safest technologies and best infrastructure to keep it safe and secure. </p>
-			</div>
-		</div>
-		<div>
-			<div class="col-lg-12 mr-auto text-left mt-4">
-				<div class="card bg-default shadow border-0">
-			
-<div style="background-size: cover;background-position: bottom;background-image:url('https://s3.amazonaws.com/assets.forward.com/images/cropped/sunrise-1756274-1920-1483565724.jpg');height: 350px;" class="card-img-top"></div>
-					<blockquote class="card-blockquote">
-						<svg preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 583 95" class="svg-bg">
-							<polygon points="0,52 583,95 0,95" class="fill-default"></polygon>
-							<polygon points="0,42 583,95 683,0 0,95" opacity=".2" class="fill-default"></polygon>
-						</svg>
-						<h4 class="display-4 text-white text-upper">Security by design</h4>
-						<p class="lead text-italic text-white">Our software has been designed from the foundation to be secure. </p>
-					</blockquote>
-				</div>
-			</div>
-		</div>
-	</div>
+
+<div class="container">
+            <div class="row align-items-center text-left">
+              <div class="col-lg-1 col-12 pl-0"> </div>
+
+
+<div class="col-lg-3 col-12 pl-0">
+                <img alt="Stripe Payment Links" class="ml-lg-5" src="https://payrequest.io/assets/logos/payrequest-logo-color.png" width="40%">
+              </div>
+
+
+<div class="col-lg-8 col-12">
+                <span class="badge badge-info badge-pill mb-3">Security</span>
+<h1 class="display-3">We make Payment Requests,
+<span class="text-primary">more secure.</span></h1>
+ <p class="lead pb-4">PayRequest mission is to make paymeny requests worldwide possible, we make it easy to create Payment Links for Stripe.
+</p>
+                
+</div>
+</div>
+</div>
+
 </div>
 
 
