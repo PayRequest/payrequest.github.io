@@ -32,5 +32,32 @@
 		</div>
 </section>
 
+<div class="section features-4">
+
+<div class="container">
+            <div class="row align-items-center text-left">
+              <div class="col-lg-1 col-12 pl-0"> </div>
+
+
+<div class="col-lg-3 col-12 pl-0">
+                <img alt="Stripe Payment Links" class="ml-lg-5" src="https://payrequest.io/assets/logos/payrequest-logo-color.png" width="40%">
+              </div>
+
+
+<div class="col-lg-8 col-12">
+                <span class="badge badge-info badge-pill mb-3">Worldwide payments</span>
+<h1 class="display-3">Accept payments worldwide,
+<span class="text-primary">with PayRequest.</span></h1>
+ <p class="lead pb-4">Launch your online business worldwide, without to worry if you can offer the payment method your client asking.
+
+
+</p>
+                
+</div>
+</div>
+</div>
+
+</div>
+
 
 {% include payment-methods-block.html %}
