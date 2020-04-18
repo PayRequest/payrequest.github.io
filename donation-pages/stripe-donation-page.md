@@ -26,7 +26,7 @@ description: Create your own stripe donation page and accept donations.
 						<h1 class="text-white">Stripe Donation Page
 </h1>
 						<p class="lead text-white">
-						Create your own stripe <a class="text-white" href="donation-pages">donation page </a> and accept donations.
+						Create your own stripe <a class="text-white" href="donation-pages">donation page </a> and accept donations, our donation platform is perfect for international fundraising events.
 						</p>
 					
 </div>
@@ -56,14 +56,19 @@ description: Create your own stripe donation page and accept donations.
                                 <span class="btn-inner--icon"><i class="fal fa-hand-holding-heart" aria-hidden="true"></i></span>
                                 <span class="btn-inner--text">Create your doantion page</span>
                             </a>
+  </p>
+</div>
+<div class="col-lg-6 col-12 pl-0">
 
-                </p>
-                
-              </div>
-              <div class="col-lg-6 col-12 pl-0">
-                <img class="ml-lg-5" src="https://i.imgur.com/MDhh3Rz.png" width="100%">
-              </div>
-            </div>
+<img class="ml-lg-5 img-round" src="https://payrequest.io/assets/img/screens/donation-pages.png" width="100%" style="
+    border-radius: 10px;
+    box-shadow: 0 2px 3px 0 rgba(0, 0, 0, .1);
+    width: 500px;
+">
+
+
+ </div>
+ </div>
           </div>
 </section>
 
@@ -358,5 +363,44 @@ rounded {
           </div>
         </div>
         
-      </div>
+  </div>
     </section>
+
+
+
+
+
+<section class="section-free-demo bg-secondary">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-7 col-md-12">
+            <div class="section-description">
+              <h3 class="display-3">Accept donations with Stripe</h3>
+              <p class="lead mb-4">Stripe is the largest payment service provider in the world, they offer many local payment methods and a simple checkout which we have built in seamlessly into our donor page platform for the best experience to start your own donation page.
+
+</p>
+              
+   </div>
+          </div>
+
+
+<stylw>
+.stripe-background-container {
+    position: absolute;
+    top: -80px;
+}
+.stripe-background-container i {
+    font-size: 410px;
+    opacity: .1;
+}
+</stylw>
+  <div class="col-lg-5 col-md-12">
+            <div class="stripe-background-container">
+              <i class="fab fa-stripe"></i>
+            </div>
+          </div>
+        </div>
+        
+  </div>
+    </section>
+
