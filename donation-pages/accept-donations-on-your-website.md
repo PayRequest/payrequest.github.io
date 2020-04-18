@@ -44,9 +44,9 @@
           <div class="container">
             <div class="row align-items-center text-left">
               <div class="col-lg-6 col-12">
-                <span class="badge badge-info badge-pill mb-3">Share your donation button</span>
-<h1 class="display-3">Free Donation Button,<span class="text-primary"> Share your donation page</span></h1>
-                <p class="lead pb-4">Donation buttons allow you to redirect your visitors to your payment page.
+                <span class="badge badge-info badge-pill mb-3">Donation button</span>
+<h1 class="display-3">Free Donation Button,<span class="text-primary"> nn your website</span></h1>
+                <p class="lead pb-4">Please a donation button on your site and redirect them to your donation page.
 
 <br> <br>
 <link href="https://payrequest.io/assets/button.css" target="_blank" rel="stylesheet">
@@ -59,7 +59,7 @@
                 
  </div>
               <div class="col-lg-6 col-12 pl-0">
-                <img class="ml-lg-5" src="https://i.imgur.com/b2hX0jx.png" width="100%">
+ <img class="ml-lg-5" alt="payment button" src="https://payrequest.io/assets/img/illustrations/payment-button-illustration.png" width="100%">
               </div>
             </div>
           </div>
