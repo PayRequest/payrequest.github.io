@@ -132,15 +132,15 @@ description: Create your own stripe donation page and accept donations.
 </style>
 
 <style>
-.three-steps .section-content .image-container {
+.section-content .image-container {
     height: 400px;
 }
-.three-steps .section-content .image-container .img-comments {
+.section-content .image-container .img-comments {
     z-index: 3;
     left: -100px;
     top: -40px;
 }
-.three-steps .section-content .image-container img {
+ .section-content .image-container img {
     position: absolute;
     width: 100%;
     max-width: 380px;
@@ -148,12 +148,12 @@ description: Create your own stripe donation page and accept donations.
 [class*=shadow] {
     transition: all .15s ease;
 }
-.three-steps .section-content .image-container .img-blog {
+.section-content .image-container .img-blog {
     z-index: 4;
     left: 100px;
     top: 20px;
 }
-.three-steps .profile-page .card-profile .card-profile-image img, .shadow {
+.profile-page .card-profile .card-profile-image img, .shadow {
     box-shadow: 0 15px 35px rgba(50,50,93,.1),0 5px 15px rgba(0,0,0,.07)!important;
 }
 rounded {
