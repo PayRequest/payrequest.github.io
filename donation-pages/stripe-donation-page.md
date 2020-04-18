@@ -384,7 +384,7 @@ rounded {
           </div>
 
 
-<stylw>
+<style>
 .stripe-background-container {
     position: absolute;
     top: -80px;
@@ -393,7 +393,7 @@ rounded {
     font-size: 410px;
     opacity: .1;
 }
-</stylw>
+</style>
   <div class="col-lg-5 col-md-12">
             <div class="stripe-background-container">
               <i class="fab fa-stripe"></i>
