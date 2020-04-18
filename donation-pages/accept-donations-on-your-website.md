@@ -1,3 +1,8 @@
+---
+title: Accept donation on your website
+description: With our free donation button you can add donatios on your website
+---
+
 <div class="position-relative">
     <!-- Hero for FREE version -->
     <section class="section section-lg section-shaped">
@@ -23,7 +28,7 @@
                         
  <h1 class="text-white">Accept donations on your website
 </h1>
-                        <p class="lead text-white">With our free donation button you can add donation to your website
+                        <p class="lead text-white">With our free donation button you can add donations on your website
 </p>
                         
 
