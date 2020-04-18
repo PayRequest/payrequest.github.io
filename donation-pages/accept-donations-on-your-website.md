@@ -79,7 +79,7 @@
 <h3 style="
     /* float: right; */
     margin-left: 90px;
-">Add the below HTML code to your website (WIX,WordPress,..)
+">Add the below HTML code to your website like WIX or WordPress.
 </h3>
                     
                     
