@@ -26,7 +26,7 @@ description: Create your own stripe donation page and accept donations.
 						<h1 class="text-white">Stripe Donation Page
 </h1>
 						<p class="lead text-white">
-						Create your own stripe <a href="donation-pages">donation page </a> and accept donations.
+						Create your own stripe <a class="text-white" href="donation-pages">donation page </a> and accept donations.
 						</p>
 					
 </div>
