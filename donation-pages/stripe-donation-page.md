@@ -1,6 +1,6 @@
 ---
 title: Stripe Donation page
-description: With our free donation button you can add donatios on your website
+description: Create your own stripe donation page and accept donations.
 ---
 
 
@@ -23,54 +23,21 @@ description: With our free donation button you can add donatios on your website
 				<div class="row align-items-center justify-content-center">
 					<div class="col-lg-7 text-center">
 <div class="icon icon-shape bg-gradient-white shadow rounded-circle mb-3"><i class="fa fa-hand-holding-heart text-info"></i></div>
-						<h1 class="text-white">Donation Pages
+						<h1 class="text-white">Stripe Donation Page
 </h1>
 						<p class="lead text-white">
-						Create your own donation page and share it everywhere.
+						Create your own stripe <a href="donation-pages">donation page </a> and accept donations.
 						</p>
 					
-					
-					</div>
+</div>
 				</div>
 			</div>
 		</div>
 	
-	</section>
+</section>
 
 
-<div class="main main-raised">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-3 col-md-6">
-            
-          </div>
-          <div class="col-lg-6 col-md-6">
-            <div class="card card-blog bg-default">
-              
-              <div class="card-body">
-                <h4 class="display-4 text-white">
-    <i class="fa fa-leaf-heart" aria-hidden="true"></i>   
-    0% FEES FOR COVID-19
 
-</h4>
-                <p class="lead text-white mt-0">We support every COVID-19 intivative, for them we always drop the 2% fees.
-</p>
-                
-              </div>
-            </div>
-          </div>
-          <div class="col-lg-3 col-md-6">
-            
-          </div>
-        </div>
-      </div>
-      
-      
-      
-      
-      
-      
-    </div>
 
 
 
