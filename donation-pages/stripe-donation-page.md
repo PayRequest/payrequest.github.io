@@ -341,6 +341,40 @@ rounded {
     </section>
 
 
+
+<section class="section-free-demo bg-secondary" style="padding: 80px 0;">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-7 col-md-12">
+            <div class="section-description">
+              <h3 class="display-3">Accept donations with Stripe</h3>
+              <p class="lead mb-4">Stripe is the largest payment service provider in the world, they offer many local payment methods and a simple checkout which we have built in seamlessly into our donor page platform for the best experience to start your own donation page.
+
+</p>   
+   </div>
+          </div>
+
+<style>
+.stripe-background-container {
+    position: absolute;
+    top: -80px;
+}
+.stripe-background-container i {
+    font-size: 410px;
+    opacity: .1;
+}
+</style>
+  <div class="col-lg-5 col-md-12">
+            <div class="stripe-background-container">
+              <i class="fab fa-stripe"></i>
+            </div>
+          </div>
+        </div>
+        
+  </div>
+    </section>
+
+
 <section class="section-free-demo bg-secondary" style="padding: 40px 0;">
       <div class="container">
         <div class="row">
@@ -369,38 +403,4 @@ rounded {
 
 
 
-
-<section class="section-free-demo bg-secondary">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-7 col-md-12">
-            <div class="section-description">
-              <h3 class="display-3">Accept donations with Stripe</h3>
-              <p class="lead mb-4">Stripe is the largest payment service provider in the world, they offer many local payment methods and a simple checkout which we have built in seamlessly into our donor page platform for the best experience to start your own donation page.
-
-</p>
-              
-   </div>
-          </div>
-
-
-<style>
-.stripe-background-container {
-    position: absolute;
-    top: -80px;
-}
-.stripe-background-container i {
-    font-size: 410px;
-    opacity: .1;
-}
-</style>
-  <div class="col-lg-5 col-md-12">
-            <div class="stripe-background-container">
-              <i class="fab fa-stripe"></i>
-            </div>
-          </div>
-        </div>
-        
-  </div>
-    </section>
 
