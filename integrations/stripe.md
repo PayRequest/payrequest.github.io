@@ -28,8 +28,7 @@ description: Connect Stripe with PayRequest
 <h3 class="display-3 text-white">Stripe integration
 					
 </h3>
-					<p class="lead text-white">Help us make PayRequest better, and also test new features!
-						It is free to signup for our beta program, only thing you need to do is give us some feedback.
+<p class="lead text-white">Stripe is the best software platform for running an internet business. Billions of dollars every year for businesses around the world.
 					</p>
 				</div>
 			</div>
@@ -101,8 +100,7 @@ description: Connect Stripe with PayRequest
 					</div>
 					
 <div class="col-lg-2 col-md-4">
-						<img srcset="https://pbs.twimg.com/profile_images/1181112639101001728/NBqdcmm7_400x400.png"
-						     sizes="100%" alt="Mollie" style="margin: 0 auto;max-width: 100px;">
+<img src="https://pbs.twimg.com/profile_images/778378996580888577/MFKh-pNn_400x400.jpg" alt="Circle image" class="img-fluid rounded-circle shadow" style="width: 100px;">
 					</div>
 					<div class="col-lg-3 col-md-12"></div>
 				</div>
@@ -111,7 +109,7 @@ description: Connect Stripe with PayRequest
 				
 <h3 class="display-3">Connect Stripe with PayRequest</h3>
 				<p class="lead">
-					Mollie helps businesses of all sizes to sell and build more efficiently with a solid but easy-to-use payment solution. Start growing your business today with effortless payments.</p>
+		Stripe is the best software platform for running an internet business. Billions of dollars every year for businesses around the world.</p>
 				<br/>
 				
 	
@@ -123,7 +121,7 @@ description: Connect Stripe with PayRequest
 							<span class="bubble-number">1</span>
 						</div>
 						<h3>
-							1. First, you need to authorize PayRequest to use Mollie.
+							1. First, you need to authorize PayRequest to use Stripe.
 						</h3>
 					</div>
 					<div class="col-sm-4 aos-init aos-animate" data-aos="fade-up" data-aos-easing="delay-slide"
@@ -133,7 +131,7 @@ description: Connect Stripe with PayRequest
 							     alt="get widget code snippet screenshot">
 							<span class="bubble-number">2</span>
 						</div>
-						<h3>2. Next, you can create a payment link with Mollie.</h3>
+						<h3>2. Next, you can create a payment request with Stripe.</h3>
 					</div>
 					<div class="col-sm-4 aos-init aos-animate" data-aos="fade-up" data-aos-easing="delay-slide"
 					     data-aos-duration="1300" data-aos-delay="600" data-aos-offset="-100">
@@ -141,7 +139,7 @@ description: Connect Stripe with PayRequest
 							<img src="https://payrequest.io/assets/img/screens/screen1.jpeg" alt="start chatting screenshot">
 							<span class="bubble-number">3</span>
 						</div>
-						<h3>3. Start share your payment link and get paid via mollie.</h3>
+						<h3>3. Start share your payment request and get paid via stripe.</h3>
 					</div>
 				</div>
 			
