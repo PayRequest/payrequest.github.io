@@ -1,3 +1,9 @@
+---
+title: PayRequest | Stripe Integration
+description: Connect Stripe with PayRequest
+---
+
+
 <div class="position-relative">
 	<!-- Hero for FREE version -->
 	<section class="section section-lg section-shaped">
@@ -19,9 +25,9 @@
 				<div class="col-lg-8">
 					<div class="icon icon-shape bg-gradient-white shadow rounded-circle mb-3"><i class="fal fa-credit-card text-info" aria-hidden="true"></i></div>
     
-					<h3 class="display-3 text-white">Mollie integration
+<h3 class="display-3 text-white">Stripe integration
 					
-					</h3>
+</h3>
 					<p class="lead text-white">Help us make PayRequest better, and also test new features!
 						It is free to signup for our beta program, only thing you need to do is give us some feedback.
 					</p>
@@ -83,33 +89,33 @@
 			<div class="col-md-12 text-center mx-auto">
 				
 				
-				<div class="row">
+<div class="row">
 					<div class="col-lg-3 col-md-12"></div>
 					<div class="col-lg-2 col-md-4">
 						<img srcset="https://pbs.twimg.com/profile_images/1163820898475839488/3AfhxxDu.jpg" sizes="100%"
 						     alt="PayRequest" style="margin: 0 auto;max-width: 100px;">
 					</div>
 					
-					<div class="col-lg-2 col-md-4">
+<div class="col-lg-2 col-md-4">
 						<i class="fa fa-plus" style="margin-top: 50px;font-size: 20px;"></i>
 					</div>
 					
-					<div class="col-lg-2 col-md-4">
+<div class="col-lg-2 col-md-4">
 						<img srcset="https://pbs.twimg.com/profile_images/1181112639101001728/NBqdcmm7_400x400.png"
 						     sizes="100%" alt="Mollie" style="margin: 0 auto;max-width: 100px;">
 					</div>
 					<div class="col-lg-3 col-md-12"></div>
 				</div>
 				
-				<br /> <br />
+<br /> <br />
 				
-				<h3 class="display-3">Connect Mollie with PayRequest</h3>
+<h3 class="display-3">Connect Stripe with PayRequest</h3>
 				<p class="lead">
 					Mollie helps businesses of all sizes to sell and build more efficiently with a solid but easy-to-use payment solution. Start growing your business today with effortless payments.</p>
 				<br/>
 				
-				
-				<div class="row">
+	
+<div class="row">
 					<div class="col-sm-4 aos-init aos-animate" data-aos="fade-up" data-aos-easing="delay-slide"
 					     data-aos-duration="1300" data-aos-delay="400" data-aos-offset="-100">
 						<div class="img-wrap">
@@ -139,12 +145,12 @@
 					</div>
 				</div>
 			
-			
-			</div>
+
+</div>
 		</div>
 		<div>
 		
-		</div>
+</div>
 	</div>
 </div>
 
