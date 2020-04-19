@@ -26,13 +26,13 @@ date: 2020-04-05 18:33:00 Z
 
 <div class="icon icon-shape bg-gradient-white shadow rounded-circle mb-3"><i class="fal fa-mouse text-info" aria-hidden="true"></i></div>
                         
-                      <h1 class="text-white">Payment Button
+ <h1 class="text-white">Payment Button
 </h1>
                         <p class="lead text-white">Add a button on your website to your payment page.
 </p>
                         
-                    
-                    </div>
+
+  </div>
                 </div>
             </div>
         </div>
@@ -62,8 +62,8 @@ date: 2020-04-05 18:33:00 Z
 </a>
                 </p>
                 
-              </div>
-              <div class="col-lg-6 col-12 pl-0">
+  </div>
+  <div class="col-lg-6 col-12 pl-0">
                 <img class="ml-lg-5" src="https://i.imgur.com/b2hX0jx.png" width="100%">
               </div>
             </div>
@@ -165,8 +165,13 @@ rounded {
 <script async="" src="https://static.codepen.io/assets/embed/ei.js"></script>
         </div>
                 
-                </div>
+ </div>
             </div>
         </div>
     </div>
 </section>
+
+
+{% include payment-dashboard-block.html %}
+
+
