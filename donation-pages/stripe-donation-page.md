@@ -317,7 +317,7 @@ rounded {
 -->
 
 
-{% include features-block.html %}
+
 
 <section class="section-free-demo bg-secondary" style="padding: 80px 0;">
       <div class="container">
