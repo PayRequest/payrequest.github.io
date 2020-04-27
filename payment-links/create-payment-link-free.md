@@ -28,7 +28,7 @@ description: Easily create payment links for free, you only pay fees for when a 
                         
   <h1 class="text-white">Create payment link free
 </h1>
-                        <p class="lead text-white">PayRequest lets you easily create payment links for free, you only pay fees for when a payment link is paid.
+  <p class="lead text-white">PayRequest lets you easily create payment links for free, you only pay fees for when a payment link is paid.
 </p>
                         
 
@@ -52,8 +52,8 @@ description: Easily create payment links for free, you only pay fees for when a 
               <div class="col-lg-6 col-12">
                 <span class="badge badge-info badge-pill mb-3">Free payment link</span>
 <h1 class="display-3">Create free payment link,<span class="text-primary">Create payment links free</span></h1>
-                <p class="lead pb-4">PayRequest makes it easy to create stripe payment links and send them worldwide with all your customers,
-                	accept credit card payments online.
+                <p class="lead pb-4">PayRequest makes it easy to create free payment links and send them worldwide to all your customers,
+                	accept credit card payments online worldwide.
 
 
 <br> <br>
@@ -180,7 +180,7 @@ rounded {
                     <img src="https://payrequest.io/assets/img/screens/new-request.png" alt="create your own payment link">
               <span class="bubble-number">2</span>
             </div>
-            <h4>2. Create your own payment link.</h4>
+            <h4>2. Create your own free payment link.</h4>
           </div>
           <div class="col-sm-4 aos-init aos-animate" data-aos="fade-up" data-aos-easing="delay-slide" data-aos-duration="1300" data-aos-delay="600" data-aos-offset="-100">
             <div class="img-wrap">
