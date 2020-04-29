@@ -36,13 +36,46 @@ description: Create and share payment links in seconds, no coding required.
                 </div>
   </div>
  </div>
-        <!-- SVG separator -->
-        <div class="separator separator-bottom separator-skew zindex-100">
-            <svg x="0" y="0" viewBox="0 0 2560 100" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
-                <polygon class="fill-white" points="2560 0 2560 100 0 100"></polygon>
-            </svg>
+    
+ </section>
+
+
+<div class="main main-raised">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-3 col-md-6">
+            
+ </div>
+          <div class="col-lg-6 col-md-6">
+            <div class="card card-blog bg-default">
+              
+  <div class="card-body">
+                <h4 class="display-4 text-white text-center">
+    <i class="fab fa-product-hunt" aria-hidden="true"></i> Featered on Product Hunt
+</h4>
+                <p class="lead text-white mt-0 text-center">
+    <a href="https://www.producthunt.com/posts/donation-pages-by-payrequest?utm_source=badge-featured&amp;utm_medium=badge&amp;utm_souce=badge-donation-pages-by-payrequest" target="_blank"><a href="https://www.producthunt.com/posts/donation-pages-by-payrequest?utm_source=badge-featured&amp;utm_medium=badge&amp;utm_souce=badge-donation-pages-by-payrequest" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=195843&amp;theme=light" alt="Donation Pages by PayRequest - 0% Fee for your donation page to help during COVID-19! | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px"></a>
+
+</a>
+
+
+    
+    
+
+</p>
+                
+  </div>
+            </div>
+          </div>
+          <div class="col-lg-3 col-md-6">
+            
+ </div>
         </div>
-    </section>
+      </div>
+      
+  </div>
+
+
 </div>
 
 
@@ -62,7 +95,7 @@ description: Create and share payment links in seconds, no coding required.
                                 <span class="btn-inner--text">Start sending payment links</span>
                             </a>
 
-                </p>
+   </p>
                 
   </div>
               <div class="col-lg-6 col-12 pl-0">
@@ -77,7 +110,7 @@ description: Create and share payment links in seconds, no coding required.
     <div class="container">
         <div class="row row-grid align-items-center">
             
-            <div class="col-md-12">
+ <div class="col-md-12">
                 <div class="pl-md-5">
                     <div class="icon icon-lg icon-shape icon-shape-warning shadow rounded-circle mb-5" style="
     float: left;
