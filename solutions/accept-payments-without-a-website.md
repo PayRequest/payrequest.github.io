@@ -222,7 +222,7 @@ rounded {
         <div class="row">
           <div class="col-lg-7 col-md-12">
             <div class="section-description">
-              <h3 class="display-3">Accept Stripe payments with a website</h3>
+              <h3 class="display-3">Accept Stripe payments without a website</h3>
               <p class="lead mb-4">Stripe is the largest payment service provider in the world, they offer many local payment methods and a simple checkout which we have built in seamlessly into our donor page platform for the best experience to start your own donation page.
 
 </p>   
