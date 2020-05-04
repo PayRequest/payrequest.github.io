@@ -50,16 +50,14 @@ description: We connect your Stripe account to easily send email payment link
           <div class="container">
             <div class="row align-items-center text-left">
               <div class="col-lg-6 col-12">
-                <span class="badge badge-info badge-pill mb-3">Send Email Stripe Link</span>
-<h1 class="display-3">Email Payment link,<span class="text-primary">Send payment link</span></h1>
-                <p class="lead pb-4">PayRequest makes it easy to email stripe payment link and send them worldwide with all your customers,
-                	accept credit card payments online.
-
+                <span class="badge badge-info badge-pill mb-3">PayRequest</span>
+<h1 class="display-3">Accept Payments,<span class="text-primary">Without a website.</span></h1>
+                <p class="lead pb-4">PayRequest makes it easy to create payment pages and payment links, send your customer a email with a payment link or share your payment page everywhere.
 
 <br> <br>
 <a href="https://dashboard.payrequest.io" class="btn btn-lg btn-github btn-icon mb-3 mb-sm-0">
                                 <span class="btn-inner--icon"><i class="fal fa-link" aria-hidden="true"></i></span>
-                                <span class="btn-inner--text">Send Stripe email links</span>
+                                <span class="btn-inner--text">Start accept payments</span>
                             </a>
 
                 </p>
@@ -85,14 +83,13 @@ description: We connect your Stripe account to easily send email payment link
 ">
                         <i class="fa fa-money-bill" aria-hidden="true"></i>
 
-                    </div>
+</div>
 
 <h3 style="
     /* float: right; */
     margin-left: 90px;
-">Start sending Stripe Email Payment Links in 3 simple steps.</h3>
-                    
-                    
+">SAccept Payments Without a Websites in 3 simple steps.</h3>
+
 <br> 
                     
 <style>
@@ -187,7 +184,7 @@ rounded {
               <img src="https://payrequest.io/assets/img/screens/payment-link.png" alt="Share your payment request and get paid">
               <span class="bubble-number">3</span>
             </div>
-            <h4>3. Email stripe payment link and get paid!</h4>
+            <h4>3. Share your payment links and get paid!</h4>
           </div>
         </div>
                 
@@ -209,7 +206,7 @@ rounded {
           </div>
           <div class="col-lg-6 mx-auto order-md-1">
             <div class="section-description">
-              <h2 class="display-3">PayRequest Dashboard<span class="text-success">Manage your stripe email payment link.</span></h2>
+              <h2 class="display-3">PayRequest Dashboard<span class="text-success">Manage your payment requests.</span></h2>
               <p class="lead">The PayRequest Dashboard lets you manage all your stripe payment link, with a simple overview you can view all status and reminders that are send via mail, you will also get a log update when someone views, chooses payment type or pays your payment request.
 
 </p>
@@ -232,7 +229,7 @@ rounded {
 
 <a href="https://dashboard.payrequest.io" class="btn btn-lg btn-github btn-icon mb-3 mb-sm-0">
                                 <span class="btn-inner--icon"><i class="fal fa-link" aria-hidden="true"></i></span>
-                                <span class="btn-inner--text">Send email stripe payment link</span>
+                                <span class="btn-inner--text">Start accepting payments</span>
                             </a>
    </div>
           </div>
