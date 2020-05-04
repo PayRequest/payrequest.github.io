@@ -57,7 +57,7 @@ description: We connect your Stripe account to easily send email payment link
 <br> <br>
 <a href="https://dashboard.payrequest.io" class="btn btn-lg btn-github btn-icon mb-3 mb-sm-0">
                                 <span class="btn-inner--icon"><i class="fal fa-link" aria-hidden="true"></i></span>
-                                <span class="btn-inner--text">Start accept payments</span>
+                                <span class="btn-inner--text">Start accept payments without a website</span>
                             </a>
 
                 </p>
@@ -222,7 +222,7 @@ rounded {
         <div class="row">
           <div class="col-lg-7 col-md-12">
             <div class="section-description">
-              <h3 class="display-3">Accept payment requests with Stripe</h3>
+              <h3 class="display-3">Accept Stripe payments with a website</h3>
               <p class="lead mb-4">Stripe is the largest payment service provider in the world, they offer many local payment methods and a simple checkout which we have built in seamlessly into our donor page platform for the best experience to start your own donation page.
 
 </p>   
