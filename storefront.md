@@ -16,13 +16,10 @@
 			<div class="col px-0">
 				<div class="row align-items-center justify-content-center">
 					<div class="col-lg-7 text-center">
-<div class="icon icon-shape bg-gradient-white shadow rounded-circle mb-3"><i class="fa fa-hand-store text-info"></i></div>
+<div class="icon icon-shape bg-gradient-white shadow rounded-circle mb-3"><i class="fal fa-store-alt text-info"></i></div>
 						<h1 class="text-white">PayRequest StoreFront
 </h1>
-						<p class="lead text-white">
-						Create your own storefront page and sell your products.
-						</p>
-					
+						<p class="lead text-white">Create your own storefront page and sell your products.</p>					
 
 </div>
 				</div>
@@ -78,7 +75,7 @@
 
 <br> <br>
 <a href="https://dashboard.payrequest.io" class="btn btn-lg btn-github btn-icon mb-3 mb-sm-0">
-                                <span class="btn-inner--icon"><i class="fal fa-hand-holding-heart" aria-hidden="true"></i></span>
+                                <span class="btn-inner--icon"><i class="fal fa-store-alt" aria-hidden="true"></i></span>
                                 <span class="btn-inner--text">Create your donation page</span>
                             </a>
 
@@ -86,7 +83,7 @@
                 
 </div>
               <div class="col-lg-6 col-12 pl-0">
-                <img class="ml-lg-5" src="https://i.imgur.com/MDhh3Rz.png" width="100%">
+                <img class="ml-lg-5" src="http://payrequest.io/assets/img/illustrations/storefront-illustration.png" width="100%">
               </div>
             </div>
           </div>
@@ -112,7 +109,7 @@
 <h3 style="
     /* float: right; */
     margin-left: 90px;
-">Start create your Donation Page in 3 simple steps.</h3>
+">Start create your Storefront Page in 3 simple steps.</h3>
                     
                     
 <br> 
@@ -202,14 +199,14 @@ rounded {
                     <img src="https://payrequest.io/assets/img/screens/new-request.png" alt="create your own payment link">
               <span class="bubble-number">2</span>
             </div>
-            <h4>2. Create your donation page.</h4>
+            <h4>2. Add your products.</h4>
           </div>
           <div class="col-sm-4 aos-init aos-animate" data-aos="fade-up" data-aos-easing="delay-slide" data-aos-duration="1300" data-aos-delay="600" data-aos-offset="-100">
             <div class="img-wrap">
               <img src="https://payrequest.io/assets/img/screens/donation-pages.png" alt="Share your payment link and get paid">
               <span class="bubble-number">3</span>
             </div>
-            <h4>3. Share and recieve donations!</h4>
+            <h4>3. Share and recieve orders!</h4>
           </div>
         </div>
                 
