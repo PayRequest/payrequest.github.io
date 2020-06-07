@@ -49,7 +49,7 @@ title: Free Donation Button
 
 <div class="row">
             <div class="col-lg-8 mx-auto text-center my-5">
-              <h3 class="display-3">Simple pricing</h3>
+              <h3 class="display-3">Customer Stories</h3>
             </div>
           </div>
 
@@ -57,9 +57,8 @@ title: Free Donation Button
 
   <div class="row">
             <div class="col-lg-10 col-md-8 mx-auto">
-              <h2 class="title mb-5">Customer Stories</h2>
               <div class="card card-blog card-plain blog-horizontal mb-5">
-                <div class="row">
+          <div class="row">
                   <div class="col-lg-4">
                     <div class="card-image shadow">
                       <a href="javascript:;">
@@ -72,20 +71,15 @@ title: Free Donation Button
                       <h3 class="card-title">
                         <a href="javascript:;"> How Hostingwalk savs time with PayRequest Links</a>
                       </h3>
-                      <p class="card-description">
-                        Finding temporary housing for your dog should be as easy as renting an Airbnb. That’s the idea behind Rover, which raised $65 million to expand its pet sitting and dog-walking businesses... <a href="javascript:;"> Read More </a>
+                      <p class="card-description">Hostingwalk started using PayRequest Links in 2019, the problemv they where facing was clients first need to login to pay, now customers can pay directly via payments links they recieving in their email or via sms.<input type="submit" value="Read more" name="subscribe" id="mc-embedded-subscribe" class="button btn btn-primary" style="
+    margin-top: 10px;
+">
                       </p>
-                      <div class="author">
-                        <img src="./assets/img/faces/team-1.jpg" alt="..." class="avatar img-raised">
-                        <div class="text">
-                          <span class="name">Tom Hanks</span>
-                          <div class="meta">Drawn on 23 Jan</div>
-                        </div>
-                      </div>
-                    </div>
+                      
+   </div>
                   </div>
                 </div>
-              </div>
+  </div>
               <div class="card card-blog card-plain blog-horizontal mb-5">
                 <div class="row">
                   <div class="col-lg-4">
