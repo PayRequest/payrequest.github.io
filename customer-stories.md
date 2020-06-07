@@ -44,128 +44,96 @@ title: Free Donation Button
     </section>
 </div>
 
-<section class="section section-lg">
-          <div class="container">
-            <div class="row align-items-center text-left">
-              <div class="col-lg-6 col-12">
-                <span class="badge badge-info badge-pill mb-3">Share your donation button</span>
-<h1 class="display-3">Free Donation Button,<span class="text-primary"> Share your donation page</span></h1>
-                <p class="lead pb-4">Donation buttons allow you to redirect your visitors to your payment page.
-
-<br> <br>
-<link href="https://payrequest.io/assets/button.css" target="_blank" rel="stylesheet">
-<a>
-<button type="submit" class="payrequest-btn">
-<img src="https://payrequest.io/assets/logos/payrequest-logo-white.png">
-</button>
-</a>
-                </p>
-                
+<section class="blogs-3">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-10 col-md-8 mx-auto">
+              <h2 class="title mb-5">Customer Stories</h2>
+              <div class="card card-blog card-plain blog-horizontal mb-5">
+                <div class="row">
+                  <div class="col-lg-4">
+                    <div class="card-image shadow">
+                      <a href="javascript:;">
+                        <img class="img rounded" src="https://scontent.flis6-1.fna.fbcdn.net/v/t1.0-9/11873700_858341514247971_2231524977077816808_n.png?_nc_cat=110&amp;_nc_sid=09cbfe&amp;_nc_ohc=lA8siWIae6YAX9zJSys&amp;_nc_ht=scontent.flis6-1.fna&amp;oh=fc7085cfde4bcd93e2807a417f2eeee2&amp;oe=5F021D32">
+                      </a>
+                    </div>
+                  </div>
+                  <div class="col-lg-8">
+                    <div class="card-body">
+                      <h3 class="card-title">
+                        <a href="javascript:;"> How Hostingwalk savs time with PayRequest Links</a>
+                      </h3>
+                      <p class="card-description">
+                        Finding temporary housing for your dog should be as easy as renting an Airbnb. That’s the idea behind Rover, which raised $65 million to expand its pet sitting and dog-walking businesses... <a href="javascript:;"> Read More </a>
+                      </p>
+                      <div class="author">
+                        <img src="./assets/img/faces/team-1.jpg" alt="..." class="avatar img-raised">
+                        <div class="text">
+                          <span class="name">Tom Hanks</span>
+                          <div class="meta">Drawn on 23 Jan</div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
               </div>
-              <div class="col-lg-6 col-12 pl-0">
-                <img class="ml-lg-5" src="https://i.imgur.com/b2hX0jx.png" width="100%">
+              <div class="card card-blog card-plain blog-horizontal mb-5">
+                <div class="row">
+                  <div class="col-lg-4">
+                    <div class="card-image shadow">
+                      <a href="javascript:;">
+                        <img class="img rounded" src="./assets/img/faces/team-3.jpg">
+                      </a>
+                    </div>
+                  </div>
+                  <div class="col-lg-8">
+                    <div class="card-body">
+                      <h3 class="card-title">
+                        <a href="javascript:;">MateLabs mixes learning with IFTTT</a>
+                      </h3>
+                      <p class="card-description">
+                        If you’ve ever wanted to train a machine learning model and integrate it with IFTTT, you now can with a new offering from MateLabs. MateVerse, a platform where novices can spin out machine...<a href="javascript:;"> Read More </a>
+                      </p>
+                      <div class="author">
+                        <img src="./assets/img/faces/team-5.jpg" alt="..." class="avatar img-raised">
+                        <div class="text">
+                          <span class="name">Paul Smith</span>
+                          <div class="meta">Drawn on 23 Jan</div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="card card-blog card-plain blog-horizontal">
+                <div class="row">
+                  <div class="col-lg-4">
+                    <div class="card-image shadow">
+                      <a href="javascript:;">
+                        <img class="img rounded" src="./assets/img/faces/team-4.jpg">
+                      </a>
+                    </div>
+                  </div>
+                  <div class="col-lg-8">
+                    <div class="card-body">
+                      <h3 class="card-title">
+                        <a href="javascript:;">US venture investment ticks up in Q2</a>
+                      </h3>
+                      <p class="card-description">
+                        Venture investment in U.S. startups rose sequentially in the second quarter of 2017, boosted by large, late-stage financings and a few outsized early-stage rounds in tech and healthcare.. <a href="javascript:;"> Read More </a>
+                      </p>
+                      <div class="author">
+                        <img src="./assets/img/faces/team-2.jpg" alt="..." class="avatar img-raised">
+                        <div class="text">
+                          <span class="name">Jasmine Tailor</span>
+                          <div class="meta">Drawn on 23 Jan</div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
-</section>
-
-
-<section class="section bg-secondary">
-    <div class="container">
-        <div class="row row-grid align-items-center">
-            
-            <div class="col-md-12">
-                <div class="pl-md-5">
-<div class="icon icon-lg icon-shape icon-shape-warning shadow rounded-circle mb-5" style="float: left;">
-<i class="fa fa-mouse" aria-hidden="true"></i>
-                    </div>
-
-<h3 style="
-    /* float: right; */
-    margin-left: 90px;
-">Add the below HTML code to your website (WIX,WordPress,..)
-</h3>
-                    
-                    
-<br> 
-                    
-<style>
-  .bubble-number {
-    display: block;
-    width: 50px;
-    height: 50px;
-    background: url(https://chatlio.com/img/bg-bubble-number.svg) no-repeat center;
-    background-size: 50px;
-    line-height: 50px;
-    color: #fff;
-    font-size: 1.25rem;
-    font-weight: 700;
-    text-align: center;
-    position: absolute;
-    top: -20px;
-    right: 0;
-  }
-  
-  .img-wrap {
-    max-height: 220px;
-    max-width: 360px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 30px;
-    border-radius: 10px;
-    position: relative;
-  }
-  
-  .img-wrap img {
-    background: #f5f9fc;
-    border-radius: 10px;
-    max-width: 100%;
-    height: auto;
-    box-shadow: 0 2px 3px 0 rgba(0, 0, 0, .1);
-  height: 160px;
-    width: 400px;
-  }
-
-</style>
-
-<style>
-.section-content .image-container {
-    height: 400px;
-}
-.section-content .image-container .img-comments {
-    z-index: 3;
-    left: -100px;
-    top: -40px;
-}
-.section-content .image-container img {
-    position: absolute;
-    width: 100%;
-    max-width: 380px;
-}
-[class*=shadow] {
-    transition: all .15s ease;
-}
-.section-content .image-container .img-blog {
-    z-index: 4;
-    left: 100px;
-    top: 20px;
-}
-.profile-page .card-profile .card-profile-image img, .shadow {
-    box-shadow: 0 15px 35px rgba(50,50,93,.1),0 5px 15px rgba(0,0,0,.07)!important;
-}
-rounded {
-    border-radius: .25rem!important;
-}
-</style>
-
-
-<div class="row">  
-<script async src="//jsfiddle.net/payrequest/5o972wne/8/embed/html,result/dark/"></script>
-<script async="" src="https://static.codepen.io/assets/embed/ei.js"></script>
         </div>
-                
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+      </section>
