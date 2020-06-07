@@ -46,7 +46,16 @@ title: Free Donation Button
 
 <section class="blogs-3">
         <div class="container">
-          <div class="row">
+
+<div class="row">
+            <div class="col-lg-8 mx-auto text-center my-5">
+              <h3 class="display-3">Simple pricing</h3>
+            </div>
+          </div>
+
+
+
+  <div class="row">
             <div class="col-lg-10 col-md-8 mx-auto">
               <h2 class="title mb-5">Customer Stories</h2>
               <div class="card card-blog card-plain blog-horizontal mb-5">
