@@ -1,5 +1,5 @@
 ---
-title: PayRequest.io | Fundraising Page
+title: PayRequest | Fundraising Page
 description: Create your own Fundraising page and share it everywhere.
 ---
 
