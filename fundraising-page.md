@@ -1,3 +1,8 @@
+---
+title: PayRequest.io | Fundraising Page
+description: Create your own Fundraising page and share it everywhere.
+---
+
 <section class="section section-lg section-shaped">
 		<!-- Background circles -->
 		<div class="shape shape-style-self shape-primary">
