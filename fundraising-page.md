@@ -1,6 +1,5 @@
 ---
-title: PayRequest | Fundraising Page
-description: Create your own Fundraising page and share it everywhere.
+title: Fundraising Page
 ---
 
 <section class="section section-lg section-shaped">
