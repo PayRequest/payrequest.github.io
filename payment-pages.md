@@ -194,6 +194,101 @@ rounded {
 </section>
 
 
+
+
+<section class="section section-lg">
+          <div class="container">
+    
+    
+    
+<div class="row">
+            <div class="col-lg-12 mx-auto text-center my-5">
+              <h3 class="display-3">Sell more with your own personal payment page!
+</h3>
+
+
+
+
+
+<p>We are sure you would love your own personal payment page, like your own website.
+
+
+                      </p>
+            </div>
+          </div>
+
+
+<div class="card-deck">
+  <div class="card">
+    <img class="card-img-top" src="https://i.imgur.com/fBzvvJJ.png" alt="Card image cap">
+    <div class="card-body">
+      <h5 class="card-title">Accept easy Donations
+</h5>
+      <p class="card-text">Maybe your a Twitch streamer, open-source developer, or a chirty with PayRequest.me you can easily share your unique personal page and accept donations via Stripe.
+
+</p>
+      
+    </div>
+  </div>
+  <div class="card">
+    <img class="card-img-top" src="https://i.imgur.com/fBzvvJJ.png" alt="Card image cap">
+    <div class="card-body">
+      <h5 class="card-title">Dynamic Payment Links
+</h5>
+      <p class="card-text">Save time with creating payment links, just use dynamic links like: payrequest.me/name/12,50 or even payrequest.me/12,50/title/email
+
+</p>
+      
+    </div>
+  </div>
+  <div class="card">
+    <img class="card-img-top" src="https://i.imgur.com/fBzvvJJ.png" alt="Card image cap">
+    <div class="card-body">
+      <h5 class="card-title">Share your Payment Page</h5>
+      <p class="card-text">Hurry and claim your unique payrequest.me link for free! Some ideas: payrequest.me/gamer or /developer or /tom just be creative!
+
+</p>
+      
+    </div>
+  </div>
+</div>
+    
+    
+    
+    
+            <div class="row align-items-center text-left">
+              <div class="col-lg-6 col-12">
+                <span class="badge badge-info badge-pill mb-3">Personal Payment Page</span>
+<h1 class="display-3">
+<span class="text-primary">Claim your own</span>
+payrequest.me/yourname</h1>
+                <p class="lead pb-4">Stop creating payment requests, just share your unique personal payment page with all your clients, they can pay you directly and leave their contact details to reach them after.
+
+
+<a href="https://dashboard.payrequest.io" class="btn btn-lg btn-github btn-icon mb-3 mb-sm-0" style="
+    margin-top: 15px;
+">
+                                <span class="btn-inner--icon"><i class="fal fa-browser" aria-hidden="true"></i></span>
+                                <span class="btn-inner--text">Create your payrequest.me page</span>
+                            </a>
+
+  </p>
+                
+   </div>
+              <div class="col-lg-6 col-12 pl-0">
+                <img class="ml-lg-5" src="https://i.imgur.com/fBzvvJJ.png" width="100%" style="
+    border-radius: 10px;
+    box-shadow: 0 2px 3px 0 rgba(0, 0, 0, .1);
+">
+              </div>
+            </div>
+          </div>
+</section>
+
+
+
+
+
 {% include features-block.html %}
 
 
