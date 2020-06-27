@@ -21,10 +21,10 @@ description: Create your own payrequest.me payment page and share it with everyo
 			<div class="col px-0">
 				<div class="row align-items-center justify-content-center">
 					<div class="col-lg-7 text-center">
-<div class="icon icon-shape bg-gradient-white shadow rounded-circle mb-3"><i class="fa fa-hand-browser text-warning"></i></div>
-						<h1 class="text-white">Payment Pages
+<div class="icon icon-shape bg-gradient-white shadow rounded-circle mb-3"><i class="fa fa-browser text-warning"></i></div>
+						<h1 class="text-white">Personal Payment Page
 </h1>
-						<p class="lead text-white">Create your own payrequest.me payment page and share it with everyone.</p>
+						<p class="lead text-white">Create your own payrequest.me payment page and accept payments for your business.</p>
 					
 </div>
 				</div>
@@ -43,13 +43,17 @@ description: Create your own payrequest.me payment page and share it with everyo
           <div class="container">
             <div class="row align-items-center text-left">
               <div class="col-lg-6 col-12">
-                <span class="badge badge-info badge-pill mb-3">payrequest.me/yourname</span>
-<h1 class="display-3">Payment Pages,
-<span class="text-primary">Get your own payrequest.me/yourname</span></h1>
-                <p class="lead pb-4">PayRequest makes it easy to create donation pages for charity, fundraising or non-profits. <br>Share your donation page worldwide and use your own logo, background and branding name.
-<br> <br>
-<a href="https://dashboard.payrequest.io" class="btn btn-lg btn-github btn-icon mb-3 mb-sm-0">
-                                <span class="btn-inner--icon"><i class="fal fa-hand-holding-heart" aria-hidden="true"></i></span>
+                <span class="badge badge-info badge-pill mb-3">Personal Payment Page</span>
+<h1 class="display-3">
+<span class="text-primary">Claim your own</span>
+payrequest.me/yourname</h1>
+                <p class="lead pb-4">Stop creating payment requests, just share your unique personal payment page with all your clients, they can pay you directly and leave their contact details to reach them after.
+
+
+<a href="https://dashboard.payrequest.io" class="btn btn-lg btn-github btn-icon mb-3 mb-sm-0" style="
+    margin-top: 15px;
+">
+                                <span class="btn-inner--icon"><i class="fal fa-browser" aria-hidden="true"></i></span>
                                 <span class="btn-inner--text">Create your payrequest.me page</span>
                             </a>
 
@@ -57,7 +61,10 @@ description: Create your own payrequest.me payment page and share it with everyo
                 
    </div>
               <div class="col-lg-6 col-12 pl-0">
-                <img class="ml-lg-5" src="https://payrequest.io/assets/img/illustrations/payment-page-illustration.png" width="100%">
+                <img class="ml-lg-5" src="https://i.imgur.com/fBzvvJJ.png" width="100%" style="
+    border-radius: 10px;
+    box-shadow: 0 2px 3px 0 rgba(0, 0, 0, .1);
+">
               </div>
             </div>
           </div>
