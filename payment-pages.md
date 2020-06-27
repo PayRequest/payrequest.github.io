@@ -46,7 +46,7 @@ description: Create your own payrequest.me payment page and share it with everyo
                 <span class="badge badge-info badge-pill mb-3">Personal Payment Page</span>
 <h1 class="display-3">
 <span class="text-primary">Claim your own</span>
-payrequest.me/yourname</h1>
+payrequest.me/name</h1>
                 <p class="lead pb-4">Stop creating payment requests, just share your unique personal payment page with all your clients, they can pay you directly and leave their contact details to reach them after.
 
 
