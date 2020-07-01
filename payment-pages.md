@@ -61,7 +61,7 @@ payrequest.me/name</h1>
                 
    </div>
               <div class="col-lg-6 col-12 pl-0">
-                <img class="ml-lg-5" src="https://i.imgur.com/fBzvvJJ.png" width="100%" style="
+                <img class="ml-lg-5" src="https://ph-files.imgix.net/6d83fd11-c994-4ec4-9ec5-c0fc66046051.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=675.5555555555555&h=380&fit=max&dpr=2" width="100%" style="
     border-radius: 10px;
     box-shadow: 0 2px 3px 0 rgba(0, 0, 0, .1);
 ">
@@ -76,18 +76,19 @@ payrequest.me/name</h1>
         <div class="row row-grid align-items-center">
             
  <div class="col-md-12">
-                <div class="pl-md-5">
-                    <div class="icon icon-lg icon-shape icon-shape-warning shadow rounded-circle mb-5" style="
-    float: left;
-">
-                        <i class="fa fa-money-bill" aria-hidden="true"></i>
-
-   </div>
+                <div class="pl-md-5 text-center">
+                    
 
 <h3 style="
-    /* float: right; */
-    margin-left: 90px;
-">Start create your Payment Page in 3 simple steps.</h3>
+">Sell more with your own personal payment page!
+
+</h3>
+
+
+<p>We are sure you would love your own personal payment page, like your own website.
+
+
+                      </p>
                   
 <br> 
                     
@@ -162,37 +163,41 @@ rounded {
 
 
 <div class="row">
-          <div class="col-sm-4 aos-init aos-animate" data-aos="fade-up" data-aos-easing="delay-slide" data-aos-duration="1300" data-aos-delay="400" data-aos-offset="-100">
-            <div class="img-wrap">
-              <img src="https://i.imgur.com/V8IqnbY.png" alt="confirm chatlio screenshot">
-              <span class="bubble-number">1</span>
-            </div>
-            <h4>
-              1. Connect a payment provider like Stripe.
-            </h4>
-          </div>
-          <div class="col-sm-4 aos-init aos-animate" data-aos="fade-up" data-aos-easing="delay-slide" data-aos-duration="1300" data-aos-delay="500" data-aos-offset="-100">
-            <div class="img-wrap">
-                    <img src="https://payrequest.io/assets/img/screens/new-request.png" alt="create your own payment link">
-              <span class="bubble-number">2</span>
-            </div>
-            <h4>2. Create your payment page.</h4>
-          </div>
-          <div class="col-sm-4 aos-init aos-animate" data-aos="fade-up" data-aos-easing="delay-slide" data-aos-duration="1300" data-aos-delay="600" data-aos-offset="-100">
-            <div class="img-wrap">
-              <img src="https://payrequest.io/assets/img/screens/payment-link.png" alt="Share your payment link and get paid">
-              <span class="bubble-number">3</span>
-            </div>
-            <h4>3. Share your payrequest.me page!</h4>
-          </div>
-        </div>
+          
+    
+<div class="card-deck">
+  
+  <div class="card">
+    <img class="card-img-top" src="https://ph-files.imgix.net/1bc052d0-8494-4055-8c79-9ee65c25f08e.png?auto=format&amp;auto=compress&amp;codec=mozjpeg&amp;cs=strip&amp;w=675.5555555555555&amp;h=380&amp;fit=max&amp;dpr=2" alt="Card image cap">
+    <div class="card-body">
+      <h5 class="card-title">Dynamic Payment Links
+</h5>
+      <p class="card-text">Save time with creating payment links, just use dynamic links like: payrequest.me/name/12,50 or even payrequest.me/12,50/title/email
+
+</p>
+      
+</div>
+  </div>
+  <div class="card">
+    <img class="card-img-top" src="https://ph-files.imgix.net/596a96a7-798c-4d2b-8db0-bfa5abb199fc.png?auto=format&amp;auto=compress&amp;codec=mozjpeg&amp;cs=strip&amp;w=675.5555555555555&amp;h=380&amp;fit=max&amp;dpr=2" alt="Card image cap">
+    <div class="card-body">
+      <h5 class="card-title">Use the PayRequest.me HTTP API</h5>
+      <p class="card-text">Hurry and claim your unique payrequest.me link for free! Some ideas: payrequest.me/gamer or /developer or /tom just be creative!
+
+</p>
+      
+ </div>
+  </div>
+</div>
+          
+          
+  </div>
                 
-                </div>
+   </div>
             </div>
         </div>
     </div>
 </section>
-
 
 
 
