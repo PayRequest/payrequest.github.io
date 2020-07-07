@@ -190,7 +190,7 @@ rounded {
   </div>
 </div>
           
-          
+
   </div>
                 
    </div>
@@ -213,7 +213,8 @@ rounded {
           <div class="col-lg-6 mx-auto order-md-1">
             <div class="section-description">
               <h2 class="display-3">Brand Colors<span class="text-success">Customize your payment page!</span></h2>
-              <p class="lead">Brand colors are an important part of the branding equation. Not only do colors affect decision-making, they envoke emotions in humans, use your own brand colors on your payrequest.me payment page.
+<p class="lead" style="font-size: 1.40rem;
+">Brand colors are an important part of the branding equation. Not only do colors affect decision-making, they envoke emotions in humans, use your own brand colors on your payrequest.me payment page.
 </p>
             </div>
           </div>
