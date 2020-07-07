@@ -78,6 +78,7 @@ What's New at PayRequest
             </div>
 
 <div class="col-lg-6">
+  <a href="https://medium.com/payrequest/payrequest-joins-stripe-partner-program-765eb3de62b3">
               <div class="card card-blog card-background" data-animation="zooming">
                 <div class="full-background" style="background-image: url('https://miro.medium.com/max/1400/1*-SCmLYv2oVCLkFL0vZfbRw.png"></div>
                 <a href="javascript:;">
@@ -85,11 +86,10 @@ What's New at PayRequest
                     <div class="content-bottom">
                       
 
-<a href="https://medium.com/payrequest/payrequest-joins-stripe-partner-program-765eb3de62b3">
+
 <span class="badge badge-info badge-pill mb-3" style="
     color: white;
 ">Blog post</span>
-</a>
 
 
 
@@ -100,7 +100,10 @@ What's New at PayRequest
                   </div>
                 </a>
               </div>
-            </div>
+</a>
+
+
+   </div>
           </div>
         </div>
       </section>
