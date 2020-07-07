@@ -100,3 +100,6 @@ What's New at PayRequest
           </div>
         </div>
       </section>
+
+
+{% include contact-block.html %}
