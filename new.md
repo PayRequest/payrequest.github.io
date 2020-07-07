@@ -85,11 +85,15 @@ What's New at PayRequest
                     <div class="content-bottom">
                       
 
-
+<a href="https://medium.com/payrequest/payrequest-joins-stripe-partner-program-765eb3de62b3">
 <span class="badge badge-info badge-pill mb-3" style="
     color: white;
 ">Blog post</span>
-                      <h5 class="card-title">PayRequest joins Stripe Partner program
+</a>
+
+
+
+  <h5 class="card-title">PayRequest joins Stripe Partner program
 
 </h5>
                     </div>
