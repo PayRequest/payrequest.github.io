@@ -102,7 +102,7 @@ What's New at PayRequest
    </div>
           </div>
         </div>
-      </section>
+</section>
 
 
 {% include contact-block.html %}
