@@ -5,7 +5,7 @@ title: What's New at PayRequest
 
 <div class="position-relative">
     <!-- Hero for FREE version -->
-    <section class="section section-lg section-shaped">
+<section class="section section-lg section-shaped">
         <!-- Background circles -->
         <div class="shape shape-style-self shape-primary">
             <span class="span-150"></span>
@@ -42,20 +42,19 @@ What's New at PayRequest
             <svg x="0" y="0" viewBox="0 0 2560 100" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
                 <polygon class="fill-white" points="2560 0 2560 100 0 100"></polygon>
             </svg>
-        </div>
+</div>
 </section>
 </div>
 
 
 <section class="blogs-3">
-        <div class="container">
+<div class="container">
 
 <div class="row">
             <div class="col-lg-8 mx-auto text-center my-5">
               <h3 class="display-3"> Product Updates</h3>
             </div>
           </div>
-
 
 
 <div class="row align-items-center">
@@ -78,7 +77,7 @@ What's New at PayRequest
             </div>
 
 <div class="col-lg-6">
-              <div class="card card-blog card-background" data-animation="zooming">
+<div class="card card-blog card-background" data-animation="zooming">
                 <div class="full-background" style="background-image: url('https://miro.medium.com/max/1400/1*-SCmLYv2oVCLkFL0vZfbRw.png"></div>
                 <a href="https://medium.com/payrequest/payrequest-joins-stripe-partner-program-765eb3de62b3">
                   <div class="card-body">
@@ -99,8 +98,9 @@ What's New at PayRequest
 </a>
 
 
-   </div>
- </div>
-</div> </section>
+</div>
+</div>
+</div>
+</section>
 
 {% include contact-block.html %}
