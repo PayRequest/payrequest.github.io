@@ -182,7 +182,7 @@ rounded {
     <img class="card-img-top" src="https://ph-files.imgix.net/596a96a7-798c-4d2b-8db0-bfa5abb199fc.png?auto=format&amp;auto=compress&amp;codec=mozjpeg&amp;cs=strip&amp;w=675.5555555555555&amp;h=380&amp;fit=max&amp;dpr=2" alt="Card image cap">
     <div class="card-body">
       <h5 class="card-title">Use the PayRequest.me HTTP API</h5>
-      <p class="card-text">Hurry and claim your unique payrequest.me link for free! Some ideas: payrequest.me/gamer or /developer or /tom just be creative!
+      <p class="card-text">Payment Pages is also created for developers, with our Simple HTTP api you can easily create new payment requests or check the status of a payment request.
 
 </p>
       
