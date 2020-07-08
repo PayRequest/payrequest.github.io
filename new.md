@@ -101,8 +101,7 @@ What's New at PayRequest
 
    </div>
           </div>
-        </div>
+</div>
 </section>
-
 
 {% include contact-block.html %}
