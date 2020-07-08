@@ -24,7 +24,11 @@ description: Create your own payrequest.me payment page and share it with everyo
 <div class="icon icon-shape bg-gradient-white shadow rounded-circle mb-3"><i class="fa fa-browser text-warning"></i></div>
 						<h1 class="text-white">Personal Payment Page
 </h1>
-						<p class="lead text-white">Create your own payrequest.me payment page and accept payments for your business.</p>
+						<p class="lead text-white">Create your own payrequest.me payment page and accept payments for your business.
+<br />
+
+<img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=211193&amp;theme=dark" alt="PayRequest.me - Create your personal payment page! | Product Hunt Embed" style="width: 250px;height: 54px;margin-top: 15px;" width="250px" height="54px">
+</p>
 					
 </div>
 				</div>
