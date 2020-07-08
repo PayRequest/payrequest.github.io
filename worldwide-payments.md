@@ -61,3 +61,5 @@
 
 
 {% include payment-methods-block.html %}
+
+{% include contact-block.html %}
