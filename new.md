@@ -43,7 +43,7 @@ What's New at PayRequest
                 <polygon class="fill-white" points="2560 0 2560 100 0 100"></polygon>
             </svg>
         </div>
-    </section>
+</section>
 </div>
 
 
@@ -52,13 +52,13 @@ What's New at PayRequest
 
 <div class="row">
             <div class="col-lg-8 mx-auto text-center my-5">
-              <h3 class="display-3"> Latest Updates</h3>
+              <h3 class="display-3"> Product Updates</h3>
             </div>
           </div>
 
 
 
-  <div class="row align-items-center">
+<div class="row align-items-center">
             
 
  <div class="col-lg-6">
@@ -100,8 +100,7 @@ What's New at PayRequest
 
 
    </div>
-          </div>
-</div>
-</section>
+ </div>
+</div> </section>
 
 {% include contact-block.html %}
