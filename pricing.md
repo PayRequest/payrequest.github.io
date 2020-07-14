@@ -1,7 +1,3 @@
----
-title: PayRequest Pricing
----
-
 <div class="position-relative">
     <!-- Hero for FREE version -->
     <section class="section section-lg section-shaped">
