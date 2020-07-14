@@ -169,6 +169,9 @@ PayRequest is a no-code payment platform, to accept all payment methods, and sta
 </section>
 
 
+{% include seen-on.html %}
+{% include features-block.html %}
+{% include payrequest-dashboard-block.html %}
 
 
 <div class="accordion-1">
