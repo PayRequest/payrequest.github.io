@@ -106,7 +106,7 @@ title: PayRequest Pricing
                           <span>per transaction</span>
                           <ul class="list-unstyled my-4">
                             <li class="align-items-center">
-                              <b class="text-primary">Unlimited</b> <span>payment links</span>
+                              <b class="text-primary">Unlimited</b> <span>payment requests</span>
                             </li>
                             <li class="align-items-center">
                               <b class="text-primary">Unlimited</b> <span> Integrations </span>
