@@ -1,7 +1,6 @@
 ---
-title: PayRequest.io | Free or low cost entry
-description: Lets you easily create payment links without any additional costs and
-  share them via email or sms.
+title: PayRequest Pricing
+description: No monthly fees just simple clear pricing.
 ---
 
 {% include pricing.html %}
