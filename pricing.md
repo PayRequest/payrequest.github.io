@@ -58,7 +58,7 @@ title: PayRequest Pricing
 
  <div class="row">
             <div class="col-md-4 d-flex justify-content-center flex-column">
-              <h3 class="display-3 mt-3">We do not have any monthly fees</h3>
+              <h3 class="display-3 mt-3">We do not have monthly fees</h3>
               
    <p class="lead mt-0">You can use all our serivces free of charge, you only pay per succesfull transaction.</p>
             </div>
