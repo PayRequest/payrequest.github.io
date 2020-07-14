@@ -27,7 +27,7 @@ title: PayRequest Pricing
                         
  <h1 class="text-white">PayRequest Pricing</h1>
                         <p class="lead text-white">
-                            No monthly fees just simple clear pricing.
+                            No monthly fees just 1% per succesful transaction.
                         </p>
                         
  </div>
