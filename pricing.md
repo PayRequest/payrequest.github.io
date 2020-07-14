@@ -25,7 +25,7 @@ title: PayRequest Pricing
 
 <div class="icon icon-shape bg-gradient-white shadow rounded-circle mb-3"><i class="fa fa-euro-sign text-info"></i></div>
                         
- <h1 class="text-white">PayRequest Pricing</h1>
+ <h1 class="text-white">PayRequest Pricing </h1>
                         <p class="lead text-white">
                             No monthly fees just 1% per succesful transaction.
                         </p>
