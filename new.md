@@ -80,7 +80,6 @@ What's New at PayRequest
 <div class="col-lg-6">
 <div class="card card-blog card-background" data-animation="zooming">
 <div class="full-background" style="background-image: url('https://miro.medium.com/max/1400/1*-SCmLYv2oVCLkFL0vZfbRw.png"></div>
-</div>
 <a href="https://medium.com/payrequest/payrequest-joins-stripe-partner-program-765eb3de62b3">
 
 <div class="card-body">
