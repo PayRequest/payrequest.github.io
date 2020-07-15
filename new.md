@@ -68,7 +68,7 @@ What's New at PayRequest
 <div class="card-body">
 <div class="content-bottom">
 <span class="badge badge-info badge-pill mb-3" style="color: white;">blog post</span>
-<h5 class="card-title">Mollie vs Stripe: Which is the best payment provider?</h5>
+<h5 class="card-title">Mollie vs Stripe</h5>
 </div>
 </div>
 
