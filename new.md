@@ -29,7 +29,7 @@ title: What's New at PayRequest
  <h1 class="text-white"> 
 What's New at PayRequest
 </h1>
-                        <p class="lead text-white">   We keep developing new features, to build the best no-code payment platform.
+<p class="lead text-white">   We keep developing new features, to build the best no-code payment platform.
 </p>
                         
 
@@ -60,45 +60,43 @@ What's New at PayRequest
 <div class="row align-items-center">
             
 
- <div class="col-lg-6">
-              <div class="card card-blog card-background" data-animation="zooming">
-                <div class="full-background" style="background-image: url('https://ph-files.imgix.net/6d83fd11-c994-4ec4-9ec5-c0fc66046051.png?auto=format&amp;auto=compress&amp;codec=mozjpeg&amp;cs=strip&amp;w=675.5555555555555&amp;h=380&amp;fit=max&amp;dpr=2"></div>
-                <a href="https://www.producthunt.com/posts/payrequest-me">
-                  <div class="card-body">
-                    <div class="content-bottom">
-                      <span class="badge badge-info badge-pill mb-3" style="
-    color: white;
-">announcement</span>
-                      <h5 class="card-title">Claim your own payrequest.me/name</h5>
-                    </div>
-                  </div>
-                </a>
-              </div>
-            </div>
+<div class="col-lg-6">
+<div class="card card-blog card-background" data-animation="zooming">
+<div class="full-background" style="background-image: url('https://ph-files.imgix.net/6d83fd11-c994-4ec4-9ec5-c0fc66046051.png?auto=format&amp;auto=compress&amp;codec=mozjpeg&amp;cs=strip&amp;w=675.5555555555555&amp;h=380&amp;fit=max&amp;dpr=2"></div>
+<a href="https://www.producthunt.com/posts/payrequest-me">
+
+<div class="card-body">
+<div class="content-bottom">
+<span class="badge badge-info badge-pill mb-3" style="color: white;">announcement</span>
+<h5 class="card-title">Claim your own payrequest.me/name</h5>
+</div>
+</div>
+
+</a>
+</div>
+</div>
+
 
 <div class="col-lg-6">
 <div class="card card-blog card-background" data-animation="zooming">
-                <div class="full-background" style="background-image: url('https://miro.medium.com/max/1400/1*-SCmLYv2oVCLkFL0vZfbRw.png"></div>
-                <a href="https://medium.com/payrequest/payrequest-joins-stripe-partner-program-765eb3de62b3">
-                  <div class="card-body">
-                    <div class="content-bottom">
+<div class="full-background" style="background-image: url('https://miro.medium.com/max/1400/1*-SCmLYv2oVCLkFL0vZfbRw.png"></div>
+                <a href="https://medium.com/payrequest/payrequest-joins-stripe-partner-program-765eb3de62b3"></div>
+<a href="https://medium.com/payrequest/payrequest-joins-stripe-partner-program-765eb3de62b3">
 
-<span class="badge badge-info badge-pill mb-3" style="
-    color: white;
-">Blog post</span>
-
-
-
-  <h5 class="card-title">PayRequest joins Stripe Partner program
-
-</h5>
-                    </div>
-                  </div>
-              </div>
-</a>
-
-
+<div class="card-body">
+<div class="content-bottom">
+<span class="badge badge-info badge-pill mb-3" style="color: white;">Blog post</span>
+<h5 class="card-title">PayRequest joins Stripe Partner program</h5>
 </div>
+</div>
+
+</a>
+</div>
+</div>
+
+
+
+
 </div>
 </div>
 </section>
