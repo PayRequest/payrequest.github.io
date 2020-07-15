@@ -28,7 +28,9 @@ description: Create and share payment links in seconds, no coding required.
             <p class="lead text-white">Create and share payment links in seconds, no coding required.
 <br />
 
-<img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=211193&amp;theme=dark" alt="PayRequest.me - Create your personal payment page! | Product Hunt Embed" style="width: 250px;height: 54px;margin-top: 15px;" width="250px" height="54px">
+<a href="https://www.producthunt.com/posts/payrequest?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-payrequest" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=176421&theme=dark" alt="PayRequest - Simple, fast payment links via Stripe and Mollie | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
+
+
 </p>
           
 </div>
