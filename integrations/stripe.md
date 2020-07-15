@@ -29,6 +29,8 @@ description: Connect Stripe with PayRequest
 					
 </h3>
 <p class="lead text-white">Stripe is the best software platform for running an internet business. Billions of dollars every year for businesses around the world.
+	<br />
+	<img alt="Stripe logo" src="https://payrequest.io/assets/img/stripe-partner-badges/L_Color_Solid.svg" style="height: 63px;padding: 6px;">
 					</p>
 				</div>
 			</div>
@@ -82,12 +84,41 @@ description: Connect Stripe with PayRequest
 
 </style>
 
+
+<section class="section section-lg">
+          <div class="container">
+            <div class="row align-items-center text-left">
+              <div class="col-lg-6 col-12">
+                <span class="badge badge-info badge-pill mb-3">Stripe integration</span>
+<h1 class="display-3">Connect Stripe,<span class="text-primary">With PayRequest.</span></h1>
+                <p class="lead pb-4">Stripe is the best software platform for running an internet business. Billions of dollars every year for businesses around the world.
+
+
+<br> <br>
+<a href="https://dashboard.payrequest.io" class="btn btn-lg btn-github btn-icon mb-3 mb-sm-0">
+                                <span class="btn-inner--icon"><i class="fab fa-stripe" aria-hidden="true"></i></span>
+                                <span class="btn-inner--text">Connect your Stripe account</span>
+                            </a>
+
+   </p>
+                
+  </div>
+              <div class="col-lg-6 col-12 pl-0">
+                <img class="ml-lg-5" src="https://i.imgur.com/dNHdye6.png" width="100%" style="
+    border-radius: 10px;
+    box-shadow: 0 2px 3px 0 rgba(0, 0, 0, .1);
+">
+              </div>
+            </div>
+          </div>
+</section>
+
 <div class="section features-4">
 	<div class="container">
 		<div class="row">
 			<div class="col-md-12 text-center mx-auto">
 				
-				
+	
 <div class="row">
 					<div class="col-lg-3 col-md-12"></div>
 					<div class="col-lg-2 col-md-4">
