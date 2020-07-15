@@ -62,6 +62,41 @@ What's New at PayRequest
 
 <div class="col-lg-6">
 <div class="card card-blog card-background" data-animation="zooming">
+<div class="full-background" style="background-image: url('https://miro.medium.com/max/1400/1*BwozgpQznVzJEgcyv503zA.png"></div>
+<a href="https://medium.com/payrequest/mollie-vs-stripe-which-is-the-best-payment-provider-fe70b420df53">
+
+<div class="card-body">
+<div class="content-bottom">
+<span class="badge badge-info badge-pill mb-3" style="color: white;">blog post</span>
+<h5 class="card-title">Mollie vs Stripe: Which is the best payment provider?</h5>
+</div>
+</div>
+
+</a>
+</div>
+</div>
+
+
+<div class="col-lg-6">
+<div class="card card-blog card-background" data-animation="zooming">
+<div class="full-background" style="background-image: url('https://miro.medium.com/max/1400/1*Cv8AL6jfm4dHS7tvfbFi0w.png"></div>
+<a href="https://medium.com/payrequest/the-no-code-payment-platform-8a443a1310d0">
+
+<div class="card-body">
+<div class="content-bottom">
+<span class="badge badge-info badge-pill mb-3" style="color: white;">Blog post</span>
+<h5 class="card-title">The No-code Payment Platform</h5>
+</div>
+</div>
+
+</a>
+</div>
+</div>
+
+
+
+<div class="col-lg-6">
+<div class="card card-blog card-background" data-animation="zooming">
 <div class="full-background" style="background-image: url('https://ph-files.imgix.net/6d83fd11-c994-4ec4-9ec5-c0fc66046051.png?auto=format&amp;auto=compress&amp;codec=mozjpeg&amp;cs=strip&amp;w=675.5555555555555&amp;h=380&amp;fit=max&amp;dpr=2"></div>
 <a href="https://www.producthunt.com/posts/payrequest-me">
 
