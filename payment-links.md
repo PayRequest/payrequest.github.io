@@ -3,41 +3,48 @@ title: PayRequest.io | Payment Links
 description: Create and share payment links in seconds, no coding required.
 ---
 
-<div class="position-relative">
-    <!-- Hero for FREE version -->
-    <section class="section section-lg section-shaped">
-        <!-- Background circles -->
-        <div class="shape shape-style-self shape-primary">
-            <span class="span-150"></span>
-            <span class="span-50"></span>
-            <span class="span-50"></span>
-            <span class="span-75"></span>
-            <span class="span-100"></span>
-            <span class="span-75"></span>
-            <span class="span-50"></span>
-            <span class="span-100"></span>
-            <span class="span-50"></span>
-            <span class="span-100"></span>
-        </div>
-        <div class="container shape-container d-flex align-items-center">
-            <div class="col px-0">
-                <div class="row align-items-center justify-content-center">
-                    <div class="col-lg-7 text-center">
 
+<section class="section section-lg section-shaped">
+    <!-- Background circles -->
+    <div class="shape shape-style-self shape-primary">
+      <span class="span-150"></span>
+      <span class="span-50"></span>
+      <span class="span-50"></span>
+      <span class="span-75"></span>
+      <span class="span-100"></span>
+      <span class="span-75"></span>
+      <span class="span-50"></span>
+      <span class="span-100"></span>
+      <span class="span-50"></span>
+      <span class="span-100"></span>
+    </div>
+    <div class="container shape-container d-flex align-items-center">
+      <div class="col px-0">
+        <div class="row align-items-center justify-content-center">
+          <div class="col-lg-7 text-center">
 <div class="icon icon-shape bg-gradient-white shadow rounded-circle mb-3"><i class="fal fa-link text-info" aria-hidden="true"></i></div>
-                        
-  <h1 class="text-white">Payment Links
+            <h1 class="text-white">Payment Links
 </h1>
-                        <p class="lead text-white">Create and share payment links in seconds, no coding required.
-</p>
-                        
+            <p class="lead text-white">Create and share payment links in seconds, no coding required.
+<br />
 
-  </div>
-                </div>
-  </div>
- </div>
-    
- </section>
+<img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=211193&amp;theme=dark" alt="PayRequest.me - Create your personal payment page! | Product Hunt Embed" style="width: 250px;height: 54px;margin-top: 15px;" width="250px" height="54px">
+</p>
+          
+</div>
+        </div>
+      </div>
+    </div>
+    <!-- SVG separator -->
+    <div class="separator separator-bottom separator-skew zindex-100">
+      <svg x="0" y="0" viewBox="0 0 2560 100" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
+        <polygon class="fill-white" points="2560 0 2560 100 0 100"></polygon>
+      </svg>
+    </div>
+  </section>
+
+
+
 
 
 <div class="main main-raised">
