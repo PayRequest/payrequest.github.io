@@ -218,7 +218,7 @@ rounded {
       <div class="container">
         <div class="row">
           <div class="col-md-6 mx-auto text-center">
-            <h2 class="title mb-3 mt-5">Payment Links information</h2>
+            <h2 class="title mb-3 mt-5">Hosted Checkout Page FAQs</h2>
           </div>
         </div>
         <div class="row">
@@ -228,35 +228,19 @@ rounded {
                 <div class="card-header" id="headingOne">
                   <h5 class="mb-0">
                     <button class="btn btn-link w-100 text-primary text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                      What countries does PayRequest support ?
+                     What is a hosted checkout page?
                       <i class="ni ni-bold-down float-right pt-1"></i>
                     </button>
                   </h5>
                 </div>
                 <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample" style="">
                   <div class="card-body opacity-8">
-With PayRequest you can signup for an account, no matter where you are.
-The payment methods that you can use depends on our payment service providers wich have differen
-If you have any questions about supporting countries just contact our support team, to view payment methods per country and integration you can look at the page <a href="https://payrequest.io/payment-methods"> Payment Methods per region</a>
+With PayRequest you can create your own hosted checkout page via Stripe, no coding experience required, just add your content and price, and put a link on your website, or just share it directly via social media.
                   </div>
                 </div>
               </div>
-              <div class="card">
-                <div class="card-header" id="headingTwo">
-                  <h5 class="mb-0">
-                    <button class="btn btn-link w-100 text-primary text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                      What is a Payment Link ?
-                      <i class="ni ni-bold-down float-right pt-1"></i>
-                    </button>
-                  </h5>
-                </div>
-                <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
-                  <div class="card-body opacity-8">
-                        A payment link is a unique link you can share via email or sms which contains a specified amount and a personal message for the reciever. On the payment link page they can choose a payment method like credit card and pay the requested amount. After a succesfull payment you will get a notification about it.
-                  </div>
-                </div>
-              </div>
-              <div class="card">
+
+  <div class="card">
                 <div class="card-header" id="headingThree">
                   <h5 class="mb-0">
                     <button class="btn btn-link w-100 text-primary text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
@@ -267,27 +251,12 @@ If you have any questions about supporting countries just contact our support te
                 </div>
                 <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
                   <div class="card-body opacity-8">
-                   Signup for Payrequest and creating payment links is free, you only pay the transactions costs of Mollie or Stripe plus a 2% service fee to cover the costs of our platform.
+                   Signup for Payrequest and creating payment links is free, you only pay the transactions costs of Mollie or Stripe plus a 1% service fee to cover the costs of our platform.
                   </div>
                 </div>
               </div>
-                <div class="card">
-                    <div class="card-header" id="headingFive">
-                        <h5 class="mb-0">
-                            <button class="btn btn-link w-100 text-primary text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                Do you offer premium to non-profit organisations?
-                                <i class="ni ni-bold-down float-right pt-1"></i>
-                            </button>
-                        </h5>
-                    </div>
-                    <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample">
-                        <div class="card-body opacity-8">
-                            Educational and non-profit organisations could be eligible to receive the premium package for no additional costs except sms or letter credits.
-                            For more information about this topic please contact us.
-                        </div>
-                    </div>
-                </div>
-              <div class="card">
+
+ <div class="card">
                 <div class="card-header" id="headingFour">
                   <h5 class="mb-0">
                     <button class="btn btn-link w-100 text-primary text-left" type="button" data-toggle="collapse" data-target="#collapseFour" aria-controls="collapseFour">
