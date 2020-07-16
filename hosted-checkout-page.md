@@ -66,7 +66,7 @@ description: Create and share your hosted checkout page, no coding required.
                 
   </div>
               <div class="col-lg-6 col-12 pl-0">
-                <img class="ml-lg-5" src="https://payrequest.io/assets/img/banners/payment-links.png" width="100%" style="
+                <img class="ml-lg-5" src="https://payrequest.io/assets/img/banners/hosted-checkout-page.png" width="100%" style="
     border-radius: 10px;
     box-shadow: 0 2px 3px 0 rgba(0, 0, 0, .1);
 ">
