@@ -74,20 +74,13 @@ title: Why PayRequest
 <section class="section section-lg">
           <div class="container">
             <div class="row align-items-center text-left">
-              <div class="col-lg-6 col-12">
-                <span class="badge badge-info badge-pill mb-3">Personal Payment Page</span>
+<div class="col-lg-6 col-12">
+                <span class="badge badge-info badge-pill mb-3">why payrequest</span>
 <h1 class="display-3">
-<span class="text-primary">Claim your own</span>
-payrequest.me/name</h1>
-                <p class="lead pb-4">Stop creating payment requests, just share your unique personal payment page with all your clients, they can pay you directly and leave their contact details to reach them after.
+<span class="text-primary">Because we are your</span>Payment Stack</h1>
+                <p class="lead pb-4">We replace all your payment tools in a handy dashboard where you can easily create payment requests and more.
 
 
-<a href="https://dashboard.payrequest.io" class="btn btn-lg btn-github btn-icon mb-3 mb-sm-0" style="
-    margin-top: 15px;
-">
-                                <span class="btn-inner--icon"><i class="fal fa-browser" aria-hidden="true"></i></span>
-                                <span class="btn-inner--text">Create your payrequest.me page</span>
-                            </a>
 
   </p>
                 
@@ -105,11 +98,11 @@ payrequest.me/name</h1>
  <canvas width="300" height="300" id="myCanvas">
   <p>Anything in here will be replaced on browsers that support the canvas element</p>
   <ul>
-   <li><a href="http://www.google.com" target="_blank">Google</a></li>
-   <li><a href="/fish">Fish</a></li>
-   <li><a href="/chips">Chips</a></li>
-   <li><a href="/salt">Salt</a></li>
-   <li><a href="/vinegar">Vinegar</a></li>
+   <li><a href="http://www.google.com" target="_blank">Donation Payments</a></li>
+   <li><a href="/fish">Stripe</a></li>
+   <li><a href="/chips">Payment Links</a></li>
+   <li><a href="/salt">Payment Pages</a></li>
+   <li><a href="/vinegar">Payment Gateways</a></li>
   </ul>
  </canvas>
 </div>
