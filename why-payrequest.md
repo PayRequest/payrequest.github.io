@@ -2,12 +2,11 @@
 title: Why PayRequest
 ---
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-<script src="https://www.goat1000.com/jquery.tagcanvas.min.js"></script>
+
 
 <script>
 $(document).ready(function() {
-  if(.tagcanvas({
+  if(!$('#myCanvas').tagcanvas({
     //textColour: '#ff0000',
     outlineColour: '#ff00ff',
     reverse: true,
@@ -145,6 +144,9 @@ payrequest.me/name</h1>
           </div>
 </section>
 
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://www.goat1000.com/jquery.tagcanvas.min.js"></script>
 
 
 
