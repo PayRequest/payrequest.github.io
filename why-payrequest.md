@@ -2,8 +2,13 @@
 title: Why PayRequest
 ---
 
+<style>
+	canvas {
+		background: linear-gradient(130deg, #1951bf 0%, #25b7c7 89%);
+	}
+</style>
 
-<div id="myCanvasContainer">
+<div class="canvas" id="myCanvasContainer">
  <canvas width="300" height="300" id="myCanvas">
   <p>Anything in here will be replaced on browsers that support the canvas element</p>
   <ul>
@@ -26,6 +31,18 @@ title: Why PayRequest
       document.getElementById('myCanvasContainer').style.display = 'none';
     }
   };
+</script>
+
+<script type="text/javascript">
+ var options = {
+  textColour: '#fff',
+  textHeight: 20,
+  depth: 0.99
+ };
+ window.onload = function() {
+  // use internal link list, so second argument is ''
+  TagCanvas.Start('myCanvas', '', options);
+ };
 </script>
 
 <script src="https://www.goat1000.com/tagcanvas.js" type="text/javascript"></script>
