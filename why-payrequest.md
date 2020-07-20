@@ -30,9 +30,7 @@ $(document).ready(function() {
 });
 </script>
 
-
-
-<div id="myCanvasContainer">
+<div class="0myCanvasContainer">
     <canvas width="300" height="300" id="myCanvas">
       <p>Anything in here will be replaced on browsers that support the canvas element</p>
     </canvas>
