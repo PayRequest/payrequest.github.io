@@ -2,24 +2,7 @@
 title: Why PayRequest
 ---
 
-<style>
-	canvas {
-		background: linear-gradient(130deg, #1951bf 0%, #25b7c7 89%);
-	}
-</style>
 
-<div class="canvas" id="myCanvasContainer">
- <canvas width="300" height="300" id="myCanvas">
-  <p>Anything in here will be replaced on browsers that support the canvas element</p>
-  <ul>
-   <li><a href="http://www.google.com" target="_blank">Google</a></li>
-   <li><a href="/fish">Fish</a></li>
-   <li><a href="/chips">Chips</a></li>
-   <li><a href="/salt">Salt</a></li>
-   <li><a href="/vinegar">Vinegar</a></li>
-  </ul>
- </canvas>
-</div>
 
 
 <script type="text/javascript">
@@ -112,7 +95,24 @@ payrequest.me/name</h1>
               <div class="col-lg-6 col-12 pl-0">
 
 
+<style>
+	canvas {
+		background: linear-gradient(130deg, #1951bf 0%, #25b7c7 89%);
+	}
+</style>
 
+<div class="canvas" id="myCanvasContainer">
+ <canvas width="300" height="300" id="myCanvas">
+  <p>Anything in here will be replaced on browsers that support the canvas element</p>
+  <ul>
+   <li><a href="http://www.google.com" target="_blank">Google</a></li>
+   <li><a href="/fish">Fish</a></li>
+   <li><a href="/chips">Chips</a></li>
+   <li><a href="/salt">Salt</a></li>
+   <li><a href="/vinegar">Vinegar</a></li>
+  </ul>
+ </canvas>
+</div>
 
 
 
