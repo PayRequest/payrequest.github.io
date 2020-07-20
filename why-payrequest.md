@@ -91,18 +91,23 @@ title: Why PayRequest
 <style>
 	canvas {
 		background: linear-gradient(130deg, #1951bf 0%, #25b7c7 89%);
+		    border-radius: 10px;
 	}
 </style>
 
 <div class="canvas" id="myCanvasContainer">
- <canvas width="300" height="300" id="myCanvas">
+ <canvas width="500" height="300" id="myCanvas">
   <p>Anything in here will be replaced on browsers that support the canvas element</p>
   <ul>
    <li><a href="http://www.google.com" target="_blank">Donation Payments</a></li>
    <li><a href="/fish">Stripe</a></li>
    <li><a href="/chips">Payment Links</a></li>
    <li><a href="/salt">Payment Pages</a></li>
-   <li><a href="/vinegar">Payment Gateways</a></li>
+   <li><a href="#">Payment Gateways</a></li>
+
+<li><a href="#">Payment Reminders</a></li>
+<li><a href="#">Invoices </a></li>
+<li><a href="#">Payments API </a></li>
   </ul>
  </canvas>
 </div>
