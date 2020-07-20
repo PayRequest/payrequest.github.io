@@ -2,8 +2,6 @@
 title: Why PayRequest
 ---
 
-<script src="https://www.goat1000.com/tagcanvas.js" type="text/javascript"></script>
-
 
 <div id="myCanvasContainer">
  <canvas width="300" height="300" id="myCanvas">
@@ -19,7 +17,18 @@ title: Why PayRequest
 </div>
 
 
+<script type="text/javascript">
+  window.onload = function() {
+    try {
+      TagCanvas.Start('myCanvas');
+    } catch(e) {
+      // something went wrong, hide the canvas container
+      document.getElementById('myCanvasContainer').style.display = 'none';
+    }
+  };
+</script>
 
+<script src="https://www.goat1000.com/tagcanvas.js" type="text/javascript"></script>
 
 <section class="section section-lg section-shaped">
 		<!-- Background circles -->
