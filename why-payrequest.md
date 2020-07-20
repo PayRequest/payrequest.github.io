@@ -3,6 +3,7 @@ title: Why PayRequest
 ---
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script src="https://www.goat1000.com/jquery.tagcanvas.min.js"></script>
 
 <section class="section section-lg section-shaped">
 		<!-- Background circles -->
