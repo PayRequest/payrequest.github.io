@@ -2,73 +2,24 @@
 title: Why PayRequest
 ---
 
+<script src="https://www.goat1000.com/tagcanvas.js" type="text/javascript"></script>
 
 
-<script>
-$(document).ready(function() {
-  if(!$('#myCanvas').tagcanvas({
-    //textColour: '#ff0000',
-    outlineColour: '#ff00ff',
-    reverse: true,
-    depth: 0.8,
-    maxSpeed: 0.05,
-    textFont: null,
-    textColour: null,
-    weightMode:'both',
-    weight: true,
-    weightGradient: {
-     0:    '#f00', // red
-     //0.33: '#ff0', // yellow
-     //0.66: '#0f0', // green
-     1:    '#00f'  // blue
-    }
-  },'tags')) {
-    // something went wrong, hide the canvas container
-  }
-});
-</script>
+<div id="myCanvasContainer">
+ <canvas width="300" height="300" id="myCanvas">
+  <p>Anything in here will be replaced on browsers that support the canvas element</p>
+  <ul>
+   <li><a href="http://www.google.com" target="_blank">Google</a></li>
+   <li><a href="/fish">Fish</a></li>
+   <li><a href="/chips">Chips</a></li>
+   <li><a href="/salt">Salt</a></li>
+   <li><a href="/vinegar">Vinegar</a></li>
+  </ul>
+ </canvas>
+</div>
 
-<div class="0myCanvasContainer">
-    <canvas width="300" height="300" id="myCanvas">
-      <p>Anything in here will be replaced on browsers that support the canvas element</p>
-    </canvas>
-  </div>
-  <div id="tags"  style="font-size: 50%">
-	<a href="#" style="font-size: 2.83ex">API</a>
-	<a href="#" style="font-size: 2.61ex">Payment Widgets</a>
-	<a href="#" style="font-size: 2.64ex">Payment Gateways</a>
-	<a href="#" style="font-size: 4.47ex">Payment Links</a>
-	<a href="#" style="font-size: 3.46ex">Payment Pages</a>
-	<a href="#" style="font-size: 12.32ex">Donations</a>
-	<a href="#" style="font-size: 3.74ex">clouds</a>
-	<a href="#" style="font-size: 3.16ex">example</a>
-	<a href="#" style="font-size: 3.74ex">goat</a>
-	<a href="#" style="font-size: 3.16ex">goat1000</a>
-	<a href="#" style="font-size: 8.36ex">graph</a>
-	<a href="#" style="font-size: 4.36ex">graphs</a>
-	<a href="#" style="font-size: 3.32ex">html</a>
-	<a href="#" style="font-size: 10.68ex">html5</a>
-	<a href="#" style="font-size: 4.69ex">image</a>
-	<a href="#" style="font-size: 4.8ex">javascript</a>
-	<a href="#" style="font-size: 5.47ex">jpeg</a>
-	<a href="#" style="font-size: 2.65ex">jpegsaver</a>
-	<a href="#" style="font-size: 8.77ex">jquery</a>
-	<a href="#" style="font-size: 2.65ex">lib</a>
-	<a href="#" style="font-size: 5.92ex">library</a>
-	<a href="#" style="font-size: 3.32ex">link</a>
-	<a href="#" style="font-size: 13.23ex">php</a>
-	<a href="#" style="font-size: 2.83ex">plugin</a>
-	<a href="#" style="font-size: 4.58ex">saver</a>
-	<a href="#" style="font-size: 3.32ex">screensaver</a>
-	<a href="#" style="font-size: 2.65ex">script</a>
-	<a href="#" style="font-size: 13ex">svg</a>
-	<a href="#" style="font-size: 4.47ex">svggraph</a>
-	<a href="#" style="font-size: 12.44ex">tag</a>
-	<a href="#" style="font-size: 2.65ex">tagcanvas</a>
-	<a href="#" style="font-size: 3.46ex">tagcloud</a>
-	<a href="#" style="font-size: 2.65ex">text</a>
-	<a href="#" style="font-size: 3.16ex">word</a>
-  </div>
+
+
 
 <section class="section section-lg section-shaped">
 		<!-- Background circles -->
@@ -146,8 +97,5 @@ payrequest.me/name</h1>
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-<script src="https://www.goat1000.com/jquery.tagcanvas.min.js"></script>
-
-
 
 
