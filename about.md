@@ -113,7 +113,7 @@ description: Lets you easily create payment links without any additional costs a
 					</div>
 					<div class="description pl-4">
 						<h5 class="title text-danger">Simple Pricing</h5>
-						<p>No limits, no pricing tables, just a free plan with a 2% fee per transaction, and a premium plan with no transaction fees at all.</p>
+						<p>No limits, no pricing tables, just a free plan with a 1% fee per transaction, and a premium plan with no transaction fees at all.</p>
 					</div>
 				</div>
 			</div>

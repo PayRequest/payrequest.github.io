@@ -183,7 +183,7 @@ title: PayRequest Pricing
                         </div>
                         <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
                             <div class="card-body opacity-8">
-                                Signup for Payrequest and creating payment links is free, you only pay the transactions costs of Mollie or Stripe plus a 2% service fee to cover the costs of our platform.
+                                Signup for Payrequest and creating payment links is free, you only pay the transactions costs of Mollie or Stripe plus a 1% service fee to cover the costs of our platform.
                             </div>
                         </div>
                     </div>
