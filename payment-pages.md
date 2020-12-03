@@ -1,101 +1,188 @@
 ---
-title: PayRequest.io | Payment Pages
+title: PayRequest | Payment Pages
 description: Create your own payrequest.me payment page and share it with everyone.
 ---
 
-<section class="section section-lg section-shaped">
-		<!-- Background circles -->
-		<div class="shape shape-style-self shape-primary">
-			<span class="span-150"></span>
-			<span class="span-50"></span>
-			<span class="span-50"></span>
-			<span class="span-75"></span>
-			<span class="span-100"></span>
-			<span class="span-75"></span>
-			<span class="span-50"></span>
-			<span class="span-100"></span>
-			<span class="span-50"></span>
-			<span class="span-100"></span>
-		</div>
-		<div class="container shape-container d-flex align-items-center">
-			<div class="col px-0">
-				<div class="row align-items-center justify-content-center">
-					<div class="col-lg-7 text-center">
-<div class="icon icon-shape bg-gradient-white shadow rounded-circle mb-3"><i class="fa fa-browser text-warning"></i></div>
-						<h1 class="text-white">Personal Payment Page
-</h1>
-						<p class="lead text-white">Create your own payrequest.me payment page and accept payments for your business.
-<br />
+<!-- Done for the new website! -->
 
-<img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=211193&amp;theme=dark" alt="PayRequest.me - Create your personal payment page! | Product Hunt Embed" style="width: 250px;height: 54px;margin-top: 15px;" width="250px" height="54px">
+<!-- Hero Section Start -->
+ <section class="hero-section">
+<!-- Hero Shape Start -->
+      
+<div class="hero-shape5">
+<img src="https://payrequest.io/assets/logos/Icon%20white.png" alt="shape" style="max-width: 160px;">
+         </div>
+<!-- Hero Shape End -->
+          
+ <!-- Hero Bg Start -->
+<div class="hero-bg">
+            <img src="assets/img/hero_shape.png" alt="hero shape" />
+         </div>
+<!-- Hero Bg End -->
+          
+<div class="container">
+            <div class="row align-items-center">
+             <div class="col-lg-6 col-md-6">
+                  <div class="hero-left">
+ <h2> Create your own
+<span class="underline">Payment Page</span></h2>
+<p style="
+    font-size: 20px;
+">
+PayRequest makes it easy to create payment links and share them worldwide with all your customers, accept payments online.
 </p>
-					
+
+<a href="#" class="theme-btn mt-4">
+Create Your Free Account
+<span class="fa fa-chevron-right"></span>
+</a>
+
 </div>
-				</div>
-			</div>
-		</div>
-		<!-- SVG separator -->
-		<div class="separator separator-bottom separator-skew zindex-100">
-			<svg x="0" y="0" viewBox="0 0 2560 100" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
-				<polygon class="fill-white" points="2560 0 2560 100 0 100"></polygon>
-			</svg>
-		</div>
-	</section>
 
 
-<section class="section section-lg">
-          <div class="container">
-            <div class="row align-items-center text-left">
-              <div class="col-lg-6 col-12">
-                <span class="badge badge-info badge-pill mb-3">Personal Payment Page</span>
-<h1 class="display-3">
-<span class="text-primary">Claim your own</span>
-payrequest.me/name</h1>
-                <p class="lead pb-4">Stop creating payment requests, just share your unique personal payment page with all your clients, they can pay you directly and leave their contact details to reach them after.
 
-
-<a href="https://dashboard.payrequest.io" class="btn btn-lg btn-github btn-icon mb-3 mb-sm-0" style="
-    margin-top: 15px;
-">
-                                <span class="btn-inner--icon"><i class="fal fa-browser" aria-hidden="true"></i></span>
-                                <span class="btn-inner--text">Create your payrequest.me page</span>
-                            </a>
-
-  </p>
-                
-   </div>
-              <div class="col-lg-6 col-12 pl-0">
-                <img class="ml-lg-5" src="https://ph-files.imgix.net/6d83fd11-c994-4ec4-9ec5-c0fc66046051.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=675.5555555555555&h=380&fit=max&dpr=2" width="100%" style="
-    border-radius: 10px;
-    box-shadow: 0 2px 3px 0 rgba(0, 0, 0, .1);
-">
-              </div>
-            </div>
-          </div>
-</section>
-
-
-<section class="section bg-secondary">
-    <div class="container">
-        <div class="row row-grid align-items-center">
-            
- <div class="col-md-12">
-                <div class="pl-md-5 text-center">
-                    
-
-<h3 style="
-">Sell more with your own personal payment page!
-
-</h3>
-
-
-<p>We are sure you would love your own personal payment page, like your own website.
-
-
-   </p>
-                  
+<div class="mt-3" style="/* margin-bottom: 150px; */">
 <br> 
-                    
+<a href="https://www.producthunt.com/posts/payrequest?utm_source=badge-top-post-badge&amp;utm_medium=badge&amp;utm_souce=badge-payrequest" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=176421&amp;theme=light&amp;period=daily" alt="PayRequest - Simple, fast payment links via Stripe and Mollie | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px"></a>
+
+
+
+<img alt="Stripe logo" src="https://payrequest.io/assets/img/stripe-partner-badges/L_Color_Solid.svg" style="height: 63px;padding: 6px;">
+                        </div>
+               </div>
+
+<div class="col-lg-6 col-md-6">
+                  <div class="hero-right">
+                   <img src="https://ph-files.imgix.net/6d83fd11-c994-4ec4-9ec5-c0fc66046051.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=675.5555555555555&h=380&fit=max&dpr=2" alt="hero" style="
+    transform: perspective(1000px) rotateY(-13deg) rotateX(5deg) rotateZ(7deg) scaleY(0.9) scaleX(0.95) translateX(-3%) translateY(-3%);
+">
+                     <div class="hero-dot-shape">
+                 <img src="http://themescare.com/demos/robofume-view/assets/img/hero-dot-shape.png" alt="shape">
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+<!-- Hero Section End -->
+       
+   
+<!-- Companies Section Start -->
+<section class="companies-section section_b_70 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
+         <div class="container">
+            <div class="row align-items-center">
+               <div class="col-lg-6">
+                  <div class="companies-left">
+                     <h4>Startups with their own Payment Page</h4>
+                  </div>
+               </div>
+               <div class="col-lg-6">
+                  <div class="companies-slider owl-carousel">
+                     <div class="single-com-slider">
+                        <a href="#"><img src="https://lh3.googleusercontent.com/hpCa0ZSQrEshrO7bktxy8zeoT4ncoOQ96S-WZcFcHBdWGm7izsCtPydY-86RN6vyMg" alt="companies" /></a>
+                     </div>
+                     <div class="single-com-slider">
+                        <a href="#"><img src="https://lh3.googleusercontent.com/hpCa0ZSQrEshrO7bktxy8zeoT4ncoOQ96S-WZcFcHBdWGm7izsCtPydY-86RN6vyMg" alt="companies" /></a>
+                     </div>
+                     <div class="single-com-slider">
+                        <a href="#"><img src="https://lh3.googleusercontent.com/hpCa0ZSQrEshrO7bktxy8zeoT4ncoOQ96S-WZcFcHBdWGm7izsCtPydY-86RN6vyMg" alt="companies" /></a>
+                     </div>
+                     <div class="single-com-slider">
+                        <a href="#"><img src="https://lh3.googleusercontent.com/hpCa0ZSQrEshrO7bktxy8zeoT4ncoOQ96S-WZcFcHBdWGm7izsCtPydY-86RN6vyMg" alt="companies" /></a>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+<!-- Companies Section End -->
+       
+
+<!-- About Section Start -->
+<section class="about-section">
+         <!-- Top Shape Start -->
+         <div class="about-top-shape">
+            <img src="http://themescare.com/demos/robofume-view/assets/img/about-shape.png" alt="about shape" />
+         </div>
+         <!-- Top Shape End -->
+         <!-- Bottom Shape Start -->
+
+<!-- Bottom Shape End -->
+<!-- About Top Start -->
+<div class="about-top section_100">
+            <div class="container">
+             <div class="row align-items-center">
+                  <div class="col-lg-6">
+                     <div class="about-left wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s; animation-name: fadeInLeft;">
+                        <h3>Manage all<br>Your Payment Pages<br>And Payment Links</h3>
+                        <p>The PayRequest Dashboard lets you manage all your payment links and more, with a simple overview you can view all status and reminders that are send, you will also get a log update when someone views, payment or pays your payment link.
+
+</p>
+                      
+</div>
+                  </div>
+                  <div class="col-lg-6">
+                     <div class="about-right wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
+                        <img src="https://payrequest.io/assets/img/banners/dashboard.png" alt="about">
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+<!-- About Top End -->
+          
+<!-- About Bottom Start -->
+<div class="about-bottom section_b_100">
+            <div class="container">
+          <div class="row align-items-center">
+                  <div class="col-lg-6">
+                     <div class="about-right wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s; animation-name: fadeInLeft;">
+                        <img src="https://8designers.com/8/wp-content/uploads/2020/08/Artboard-%E2%80%93-7@2x.png" alt="about">
+                     </div>
+                  </div>
+                  <div class="col-lg-6">
+                     <div class="about-left wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
+                        <h3>Customize your
+<br>Payment Page!</h3>
+                        <p>Brand colors are an important part of the branding equation. Not only do colors affect decision-making, they envoke emotions in humans, use your own brand colors on your payrequest.me payment page.
+
+
+</p>
+                       
+</div>
+                  </div>
+               </div>
+            </div>
+</div>
+<!-- About Bottom End -->
+</section>
+<!-- About Section End -->
+       
+
+
+
+
+<section class="about-section">
+         <!-- Top Shape Start -->
+         <div class="about-top-shape">
+            <img src="http://themescare.com/demos/robofume-view/assets/img/about-shape.png" alt="about shape">
+         </div>
+<!-- Top Shape End -->
+<!-- Bottom Shape Start -->
+
+<!-- Bottom Shape End -->
+ <!-- About Top Start -->
+<div class="about-top section_100">
+            <div class="container">
+             <div class="row align-items-center">
+                  <div class="col-lg-12">
+                  <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
+                     <div class="section-title">
+<h2>Start sending<span> Payment Requests</span><br> in 3 simple steps.</h2>
+</div>
+                  </div>
+                  
+ </div>
 <style>
   .bubble-number {
     display: block;
@@ -129,8 +216,8 @@ payrequest.me/name</h1>
     max-width: 100%;
     height: auto;
     box-shadow: 0 2px 3px 0 rgba(0, 0, 0, .1);
-  height: 160px;
-    width: 400px;
+    height: 200px;
+    width: 350px;
   }
 
 </style>
@@ -167,119 +254,51 @@ rounded {
 
 
 <div class="row">
-          
-    
-<div class="card-deck">
-  
-  <div class="card">
-    <img class="card-img-top" src="https://ph-files.imgix.net/1bc052d0-8494-4055-8c79-9ee65c25f08e.png?auto=format&amp;auto=compress&amp;codec=mozjpeg&amp;cs=strip&amp;w=675.5555555555555&amp;h=380&amp;fit=max&amp;dpr=2" alt="Card image cap">
-    <div class="card-body">
-      <h5 class="card-title">Dynamic Payment Links
-</h5>
-      <p class="card-text">Save time with creating payment links, just use dynamic links like: payrequest.me/name/12,50 or even payrequest.me/12,50/title/email
-
-</p>
-      
-</div>
-  </div>
-  <div class="card">
-    <img class="card-img-top" src="https://ph-files.imgix.net/596a96a7-798c-4d2b-8db0-bfa5abb199fc.png?auto=format&amp;auto=compress&amp;codec=mozjpeg&amp;cs=strip&amp;w=675.5555555555555&amp;h=380&amp;fit=max&amp;dpr=2" alt="Card image cap">
-    <div class="card-body">
-      <h5 class="card-title">Use the PayRequest.me HTTP API</h5>
-      <p class="card-text">Payment Pages is also created for developers, with our Simple HTTP api you can easily create new payment requests or check the status of a payment request.
-
-</p>
-      
- </div>
-  </div>
-</div>
-          
-
-  </div>
-                
-   </div>
+          <div class="col-sm-4 aos-init aos-animate" data-aos="fade-up" data-aos-easing="delay-slide" data-aos-duration="1300" data-aos-delay="400" data-aos-offset="-100">
+            <div class="img-wrap">
+              <img src="https://i.imgur.com/V8IqnbY.png" alt="confirm chatlio screenshot">
+              <span class="bubble-number">1</span>
             </div>
+            <h5 style="
+    font-weight: 700;
+    color: #1c2045;
+    margin-left: 20px;
+">
+              1. Connect a payment provider.
+            <p></p></h5>
+          </div>
+          <div class="col-sm-4 aos-init aos-animate" data-aos="fade-up" data-aos-easing="delay-slide" data-aos-duration="1300" data-aos-delay="500" data-aos-offset="-100">
+            <div class="img-wrap">
+                    <img src="https://payrequest.io/assets/img/screens/new-request.png" alt="create your own payment link">
+              <span class="bubble-number">2</span>
+            </div>
+            <h5 style="
+    font-weight: 700;
+    color: #1c2045;
+    margin-left: 20px;
+">2. Create a new payment request.</h5>
+          </div>
+          <div class="col-sm-4 aos-init aos-animate" data-aos="fade-up" data-aos-easing="delay-slide" data-aos-duration="1300" data-aos-delay="600" data-aos-offset="-100">
+            <div class="img-wrap">
+              <img src="https://payrequest.io/assets/img/screens/payment-link.png" alt="Share your payment link and get paid">
+              <span class="bubble-number">3</span>
+            </div>
+            <h5 style="
+    font-weight: 700;
+    color: #1c2045;
+    margin-left: 20px;
+">3. Share your payment link, get paid!</h5>
+          </div>
         </div>
-    </div>
+               </div>
+            </div>
+         </div>
+<!-- About Top End -->
+          
+<!-- About Bottom Start -->
+<!-- About Bottom End -->
 </section>
 
 
-
-<section class="section-content" style="padding: 80px 0;">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-6 mt-md-5 order-md-2 order-lg-1">
-            <div class="image-container">
-              <img class="img shadow rounded img-comments w-100" alt="Payrequest Integrions screen" src="https://i.imgur.com/laABh6M.png">
-              <img class="img shadow rounded img-blog mt-5 w-100" alt="Payrequest Request overview" src="https://i.imgur.com/Wt6ygCg.png">
-            </div>
-          </div>
-          <div class="col-lg-6 mx-auto order-md-1">
-            <div class="section-description">
-              <h2 class="display-3">Brand Colors<span class="text-success">Customize your payment page!</span></h2>
-<p class="lead" style="font-size: 1.40rem;
-">Brand colors are an important part of the branding equation. Not only do colors affect decision-making, they envoke emotions in humans, use your own brand colors on your payrequest.me payment page.
-</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-
-
-
-{% include features-block.html %}
-
-
-<section class="section-content" style="padding: 80px 0;">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-6 mt-md-5 order-md-2 order-lg-1">
-            <div class="image-container">
-              <img class="img shadow rounded img-comments w-100" alt="Payrequest Integrions screen" src="https://i.imgur.com/NBB9yC7.png">
-              <img class="img shadow rounded img-blog mt-5 w-100" alt="Payrequest Request overview" src="https://i.imgur.com/ggVaoJu.png">
-            </div>
-          </div>
-          <div class="col-lg-6 mx-auto order-md-1">
-            <div class="section-description">
-              <h2 class="display-3">PayRequest Dashboard<span class="text-success">Manage payment requests.</span></h2>
-              <p class="lead">The PayRequest Dashboard lets you manage all your payment links and more, with a simple overview you can view all status and reminders that are send, you will also get a log update when someone views, chooses payment type or pays your payment link.
-
-</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-
-
-
-
-
-<section class="section-free-demo bg-secondary" style="
-    padding: 40px 0;
-">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-7 col-md-12">
-            <div class="section-description">
-              <h3 class="display-3">Claim your payrequest.me/name </h3>
-              <p class="lead mb-4">Get your own payment page and share it with your clients, or place our payment button on your website with your payrequest.me link.</p>
-              <a href="http://dashboard.payrequest.io/dashboard" target="_blank" class="btn btn-neutral btn-icon">
-                <span class="btn-inner--icon">
-                  <i class="fa fa-sign-in mr-2" aria-hidden="true"></i>
-                </span>
-              <span class="nav-link-inner--text"> Create your payrequest.me page</span>
-            </a>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-12">
-<div class="github-background-container" style="position: absolute;right: -120px;top: 15px;">
- <i class="fa fa-browser" aria-hidden="true" style="font-size: 200px;opacity: .1;"></i>
-            </div>
-          </div>
-        </div>
-        
- </div>
-    </section>    
+{% include why-section.html %}
+{% include footer-promo.html %}

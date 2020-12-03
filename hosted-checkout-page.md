@@ -204,9 +204,6 @@ rounded {
 
 
 
-{% include payrequest-dashboard-block.md %}
-
-
 
 {% include features-block.html %}
 

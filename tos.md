@@ -1,60 +1,38 @@
 ---
 title: PayRequest.io | Terms of Service
+tags: [color-logo]
 ---
 
-<div class="position-relative">
-    <!-- Hero for FREE version -->
-    <section class="section section-lg section-shaped">
-        <!-- Background circles -->
-        <div class="shape shape-style-self shape-primary">
-            <span class="span-150"></span>
-            <span class="span-50"></span>
-            <span class="span-50"></span>
-            <span class="span-75"></span>
-            <span class="span-100"></span>
-            <span class="span-75"></span>
-            <span class="span-50"></span>
-            <span class="span-100"></span>
-            <span class="span-50"></span>
-            <span class="span-100"></span>
-        </div>
-        <div class="container shape-container d-flex align-items-center">
-            <div class="col px-0">
-                <div class="row align-items-center justify-content-center">
-                    <div class="col-lg-6 text-center">
-                      <h1 class="text-white">Terms of Service</h1>
-                        <p class="lead text-white">
-                            At PayRequest we take privacy and security serious, here you can read what we do to protect your data and privacy.
-                        </p>
-                              
-  </div>
-                </div>
+<!-- Done for the new website! -->
+
+<!-- Breadcrumb Start -->
+<section class="breadcrumb-area">
+         <div class="breadcrumb-shape"></div>
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-12">
+                  <div class="breadcrumb-inn">
+                     <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s">
+                       <h2>Terms of <span>Service</span></h2>
+                     </div>
+                  </div>
+               </div>
             </div>
-        </div>
-        <!-- SVG separator -->
-        <div class="separator separator-bottom separator-skew zindex-100">
-            <svg x="0" y="0" viewBox="0 0 2560 100" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
-                <polygon class="fill-white" points="2560 0 2560 100 0 100"></polygon>
-            </svg>
-        </div>
-    </section>
-</div>
+         </div>
+</section>
+ <!-- Breadcrumb End -->
 
-
-
-
-
-<div class="accordion-1">
-    <div class="container">
-        <div class="row">
-            <div class="col-md-12 mx-auto text-center">
+<section class="about-page-section section_100">
+         <div class="container">
+            <div class="row">
+               <div class="col-md-12 mx-auto text-center">
 
 
 <h1>Website Terms and Conditions of Use</h1>
 
 <h2>1. Terms</h2>
 
-<p>By accessing this Website, accessible from https://payrequest.io, you are agreeing to be bound by these Website Terms and Conditions of Use and agree that you are responsible for the agreement with any applicable local laws. If you disagree with any of these terms, you are prohibited from accessing this site. The materials contained in this Website are protected by copyright and trade mark law. These Terms of Service has been created with the help of the <a href="https://www.termsofservicegenerator.net">Terms of Service Generator</a> and the <a href="https://www.termsconditionsexample.com">Terms & Conditions Example</a>.</p>
+<p>By accessing this Website, accessible from https://payrequest.io, you are agreeing to be bound by these Website Terms and Conditions of Use and agree that you are responsible for the agreement with any applicable local laws. If you disagree with any of these terms, you are prohibited from accessing this site. The materials contained in this Website are protected by copyright and trade mark law. These Terms of Service has been created with the help of the <a href="https://www.termsofservicegenerator.net">Terms of Service Generator</a> and the <a href="https://www.termsconditionsexample.com">Terms &amp; Conditions Example</a>.</p>
 
 <h2>2. Use License</h2>
 
@@ -101,8 +79,8 @@ title: PayRequest.io | Terms of Service
 
 
  </div>
-        </div>
-    
-  </div>
+            </div>
+            
 </div>
+</section>
 

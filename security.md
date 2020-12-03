@@ -1,183 +1,237 @@
 ---
-title: PayRequest.io | Security
+title: PayRequest | Security
 description: We at PayRequests takes security seriously
+tags: [color-logo]
 ---
 
-<div class="position-relative">
-	<!-- Hero for FREE version -->
-	<section class="section section-lg section-shaped">
-		<!-- Background circles -->
-		<div class="shape shape-style-self shape-primary">
-			<span class="span-150"></span>
-			<span class="span-50"></span>
-			<span class="span-50"></span>
-			<span class="span-75"></span>
-			<span class="span-100"></span>
-			<span class="span-75"></span>
-			<span class="span-50"></span>
-			<span class="span-100"></span>
-			<span class="span-50"></span>
-			<span class="span-100"></span>
-		</div>
-		<div class="container shape-container d-flex align-items-center">
-			<div class="row text-center justify-content-center">
-				<div class="col-lg-8">
+
+<!-- Done for the new website! -->
 
 
-<div class="icon icon-shape bg-gradient-white shadow rounded-circle mb-3"><i class="fal fa-lock text-info" aria-hidden="true"></i></div>
-
-<h3 class="display-3 text-white">Security at PayRequest</h3>
-					<p class="lead text-white">We understand that we handle payment requests all over the world, thats why we offering a secure platform for any size of business.</p>
-				</div>
-			</div>
-		</div>
-		<!-- SVG separator -->
-		<div class="separator separator-bottom separator-skew zindex-100">
-			<svg x="0" y="0" viewBox="0 0 2560 100" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
-				<polygon class="fill-white" points="2560 0 2560 100 0 100"></polygon>
-			</svg>
-		</div>
-	</section>
-</div>
-
-
-<div class="section features-4">
-
-<div class="container">
-            <div class="row align-items-center text-left">
-              <div class="col-lg-1 col-12 pl-0"> </div>
+<section class="breadcrumb-area">
+         <div class="breadcrumb-shape"></div>
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-12">
+                  <div class="breadcrumb-inn">
+                     <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
+                       <h2>PayRequest <span>Security</span></h2>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
 
 
-<div class="col-lg-3 col-12 pl-0">
-                <img alt="Stripe Payment Links" class="ml-lg-5" src="https://payrequest.io/assets/logos/payrequest-logo-color.png" width="40%">
-              </div>
-
-
-<div class="col-lg-8 col-12">
-                <span class="badge badge-info badge-pill mb-3">Security</span>
-<h1 class="display-3">We make Payment Requests,
-<span class="text-primary">more secure.</span></h1>
- <p class="lead pb-4">Our platform is build with the best technologies and best infrastructure to keep it safe and secure.
-</p>
-                
-</div>
-</div>
-</div>
-
-</div>
-
-
-<section class="section section-lg bg-gradient-default" style="
-    padding-top: 1rem !important;
-    padding-bottom: 1rem;
+<section class="about-page-section section_100">
+         <div class="container">
+            
+<div class="row align-items-center">
+               <div class="col-lg-5 lg-1">
+                  <div class="about-page-left wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInLeft;">
+                     <h2 class="mr-5">
+                        <img src="https://i.imgur.com/iqNmc1K.png" alt="blog image" style="
+    border-radius: 20px;
 ">
-      <div class="container pt-lg pb-100">
-        <div class="row text-center justify-content-center">
-          <div class="col-lg-10">
-            <h2 class="display-3 text-white">All Security Features</h2>
-            <p class="lead text-white">We do everything to secure our platform and your payments.</p>
-          </div>
-        </div>
-       <div class="row">
-
-                <div class="col-md-4">
-                  <div class="info info-hover-default">
-                    <div class="icon icon-shape bg-primary shadow rounded-circle text-primary">
-                      <i class="fa fa-lock text-white" aria-hidden="true"></i>
-                    </div>
-                    <h5 class="info-title text-white">PCI DSS compliant
-
-</h5>
-                    <p class="description opacity-8 text-white">Use your own logo &amp; background, insert your own title and description and of course amount.
-
-</p>
+                    ></h2>
                   </div>
-                </div>
-                <div class="col-md-4">
-                  <div class="info info-hover-default">
-                    <div class="icon icon-shape bg-primary shadow rounded-circle text-primary">
-                      <i class="fa fa-bells text-white" aria-hidden="true"></i>
-                    </div>
-                    <h5 class="info-title text-white">Fully GDPR compliant
-
-
-</h5>
-                    <p class="description opacity-8 text-white">We can send a email or sms reminder once a time but also per week, month or even daily.
-
-</p>
+               </div>
+               <div class="col-lg-6">
+                  <div class="about-page-text wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.6s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.6s; animation-name: fadeInRight;">
+                     <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible;animation-duration: 1s;animation-delay: 0.3s;animation-name: fadeInUp;margin-bottom: 10px;">
+                     <h2>Secure <span>Payments</span></h2>
                   </div>
-                </div>
 
+<h3>Our Payment Platform is build with the safest technologies, we keep investing in our infrastructure to meet all security requirement's.
 
-
-
-
-<div class="col-md-4">
-                  <div class="info info-hover-default">
-                    <div class="icon icon-shape bg-primary shadow rounded-circle text-primary">
-                      <i class="fa fa-sync-alt text-white" aria-hidden="true"></i>
-                    </div>
-                    <h5 class="info-title text-white">CSRF Protection
-
-
-</h5>
-                    <p class="description opacity-8 text-white">We use Cross Site Request Forgery and some bla bla bla more.
-</p>
+</h3>
+                     <img alt="Stripe logo" src="https://payrequest.io/assets/img/stripe-partner-badges/L_Color_Solid.svg" style="height: 63px;padding: 6px;">
                   </div>
-                </div><div class="col-md-4">
-                  <div class="info info-hover-default">
-                    <div class="icon icon-shape bg-primary shadow rounded-circle text-primary">
-                      <i class="fa fa-lock-alt text-white" aria-hidden="true"></i>
-                    </div>
-                    <h5 class="info-title text-white">3D Secure authentication
-
-</h5>
-                    <p class="description opacity-8 text-white">3D Secure is an authentication method used to verify a customer's identity before an online card purchase.
+               </div>
+            </div>
+         </div>
+      </section>
 
 
-</p>
+<hr style="height: 4px;background: linear-gradient(130deg, #1951bf 0%, #25b7c7 89%) !important;opacity: 0.7;">
+
+
+
+<section class="contact-form section_100">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-12">
+                  <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
+                     <h2>PayRequest <span>Security</span></h2>
                   </div>
-                </div>
+               </div>
+            </div>
+            <div class="row" style="
+    margin-bottom: 20px;
+">
+               
 
 
+<div class="col-lg-4 d-flex">
+                  <div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
+                     
 
-<div class="col-md-4">
-                  <div class="info info-hover-default">
-                    <div class="icon icon-shape bg-primary shadow rounded-circle text-info">
-                      <i class="fa fa-credit-card text-white" aria-hidden="true"></i>
-                    </div>
-                    <h5 class="info-title text-white">Secure Data Encryption
-</h5>
-                    <p class="description opacity-8 text-white">The complete database is always encrypted with the industry-standard AES (alias Rijndael) encryption algorithm using a 256 bit key.
+
+<h4 class="title" style="
+    margin-bottom: 0px;
+    padding: 20px 24px 0px;
+    font-size: 23px;
+">
+    
+<i class="fa fa-lock" style="padding-right: 10px;"></i>PCI DSS compliant
+</h4>
+                    
+<ul class="address-list">
+                        <li>
+                           <p>We do not store any sensitive card data, we also only work together with PCI Level 1 Service Providers like Stripe.
 </p>
-                  </div>
-                </div>
+                        </li>
+                        
+ </ul>
+
+  </div>
+ </div>
 
 
-<div class="col-md-4">
-                  <div class="info info-hover-default">
-                    <div class="icon icon-shape bg-primary shadow rounded-circle text-info">
-                      <i class="fab fa-aws text-white" aria-hidden="true"></i>
-                    </div>
-                    <h5 class="info-title text-white">Reliable Infrastructure
 
-</h5>
-                    <p class="description opacity-8 text-white">we use the best cloud and software which results in 99,999% uptime on all our services.
+
+<div class="col-lg-4 d-flex">
+<div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
+
+<h4 class="title" style="margin-bottom: 0px;font-size: 23px;padding: 20px 24px 0px;
+">
+<i class="fa fa-lock" style="padding-right: 10px;"></i>Fully GDPR compliant
+</h4>
+                    
+<ul class="address-list">
+<li>
+<p>Via our dashboard you can export your account data or permanent delete your entire account.
 </p>
-                  </div>
-                </div>
-              </div>
+                        </li>
+                        
+  </ul>
 
-
-
+  </div>
 </div>
-      <!-- SVG separator -->
-      <div class="separator separator-bottom separator-skew zindex-100">
-        <svg x="0" y="0" viewBox="0 0 2560 100" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
-          <polygon class="fill-white" points="2560 0 2560 100 0 100"></polygon>
-        </svg>
-      </div>
-    </section>
 
-{% include contact-block.html %}
+
+
+<div class="col-lg-4 d-flex">
+<div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
+
+
+<h4 class="title" style="
+    margin-bottom: 0px;
+    padding: 20px 24px 0px;
+    font-size: 23px;
+">
+    
+ <i class="fa fa-lock" style="padding-right: 10px;"></i>CSRF Protection
+
+</h4>
+                    
+<ul class="address-list">
+ <li>
+<p>All our applications are protected with CSRF Protection, to protect against cross-site request forgery (CSRF) attacks.
+</p>
+ </li>
+                        
+  </ul>
+
+  </div>
+  </div>
+
+
+ </div>
+
+<div class="row">
+               
+
+<div class="col-lg-4 d-flex">
+ <div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
+
+<h4 class="title" style="
+    margin-bottom: 0px;
+    padding: 20px 24px 0px;
+    font-size: 23px;
+">
+    
+ <i class="fa fa-lock" style="padding-right: 10px;"></i> 3D Secure payments
+</h4>
+                    
+<ul class="address-list">
+                        <li>
+                           <p>For extra fraud protection we use 3D Secure authentication method used to verify a customer's identity before an online card purchase.
+
+
+</p>
+ </li>
+                        
+</ul>
+
+ </div>
+ </div>
+
+
+
+
+<div class="col-lg-4 d-flex">
+<div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
+
+<h4 class="title" style="margin-bottom: 0px; padding: 20px 24px 0px;
+    font-size: 23px;
+">
+<i class="fa fa-lock" style="padding-right: 10px;"></i>Secure Data Encryption
+</h4>
+                    
+<ul class="address-list">
+<li>
+ <p>The complete database is always encrypted with the industry-standard AES (alias Rijndael) encryption algorithm using a 256 bit key.
+</p>
+</li>           
+ </ul>
+
+ </div>
+ </div>
+
+
+
+<div class="col-lg-4 d-flex">
+<div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
+
+<h4 class="title" style="
+    margin-bottom: 0px;
+    padding: 20px 24px 0px;
+    font-size: 23px;
+">
+    
+<i class="fa fa-lock" style="padding-right: 10px;"></i>Reliable Infrastructure
+
+</h4>
+                    
+<ul class="address-list">
+                        <li>
+                           <p>we use the best cloud and software which results in 99,999% uptime on all our services, and we monitor 24x7x365 all our applications.
+</p>
+                        </li>
+                        
+</ul>
+
+   </div>
+ </div>
+
+  </div>
+ </div>
+ </section>
+
+
+
+
+{% include footer-promo.html %}
 

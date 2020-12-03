@@ -1,97 +1,85 @@
 ---
 title: PayRequest.io | Digital Downloads
 description: Everything you need to accept payments and to sell online.
+tags: [color-logo]
 ---
 
-<div class="position-relative">
-    <!-- Hero for FREE version -->
-    <section class="section section-lg section-shaped">
-        <!-- Background circles -->
-        <div class="shape shape-style-self shape-primary">
-            <span class="span-150"></span>
-            <span class="span-50"></span>
-            <span class="span-50"></span>
-            <span class="span-75"></span>
-            <span class="span-100"></span>
-            <span class="span-75"></span>
-            <span class="span-50"></span>
-            <span class="span-100"></span>
-            <span class="span-50"></span>
-            <span class="span-100"></span>
-        </div>
-        <div class="container shape-container d-flex align-items-center">
-            <div class="col px-0">
-                <div class="row align-items-center justify-content-center">
-                    <div class="col-lg-7 text-center">
-
-<div class="icon icon-shape bg-gradient-white shadow rounded-circle mb-3"><i class="fal fa-download text-info" aria-hidden="true"></i></div>
-                        
-                      <h1 class="text-white">Digital Downloads
-</h1>
-                        <p class="lead text-white">Create and share payment links in seconds, no coding required.
-</p>
-                        
-                    
-                    </div>
-                </div>
+<section class="breadcrumb-area">
+         <div class="breadcrumb-shape"></div>
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-12">
+                  <div class="breadcrumb-inn">
+                     <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
+                       <h2>Digital <span>Downloads</span></h2>
+                     </div>
+                  </div>
+               </div>
             </div>
-        </div>
-        <!-- SVG separator -->
-        <div class="separator separator-bottom separator-skew zindex-100">
-            <svg x="0" y="0" viewBox="0 0 2560 100" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
-                <polygon class="fill-white" points="2560 0 2560 100 0 100"></polygon>
-            </svg>
-        </div>
-    </section>
-</div>
-
-
-<section class="section section-lg">
-          <div class="container">
-            <div class="row align-items-center text-left">
-              <div class="col-lg-6 col-12">
-                <span class="badge badge-info badge-pill mb-3">Worldwide payments</span>
-<h1 class="display-3">Digital Downloads,
-<span class="text-primary">Sell your digital assets.</span></h1>
-                <p class="lead pb-4">Sell digital downloads like eBooks, audio books, PDF’s, Exel sheets, videos or audio files.
-<br> <br>
-<a href="https://dashboard.payrequest.io" class="btn btn-lg btn-github btn-icon mb-3 mb-sm-0">
-                                <span class="btn-inner--icon"><i class="fal fa-download" aria-hidden="true"></i></span>
-                                <span class="btn-inner--text">Start selling digital downloads</span>
-                            </a>
-
-                </p>
-                
-              </div>
-              <div class="col-lg-6 col-12 pl-0">
-                <img class="ml-lg-5" src="https://i.imgur.com/69ulLbi.png" width="100%">
-              </div>
-            </div>
-          </div>
+         </div>
 </section>
 
 
-<section class="section bg-secondary">
-    <div class="container">
-        <div class="row row-grid align-items-center">
-            
-            <div class="col-md-12">
-                <div class="pl-md-5">
-                    <div class="icon icon-lg icon-shape icon-shape-warning shadow rounded-circle mb-5" style="
-    float: left;
+<section class="about-page-section section_100">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-12">
+                  
+</div>
+            </div>
+            <div class="row align-items-center">
+               <div class="col-lg-5 lg-1">
+                  <div class="about-page-left wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInLeft;">
+                     <h2 class="mr-5"><div class="">
+ <img src="https://i.imgur.com/69ulLbi.png" alt="blog image" style="
+    border-radius: 20px;
 ">
-                        <i class="fa fa-money-bill" aria-hidden="true"></i>
+                     </div></h2>
+                  </div>
+               </div>
+               <div class="col-lg-6">
+                  <div class="about-page-text wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.6s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.6s; animation-name: fadeInRight;">
+                     <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
+                     <h2>Sell 
+<span>Digital Downloads</span>
 
-                    </div>
+</h2>
+                  </div>
 
-<h3 style="
-    /* float: right; */
-    margin-left: 90px;
-">Start sending Payment Links in 3 simple steps.</h3>
-                    
-                    
-<br> 
-                    
+<h3>Sell digital downloads like eBooks, audio books, PDF’s, Exel sheets, videos or audio files.
+
+</h3>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+
+
+
+
+
+<section class="about-section">
+         <!-- Top Shape Start -->
+         <div class="about-top-shape">
+            <img src="http://themescare.com/demos/robofume-view/assets/img/about-shape.png" alt="about shape">
+         </div>
+         <!-- Top Shape End -->
+         <!-- Bottom Shape Start -->
+
+ <!-- Bottom Shape End -->
+ <!-- About Top Start -->
+<div class="about-top section_100">
+            <div class="container">
+             <div class="row align-items-center">
+                  <div class="col-lg-12">
+                  <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
+                     <div class="section-title">
+<h2>Start selling<span> Digital Downloads</span><br> in 3 simple steps.</h2>
+</div>
+                  </div>
+                  
+</div>
 <style>
   .bubble-number {
     display: block;
@@ -125,8 +113,8 @@ description: Everything you need to accept payments and to sell online.
     max-width: 100%;
     height: auto;
     box-shadow: 0 2px 3px 0 rgba(0, 0, 0, .1);
-  height: 160px;
-    width: 400px;
+    height: 200px;
+    width: 350px;
   }
 
 </style>
@@ -168,51 +156,46 @@ rounded {
               <img src="https://i.imgur.com/V8IqnbY.png" alt="confirm chatlio screenshot">
               <span class="bubble-number">1</span>
             </div>
-            <h4>
-              1. Connect a payment provider like Stripe.
-            </h4>
+            <h5 style="
+    font-weight: 700;
+    color: #1c2045;
+    margin-left: 20px;
+">
+              1. Connect a payment provider.
+            <p></p></h5>
           </div>
           <div class="col-sm-4 aos-init aos-animate" data-aos="fade-up" data-aos-easing="delay-slide" data-aos-duration="1300" data-aos-delay="500" data-aos-offset="-100">
             <div class="img-wrap">
-              <img src="https://i.imgur.com/bnRvxjs.png" alt="get widget code snippet screenshot">
+                    <img src="https://payrequest.io/assets/img/screens/new-request.png" alt="create your own payment link">
               <span class="bubble-number">2</span>
             </div>
-            <h4>2. Create your own payment link.</h4>
+            <h5 style="
+    font-weight: 700;
+    color: #1c2045;
+    margin-left: 20px;
+">2. Create a new payment link.</h5>
           </div>
           <div class="col-sm-4 aos-init aos-animate" data-aos="fade-up" data-aos-easing="delay-slide" data-aos-duration="1300" data-aos-delay="600" data-aos-offset="-100">
             <div class="img-wrap">
-              <img src="https://payrequest.io/assets/img/screens/screen1.jpeg" alt="start chatting screenshot">
+              <img src="https://payrequest.io/assets/img/screens/payment-link.png" alt="Share your payment link and get paid">
               <span class="bubble-number">3</span>
             </div>
-            <h4>3. Share your payment link and get paid!</h4>
+            <h5 style="
+    font-weight: 700;
+    color: #1c2045;
+    margin-left: 20px;
+">3. Share your payment link, get paid!</h5>
           </div>
         </div>
-                
-                </div>
+               </div>
             </div>
-        </div>
-    </div>
+         </div>
+         <!-- About Top End -->
+          
+<!-- About Bottom Start -->
+<!-- About Bottom End -->
 </section>
 
 
-
-<section class="section-content" style="padding: 80px 0;">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-6 mt-md-5 order-md-2 order-lg-1">
-            <div class="image-container">
-              <img class="img shadow rounded img-comments w-100" alt="Payrequest Integrions screen" src="https://i.imgur.com/NBB9yC7.png">
-              <img class="img shadow rounded img-blog mt-5 w-100" alt="Payrequest Request overview" src="https://i.imgur.com/ggVaoJu.png">
-            </div>
-          </div>
-          <div class="col-lg-6 mx-auto order-md-1">
-            <div class="section-description">
-              <h2 class="display-3">PayRequest Dashboard<span class="text-success">Manage all your payment links.</span></h2>
-              <p class="lead">The PayRequest Dashboard lets you manage all your payment links and more, with a simple overview you can view all status and reminders that are send, you will also get a log update when someone views, chooses payment type or pays your payment link.
-
-</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+{% include why-section.html %}
+{% include footer-promo.html %}

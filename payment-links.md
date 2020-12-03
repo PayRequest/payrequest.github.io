@@ -1,388 +1,375 @@
 ---
 title: PayRequest.io | Payment Links
-description: Create and share payment links in seconds, no coding required.
 ---
 
+<!-- Done for the new website! -->
 
-<section class="section section-lg section-shaped">
-    <!-- Background circles -->
-    <div class="shape shape-style-self shape-primary">
-      <span class="span-150"></span>
-      <span class="span-50"></span>
-      <span class="span-50"></span>
-      <span class="span-75"></span>
-      <span class="span-100"></span>
-      <span class="span-75"></span>
-      <span class="span-50"></span>
-      <span class="span-100"></span>
-      <span class="span-50"></span>
-      <span class="span-100"></span>
-    </div>
-    <div class="container shape-container d-flex align-items-center">
-      <div class="col px-0">
-        <div class="row align-items-center justify-content-center">
-          <div class="col-lg-7 text-center">
-<div class="icon icon-shape bg-gradient-white shadow rounded-circle mb-3"><i class="fal fa-link text-info" aria-hidden="true"></i></div>
-            <h1 class="text-white">Payment Links
-</h1>
-            <p class="lead text-white">Create and share payment links in seconds, no coding required.
-<br />
-<br />
+
+<section class="hero-section">
+         <!-- Hero Shape Start -->
+      
+ <div class="hero-shape5">
+        
+<img src="https://payrequest.io/assets/logos/Icon%20white.png" alt="shape" style="max-width: 160px;">
+         </div>
+         <!-- Hero Shape End -->
+          
+ <!-- Hero Bg Start -->
+ <div class="hero-bg">
+            <img src="assets/img/hero_shape.png" alt="hero shape">
+         </div>
+         <!-- Hero Bg End -->
+          
+ <div class="container">
+            <div class="row align-items-center">
+             <div class="col-lg-6 col-md-6">
+                  <div class="hero-left">
+<h2> Send Branded
+<span class="underline">Payment Links</span>
+</h2>
+
+
+<p style="
+    font-size: 20px;
+">
+PayRequest makes it easy to create payment links and share them worldwide with all your customers, accept payments online.
+
+</p>
+
+<a href="#" class="theme-btn mt-4"> Create Your Free Account<span class="fa fa-chevron-right"></span></a>
+
+ </div>
+
+
+
+<div class="mt-3" style="/* margin-bottom: 150px; */">
+<br> 
+
 <a href="https://www.producthunt.com/posts/payrequest?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-payrequest" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=176421&theme=dark" alt="PayRequest - Simple, fast payment links via Stripe and Mollie | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
+
+<img alt="Stripe logo" src="https://payrequest.io/assets/img/stripe-partner-badges/L_Color_Solid.svg" style="height: 63px;padding: 6px;">
+
+<!-- TrustBox widget - Micro Review Count -->
+<div style="margin-left:10px;" class="trustpilot-widget" data-locale="en-US" data-template-id="5419b6a8b0d04a076446a9ad" data-businessunit-id="5f47f39cf225070001b40cfa" data-style-height="24px" data-style-width="250px" data-theme="light">
+  <a href="https://www.trustpilot.com/review/payrequest.io" target="_blank" rel="noopener">Trustpilot</a>
+</div>
+<!-- End TrustBox widget -->
+ </div>
+               </div>
+
+ <div class="col-lg-6 col-md-6">
+                  <div class="hero-right">
+                   <img src="https://payrequest.io/assets/img/banners/payment-links.png" alt="hero" style="
+    transform: perspective(1000px) rotateY(-13deg) rotateX(5deg) rotateZ(7deg) scaleY(0.9) scaleX(0.95) translateX(-3%) translateY(-3%);
+">
+                     <div class="hero-dot-shape">
+                 <img src="http://themescare.com/demos/robofume-view/assets/img/hero-dot-shape.png" alt="shape">
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+</section>
+
+
+ <!-- All Payment Methods Section Start -->
+ <section class="companies-section section_b_70 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
+         <div class="container">
+            <div class="row align-items-center">
+               <div class="col-lg-6">
+                  <div class="companies-left">
+                     <h4>We let you accept all payment methods</h4>
+                  </div>
+               </div>
+               <div class="col-lg-6">
+                  <div class="companies-slider owl-carousel">
+                     <div class="single-com-slider">
+                        <a href="#"><img src="https://payrequest.io/assets/img/payment-icons/ideal@2x.png" alt="ideal" /></a>
+                     </div>
+                     <div class="single-com-slider">
+                        <a href="#"><img src="https://payrequest.io/assets/img/payment-icons/visa@2x.png" alt="visa" /></a>
+                     </div>
+                     <div class="single-com-slider">
+                        <a href="#"><img src="https://payrequest.io/assets/img/payment-icons/mastercard@2x.png" alt="mastercard" /></a>
+                     </div>
+                     <div class="single-com-slider">
+                        <a href="#"><img src="https://payrequest.io/assets/img/payment-icons/sofort@2x.png" alt="sofort banking" /></a>
+                     </div>
+
+  <div class="single-com-slider">
+                        <a href="#"><img src="https://payrequest.io/assets/img/payment-icons/giropay@2x.png" alt="giropay" /></a>
+                     </div>
+
+
+ </div>
+               </div>
+            </div>
+         </div>
+</section>
+ <!-- All Payment Methods Section End -->
+
+
+
+ <section class="about-section">
+         <!-- Top Shape Start -->
+         <div class="about-top-shape">
+            <img src="http://themescare.com/demos/robofume-view/assets/img/about-shape.png" alt="about shape">
+         </div>
+         <!-- Top Shape End -->
+         <!-- Bottom Shape Start -->
+
+ <!-- Bottom Shape End -->
+ <!-- About Top Start -->
+<div class="about-top section_100">
+            <div class="container">
+             <div class="row align-items-center">
+                  <div class="col-lg-6">
+                     <div class="about-left wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s; animation-name: fadeInLeft;">
+                        <h3>Manage all<br>Your Payment Pages<br>And Payment Links</h3>
+                        <p>The PayRequest Dashboard lets you manage all your payment links and more, with a simple overview you can view all status and reminders that are send, you will also get a log update when someone views, payment or pays your payment link.
+
+</p>
+                      
+</div>
+</div>
+<div class="col-lg-6">
+                     <div class="about-right wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
+                        <img src="https://payrequest.io/assets/img/banners/dashboard.png" alt="about">
+                     </div>
+</div>
+    </div>
+ </div>
+ </div>
+ <!-- About Top End -->
+ <!-- About Bottom Start -->
+ <div class="about-bottom section_b_100">
+            <div class="container">
+          <div class="row align-items-center">
+                  <div class="col-lg-6">
+                     <div class="about-right wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s; animation-name: fadeInLeft;">
+                        <img src="https://ph-files.imgix.net/1bc052d0-8494-4055-8c79-9ee65c25f08e.png?auto=format&amp;auto=compress&amp;codec=mozjpeg&amp;cs=strip&amp;w=675.5555555555555&amp;h=380&amp;fit=max&amp;dpr=2" alt="about">
+                     </div>
+                  </div>
+                  <div class="col-lg-6">
+                     <div class="about-left wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
+ <h3>Dynamic Payment Links
+<br>For custom amounts</h3>
+                        <p>Save time with creating payment links, just use dynamic links like: payrequest.me/name/12,50 or even payrequest.me/12,50/title/email
+
+</p>
+                       
+</div>
+                  </div>
+ </div>
+ </div>
+ </div>
+ <!-- About Bottom End -->
+</section>
+
+
+
+
+<section class="contact-form section_100">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-12">
+                  <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
+                     <h2>Payment Link <span>Features</span></h2>
+                  </div>
+               </div>
+            </div>
+            <div class="row" style="
+    margin-bottom: 20px;
+">
+<div class="col-lg-4 d-flex">
+                  <div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
+                     
+
+
+<h4 class="title" style="
+    margin-bottom: 0px;
+    padding: 20px 24px 0px;
+    font-size: 23px;
+">
+    
+<i class="fa fa-map-marker" style="padding-right: 10px;"></i>Multi Currency
+
+</h4>
+                    
+<ul class="address-list">
+                        <li>
+                           <p>We support al major currencies all around the globe, with realtime currency conversion for every currency.
 
 
 </p>
-          
+                        </li>
+                        
+ </ul>
+
+ </div>
 </div>
-        </div>
-      </div>
-    </div>
-    <!-- SVG separator -->
-    <div class="separator separator-bottom separator-skew zindex-100">
-      <svg x="0" y="0" viewBox="0 0 2560 100" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
-        <polygon class="fill-white" points="2560 0 2560 100 0 100"></polygon>
-      </svg>
-    </div>
-</section>
 
 
 
-<section class="section section-lg">
-          <div class="container">
-            <div class="row align-items-center text-left">
-              <div class="col-lg-6 col-12">
-                <span class="badge badge-info badge-pill mb-3">Worldwide payments</span>
-<h1 class="display-3">Payment Links,<span class="text-primary">Send payment requests</span></h1>
-                <p class="lead pb-4">PayRequest makes it easy to create payment links and share them worldwide with all your customers,
-                	accept payments online.
+
+<div class="col-lg-4 d-flex">
+                  <div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
+                     
 
 
-<br /> <br />
-<a href="https://dashboard.payrequest.io" class="btn btn-lg btn-github btn-icon mb-3 mb-sm-0">
-                                <span class="btn-inner--icon"><i class="fal fa-link" aria-hidden="true"></i></span>
-                                <span class="btn-inner--text">Start sending payment links</span>
-                            </a>
-
-   </p>
-                
-  </div>
-              <div class="col-lg-6 col-12 pl-0">
-                <img class="ml-lg-5" src="https://payrequest.io/assets/img/banners/payment-links.png" width="100%" style="
-    border-radius: 10px;
-    box-shadow: 0 2px 3px 0 rgba(0, 0, 0, .1);
+<h4 class="title" style="
+    margin-bottom: 0px;
+    font-size: 23px;
+    padding: 20px 24px 0px;
 ">
-              </div>
-            </div>
-          </div>
-</section>
+    
+ <i class="fa fa-map-marker" style="padding-right: 10px;"></i>Branded Payment Links
+</h4>
+                    
+<ul class="address-list">
+                        <li>
+                           <p>Send en Share Payment Links with your own brand logo &amp; background, also you can choose your own colors. 
+</p>
+                        </li>
+                        
+</ul>
+
+ </div>
+ </div>
 
 
-<section class="section bg-secondary">
-    <div class="container">
-        <div class="row row-grid align-items-center">
-            
- <div class="col-md-12">
-                <div class="pl-md-5">
-                    <div class="icon icon-lg icon-shape icon-shape-warning shadow rounded-circle mb-5" style="
-    float: left;
+
+<div class="col-lg-4 d-flex">
+                  <div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
+                     
+
+
+<h4 class="title" style="
+    margin-bottom: 0px;
+    padding: 20px 24px 0px;
+    font-size: 23px;
 ">
-                        <i class="fa fa-money-bill" aria-hidden="true"></i>
+    
+<i class="fa fa-map-marker" style="padding-right: 10px;"></i>Multi Language
 
-                    </div>
-
-<h3 style="
-    /* float: right; */
-    margin-left: 90px;
-">Start sending Payment Links in 3 simple steps.</h3>
+</h4>
                     
-                    
-<br> 
-                    
-<style>
-  .bubble-number {
-    display: block;
-    width: 50px;
-    height: 50px;
-    background: url(https://chatlio.com/img/bg-bubble-number.svg) no-repeat center;
-    background-size: 50px;
-    line-height: 50px;
-    color: #fff;
-    font-size: 1.25rem;
-    font-weight: 700;
-    text-align: center;
-    position: absolute;
-    top: -20px;
-    right: 0;
-  }
-  
-  .img-wrap {
-    max-height: 220px;
-    max-width: 360px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 30px;
-    border-radius: 10px;
-    position: relative;
-  }
-  
-  .img-wrap img {
-    background: #f5f9fc;
-    border-radius: 10px;
-    max-width: 100%;
-    height: auto;
-    box-shadow: 0 2px 3px 0 rgba(0, 0, 0, .1);
-  height: 160px;
-    width: 400px;
-  }
+<ul class="address-list">
+                        <li>
+                           <p>Payment Links are multi-language, so that you can welcome all your customers in your own language.
+</p>
+                        </li>
+                        
+ </ul>
 
-</style>
+ </div>
+ </div>
 
-<style>
-.section-content .image-container {
-    height: 400px;
-}
-.section-content .image-container .img-comments {
-    z-index: 3;
-    left: -100px;
-    top: -40px;
-}
-.section-content .image-container img {
-    position: absolute;
-    width: 100%;
-    max-width: 380px;
-}
-[class*=shadow] {
-    transition: all .15s ease;
-}
-.section-content .image-container .img-blog {
-    z-index: 4;
-    left: 100px;
-    top: 20px;
-}
-.profile-page .card-profile .card-profile-image img, .shadow {
-    box-shadow: 0 15px 35px rgba(50,50,93,.1),0 5px 15px rgba(0,0,0,.07)!important;
-}
-rounded {
-    border-radius: .25rem!important;
-}
-</style>
+
+
+
+ </div>
+
+
 
 
 <div class="row">
-          <div class="col-sm-4 aos-init aos-animate" data-aos="fade-up" data-aos-easing="delay-slide" data-aos-duration="1300" data-aos-delay="400" data-aos-offset="-100">
-            <div class="img-wrap">
-              <img src="https://i.imgur.com/V8IqnbY.png" alt="confirm chatlio screenshot">
-              <span class="bubble-number">1</span>
-            </div>
-            <h4>
-              1. Connect a payment provider like Stripe.
-            </h4>
-          </div>
-          <div class="col-sm-4 aos-init aos-animate" data-aos="fade-up" data-aos-easing="delay-slide" data-aos-duration="1300" data-aos-delay="500" data-aos-offset="-100">
-            <div class="img-wrap">
-                    <img src="https://payrequest.io/assets/img/screens/new-request.png" alt="create your own payment link">
-              <span class="bubble-number">2</span>
-            </div>
-            <h4>2. Create your own payment link.</h4>
-          </div>
-          <div class="col-sm-4 aos-init aos-animate" data-aos="fade-up" data-aos-easing="delay-slide" data-aos-duration="1300" data-aos-delay="600" data-aos-offset="-100">
-            <div class="img-wrap">
-              <img src="https://payrequest.io/assets/img/screens/payment-link.png" alt="Share your payment link and get paid">
-              <span class="bubble-number">3</span>
-            </div>
-            <h4>3. Share your payment link and get paid!</h4>
-          </div>
-        </div>
-                
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+               
 
 
 
+<div class="col-lg-4 d-flex">
+                  <div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
+                     
 
 
+<h4 class="title" style="
+    margin-bottom: 0px;
+    padding: 20px 24px 0px;
+    font-size: 23px;
+">
+    
+<i class="fa fa-map-marker" style="padding-right: 10px;"></i>Local Payment Methods
 
-<section class="section-content" style="padding: 80px 0;">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-6 mt-md-5 order-md-2 order-lg-1">
-            <div class="image-container">
-              <img class="img shadow rounded img-comments w-100" alt="Payrequest Integrions screen" src="https://i.imgur.com/NBB9yC7.png">
-              <img class="img shadow rounded img-blog mt-5 w-100" alt="Payrequest Request overview" src="https://i.imgur.com/ggVaoJu.png">
-            </div>
-          </div>
-          <div class="col-lg-6 mx-auto order-md-1">
-            <div class="section-description">
-              <h2 class="display-3">PayRequest Dashboard<span class="text-success">Manage all your payment links.</span></h2>
-              <p class="lead">The PayRequest Dashboard lets you manage all your payment links and more, with a simple overview you can view all status and reminders that are send, you will also get a log update when someone views, chooses payment type or pays your payment link.
-
+</h4>
+                    
+<ul class="address-list">
+                        <li>
+                           <p>Never say no again, we support 20+ local payment methods from Africa, Europe, North America and Asia.
 </p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+                        </li>
+                        
+ </ul>
 
-
-
-{% include features-block.html %}
-
-
-
-
-
-<div class="accordion-1">
-      <div class="container">
-        <div class="row">
-          <div class="col-md-6 mx-auto text-center">
-            <h2 class="title mb-3 mt-5">Payment Links information</h2>
-          </div>
-        </div>
-        <div class="row">
-          <div class="col-md-12 ml-auto">
-            <div class="accordion" id="accordionExample">
-              <div class="card">
-                <div class="card-header" id="headingOne">
-                  <h5 class="mb-0">
-                    <button class="btn btn-link w-100 text-primary text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="false" aria-controls="collapseOne">
-                      What countries does PayRequest support ?
-                      <i class="ni ni-bold-down float-right pt-1"></i>
-                    </button>
-                  </h5>
-                </div>
-                <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample" style="">
-                  <div class="card-body opacity-8">
-With PayRequest you can signup for an account, no matter where you are.
-The payment methods that you can use depends on our payment service providers wich have differen
-If you have any questions about supporting countries just contact our support team, to view payment methods per country and integration you can look at the page <a href="https://payrequest.io/payment-methods"> Payment Methods per region</a>
-                  </div>
-                </div>
-              </div>
-              <div class="card">
-                <div class="card-header" id="headingTwo">
-                  <h5 class="mb-0">
-                    <button class="btn btn-link w-100 text-primary text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                      What is a Payment Link ?
-                      <i class="ni ni-bold-down float-right pt-1"></i>
-                    </button>
-                  </h5>
-                </div>
-                <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
-                  <div class="card-body opacity-8">
-                        A payment link is a unique link you can share via email or sms which contains a specified amount and a personal message for the reciever. On the payment link page they can choose a payment method like credit card and pay the requested amount. After a succesfull payment you will get a notification about it.
-                  </div>
-                </div>
-              </div>
-              <div class="card">
-                <div class="card-header" id="headingThree">
-                  <h5 class="mb-0">
-                    <button class="btn btn-link w-100 text-primary text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                      What are the costs for using payrequest ?
-                      <i class="ni ni-bold-down float-right pt-1"></i>
-                    </button>
-                  </h5>
-                </div>
-                <div id="collapseThree" class="collapse" aria-labelledby="headingThree" data-parent="#accordionExample">
-                  <div class="card-body opacity-8">
-                   Signup for Payrequest and creating payment links is free, you only pay the transactions costs of Mollie or Stripe plus a 2% service fee to cover the costs of our platform.
-                  </div>
-                </div>
-              </div>
-                <div class="card">
-                    <div class="card-header" id="headingFive">
-                        <h5 class="mb-0">
-                            <button class="btn btn-link w-100 text-primary text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                                Do you offer premium to non-profit organisations?
-                                <i class="ni ni-bold-down float-right pt-1"></i>
-                            </button>
-                        </h5>
-                    </div>
-                    <div id="collapseFive" class="collapse" aria-labelledby="headingFive" data-parent="#accordionExample">
-                        <div class="card-body opacity-8">
-                            Educational and non-profit organisations could be eligible to receive the premium package for no additional costs except sms or letter credits.
-                            For more information about this topic please contact us.
-                        </div>
-                    </div>
-                </div>
-              <div class="card">
-                <div class="card-header" id="headingFour">
-                  <h5 class="mb-0">
-                    <button class="btn btn-link w-100 text-primary text-left" type="button" data-toggle="collapse" data-target="#collapseFour" aria-controls="collapseFour">
-                       My Payment Service Provider is not listed ?
-                      <i class="ni ni-bold-down float-right pt-1"></i>
-                    </button>
-                  </h5>
-                </div>
-                <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
-                  <div class="card-body opacity-8">
-                    For now we only support Mollie &amp; Stripe because these are big names in the PSP market, we are planning to support more PSP in the future, also CoinBase &amp; PayPal is on our roadmap, if you need any other PSP please contact us and we will add it to our roadmap.
-                  </div>
-                </div>
-              </div>
-            
-  </div>
    </div>
-        </div>
-      </div>
-    </div>
+ </div>
 
-<div class="section">
-      <div class="container">
-        <div class="row justify-content-between align-items-center">
-         
-  <div class="col-lg-6 mb-6 mb-lg-0">
-            <h1 class="font-weight-light">Reusable Payment Links
-</h1>
-            <p class="lead mt-4">Want to let customers pay more then once? no problem! with Reusable payment links you can accept many payments with just one link.</p>
-            <a href="https://demos.creative-tim.com/argon-design-system-pro/docs/1.0/components/carousel.html" class="btn btn-white mt-4">Start sending reusable payment links</a>
-          </div>
 
-<div class="col-lg-6 mb-lg-auto">
-            <div class="image-container">
-              
-   <img class="img shadow rounded mt-5 w-100" alt="Payrequest Request overview" src="https://i.imgur.com/3ljILKs.png">
-            </div>
-          </div>
-          
+
+
+<div class="col-lg-4 d-flex">
+                  <div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
+                     
+
+
+<h4 class="title" style="
+    margin-bottom: 0px;
+    padding: 20px 24px 0px;
+    font-size: 23px;
+">
+    
+ <i class="fa fa-map-marker" style="padding-right: 10px;"></i> 3D Secure payments
+</h4>
+                    
+<ul class="address-list">
+                        <li>
+                           <p>For extra fraud protection we use 3D Secure authentication method used to verify a customer's identity 
+</p>
+                        </li>
+                        
+  </ul>
+ </div>
+ </div>
+
+
+
+<div class="col-lg-4 d-flex">
+                  <div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
+                     
+
+
+<h4 class="title" style="
+    margin-bottom: 0px;
+    padding: 20px 24px 0px;
+    font-size: 23px;
+">
+    
+<i class="fa fa-map-marker" style="padding-right: 10px;"></i>Payment Tracking
+</h4>
+                    
+<ul class="address-list">
+                        <li>
+                           <p>We make sure you can track all payment activity like: if your payment links is opened, and a notification when you get paid.
+</p>
+                        </li>
+                                 
+  </ul>
+
   </div>
-      </div>
-    </div>
+  </div>
 
 
 
-<section class="section-free-demo bg-secondary" style="
-    padding: 40px 0;
-">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-7 col-md-12">
-            <div class="section-description">
-              <h3 class="display-3"> Start sending payment links</h3>
-              <p class="lead mb-4">Create a payment link for your customer or use reusaable links to let all your customers pay.</p>
-              <a href="http://dashboard.payrequest.io/dashboard" target="_blank" class="btn btn-neutral btn-icon">
-                <span class="btn-inner--icon">
-                  <i class="fa fa-sign-in mr-2" aria-hidden="true"></i>
-                </span>
-              <span class="nav-link-inner--text"> Create your payment link </span>
-            </a>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-12">
-            <div class="github-background-container" style="
-    position: absolute;
-    right: -120px;
-    top: 15px;
-">
-              <i class="fal fa-link" aria-hidden="true" style="
-    font-size: 200px;
-    opacity: .1;
-"></i>
-            </div>
-          </div>
-        </div>
-        
-      </div>
-    </section>
+
+
+
+
+
+
+  </div>
+</div>
+  </section>
+
+
+
+  {% include footer-promo.html %}
