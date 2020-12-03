@@ -6,7 +6,7 @@ description: Everything you need to accept payments and to sell online.
 
 <!-- Hero Section Start -->
 <section class="hero-section">
-         <!-- Hero Shape Start -->
+<!-- Hero Shape Start -->
       
  <div class="hero-shape5">
         
