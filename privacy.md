@@ -1,6 +1,7 @@
 ---
 title: PayRequest | Privacy Policy
-tags: [color-logo]
+tags:
+- color-logo
 ---
 
 <!-- Done for the new website! -->

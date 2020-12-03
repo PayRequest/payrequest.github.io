@@ -1,7 +1,9 @@
 ---
 title: Payment Providers
-tags: [color-logo]
+tags:
+- color-logo
 ---
+
 <!-- Done for the new website! -->
 
 <!-- Breadcrumb Start -->
