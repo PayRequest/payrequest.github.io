@@ -49,7 +49,7 @@ description: Everything you need to accept payments and to sell online.
 
 </p>
 
-<a href="#" class="theme-btn mt-4"> Create Your Free Account<span class="fa fa-chevron-right"></span></a>
+<a href="https://dashboard.payrequest.io/dashboard" class="theme-btn mt-4"> Create Your Free Account<span class="fa fa-chevron-right"></span></a>
 
   </div>
 
