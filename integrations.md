@@ -1,6 +1,7 @@
 ---
 title: PayRequest | Integrations
-tags: [color-logo]
+tags:
+- color-logo
 ---
 
 <!-- Done for the new website! -->

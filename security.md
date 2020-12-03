@@ -1,9 +1,9 @@
 ---
 title: PayRequest | Security
 description: We at PayRequests takes security seriously
-tags: [color-logo]
+tags:
+- color-logo
 ---
-
 
 <!-- Done for the new website! -->
 

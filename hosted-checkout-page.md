@@ -3,7 +3,6 @@ title: Hosted Checkout Page
 description: Create and share your hosted checkout page, no coding required.
 ---
 
-
 <section class="section section-lg section-shaped">
     <!-- Background circles -->
     <div class="shape shape-style-self shape-primary">

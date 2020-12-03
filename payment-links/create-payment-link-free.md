@@ -1,6 +1,7 @@
 ---
 title: Create payment links free
-description: Easily create payment links for free, you only pay fees for when a payment link is paid.
+description: Easily create payment links for free, you only pay fees for when a payment
+  link is paid.
 ---
 
 <div class="position-relative">

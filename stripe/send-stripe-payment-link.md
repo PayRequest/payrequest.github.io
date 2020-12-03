@@ -1,9 +1,9 @@
 ---
 title: Send Stripe Payment Links
 description: We connect your Stripe account to easily send stripe payment links.
-tags: [color-logo]
+tags:
+- color-logo
 ---
-
 
 <section class="breadcrumb-area">
          <div class="breadcrumb-shape"></div>

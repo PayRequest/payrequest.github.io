@@ -3,7 +3,6 @@ title: Stripe Donation button
 description: Create your own stripe donation button and accept donations.
 ---
 
-
 <section class="section section-lg section-shaped">
 		<!-- Background circles -->
 		<div class="shape shape-style-self shape-primary">

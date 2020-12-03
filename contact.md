@@ -1,6 +1,7 @@
 ---
 title: PayRequest.io | Contact
-tags: [color-logo]
+tags:
+- color-logo
 ---
 
 <section class="breadcrumb-area">

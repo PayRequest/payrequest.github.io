@@ -1,8 +1,8 @@
 ---
 title: Bunq.me alternative
-tags: [color-logo]
+tags:
+- color-logo
 ---
-
 
 <section class="breadcrumb-area">
          <div class="breadcrumb-shape"></div>

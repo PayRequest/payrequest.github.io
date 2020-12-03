@@ -2,7 +2,6 @@
 title: Payment Button
 ---
 
-
 <section class="hero-section">
          <!-- Hero Shape Start -->
       

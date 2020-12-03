@@ -1,7 +1,8 @@
 ---
 title: PayRequest.io | Digital Downloads
 description: Everything you need to accept payments and to sell online.
-tags: [color-logo]
+tags:
+- color-logo
 ---
 
 <section class="breadcrumb-area">

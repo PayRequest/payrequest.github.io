@@ -1,6 +1,7 @@
 ---
 title: PayRequest.io | Terms of Service
-tags: [color-logo]
+tags:
+- color-logo
 ---
 
 <!-- Done for the new website! -->

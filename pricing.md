@@ -1,6 +1,7 @@
 ---
 title: PayRequest Pricing
-tags: [color-logo]
+tags:
+- color-logo
 ---
 
 <!-- Done for the new website! -->
