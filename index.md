@@ -13,18 +13,30 @@ description: Everything you need to accept payments and to sell online.
          </div>
          <!-- Hero Shape End -->
           
-  <!-- Hero Bg Start -->
- <div class="hero-bg">
-            <img src="assets/img/hero_shape.png" alt="hero shape" />
-         </div>
-         <!-- Hero Bg End -->
+<!-- Hero Bg Start -->
+<div class="hero-bg">
+<img src="assets/img/hero_shape.png" alt="hero shape" />
+</div>
+<!-- Hero Bg End -->
           
   <div class="container">
             <div class="row align-items-center">
              <div class="col-lg-6 col-md-6">
 <div class="hero-left">
                      <br />
-<span class="label label-primary">Supporting 200 countries</span>
+<span class="label label-primary" style="
+    display: inline;
+    padding: .2em .6em .3em;
+    font-size: 75%;
+    font-weight: 700;
+    line-height: 1;
+    background-color: #03acca;
+    color: white;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: .25em;
+">Supporting 200 countries</span>
 
 <h2> Accept Payments
 <span class="underline">Worldwide</span>
