@@ -3,8 +3,6 @@ title: Why PayRequest
 tags: [color-logo]
 ---
 
-<!-- Done for the new website! -->
-
 <section class="breadcrumb-area">
          <div class="breadcrumb-shape"></div>
          <div class="container">
@@ -25,8 +23,8 @@ tags: [color-logo]
             <div class="row">
                <div class="col-lg-12">
                   <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
-                     <h2>We make it easy<br>To create  
-<span>Payment Requests</span>
+                     <h2>The best way <br>To accept  
+<span>Worldwide Payments</span>
 
 </h2>
                   </div>
@@ -36,9 +34,7 @@ tags: [color-logo]
                <div class="col-lg-5 lg-1">
                   <div class="about-page-left wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInLeft;">
                      <h2 class="mr-5">
-                        <img src="https://i.imgur.com/v33br7Q.png" alt="blog image" style="
-    border-radius: 20px;
-">
+                        <img src="https://i.imgur.com/v33br7Q.png" alt="blog image">
                    </h2>
                   </div>
                </div>

@@ -1,5 +1,5 @@
 ---
-title: PayRequest.io | Payment Links
+title: PayRequest | Payment Links
 ---
 
 <!-- Done for the new website! -->
@@ -24,20 +24,14 @@ title: PayRequest.io | Payment Links
             <div class="row align-items-center">
              <div class="col-lg-6 col-md-6">
                   <div class="hero-left">
-<h2> Send Branded
-<span class="underline">Payment Links</span>
+<h2> Send Branded <span class="underline">Payment Links</span>
 </h2>
 
-
-<p style="
-    font-size: 20px;
-">
+<p>
 PayRequest makes it easy to create payment links and share them worldwide with all your customers, accept payments online.
-
 </p>
 
-<a href="#" class="theme-btn mt-4"> Create Your Free Account<span class="fa fa-chevron-right"></span></a>
-
+<a href="http://dashboard.payrequest.io/" class="theme-btn mt-4"> Create Your Free Account<span class="fa fa-chevron-right"></span></a>
  </div>
 
 

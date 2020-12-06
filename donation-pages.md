@@ -29,14 +29,11 @@ description: Create your own donation page and share it with everyone.
 
 <span class="underline">Donation Page</span></h2>
 
-
-<p style="
-    font-size: 20px;
-">PayRequest makes it easy to create donation pages for charity, fundraising or non-profits. <br>
+<p>PayRequest makes it easy to create donation pages for charity, fundraising or non-profits. <br>
 use your own logo, company background.
 </p>
 
-<a href="#" class="theme-btn mt-4"> Create Your Free Account<span class="fa fa-chevron-right"></span></a>
+<a href="http://dashboard.payrequest.io/" class="theme-btn mt-4"> Create Your Free Account<span class="fa fa-chevron-right"></span></a>
 
 </div>
 
@@ -144,9 +141,8 @@ use your own logo, company background.
                   </div>
                   <div class="col-lg-6">
                      <div class="about-left wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
-                        <h3>Customize your
-<br>Payment Page!</h3>
-                        <p>Brand colors are an important part of the branding equation. Not only do colors affect decision-making, they envoke emotions in humans, use your own brand colors on your payrequest.me payment page.
+<h3>Customize your <br>Payment Page!</h3>
+<p>Brand colors are an important part of the branding equation. Not only do colors affect decision-making, they envoke emotions in humans, use your own brand colors on your payrequest.me payment page.
 
 
 </p>

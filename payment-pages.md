@@ -26,17 +26,11 @@ description: Create your own payrequest.me payment page and share it with everyo
                   <div class="hero-left">
  <h2> Create your own
 <span class="underline">Payment Page</span></h2>
-<p style="
-    font-size: 20px;
-">
+<p>
 PayRequest makes it easy to create payment links and share them worldwide with all your customers, accept payments online.
 </p>
 
-<a href="#" class="theme-btn mt-4">
-Create Your Free Account
-<span class="fa fa-chevron-right"></span>
-</a>
-
+<a href="http://dashboard.payrequest.io/" class="theme-btn mt-4"> Create Your Free Account <span class="fa fa-chevron-right"></span> </a>
 </div>
 
 

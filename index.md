@@ -22,7 +22,7 @@ description: Everything you need to accept payments and to sell online.
   <div class="container">
             <div class="row align-items-center">
              <div class="col-lg-6 col-md-6">
-                  <div class="hero-left">
+<div class="hero-left">
                      <br />
                      <span class="label label-primary" style="
     display: inline;
@@ -39,8 +39,8 @@ description: Everything you need to accept payments and to sell online.
 ">Supporting 200 countries</span>
 
 <h2> Accept Payments
-
-<span class="underline">Worldwide</span></h2>
+<span class="underline">Worldwide</span>
+</h2>
 
 
 <p style="
@@ -50,8 +50,7 @@ description: Everything you need to accept payments and to sell online.
 </p>
 
 <a href="https://dashboard.payrequest.io/dashboard" class="theme-btn mt-4"> Create Your Free Account<span class="fa fa-chevron-right"></span></a>
-
-  </div>
+</div>
 
 
 
@@ -523,7 +522,6 @@ description: Everything you need to accept payments and to sell online.
          </div>
   </section>
 <!-- Pricing Section End -->
-
 
 
 {% include footer-promo.html %}

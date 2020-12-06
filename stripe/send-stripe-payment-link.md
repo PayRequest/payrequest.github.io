@@ -157,7 +157,7 @@ rounded {
 <div class="row">
           <div class="col-sm-4 aos-init aos-animate" data-aos="fade-up" data-aos-easing="delay-slide" data-aos-duration="1300" data-aos-delay="400" data-aos-offset="-100">
             <div class="img-wrap">
-              <img src="https://i.imgur.com/V8IqnbY.png" alt="confirm chatlio screenshot">
+              <img src="https://i.imgur.com/V8IqnbY.png" alt="payment image">
               <span class="bubble-number">1</span>
             </div>
             <h5 style="
