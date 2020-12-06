@@ -24,28 +24,14 @@ description: Everything you need to accept payments and to sell online.
              <div class="col-lg-6 col-md-6">
 <div class="hero-left">
                      <br />
-                     <span class="label label-primary" style="
-    display: inline;
-    padding: .2em .6em .3em;
-    font-size: 75%;
-    font-weight: 700;
-    line-height: 1;
-    background-color: #03acca;
-    color: white;
-    text-align: center;
-    white-space: nowrap;
-    vertical-align: baseline;
-    border-radius: .25em;
-">Supporting 200 countries</span>
+<span class="label label-primary">Supporting 200 countries</span>
 
 <h2> Accept Payments
 <span class="underline">Worldwide</span>
 </h2>
 
 
-<p style="
-    font-size: 20px;
-">PayRequest makes it easy to create your own branded payment page, and send payment links to all your customers.
+<p>PayRequest makes it easy to create your own branded payment page, and send payment links to all your customers.
 
 </p>
 
@@ -61,6 +47,10 @@ description: Everything you need to accept payments and to sell online.
 <a href="https://www.producthunt.com/posts/payrequest?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-payrequest" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=176421&theme=dark" alt="PayRequest - Simple, fast payment links via Stripe and Mollie | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
 
 <img alt="Stripe logo" src="https://payrequest.io/assets/img/stripe-partner-badges/L_Color_Solid.svg" style="height: 63px;padding: 6px;">
+
+<!-- TrustBox script -->
+<script type="text/javascript" src="//widget.trustpilot.com/bootstrap/v5/tp.widget.bootstrap.min.js" async></script>
+<!-- End TrustBox script -->
 
 <!-- TrustBox widget - Micro Review Count -->
 <div style="margin-left:10px;" class="trustpilot-widget" data-locale="en-US" data-template-id="5419b6a8b0d04a076446a9ad" data-businessunit-id="5f47f39cf225070001b40cfa" data-style-height="24px" data-style-width="250px" data-theme="light">

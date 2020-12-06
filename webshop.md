@@ -22,13 +22,11 @@ title: PayRequest | Webshop
             <div class="row align-items-center">
              <div class="col-lg-6 col-md-6">
                   <div class="hero-left">
-                     <h2>Create free <br> your own
-<span class="underline">webshop</span></h2>
+                     <h2>Start your free <br> 
+<span class="underline">Online Webshop</span></h2>
 
-
-<p style="
-    font-size: 20px;
-">temporary hold an amount on your customers credit card, during the hold period the funds are unavailable to the customer, the funds can be captured if needed, like when someone checking out of a hotel, or just as rental security deposits.
+<p style="font-size: 20px;">With a PayRequest Webshop you can sell online products worldwide, get your own payrequest.shop name or use your own domainname for free! <br>
+    make it yours by uploading your own logo and background and choice your favorite colours.
 </p>
 
 <a href="#" class="theme-btn mt-4"> Create Your Free Account<span class="fa fa-chevron-right"></span></a>
