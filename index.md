@@ -208,14 +208,14 @@ description: Everything you need to accept payments and to sell online.
 <div class="col-lg-4 col-md-6">
  <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
                      <div class="blog-image">
-                        <a href="#">
+                        <a href="/donation-pages">
                         <img src="https://i.imgur.com/nh9CnvP.png" alt="donation pages">
                         </a>
                      </div>
  <div class="blog-desc">
                         
 <div class="blog-text">
-                           <a href="#">
+                           <a href="/donation-pages">
                               <h3> 
     <i class="fa fa-link" style="color: #25b7c7;"></i> Donation Pages</h3>
 
@@ -232,13 +232,13 @@ description: Everything you need to accept payments and to sell online.
                <div class="col-lg-4 col-md-6">
                   <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
                      <div class="blog-image">
-                        <a href="#">
+                        <a href="/payment-pages">
                         <img src="https://i.imgur.com/wTSUMCp.png" alt="blog">
                         </a>
                      </div>
  <div class="blog-desc">
      <div class="blog-text">
-                           <a href="#">
+                           <a href="/payment-pages">
                               <h3> 
     <i class="fa fa-shopping-cart" style="color: #25b7c7;"></i>
  Payment Pages</h3>
