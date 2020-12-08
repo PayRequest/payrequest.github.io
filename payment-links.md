@@ -170,33 +170,20 @@ PayRequest makes it easy to create payment links and share them worldwide with a
                   </div>
                </div>
             </div>
-            <div class="row" style="
-    margin-bottom: 20px;
-">
+<div class="row" style="margin-bottom: 20px;">
 <div class="col-lg-4 d-flex">
-                  <div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
-                     
+<div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
 
-
-<h4 class="title" style="
-    margin-bottom: 0px;
-    padding: 20px 24px 0px;
-    font-size: 23px;
-">
-    
+<h4 class="title" style="margin-bottom: 0px;padding: 20px 24px 0px;font-size: 23px;">
 <i class="fad fa-euro-sign" style="padding-right: 10px;" aria-hidden="true"></i>Multi Currency
-
 </h4>
                     
 <ul class="address-list">
-                        <li>
-                           <p>We support al major currencies all around the globe, with realtime currency conversion for every currency.
-
-
+<li>
+<p>We support al major currencies all around the globe, with realtime currency conversion for every currency.
 </p>
-                        </li>
-                        
- </ul>
+</li>        
+</ul>
 
  </div>
 </div>
@@ -205,8 +192,7 @@ PayRequest makes it easy to create payment links and share them worldwide with a
 
 
 <div class="col-lg-4 d-flex">
-                  <div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
-                     
+<div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
 
 
 <h4 class="title" style="
@@ -219,38 +205,28 @@ PayRequest makes it easy to create payment links and share them worldwide with a
 </h4>
                     
 <ul class="address-list">
-                        <li>
-                           <p>Send en Share Payment Links with your own brand logo &amp; background, also you can choose your own colors. 
+<li>
+<p>Send en Share Payment Links with your own brand logo &amp; background, also you can choose your own colors. 
 </p>
-                        </li>
+</li>
                         
 </ul>
 
  </div>
  </div>
 
-
-
 <div class="col-lg-4 d-flex">
-                  <div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
-                     
+<div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
 
-
-<h4 class="title" style="
-    margin-bottom: 0px;
-    padding: 20px 24px 0px;
-    font-size: 23px;
-">
-    
+<h4 class="title" style="margin-bottom: 0px; padding: 20px 24px 0px; font-size: 23px;">
 <i class="fad fa-language" style="padding-right: 10px;" aria-hidden="true"></i>Multi Language
-
 </h4>
                     
 <ul class="address-list">
-                        <li>
-                           <p>Payment Links are multi-language, so that you can welcome all your customers in your own language.
+<li>
+<p>Payment Links are multi-language, so that you can welcome all your customers in your own language.
 </p>
-                        </li>
+</li>
                         
  </ul>
 
@@ -262,24 +238,13 @@ PayRequest makes it easy to create payment links and share them worldwide with a
 
  </div>
 
-
-
-
 <div class="row">
-               
-
-
 
 <div class="col-lg-4 d-flex">
-                  <div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
-                     
+<div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
 
 
-<h4 class="title" style="
-    margin-bottom: 0px;
-    padding: 20px 24px 0px;
-    font-size: 23px;
-">
+<h4 class="title" style="margin-bottom: 0px; padding: 20px 24px 0px; font-size: 23px;">
     
 <i class="fa fa-money-bill-wave" style="padding-right: 10px;" aria-hidden="true"></i>Local Paymennts
 
@@ -300,9 +265,7 @@ PayRequest makes it easy to create payment links and share them worldwide with a
 
 
 <div class="col-lg-4 d-flex">
-                  <div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
-                     
-
+ <div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
 
 <h4 class="title" style="
     margin-bottom: 0px;
@@ -314,21 +277,18 @@ PayRequest makes it easy to create payment links and share them worldwide with a
 </h4>
                     
 <ul class="address-list">
-                        <li>
-                           <p>For extra fraud protection we use 3D Secure authentication method used to verify a customer's identity 
+<li>
+<p>For extra fraud protection we use 3D Secure authentication method used to verify a customer's identity 
 </p>
-                        </li>
+</li>
                         
   </ul>
  </div>
  </div>
 
 
-
 <div class="col-lg-4 d-flex">
-                  <div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
-                     
-
+<div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
 
 <h4 class="title" style="
     margin-bottom: 0px;
@@ -340,22 +300,15 @@ PayRequest makes it easy to create payment links and share them worldwide with a
 </h4>
                     
 <ul class="address-list">
-                        <li>
-                           <p>We make sure you can track all payment activity like: if your payment links is opened, and a notification when you get paid.
+<li>
+<p>We make sure you can track all payment activity like: if your payment links is opened, and a notification when you get paid.
 </p>
-                        </li>
+</li>
                                  
   </ul>
 
   </div>
   </div>
-
-
-
-
-
-
-
 
 
   </div>
