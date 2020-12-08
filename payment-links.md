@@ -49,7 +49,7 @@ PayRequest makes it easy to create payment links and share them worldwide with a
 </div>
 <!-- End TrustBox widget -->
  </div>
-               </div>
+</div>
 
  <div class="col-lg-6 col-md-6">
                   <div class="hero-right">
@@ -64,7 +64,6 @@ PayRequest makes it easy to create payment links and share them worldwide with a
             </div>
          </div>
 </section>
-
 
  <!-- All Payment Methods Section Start -->
  <section class="companies-section section_b_70 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
@@ -91,7 +90,7 @@ PayRequest makes it easy to create payment links and share them worldwide with a
                      </div>
 
   <div class="single-com-slider">
-                        <a href="#"><img src="https://payrequest.io/assets/img/payment-icons/giropay@2x.png" alt="giropay" /></a>
+<a href="#"><img src="https://payrequest.io/assets/img/payment-icons/giropay@2x.png" alt="giropay" /></a>
                      </div>
 
 
@@ -118,17 +117,16 @@ PayRequest makes it easy to create payment links and share them worldwide with a
             <div class="container">
              <div class="row align-items-center">
                   <div class="col-lg-6">
-                     <div class="about-left wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s; animation-name: fadeInLeft;">
-                        <h3>Manage all<br>Your Payment Pages<br>And Payment Links</h3>
-                        <p>The PayRequest Dashboard lets you manage all your payment links and more, with a simple overview you can view all status and reminders that are send, you will also get a log update when someone views, payment or pays your payment link.
-
+<div class="about-left wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s; animation-name: fadeInLeft;">
+<h3>Manage all<br>Your Payment Pages<br>And Payment Links</h3>
+<p>The PayRequest Dashboard lets you manage all your payment links and more, with a simple overview you can view all status and reminders that are send, you will also get a log update when someone views, payment or pays your payment link.
 </p>
                       
 </div>
 </div>
 <div class="col-lg-6">
-                     <div class="about-right wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
-                        <img src="https://payrequest.io/assets/img/banners/dashboard.png" alt="about">
+<div class="about-right wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
+ <img src="https://payrequest.io/assets/img/banners/dashboard.png" alt="about">
                      </div>
 </div>
     </div>
@@ -186,7 +184,7 @@ PayRequest makes it easy to create payment links and share them worldwide with a
     font-size: 23px;
 ">
     
-<i class="fa fa-map-marker" style="padding-right: 10px;"></i>Multi Currency
+<i class="fad fa-euro-sign" style="padding-right: 10px;" aria-hidden="true"></i>Multi Currency
 
 </h4>
                     
@@ -217,7 +215,7 @@ PayRequest makes it easy to create payment links and share them worldwide with a
     padding: 20px 24px 0px;
 ">
     
- <i class="fa fa-map-marker" style="padding-right: 10px;"></i>Branded Payment Links
+ <i class="fad fa-paint-brush" style="padding-right: 5px;" aria-hidden="true"></i>Branded Payment Links
 </h4>
                     
 <ul class="address-list">
@@ -244,7 +242,7 @@ PayRequest makes it easy to create payment links and share them worldwide with a
     font-size: 23px;
 ">
     
-<i class="fa fa-map-marker" style="padding-right: 10px;"></i>Multi Language
+<i class="fad fa-language" style="padding-right: 10px;" aria-hidden="true"></i>Multi Language
 
 </h4>
                     
@@ -283,7 +281,7 @@ PayRequest makes it easy to create payment links and share them worldwide with a
     font-size: 23px;
 ">
     
-<i class="fa fa-map-marker" style="padding-right: 10px;"></i>Local Payment Methods
+<i class="fa fa-money-bill-wave" style="padding-right: 10px;" aria-hidden="true"></i>Local Paymennts
 
 </h4>
                     
@@ -312,7 +310,7 @@ PayRequest makes it easy to create payment links and share them worldwide with a
     font-size: 23px;
 ">
     
- <i class="fa fa-map-marker" style="padding-right: 10px;"></i> 3D Secure payments
+ <i class="fad fa-shield-check" style="padding-right: 10px;" aria-hidden="true"></i> 3D Secure payments
 </h4>
                     
 <ul class="address-list">
@@ -338,7 +336,7 @@ PayRequest makes it easy to create payment links and share them worldwide with a
     font-size: 23px;
 ">
     
-<i class="fa fa-map-marker" style="padding-right: 10px;"></i>Payment Tracking
+<i class="fad fa-analytics" style="padding-right: 10px;" aria-hidden="true"></i>Payment Tracking
 </h4>
                     
 <ul class="address-list">
