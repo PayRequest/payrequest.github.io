@@ -170,7 +170,6 @@ description: Everything you need to accept payments and to sell online.
  </section>
 
 
-
 <section class="blog-section section_50">
          <div class="container">
             <div class="row align-items-center">
@@ -195,7 +194,7 @@ description: Everything you need to accept payments and to sell online.
   <div class="blog-desc">
                         
 <div class="blog-text">
-<a href="/payment-links"><h3> <i class="fa fa-link" style="color: #25b7c7;"></i>Payment Links</h3>
+<a href="/payment-links"><h3> <i class="fad fa-link" style="color: #25b7c7;" aria-hidden="true"></i> Payment Links</h3>
 <h5 style="margin-top: 10px;"> Create and share payment links in seconds, .
  </h5></a>
                         </div>
@@ -217,7 +216,7 @@ description: Everything you need to accept payments and to sell online.
 <div class="blog-text">
                            <a href="/donation-pages">
                               <h3> 
-    <i class="fa fa-link" style="color: #25b7c7;"></i> Donation Pages</h3>
+    <i class="fad fa-hand-holding-heart" style="color: #25b7c7;" aria-hidden="true"></i> Donation Pages</h3>
 
 <h5 style="
     margin-top: 10px;
@@ -229,7 +228,10 @@ description: Everything you need to accept payments and to sell online.
                      </div>
                   </div>
                </div>
-               <div class="col-lg-4 col-md-6">
+               
+
+
+<div class="col-lg-4 col-md-6">
                   <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
                      <div class="blog-image">
                         <a href="/payment-pages">
@@ -240,7 +242,52 @@ description: Everything you need to accept payments and to sell online.
      <div class="blog-text">
                            <a href="/payment-pages">
                               <h3> 
-    <i class="fa fa-shopping-cart" style="color: #25b7c7;"></i>
+    <i class="fad fa-user-tie" style="color: #25b7c7;" aria-hidden="true"></i>
+ Payment Pages</h3>
+
+<h5 style="
+    margin-top: 10px;
+">Create your own payrequest.me page and share your payment page.</h5>
+                           </a>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+
+
+
+<div class="col-lg-4 col-md-6">
+                  <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
+                     <div class="blog-image">
+                        <a href="/payment-pages">
+                        <img src="https://i.imgur.com/NWPfDVt.png" alt="payrequest webshop">
+                        </a>
+                     </div>
+ <div class="blog-desc">
+     <div class="blog-text">
+                           <a href="/payment-pages">
+                              <h3> 
+    <i class="fad fa-store-alt" style="color: #25b7c7;" aria-hidden="true"></i> PayRequest Webshop</h3>
+
+<h5 style="
+    margin-top: 10px;
+">Create a free webshop and sell all your products online</h5>
+                           </a>
+                        </div>
+                     </div>
+                  </div>
+               </div><div class="col-lg-4 col-md-6">
+                  <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
+                     <div class="blog-image">
+                        <a href="/payment-pages">
+                        <img src="https://i.imgur.com/wTSUMCp.png" alt="blog">
+                        </a>
+                     </div>
+ <div class="blog-desc">
+     <div class="blog-text">
+                           <a href="/payment-pages">
+                              <h3> 
+    <i class="fad fa-user-tie" style="color: #25b7c7;" aria-hidden="true"></i>
  Payment Pages</h3>
 
 <h5 style="
