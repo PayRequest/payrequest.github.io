@@ -22,8 +22,8 @@ title: PayRequest | Pay by link
             <div class="row align-items-center">
              <div class="col-lg-6 col-md-6">
                   <div class="hero-left">
-<h2> Let Customers <span class="underline">Pay by Link</span>
-</h2>
+<h1> Let Customers <span class="underline">Pay by Link</span>
+</h1>
 
 <p>
 PayRequest makes it easy to create pay by link and share them worldwide with all your customers, accept payments online.

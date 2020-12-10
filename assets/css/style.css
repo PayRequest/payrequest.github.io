@@ -1280,6 +1280,40 @@ li {
 	max-width: unset;
 }
 
+// added H1 tag //
+.hero-left h1 {
+	font-weight: 700;
+	color: #1c2045;
+	font-size: 56px;
+	line-height: 1.2;
+	margin-bottom: 30px;
+}
+
+.hero-left h1 span {
+	display: block;
+	position: relative;
+	z-index: 1
+}
+
+.hero-left h1 span.underline {
+	display: inline-block
+}
+
+.hero-left h1 span.underline:after {
+	position: absolute;
+	content: "";
+	left: 0;
+	right: 0;
+	height: 16px;
+	height: 1rem;
+	bottom: 7px;
+	z-index: -1;
+	background: linear-gradient(130deg, #1951bf 0%, #25b7c7 89%) !important;
+	width: auto;
+	opacity: 0.4;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";
+}
+
 .hero-left h2 {
 	font-weight: 700;
 	color: #1c2045;
