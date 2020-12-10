@@ -1,5 +1,5 @@
 ---
-title: PayRequest | Pay by link
+title: PayRequest | Payment Links
 ---
 
 <!-- Done for the new website! -->
@@ -16,7 +16,7 @@ title: PayRequest | Pay by link
           
  <!-- Hero Bg Start -->
  <div class="hero-bg">
-            <img src="assets/img/hero_shape.png" alt="pay by link">
+            <img src="assets/img/hero_shape.png" alt="hero shape">
          </div>
          <!-- Hero Bg End -->
           
@@ -24,11 +24,11 @@ title: PayRequest | Pay by link
             <div class="row align-items-center">
              <div class="col-lg-6 col-md-6">
                   <div class="hero-left">
-<h2> Let customers <span class="underline">Pay by Link</span>
+<h2> Send Branded <span class="underline">Payment Links</span>
 </h2>
 
 <p>
-PayRequest makes it easy to create pay by links and share them worldwide with all your customers, accept payments online.
+PayRequest makes it easy to create payment links and share them worldwide with all your customers, accept payments online.
 </p>
 
 <a href="http://dashboard.payrequest.io/" class="theme-btn mt-4"> Create Your Free Account<span class="fa fa-chevron-right"></span></a>
@@ -118,8 +118,8 @@ PayRequest makes it easy to create pay by links and share them worldwide with al
              <div class="row align-items-center">
                   <div class="col-lg-6">
 <div class="about-left wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s; animation-name: fadeInLeft;">
-<h3>Manage all<br>Your Payment Pages<br>And Pay by link</h3>
-<p>The PayRequest Dashboard lets you manage all your pay by link and more, with a simple overview you can view all status and reminders that are send, you will also get a log update when someone views, payment or pays your pay by link.
+<h3>Manage all<br>Your Payment Pages<br>And Payment Links</h3>
+<p>The PayRequest Dashboard lets you manage all your payment links and more, with a simple overview you can view all status and reminders that are send, you will also get a log update when someone views, payment or pays your payment link.
 </p>
                       
 </div>
@@ -144,9 +144,9 @@ PayRequest makes it easy to create pay by links and share them worldwide with al
                   </div>
                   <div class="col-lg-6">
                      <div class="about-left wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
- <h3>Dynamic pay by Links
+ <h3>Dynamic Payment Links
 <br>For custom amounts</h3>
-                        <p>Save time with creating pay by link, just use dynamic links like: payrequest.me/name/12,50 or even payrequest.me/12,50/title/email
+                        <p>Save time with creating payment links, just use dynamic links like: payrequest.me/name/12,50 or even payrequest.me/12,50/title/email
 
 </p>
                        
@@ -166,7 +166,7 @@ PayRequest makes it easy to create pay by links and share them worldwide with al
             <div class="row">
                <div class="col-lg-12">
                   <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
-                     <h2>Pay by link <span>Features</span></h2>
+                     <h2>Payment Link <span>Features</span></h2>
                   </div>
                </div>
             </div>
@@ -201,12 +201,12 @@ PayRequest makes it easy to create pay by links and share them worldwide with al
     padding: 20px 24px 0px;
 ">
     
- <i class="fad fa-paint-brush" style="padding-right: 5px;" aria-hidden="true"></i>Branded Pay By Links
+ <i class="fad fa-paint-brush" style="padding-right: 5px;" aria-hidden="true"></i>Branded Payment Links
 </h4>
                     
 <ul class="address-list">
 <li>
-<p>Send en Share Pay By Links with your own brand logo &amp; background, also you can choose your own colors. 
+<p>Send en Share Payment Links with your own brand logo &amp; background, also you can choose your own colors. 
 </p>
 </li>
                         
@@ -224,7 +224,7 @@ PayRequest makes it easy to create pay by links and share them worldwide with al
                     
 <ul class="address-list">
 <li>
-<p>Pay By Links are multi-language, so that you can welcome all your customers in your own language.
+<p>Payment Links are multi-language, so that you can welcome all your customers in your own language.
 </p>
 </li>
                         
@@ -301,7 +301,7 @@ PayRequest makes it easy to create pay by links and share them worldwide with al
                     
 <ul class="address-list">
 <li>
-<p>We make sure you can track all payment activity like: if your pay by links is opened, and a notification when you get paid.
+<p>We make sure you can track all payment activity like: if your payment links is opened, and a notification when you get paid.
 </p>
 </li>
                                  
@@ -314,5 +314,7 @@ PayRequest makes it easy to create pay by links and share them worldwide with al
   </div>
 </div>
   </section>
+
+
 
   {% include footer-promo.html %}
