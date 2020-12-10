@@ -22,7 +22,9 @@ title: PayRequest | Pay by link
             <div class="row align-items-center">
              <div class="col-lg-6 col-md-6">
                   <div class="hero-left">
-<h1> Let Customers <span class="underline">Pay by Link</span>
+
+
+<h1 style="font-weight: 700;color: #1c2045;font-size: 56px;line-height: 1.2;margin-bottom: 30px;"> Let Customers <br><span class="underline">Pay by Link</span>
 </h1>
 
 <p>
