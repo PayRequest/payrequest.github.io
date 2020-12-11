@@ -70,8 +70,35 @@ tags: [color-logo]
   <div class="blog-desc">
                         
 <div class="blog-text">
-<a href="/payment-links"><h3> <i class="fad fa-user-crown" style="color: #25b7c7;" aria-hidden="true"></i> Content Writer</h3>
-<h5 style="margin-top: 10px;"> Do you love writing? then this job is for you.</h5></a>
+<a href="/payment-links"><h3 style="
+    font-size: 22px;
+"> <i class="fad fa-user-crown" style="color: #25b7c7;" aria-hidden="true"></i> Content Writer</h3>
+<h5 style="margin-top: 10px;"> 
+    
+ <ul>
+                        <li style="
+    padding: 5px;
+"><i class="fad fa-map" aria-hidden="true" style="
+    color: #25b7c7;
+"></i><b> The Hague (Netherlands)</b></li>
+                        <li style="
+    padding: 5px;
+"><i class="fad fa-user" aria-hidden="true" style="
+    color: #25b7c7;
+"></i><b> Marketing Team </b></li>
+
+<li style="
+    padding: 5px;
+"><i class="fad fa-clock" aria-hidden="true" style="
+    color: #25b7c7;
+"></i><b>Parttime (16 hours)</b> </li>
+                        
+                        
+                        
+                        
+                     </ul><br>   
+    
+    Do you love writing? then this job is for you.</h5></a>
                         </div>
                      </div>
                   </div>
@@ -85,8 +112,34 @@ tags: [color-logo]
   <div class="blog-desc">
                         
 <div class="blog-text">
-<a href="/payment-links"><h3> <i class="fad fa-user-crown" style="color: #25b7c7;" aria-hidden="true"></i> Content Writer</h3>
-<h5 style="margin-top: 10px;"> Do you love writing? then this job is for you.</h5></a>
+<a href="/payment-links"><h3 style="
+    font-size: 22px;
+"> <i class="fad fa-user-crown" style="color: #25b7c7;" aria-hidden="true"></i> Customer Success Manager
+</h3>
+<h5 style="margin-top: 10px;"> 
+    
+ <ul>
+                        <li style="
+    padding: 5px;
+"><i class="fad fa-map" aria-hidden="true" style="
+    color: #25b7c7;
+"></i><b> The Hague (Netherlands)</b></li>
+                        <li style="
+    padding: 5px;
+"><i class="fad fa-user" aria-hidden="true" style="
+    color: #25b7c7;
+"></i><b> Account Management Team </b></li>
+
+<li style="
+    padding: 5px;
+"><i class="fad fa-clock" aria-hidden="true" style="
+    color: #25b7c7;
+"></i><b>Parttime (16 hours)</b> </li>
+                        
+                        
+                        
+                        
+                     </ul><br>Supporting our customers and onboarding new ones.</h5></a>
                         </div>
                      </div>
                   </div>
@@ -100,19 +153,39 @@ tags: [color-logo]
   <div class="blog-desc">
                         
 <div class="blog-text">
-<a href="/payment-links"><h3> <i class="fad fa-user-crown" style="color: #25b7c7;" aria-hidden="true"></i> Content Writer</h3>
-<h5 style="margin-top: 10px;"> Do you love writing? then this job is for you.</h5></a>
-                        </div>
-                     </div>
-                  </div>
+<a href="/payment-links"><h3 style="
+    font-size: 22px;
+"> <i class="fad fa-user-crown" style="color: #25b7c7;" aria-hidden="true"></i> PHP Software Engineer
+</h3>
+<h5 style="margin-top: 10px;"> 
+    
+ <ul>
+ <li style="
+    padding: 5px;
+"><i class="fad fa-map" aria-hidden="true" style="
+    color: #25b7c7;
+"></i><b> The Hague (Netherlands)</b></li>
+                        <li style="
+    padding: 5px;
+"><i class="fad fa-user" aria-hidden="true" style="
+    color: #25b7c7;
+"></i><b> Engineering Team</b></li>
+
+<li style="
+    padding: 5px;
+"><i class="fad fa-clock" aria-hidden="true" style="
+    color: #25b7c7;
+"></i><b>Parttime (16 hours)</b> </li>       
+                        
+</ul><br>Fixing technical issues, and developing new features.</h5></a>
+</div>
+</div>
+</div>
 </div>
 
-
-
-
-            </div>
-         </div>
-      </section>
+</div>
+</div>
+</section>
 
 
 {% include why-section.html %}
