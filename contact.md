@@ -123,7 +123,7 @@ tags:
 
 </p>
 
-<a href="#" class="theme-btn mt-4"> View Documentation<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
+<a href="https://docs.payrequest.io/" class="theme-btn mt-4"> View Documentation<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
                       
 </div>
 </div>
