@@ -103,6 +103,46 @@ tags:
  </section>
 
 
+<section class="about-section">
+         <!-- Top Shape Start -->
+         <div class="about-top-shape">
+            <img src="http://themescare.com/demos/robofume-view/assets/img/about-shape.png" alt="about shape">
+         </div>
+         <!-- Top Shape End -->
+         <!-- Bottom Shape Start -->
+
+ <!-- Bottom Shape End -->
+ <!-- About Top Start -->
+<div class="about-top section_100">
+            <div class="container">
+             <div class="row align-items-center">
+                  <div class="col-lg-6">
+                     <div class="about-left wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s; animation-name: fadeInLeft;">
+                        <h3>We already have an answer<br>to most questions.</h3>
+                        <p>Get familiar with the PayRequest, we have write many articles to help you get started, cannot find an answer? contact our Support Team 24x7 via mail, chat and twitter.
+
+</p>
+
+<a href="#" class="theme-btn mt-4"> View Documentation<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
+                      
+</div>
+</div>
+<div class="col-lg-6">
+<div class="about-right wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
+                        <img src="https://i.imgur.com/H0hhg2x.png" alt="about">
+                     </div>
+
+</div>
+    </div>
+ </div>
+ </div>
+ <!-- About Top End -->
+ <!-- About Bottom Start -->
+ 
+ <!-- About Bottom End -->
+</section>
+
+
 
  <div class="map-area section_t_100">
          <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
