@@ -61,7 +61,7 @@ tags:
                   </div>
                </div>
                
-               <div class="col-lg-6">
+<div class="col-lg-6">
                   <div class="about-page-text wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.6s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.6s; animation-name: fadeInRight;">
                      <h3>PayRequest makes it easy to accept ideal payment online, choose your favorite payment provider and you can directly accept ideal payments, no coding required.
 </h3>
