@@ -54,7 +54,7 @@ tags:
                <div class="col-lg-5 lg-1">
                   <div class="about-page-left wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInLeft;">
                      <h2 class="mr-5"><div class="">
-                        <img src="https://i.imgur.com/1nze5NK.png" alt="blog image" style="
+                        <img src="https://i.imgur.com/zxsb4tl.png" alt="ideal payment method" style="
     border-radius: 20px;
 ">
                      </div></h2>
@@ -73,3 +73,169 @@ tags:
 </div>
 </section>
 
+<section class="blog-section section_100">
+<div class="container">
+            <div class="row align-items-center">
+               <div class="col-lg-6 col-md-12">
+                  <div class="section-title wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
+                     <h2><span>ideal</span> payment providers</h2>
+</div>
+</div>
+               <div class="col-lg-6 col-md-12">
+                  <div class="section-para wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.4s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.4s; animation-name: fadeInRight;">
+                     <p>Connect your payment provider, and accept iDeal payments via PayRequest.</p>
+</div>
+</div>
+</div>
+            <div class="row">
+               <div class="col-lg-4 col-md-6">
+                  <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
+                     
+<div class="blog-desc">
+                        <div class="meta-image">
+                           <div class="author-round">
+                              <img src="https://pbs.twimg.com/profile_images/1181112639101001728/NBqdcmm7_400x400.png" alt="mollie ideal">
+                           </div>
+                           <div class="tags">
+  <h3>Mollie</h3>
+                           </div>
+                        </div>
+                        <div class="blog-text">
+<h4>Mollie helps businesses of all sizes to build more efficiently with a solid but easy-to-use payment solution. Start growing your business today.
+</h4>
+
+<a href="/payment-providers/mollie" class="theme-btn mt-4" style="">iDeal via Mollie<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
+          
+</div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-6">
+                  <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
+                     
+<div class="blog-desc">
+ <div class="meta-image">
+                           <div class="author-round">
+                              <img src="https://pbs.twimg.com/profile_images/1280236709825835008/HmeYTwai_400x400.png" alt="stripe ideal">
+                           </div>
+ <div class="tags">
+
+<h3>Stripe</h3>
+</div>
+</div>
+<div class="blog-text">
+<h4>Stripe is the best software platform for running an internet business. Billions of dollars every year for businesses around the world.
+</h4>
+
+<a href="/payment-providers/stripe" class="theme-btn mt-4" style="">iDeal via Stripe<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
+          
+</div>
+</div>
+</div>
+</div>
+               <div class="col-lg-4 col-md-6">
+                  <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
+                     
+<div class="blog-desc">
+                        <div class="meta-image">
+                           <div class="author-round">
+                              <img src="https://pbs.twimg.com/profile_images/616887524988813313/2I8OJAPD.jpg" alt="multisafepay ideal">
+                           </div>
+                           <div class="tags">
+<h3>MultiSafePay</h3>
+                           </div>
+                        </div>
+                        <div class="blog-text">
+<h4>Accept, manage online sales with MultiSafepay. Increase conversion rates with unique solutions, create the perfect checkout experience.
+
+
+</h4>
+
+<a href="/payment-providers/multisafepay" class="theme-btn mt-4" style="">iDeal via MultiSafePay<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
+          
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
+
+
+<section class="choose-section section_100">
+         <div class="choose-shape-bg">
+            <img src="http://themescare.com/demos/robofume-view/assets/img/hero-dot-shape.png" alt="choose">
+         </div>
+         <div class="container">
+          <div class="row align-items-center">
+               <div class="col-lg-6 col-md-12 col-sm-12">
+                  <div class="choose-left wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
+                     <div class="section-title">
+                        <h2>Why <span>ideal payments</span> <br>via PayRequest</h2>
+                     </div>
+                     <p>We replace all your payment tools in a handy dashboard where you can easily create payment requests and more.
+
+</p>
+                     <ul>
+                        <li><i class="fa fa-check-square-o" aria-hidden="true"></i> Different Payment Providers</li>
+                        <li><i class="fa fa-check-square-o" aria-hidden="true"></i> Branded Payment Page</li>
+                        <li><i class="fa fa-check-square-o" aria-hidden="true"></i>3D Secure authentication
+</li>
+                        <li><i class="fa fa-check-square-o" aria-hidden="true"></i>Send Payment Links</li>
+                        <li><i class="fa fa-check-square-o" aria-hidden="true"></i>Multi-currency</li>
+                        <li><i class="fa fa-check-square-o" aria-hidden="true"></i> 24/7 Support</li>
+                     </ul>
+                  </div>
+               </div>
+               <div class="col-lg-6 col-md-12 col-sm-12">
+                  <div class="choose-right">
+                     <div class="row">
+                        <div class="col-lg-6 col-md-6 col-sm-12">
+                           <div class="choose-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
+                              <div class="choose-icon">
+                                 <i class="fa fa-users" aria-hidden="true"></i>
+                              </div>
+                              <h2>2K+</h2>
+                              <p>companies</p>
+                              
+ </div>
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-sm-12">
+                           <div class="choose-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.4s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.4s; animation-name: fadeInUp;">
+                              <div class="choose-icon">
+                                 <i class="fa fa-cube" aria-hidden="true"></i>
+                              </div>
+                              <h2>1K+</h2>
+                              <p>Active Products</p>
+                              
+</div>
+                        </div>
+                        <div class="col-lg-6 col-md-6 col-sm-12">
+                           <div class="choose-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInUp;">
+                              <div class="choose-icon">
+                                 <i class="fa fa-link" aria-hidden="true"></i>
+                              </div>
+                              <h2>10K+</h2>
+                              <p>Payment Links</p>
+                              
+</div>
+                        </div>
+ <div class="col-lg-6 col-md-6 col-sm-12">
+                           <div class="choose-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInUp;">
+                              <div class="choose-icon">
+                                 <i class="fa fa-money" aria-hidden="true"></i>
+                              </div>
+                              <h2>€100K</h2>
+                              <p>Processed</p>
+                              
+  </div>
+                        </div>
+
+  </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
+      
+ {% include footer-promo.html %}     
