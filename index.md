@@ -38,8 +38,8 @@ description: Everything you need to accept payments and to sell online.
     border-radius: .25em;
 ">Supporting 200 countries</span>
 
-<h2> Accept Payments
-<span class="underline">Worldwide</span>
+<h2> No-Code
+<span class="underline">Payment Platform</span>
 </h2>
 
 
@@ -102,13 +102,15 @@ description: Everything you need to accept payments and to sell online.
             <div class="row align-items-center">
                <div class="col-lg-6">
                   <div class="companies-left">
-                     <h4>We let you accept all payment methods</h4>
+                     <h4>Accept all payments worldwide</h4>
                   </div>
                </div>
                <div class="col-lg-6">
                   <div class="companies-slider owl-carousel">
                      <div class="single-com-slider">
-                        <a href="#"><img src="https://payrequest.io/assets/img/payment-icons/ideal@2x.png" alt="ideal" /></a>
+                        <a href="https://payrequest.io/payment-methods/ideal">
+                        <img src="https://payrequest.io/assets/img/payment-icons/ideal@2x.png" alt="ideal" />
+                        </a>
                      </div>
                      <div class="single-com-slider">
                         <a href="#"><img src="https://payrequest.io/assets/img/payment-icons/visa@2x.png" alt="visa" /></a>
