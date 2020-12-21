@@ -70,7 +70,7 @@ tags:
                      
 
 <h4 class="title" style="margin-bottom: 0px; padding: 20px 24px 0px; font-size: 23px;">
-<i class="fa fa-lock" style="padding-right: 10px;"></i>PCI DSS compliant
+<i class="fad fa-credit-card" style="padding-right: 10px;" aria-hidden="true"></i>PCI DSS compliant
 </h4>
                     
 <ul class="address-list">
@@ -88,10 +88,10 @@ tags:
 
 
 <div class="col-lg-4 d-flex">
-<div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s">
+<div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
 
 <h4 class="title" style="margin-bottom: 0px;font-size: 23px;padding: 20px 24px 0px;">
-<i class="fa fa-lock" style="padding-right: 10px;"></i>Fully GDPR compliant
+<i class="fad fa-clipboard-check" style="padding-right: 10px;" aria-hidden="true"></i>Fully GDPR compliant
 </h4>
                     
 <ul class="address-list">
@@ -108,7 +108,7 @@ tags:
 
 
 <div class="col-lg-4 d-flex">
-<div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s">
+<div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
 
 <h4 class="title" style="
     margin-bottom: 0px;
@@ -116,7 +116,7 @@ tags:
     font-size: 23px;
 ">
     
-<i class="fa fa-lock" style="padding-right: 10px;"></i>CSRF Protection
+<i class="fad fa-user-lock" style="padding-right: 10px;" aria-hidden="true"></i>CSRF Protection
 </h4>
                     
 <ul class="address-list">
@@ -141,7 +141,7 @@ tags:
 
 <h4 class="title" style="margin-bottom: 0px; padding: 20px 24px 0px; font-size: 23px;">
     
-<i class="fa fa-lock" style="padding-right: 10px;"></i> 3D Secure payments
+<i class="fad fa-shield-check" style="padding-right: 10px;" aria-hidden="true"></i> 3D Secure payments
 </h4>
                     
 <ul class="address-list">
@@ -162,7 +162,7 @@ tags:
 <div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
 
 <h4 class="title" style="margin-bottom: 0px; padding: 20px 24px 0px; font-size: 23px;">
-<i class="fa fa-lock" style="padding-right: 10px;"></i>Secure Data Encryption
+<i class="fad fa-lock" style="padding-right: 10px;" aria-hidden="true"></i>Secure Data Encryption
 </h4>
                     
 <ul class="address-list">
@@ -180,13 +180,12 @@ tags:
 
 <h4 class="title" style="margin-bottom: 0px; padding: 20px 24px 0px; font-size: 23px;">
     
-<i class="fa fa-lock" style="padding-right: 10px;"></i>Reliable Infrastructure
+<i class="fab fa-amazon" style="padding-right: 10px;" aria-hidden="true"></i>Reliable Infrastructure
 </h4>
                     
 <ul class="address-list">
 <li>
-<p>we use Amazon Web Services (AWS) the largest cloud provider in the world, 
-it guarantees use the best security & performance for our applications.
+<p>Amazon Web Services (AWS) the largest cloud provider in the world, it garantees us the best security and performance for our payment platformn.
 </p>
 </li>                    
 </ul>
@@ -197,7 +196,6 @@ it guarantees use the best security & performance for our applications.
   </div>
  </div>
  </section>
-
 
 
 
