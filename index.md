@@ -43,7 +43,7 @@ description: Everything you need to accept payments and to sell online.
 </h2>
 
 
-<p>PayRequest makes it easy to create your own branded payment page, and send payment links to all your customers.
+<p>PayRequest makes it easy to create your own branded payment page, and to send payment links to all your customers.
 
 </p>
 
@@ -257,7 +257,7 @@ description: Everything you need to accept payments and to sell online.
                </div>
 
 
-
+<!-- Products coming soon  
 <div class="col-lg-4 col-md-6">
                   <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
                      <div class="blog-image">
@@ -278,7 +278,8 @@ description: Everything you need to accept payments and to sell online.
                         </div>
                      </div>
                   </div>
-               </div><div class="col-lg-4 col-md-6">
+               </div>
+<div class="col-lg-4 col-md-6">
                   <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
                      <div class="blog-image">
                         <a href="/payment-pages">
@@ -287,19 +288,15 @@ description: Everything you need to accept payments and to sell online.
                      </div>
  <div class="blog-desc">
      <div class="blog-text">
-                           <a href="/payment-pages">
-                              <h3> 
-    <i class="fad fa-user-tie" style="color: #25b7c7;" aria-hidden="true"></i>
- Payment Pages</h3>
-
-<h5 style="
-    margin-top: 10px;
-">Create your own payrequest.me page and share your payment page.</h5>
-                           </a>
+ <a href="/payment-pages"> <h3>  <i class="fad fa-user-tie" style="color: #25b7c7;" aria-hidden="true"></i> Payment Pages</h3>
+<h5 style="margin-top: 10px;">Create your own payrequest.me page and share your payment page.</h5></a>
                         </div>
                      </div>
                   </div>
                </div>
+           -->    
+               
+               
             </div>
          </div>
       </section>
