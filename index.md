@@ -324,7 +324,7 @@ description: Everything you need to accept payments and to sell online.
                   <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
                      <div class="blog-image">
                         <a href="#">
-                        <img src="https://miro.medium.com/max/1400/1*BwozgpQznVzJEgcyv503zA.png" alt="blog">
+                        <img src="https://miro.medium.com/max/1400/1*-SCmLYv2oVCLkFL0vZfbRw.png" alt="blog">
                         </a>
                      </div>
                      <div class="blog-desc">
@@ -367,7 +367,7 @@ description: Everything you need to accept payments and to sell online.
                   <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.4s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.4s; animation-name: fadeInLeft;">
                      <div class="blog-image">
                         <a href="#">
-                        <img src="https://miro.medium.com/max/1400/1*Cv8AL6jfm4dHS7tvfbFi0w.png" alt="blog">
+                        <img src="https://pbs.twimg.com/media/EiqpaR0WkAECTg-?format=jpg&amp;name=large" alt="blog">
                         </a>
                      </div>
                      <div class="blog-desc">
@@ -410,7 +410,7 @@ description: Everything you need to accept payments and to sell online.
                   <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInLeft;">
                      <div class="blog-image">
                         <a href="#">
-                        <img src="https://ph-files.imgix.net/6d83fd11-c994-4ec4-9ec5-c0fc66046051.png?auto=format&amp;auto=compress&amp;codec=mozjpeg&amp;cs=strip&amp;w=675.5555555555555&amp;h=380&amp;fit=max&amp;dpr=2" alt="blog">
+                        <img src="https://i.imgur.com/ylvBOuu.png" alt="blog">
                         </a>
                      </div>
                      <div class="blog-desc">
@@ -434,7 +434,7 @@ description: Everything you need to accept payments and to sell online.
     white-space: nowrap;
     vertical-align: baseline;
     border-radius: .25em;
-">Blog Post</span>
+">Web Page</span>
 
 
 </h4>
@@ -443,7 +443,7 @@ description: Everything you need to accept payments and to sell online.
                         </div>
                         <div class="blog-text">
                            <a href="#">
-                              <h3>PayRequest joins Stripe Partner program</h3>
+                              <h3>PayRequest API is now available for everyone</h3>
                            </a>
                         </div>
                      </div>
