@@ -356,7 +356,7 @@ description: Everything you need to accept payments and to sell online.
                            </div>
                         </div>
                         <div class="blog-text">
-                           <a href="#">
+                           <a href="https://medium.com/payrequest/payrequest-joins-stripe-partner-program-765eb3de62b3">
                               <h3>PayRequest joins Stripe Partner program</h3>
                            </a>
                         </div>
