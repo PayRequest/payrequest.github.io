@@ -324,7 +324,7 @@ description: Everything you need to accept payments and to sell online.
                   <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
                      <div class="blog-image">
                         <a href="#">
-                        <img src="https://miro.medium.com/max/1400/1*-SCmLYv2oVCLkFL0vZfbRw.png" alt="blog">
+                        <img src="https://i.imgur.com/f9DXJvw.png" alt="blog">
                         </a>
                      </div>
                      <div class="blog-desc">
@@ -400,7 +400,7 @@ description: Everything you need to accept payments and to sell online.
                         </div>
                         <div class="blog-text">
                            <a href="#">
-                              <h3>PayRequest joins Stripe Partner program</h3>
+                              <h3>New Payment Provider: MultiSafePay</h3>
                            </a>
                         </div>
                      </div>
