@@ -29,9 +29,7 @@ tags:
             <div class="row">
                <div class="col-lg-12">
                   <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
-                     <h2>Multiple Payment Providers <br>Available via 
-<span>PayRequest</span>
-
+<h2>Multiple Payment Providers <br>Available via <span>PayRequest</span>
 </h2>
                   </div>
                </div>
@@ -115,7 +113,7 @@ tags:
 
 </h4>
 
-<a href="#" class="theme-btn mt-4" style="">Get started<span class="fa fa-chevron-right"></span></a>
+<a href="/payment-providers/stripe" class="theme-btn mt-4" style="">Get started<span class="fa fa-chevron-right"></span></a>
           
 </div>
 </div>
@@ -139,7 +137,7 @@ tags:
 
 </h4>
 
-<a href="#" class="theme-btn mt-4" style="">Get started<span class="fa fa-chevron-right"></span></a>
+<a href="/payment-providers/multisafepay" class="theme-btn mt-4" style="">Get started<span class="fa fa-chevron-right"></span></a>
           
 </div>
 </div>
