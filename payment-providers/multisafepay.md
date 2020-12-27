@@ -55,7 +55,7 @@ tags: [color-logo]
                <div class="col-lg-5 lg-1">
                   <div class="about-page-left wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInLeft;">
                      <h2 class="mr-5"><div class="">
-                        <img src="https://i.imgur.com/FKyMY6O.png" alt="blog image" style="
+                        <img src="https://i.imgur.com/9snQwf5.png" alt="multisafepay" style="
     border-radius: 20px;
 ">
                      </div></h2>
@@ -63,9 +63,8 @@ tags: [color-logo]
                </div>
                <div class="col-lg-6">
                   <div class="about-page-text wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.6s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.6s; animation-name: fadeInRight;">
-                     <h3>Mollie helps businesses of all sizes to sell and build more efficiently with a solid but easy-to-use payment solution. Start growing your business today with effortless payments.
-
-
+<h3>
+Accept, manage and stimulate online sales with MultiSafepay. Increase conversion rates with MultiSafepay unique solutions, create the perfect checkout experience and the best payment method mix.
 </h3>
 <a href="#" class="theme-btn mt-4"> Create Your Free Account<span class="fa fa-chevron-right"></span></a>
                      
