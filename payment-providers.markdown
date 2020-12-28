@@ -113,7 +113,7 @@ tags:
 
 </h4>
 
-<a href="/payment-providers/stripe" class="theme-btn mt-4" style="">Get started<span class="fa fa-chevron-right"></span></a>
+<a href="/payment-providers/stripe" class="theme-btn mt-4" style="">Read More<span class="fa fa-chevron-right"></span></a>
           
 </div>
 </div>
@@ -137,7 +137,7 @@ tags:
 
 </h4>
 
-<a href="/payment-providers/multisafepay" class="theme-btn mt-4" style="">Get started<span class="fa fa-chevron-right"></span></a>
+<a href="/payment-providers/multisafepay" class="theme-btn mt-4" style="">Read More<span class="fa fa-chevron-right"></span></a>
           
 </div>
 </div>

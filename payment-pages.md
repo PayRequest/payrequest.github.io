@@ -117,7 +117,7 @@ PayRequest makes it easy to create payment links and share them worldwide with a
                   </div>
                   <div class="col-lg-6">
                      <div class="about-right wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
-                        <img src="https://payrequest.io/assets/img/banners/dashboard.png" alt="about">
+  <img src="https://payrequest.io/assets/img/banners/payrequest-dashboard-v2.png" alt="payrequest dashboard">
                      </div>
                   </div>
                </div>

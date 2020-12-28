@@ -66,7 +66,7 @@ tags: [color-logo]
 <h3>
 Accept, manage and stimulate online sales with MultiSafepay. Increase conversion rates with MultiSafepay unique solutions, create the perfect checkout experience and the best payment method mix.
 </h3>
-<a href="#" class="theme-btn mt-4"> Create Your Free Account<span class="fa fa-chevron-right"></span></a>
+<a href="https://dashboard.payrequest.io/dashboard" class="theme-btn mt-4"> Create Your Free Account<span class="fa fa-chevron-right"></span></a>
                      
 </div>
 </div>
@@ -85,7 +85,7 @@ Accept, manage and stimulate online sales with MultiSafepay. Increase conversion
                </div>
                <div class="col-lg-7 col-md-12">
                   <div class="section-para wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.4s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.4s; animation-name: fadeInRight;">
-                     <p>Mollie supports all populair payment methods and the most used local payment methods.</p>
+                     <p>MultiSafePay supports all populair payment methods and the most used local payment methods.</p>
                   </div>
                </div>
             </div>
@@ -96,8 +96,6 @@ Accept, manage and stimulate online sales with MultiSafepay. Increase conversion
 
 </div>
 </section>
-
-
 
 {% include why-section.html %}
 

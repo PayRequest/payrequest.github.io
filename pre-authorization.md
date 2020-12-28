@@ -31,7 +31,7 @@ title: PayRequest | Pre-authorization
 ">temporary hold an amount on your customers credit card, during the hold period the funds are unavailable to the customer, the funds can be captured if needed, like when someone checking out of a hotel, or just as rental security deposits.
 </p>
 
-<a href="#" class="theme-btn mt-4"> Create Your Free Account<span class="fa fa-chevron-right"></span></a>
+<a href="#" class="theme-btn mt-4 disabled"> Coming Soon<span class="fa fa-chevron-right"></span></a>
 
 </div>
 
