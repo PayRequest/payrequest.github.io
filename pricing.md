@@ -47,11 +47,11 @@ tags:
                               <div class="pricing-head">
 <div class="pricing-type"><span>PayRequest Fees</span></div>
 <div class="price"><span class="dollar-sign"></span> 1%<span class="per-time"> 
-per transaction</span></div>
+ per transaction</span></div>
                               </div>
                               <div class="pricing-body">
                                  <ul>
-                                    <li>Only for successful transactions</li>
+                                    <li>+ payment processor fee</li>
                                     <li>Free branded payment page</li>
                                     <li>Unlimited Payment Links</li>
                                     <li>Free Integrations</li>
