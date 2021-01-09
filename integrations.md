@@ -83,24 +83,19 @@ tags:
                               <img src="https://a.slack-edge.com/80588/marketing/img/meta/slack_hash_256.png" alt="author">
                            </div>
                            <div class="tags">
-                              
 
-
-
-  <h3>Slack</h3>
-                           </div>
-                        </div>
-                        <div class="blog-text">
-                           
+<h3>Slack</h3>
+</div>
+</div>
+<div class="blog-text">
 <h4>Receive payments, new payment requests and failed payments directly in your Slack channels.
-
-
 </h4>
 
 <a class="theme-btn mt-4 disabled" style="opacity: .65;">Coming soon<span class="fa fa-chevron-right"></span></a>
-          
 </div>
-                     </div>
+</div>
+
+
                   </div>
                </div>
                <div class="col-lg-4 col-md-6">
@@ -112,22 +107,14 @@ tags:
                               <img src="https://i.pinimg.com/originals/b8/5d/c1/b85dc1205e77548f89d091c9482a57fb.png" alt="author">
                            </div>
                            <div class="tags">
-                              
-
-
 
 <h3>MessageBird</h3>
-                           </div>
-                        </div>
-                        <div class="blog-text">
-                           
+</div>
+</div>
+<div class="blog-text">
 <h4>Send SMS reminders to your clients worldwide, after any new payment link or after some email reminders.
-
-
 </h4>
-
 <a class="theme-btn mt-4 disabled" style="opacity: .65;">Coming soon<span class="fa fa-chevron-right"></span></a>
-          
 </div>
                      </div>
                   </div>
