@@ -185,9 +185,10 @@ tags:
 
           
 </div>
-                     </div>
-                  </div>
-               </div>
+</div>
+</div>
+</div>
+
 <div class="col-lg-4 col-md-6">
 <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
                      
@@ -236,17 +237,16 @@ tags:
 
 
 
-  </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-                  </div>
-               </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
                
- </div>
- </div>
+</div>
+</div>
 </section>
-      
       
 {% include footer-promo.html %}
