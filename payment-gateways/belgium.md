@@ -156,15 +156,17 @@ tags:
                      </div>
                      <p>PayRequest supports payment gateways in almost every country, search here for your country.
 </p>
+
+</div>
                      <div class="row">
                <div class="col-lg-4 col-md-6">
                   <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
                      
 <div class="blog-desc">
-                        <div class="meta-image">
-                           <div class="author-round">
-                              <img src="https://www.flaticon.com/svg/static/icons/svg/197/197441.svg" alt="author">
-                           </div>
+<div class="meta-image">
+<div class="author-round">
+<img src="https://payrequest.io/assets/img/country-flag-rounded/netherlands.svg" alt="author">
+</div>
                            <div class="tags">
                               
 
@@ -186,19 +188,15 @@ tags:
                      </div>
                   </div>
                </div>
-               <div class="col-lg-4 col-md-6">
-                  <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
+<div class="col-lg-4 col-md-6">
+<div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
                      
 <div class="blog-desc">
-                        <div class="meta-image">
-                           <div class="author-round">
-                              <img src="https://www.flaticon.com/svg/static/icons/svg/197/197484.svg" alt="author">
-                           </div>
+<div class="meta-image">
+<div class="author-round">
+<img src="https://payrequest.io/assets/img/country-flag-rounded/belgium.svg" alt="belgium payment gateway">
+</div>
                            <div class="tags">
-                              
-
-
-
 <h3>Belgium</h3>
                            </div>
                         </div>
@@ -225,15 +223,11 @@ tags:
                               <img src="https://www.flaticon.com/svg/static/icons/svg/197/197560.svg" alt="author">
                            </div>
                            <div class="tags">
-                              
-
-
 
 <h3>French</h3>
                            </div>
                         </div>
                         <div class="blog-text">
-                           
 <h4>We are offering major payment gateways in France to connect with PayRequest.
 
 </h4>
