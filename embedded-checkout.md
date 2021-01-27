@@ -83,7 +83,7 @@ title: PayRequest | Embedded Checkout
 
 
  <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-1382px, 0px, 0px); transition: all 1.2s ease 0s; width: 2246px;"><div class="owl-item cloned" style="width: 152.75px; margin-right: 20px;"><div class="single-com-slider">
-                        <a href="#"><img src="https://payrequest.io/assets/img/payment-icons/visa@2x.png" alt="visa"></a>
+                        <a href="#"><img src="https://bkwebdesigns.b-cdn.net/wp-content/uploads/2018/08/weebly-logo.png" alt="visa"></a>
                      </div></div><div class="owl-item cloned" style="width: 152.75px; margin-right: 20px;"><div class="single-com-slider">
                         <a href="#"><img src="https://carrd.co/assets/images/docs/brand/png/logo-color-light.png" alt="mastercard"></a>
                      </div></div><div class="owl-item cloned" style="width: 152.75px; margin-right: 20px;"><div class="single-com-slider">
@@ -93,7 +93,7 @@ title: PayRequest | Embedded Checkout
                      </div></div><div class="owl-item" style="width: 152.75px; margin-right: 20px;"><div class="single-com-slider">
                         <a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYJkXFQhCXhQ8SYuNoQfR_i5Jy-pQ_-D5UXQ&amp;usqp=CAU" alt="ideal"></a>
                      </div></div><div class="owl-item" style="width: 152.75px; margin-right: 20px;"><div class="single-com-slider">
-                        <a href="#"><img src="https://payrequest.io/assets/img/payment-icons/visa@2x.png" alt="visa"></a>
+                        <a href="#"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Wix.com_website_logo.svg/1024px-Wix.com_website_logo.svg.png" alt="visa"></a>
                      </div></div><div class="owl-item" style="width: 152.75px; margin-right: 20px;"><div class="single-com-slider">
                         <a href="#"><img src="https://carrd.co/assets/images/docs/brand/png/logo-color-light.png" alt="mastercard"></a>
                      </div></div><div class="owl-item" style="width: 152.75px; margin-right: 20px;"><div class="single-com-slider">
