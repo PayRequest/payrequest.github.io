@@ -64,7 +64,11 @@ title: PayRequest | Embedded Checkout
 </section>
 
 
-<section class="companies-section section_b_70 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s; animation-name: fadeInUp;">
+
+
+
+ <!-- All Payment Methods Section Start -->
+ <section class="companies-section section_b_70 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
          <div class="container">
             <div class="row align-items-center">
                <div class="col-lg-6">
@@ -73,43 +77,28 @@ title: PayRequest | Embedded Checkout
                   </div>
                </div>
                <div class="col-lg-6">
-                  <div class="companies-slider owl-carousel owl-loaded owl-drag">
-                     
-                     
-                     
-                     
+                  <div class="companies-slider owl-carousel">
+                     <div class="single-com-slider">
+                        <a href="#"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Wix.com_website_logo.svg/1024px-Wix.com_website_logo.svg.png" alt="ideal" /></a>
+                     </div>
+                     <div class="single-com-slider">
+                        <a href="#"><img src="https://carrd.co/assets/images/docs/brand/png/logo-color-light.png" alt="visa" /></a>
+                     </div>
+                     <div class="single-com-slider">
+                        <a href="#"><img src="https://bubble.io/blog/content/images/2020/09/Logo-with-clearspace.png" alt="mastercard" /></a>
+                     </div>
+                     <div class="single-com-slider">
+                        <a href="#"><img src="https://aws1.discourse-cdn.com/business7/uploads/glideapps/original/3X/e/3/e35bdbded7d3725e5fb0fb871a9c94db0bcbb229.png" alt="sofort banking" /></a>
+                     </div>
 
-  
+  <div class="single-com-slider">
+<a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYJkXFQhCXhQ8SYuNoQfR_i5Jy-pQ_-D5UXQ&usqp=CAU" alt="giropay" /></a>
+                     </div>
 
 
- <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-1382px, 0px, 0px); transition: all 1.2s ease 0s; width: 2246px;"><div class="owl-item cloned" style="width: 152.75px; margin-right: 20px;"><div class="single-com-slider">
-                        <a href="#"><img src="https://bkwebdesigns.b-cdn.net/wp-content/uploads/2018/08/weebly-logo.png" alt="visa"></a>
-                     </div></div><div class="owl-item cloned" style="width: 152.75px; margin-right: 20px;"><div class="single-com-slider">
-                        <a href="#"><img src="https://carrd.co/assets/images/docs/brand/png/logo-color-light.png" alt="mastercard"></a>
-                     </div></div><div class="owl-item cloned" style="width: 152.75px; margin-right: 20px;"><div class="single-com-slider">
-                        <a href="#"><img src="https://bubble.io/blog/content/images/2020/09/Logo-with-clearspace.png" alt="sofort banking"></a>
-                     </div></div><div class="owl-item cloned" style="width: 152.75px; margin-right: 20px;"><div class="single-com-slider">
-<a href="#"><img src="https://aws1.discourse-cdn.com/business7/uploads/glideapps/original/3X/e/3/e35bdbded7d3725e5fb0fb871a9c94db0bcbb229.png" alt="giropay"></a>
-                     </div></div><div class="owl-item" style="width: 152.75px; margin-right: 20px;"><div class="single-com-slider">
-                        <a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYJkXFQhCXhQ8SYuNoQfR_i5Jy-pQ_-D5UXQ&amp;usqp=CAU" alt="ideal"></a>
-                     </div></div><div class="owl-item" style="width: 152.75px; margin-right: 20px;"><div class="single-com-slider">
-                        <a href="#"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/Wix.com_website_logo.svg/1024px-Wix.com_website_logo.svg.png" alt="visa"></a>
-                     </div></div><div class="owl-item" style="width: 152.75px; margin-right: 20px;"><div class="single-com-slider">
-                        <a href="#"><img src="https://carrd.co/assets/images/docs/brand/png/logo-color-light.png" alt="mastercard"></a>
-                     </div></div><div class="owl-item" style="width: 152.75px; margin-right: 20px;"><div class="single-com-slider">
-                        <a href="#"><img src="https://bubble.io/blog/content/images/2020/09/Logo-with-clearspace.png" alt="sofort banking"></a>
-                     </div></div><div class="owl-item active" style="width: 152.75px; margin-right: 20px;"><div class="single-com-slider">
-<a href="#"><img src="https://aws1.discourse-cdn.com/business7/uploads/glideapps/original/3X/e/3/e35bdbded7d3725e5fb0fb871a9c94db0bcbb229.png" alt="giropay"></a>
-                     </div></div><div class="owl-item cloned active" style="width: 152.75px; margin-right: 20px;"><div class="single-com-slider">
-                        <a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYJkXFQhCXhQ8SYuNoQfR_i5Jy-pQ_-D5UXQ&amp;usqp=CAU" alt="ideal"></a>
-                     </div></div><div class="owl-item cloned active" style="width: 152.75px; margin-right: 20px;"><div class="single-com-slider">
-                        <a href="#"><img src="https://payrequest.io/assets/img/payment-icons/visa@2x.png" alt="visa"></a>
-                     </div></div><div class="owl-item cloned active" style="width: 152.75px; margin-right: 20px;"><div class="single-com-slider">
-                        <a href="#"><img src="https://carrd.co/assets/images/docs/brand/png/logo-color-light.png" alt="mastercard"></a>
-                     </div></div><div class="owl-item cloned" style="width: 152.75px; margin-right: 20px;"><div class="single-com-slider">
-                        <a href="#"><img src="https://bubble.io/blog/content/images/2020/09/Logo-with-clearspace.png" alt="sofort banking"></a>
-                     </div></div></div></div><div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><i class="fa fa-angle-left" aria-hidden="true"></i></button><button type="button" role="presentation" class="owl-next"><i class="fa fa-angle-right" aria-hidden="true"></i></button></div><div class="owl-dots"><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot active"><span></span></button></div></div>
+ </div>
                </div>
             </div>
          </div>
 </section>
+ <!-- All Payment Methods Section End -->
