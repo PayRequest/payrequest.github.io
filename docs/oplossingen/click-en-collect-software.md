@@ -267,4 +267,21 @@ Door de corona lockdown zijn bedrijven genoodzaakt om click & collect als servic
 </div>
   </section>
       
-{% include footer-promo.html %}
+<section class="subscribe-section innser_subscribe section_100">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-12">
+                  <div class="subscribe-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
+                     <div class="section-title">
+                        <h2>Begin vandaag met <span>Click &amp; Collect</span></h2>
+                        <p>Zodra je een account aanmaakt, kun je binnen 5 minuten beginnen met click &amp; collect betaallinks aanmaken.
+</p>
+                     </div>
+
+
+  <a href="https://dashboard.payrequest.io/" class="theme-btn-white wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 2s; animation-delay: 0.5s; animation-name: fadeInUp;">Gratis Account aanmaken<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
+</div>
+</div>
+</div>
+</div>
+</section>
