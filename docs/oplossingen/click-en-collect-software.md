@@ -117,55 +117,154 @@ Door de corona lockdown zijn bedrijven genoodzaakt om click & collect als servic
  <!-- About Bottom End -->
 </section>
       
-<section class="about-page-section section_100">
+<section class="contact-form section_100">
          <div class="container">
             <div class="row">
                <div class="col-lg-12">
-                  
-</div>
-            </div>
-            <div class="row align-items-center">
-               <div class="col-lg-10">
-                  <div class="about-page-text wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.6s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.6s; animation-name: fadeInRight;">
-                     <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
-                     <h2>Benefits of 
-<span>Pre Authorization Payments</span>
-
-</h2>
+                  <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
+                     <h2>Clikc & Collect <span>Functies</span></h2>
                   </div>
+               </div>
+            </div>
+<div class="row" style="margin-bottom: 20px;">
+<div class="col-lg-4 d-flex">
+<div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
 
-<h3>Obviously, the biggest benefit of pre authorization payments is the fact that they allow you to secure funds in exchange for goods and services. However, you also don't have to worry about the hassle of things like refunds and chargebacks. If you need to give a customer a refund, you can simply cancel the pre authorization payment before the funds are actually withdrawn. This means it's easy to provide refunds and your customers will be happy since they don't have to wait 3 to 5 business days for a refund.
-</h3>
+<h4 class="title" style="margin-bottom: 0px;padding: 20px 24px 0px;font-size: 23px;">
+<i class="fad fa-euro-sign" style="padding-right: 10px;" aria-hidden="true"></i>Meer valuta's
+</h4>
+                    
+<ul class="address-list">
+<li>
+<p>We ondersteunen alle werelwijde valuta's, ondersteun dus naast euro of dollars of pond. 
+</p>
+</li>        
+</ul>
+
+ </div>
+</div>
+
+<div class="col-lg-4 d-flex">
+<div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
+
+<h4 class="title" style="
+    margin-bottom: 0px;
+    font-size: 23px;
+    padding: 20px 24px 0px;
+">
+    
+ <i class="fad fa-paint-brush" style="padding-right: 5px;" aria-hidden="true"></i>Huisstijl Click&Collect
+</h4>
+                    
+<ul class="address-list">
+<li>
+<p>Verstuur click&collect betaallinks met je eigen logo en huisstijl, upload ook een leuke achtergrond.
+</p>
+</li>
+                        
+</ul>
+
+ </div>
+ </div>
+
+<div class="col-lg-4 d-flex">
+<div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
+
+<h4 class="title" style="margin-bottom: 0px; padding: 20px 24px 0px; font-size: 23px;">
+<i class="fad fa-language" style="padding-right: 10px;" aria-hidden="true"></i>Meer Talen
+</h4>
+                    
+<ul class="address-list">
+<li>
+<p> Betaallinks ondersteunen meer talen, klanten krijgen automatisch hun eigen taal te zien.
+</p>
+</li>
+                        
+ </ul>
+
+ </div>
+ </div>
 
 
-</div>
-</div>
-</div>
-</div>
-</section>  
 
-<section class="about-page-section section_100">
-<div class="container">
+
+ </div>
+
 <div class="row">
-<div class="col-lg-12">            
-</div>
-</div>
-<div class="row align-items-center">
-<div class="col-lg-10">
-<div class="about-page-text wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.6s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.6s; animation-name: fadeInRight;">
-<div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
-<h2>Who Uses 
-<span>Pre Authorization Payments</span>
-</h2>
-</div>
 
-<h3>Pre authorization payments are commonly used by a handful of different businesses. For example, hotels use pre authorization payments while guests stay in hotel rooms, charging for the stay once the guest has checked out. Car rental company will also use pre authorization payments to ensure customers are paying for the rental and have incentive to bring it back in good shape with plenty of gas. The security and versatility offered by pre authorization payments makes them a great solution for all types of businesses.
-</h3>
+<div class="col-lg-4 d-flex">
+<div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
 
+
+<h4 class="title" style="margin-bottom: 0px; padding: 20px 24px 0px; font-size: 23px;">
+    
+<i class="fa fa-money-bill-wave" style="padding-right: 10px;" aria-hidden="true"></i>Meer betaalmogelijkheden
+
+</h4>
+                    
+<ul class="address-list">
+                        <li>
+<p>Koppel een betaalprovider zoals Mollie of Stripe en accepteer betaalmethodes zoals iDeal of zelfs PayPal 
+</p>
+                        </li>
+                        
+ </ul>
+
+   </div>
+ </div>
+
+
+
+
+<div class="col-lg-4 d-flex">
+ <div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
+
+<h4 class="title" style="
+    margin-bottom: 0px;
+    padding: 20px 24px 0px;
+    font-size: 23px;
+">
+    
+ <i class="fad fa-shield-check" style="padding-right: 10px;" aria-hidden="true"></i> 3D Secure betalingen
+</h4>
+                    
+<ul class="address-list">
+<li>
+<p>Om fraude te voorkomen maken we gebruik van 3D Secure authenticatie om klanten te verifiëren.
+</p>
+</li>
+                        
+  </ul>
+ </div>
+ </div>
+
+
+<div class="col-lg-4 d-flex">
+<div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
+
+<h4 class="title" style="
+    margin-bottom: 0px;
+    padding: 20px 24px 0px;
+    font-size: 23px;
+">
+    
+<i class="fad fa-analytics" style="padding-right: 10px;" aria-hidden="true"></i>Volg Betalingen
+</h4>
+                    
+<ul class="address-list">
+<li>
+<p>Krijg een notificatie via browser of e-mail zodra een betaling binnenkomt of zelfs geopend wordt.
+</p>
+</li>
+                                 
+  </ul>
+
+  </div>
+  </div>
+
+
+  </div>
 </div>
-</div>
-</div>
-</div>
-</section>
+  </section>
       
 {% include footer-promo.html %}
