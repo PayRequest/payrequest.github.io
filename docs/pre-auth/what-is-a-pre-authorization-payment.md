@@ -32,7 +32,7 @@ title: PayRequest | What Is A Pre Authorization Payment?
                <div class="col-lg-5 lg-1">
                   <div class="about-page-left wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInLeft;">
                      <h2 class="mr-5"><div class="">
- <img src="https://payrequest.io/assets/logos/Square%20Logo%20CMYK.svg" alt="blog image" style="
+ <img src="https://payrequest.io/assets/logos/Square%20Logo%20CMYK.svg" alt="What is a pre-authorization Payment" style="
     border-radius: 20px;
 ">
                      </div></h2>
@@ -100,12 +100,10 @@ title: PayRequest | What Is A Pre Authorization Payment?
 </h3>
 
 
-
 </div>
 </div>
 </div>
 </div>
 </section>  
-      
       
 {% include footer-promo.html %}
