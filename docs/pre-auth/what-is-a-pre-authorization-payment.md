@@ -116,7 +116,7 @@ tags:
 <div class="row align-items-center">
 <div class="col-lg-10">
 <div class="about-page-text wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.6s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.6s; animation-name: fadeInRight;">
-div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
+<div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
 <h2>Who Uses 
 <span>Pre Authorization Payments</span>
 </h2>
