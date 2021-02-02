@@ -63,23 +63,59 @@ Door de corona lockdown zijn bedrijven genoodzaakt om click & collect als servic
 </div>
 </section>
       
-<section class="blog-section section_100">
-         <div class="container">
-            <div class="row align-items-center">
-               <div class="col-lg-10 col-md-12">
-                  <div class="section-title wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
-                     <h2>Why Are Funds
-<span>Held?</span></h2>
-                  </div>
-               </div>
-               
-            </div>
-            
-
-
-<h3> The whole idea behind pre authorization payments is to make sure customers are paying for goods and services. Once a pre authorization payment has been made, the funds for that payment are unavailable until the payment goes through. Think of pre authorization payments as a sort of security deposit; if a customer decides they don't want to pay, a pre authorization payment allows you to get the money that's owed to you. Not only does this ensure you get the money you're rightfully owed for goods and services, but it can also save you a lot of trouble when it comes to payment processing. </h3>
+<section class="about-section">
+         <!-- Top Shape Start -->
+         <div class="about-top-shape">
+            <img src="http://themescare.com/demos/robofume-view/assets/img/about-shape.png" alt="about shape">
          </div>
-      </section>
+         <!-- Top Shape End -->
+         <!-- Bottom Shape Start -->
+
+ <!-- Bottom Shape End -->
+ <!-- About Top Start -->
+<div class="about-top section_100">
+            <div class="container">
+             <div class="row align-items-center">
+                  <div class="col-lg-6">
+<div class="about-left wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s; animation-name: fadeInLeft;">
+<h3>Al je Click &amp; Collect<br>Bestellingen zichtbaar<br>in ons Dashboard</h3>
+<p>Zodra een klant een click &amp; collect betaallink heeft betaald, vindt je dit terug onder transacties met alle informatie, hierna kun je het e-mailadres van de klant gebruiken om contact op te nemen, om een ophaaltijd af te spreken.
+</p>
+                      
+</div>
+</div>
+<div class="col-lg-6">
+<div class="about-right wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
+  <img src="https://payrequest.io/assets/img/banners/payrequest-dashboard-v2.png" alt="payrequest dashboard">
+                     </div>
+</div>
+    </div>
+ </div>
+ </div>
+ <!-- About Top End -->
+ <!-- About Bottom Start -->
+ <div class="about-bottom section_b_100">
+            <div class="container">
+          <div class="row align-items-center">
+                  <div class="col-lg-6">
+                     <div class="about-right wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s; animation-name: fadeInLeft;">
+                        <img src="https://ph-files.imgix.net/1bc052d0-8494-4055-8c79-9ee65c25f08e.png?auto=format&amp;auto=compress&amp;codec=mozjpeg&amp;cs=strip&amp;w=675.5555555555555&amp;h=380&amp;fit=max&amp;dpr=2" alt="about">
+                     </div>
+                  </div>
+                  <div class="col-lg-6">
+                     <div class="about-left wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
+ <h3>Dynamische betaallinks
+<br>Voor Click &amp; Collect</h3>
+                        <p>Bespaar tijd en maak eenvoudig in elke browser een click &amp; collect link aan door simpel de URL aan te passen, bijvoorbeeld:  payrequest.me/jouwwinkelnaam/14,50/boek-martien-klant-janssen
+</p>
+                       
+</div>
+                  </div>
+ </div>
+ </div>
+ </div>
+ <!-- About Bottom End -->
+</section>
       
 <section class="about-page-section section_100">
          <div class="container">
