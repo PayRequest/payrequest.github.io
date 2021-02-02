@@ -1,5 +1,7 @@
 ---
 title: PayRequest | What Is A Pre Authorization Payment?
+tags:
+- color-logo
 ---
 
 <section class="breadcrumb-area">
@@ -10,7 +12,6 @@ title: PayRequest | What Is A Pre Authorization Payment?
                   <div class="breadcrumb-inn">
                      <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
                        <h2>What Is a 
-
 <span>Pre Authorization Payment?</span></h2>
                      </div>
                   </div>
