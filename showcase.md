@@ -29,9 +29,13 @@ tags:
     
    <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
                      <h2>Discover beatiful pages from 
-<span>Our Friends</span>
+<span>Our Customers</span>
 
 </h2>
+
+
+<h3>We handpicked the most creatives payment pages, please contact us if you want to get listed.
+</h3>
                   </div> 
     
     
@@ -71,7 +75,7 @@ tags:
                               <div class="product-text">
                                  <div class="product-title">
                                     <h3><a href="#">Showoff Imports</a></h3>
-                                    <p>Payment Page for webshop</p>
+                                    <p>Payment Page for Webshop</p>
                                  </div>
                                  <div class="product-action">
                                     <a href="#" style="
@@ -85,13 +89,13 @@ tags:
                            <div class="product-item">
                               <div class="product-image">
                                  <a href="#">
-                                 <img src="https://i.imgur.com/cdiyYJe.png" alt="product 1">
+                                 <img src="https://i.imgur.com/qSlBiAv.jpg" alt="product 1">
                                  </a>
                               </div>
                               <div class="product-text">
                                  <div class="product-title">
-                                    <h3><a href="#">NurulQuran</a></h3>
-                                    <p>Payment Page for non-profit</p>
+                                    <h3><a href="#">42 Steaks</a></h3>
+                                    <p>Payment Page for Restaurant</p>
                                  </div>
                                  <div class="product-action">
                                     <a href="#" style="
@@ -101,17 +105,105 @@ tags:
                               </div>
                            </div>
                         </div>
-                        <div class="col-lg-6 col-md-6 col-sm-12">
+                        
+
+
+<div class="col-lg-6 col-md-6 col-sm-12">
                            <div class="product-item">
                               <div class="product-image">
                                  <a href="#">
-                                 <img src="https://i.imgur.com/cdiyYJe.png" alt="product 1">
+                                 <img src="https://i.imgur.com/Cy6QsZb.jpg" alt="product 1">
                                  </a>
                               </div>
                               <div class="product-text">
                                  <div class="product-title">
-                                    <h3><a href="#">NurulQuran</a></h3>
-                                    <p>Payment Page for non-profit</p>
+                                    <h3><a href="#">BrewDog</a></h3>
+                                    <p>Payment Page for Brewery</p>
+                                 </div>
+                                 <div class="product-action">
+                                    <a href="#" style="
+    width: 100px;
+">View Page</a>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+
+
+<div class="col-lg-6 col-md-6 col-sm-12">
+                           <div class="product-item">
+                              <div class="product-image">
+                                 <a href="#">
+                                 <img src="https://i.imgur.com/R8nlbIJ.jpg" alt="product 1">
+                                 </a>
+                              </div>
+                              <div class="product-text">
+                                 <div class="product-title">
+                                    <h3><a href="#">Race Room</a></h3>
+                                    <p>Payment Page for Game Room</p>
+                                 </div>
+                                 <div class="product-action">
+                                    <a href="#" style="
+    width: 100px;
+">View Page</a>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+
+
+<div class="col-lg-6 col-md-6 col-sm-12">
+                           <div class="product-item">
+                              <div class="product-image">
+                                 <a href="#">
+                                 <img src="https://i.imgur.com/SqSq8rU.jpg" alt="product 1">
+                                 </a>
+                              </div>
+                              <div class="product-text">
+                                 <div class="product-title">
+                                    <h3><a href="#">NOX Room</a></h3>
+                                    <p>Payment Page for Escape Eoom</p>
+                                 </div>
+                                 <div class="product-action">
+                                    <a href="#" style="
+    width: 100px;
+">View Page</a>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+
+
+<div class="col-lg-6 col-md-6 col-sm-12">
+                           <div class="product-item">
+                              <div class="product-image">
+                                 <a href="#">
+                                 <img src="https://i.imgur.com/7lAb5mR.jpg" alt="product 1">
+                                 </a>
+                              </div>
+                              <div class="product-text">
+                                 <div class="product-title">
+                                    <h3><a href="#">Clothings</a></h3>
+                                    <p>Payment Page for Clothing Store</p>
+                                 </div>
+                                 <div class="product-action">
+                                    <a href="#" style="
+    width: 100px;
+">View Page</a>
+                                 </div>
+                              </div>
+                           </div>
+                        </div><div class="col-lg-6 col-md-6 col-sm-12">
+                           <div class="product-item">
+                              <div class="product-image">
+                                 <a href="#">
+                                 <img src="https://i.imgur.com/MlQGp7c.png" alt="product 1">
+                                 </a>
+                              </div>
+                              <div class="product-text">
+                                 <div class="product-title">
+                                    <h3><a href="#">Jewerly</a></h3>
+                                    <p>Payment Page for Jewerly</p>
                                  </div>
                                  <div class="product-action">
                                     <a href="#" style="
@@ -138,3 +230,6 @@ tags:
 </div>
 </div>
 </section>
+
+
+{% include footer-promo.html %}
