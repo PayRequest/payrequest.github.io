@@ -27,7 +27,7 @@ description: Create your own payrequest.me payment page and share it with everyo
  <h2> Create your own
 <span class="underline">Payment Page</span></h2>
 <p>
-PayRequest makes it easy to create payment links and share them worldwide with all your customers, accept payments online.
+With PayRequest you can create your own payrequest.me payment page, and accept payments from your cvustomers worldwide.
 </p>
 
 <a href="http://dashboard.payrequest.io/" class="theme-btn mt-4"> Create Your Free Account <span class="fa fa-chevron-right"></span> </a>
@@ -61,35 +61,41 @@ PayRequest makes it easy to create payment links and share them worldwide with a
 <!-- Hero Section End -->
        
    
-<!-- Companies Section Start -->
-<section class="companies-section section_b_70 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
+<!-- All Payment Methods Section Start -->
+ <section class="companies-section section_b_70 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
          <div class="container">
             <div class="row align-items-center">
                <div class="col-lg-6">
                   <div class="companies-left">
-                     <h4>Startups with their own Payment Page</h4>
+                     <h4>We let you accept all payment methods</h4>
                   </div>
                </div>
                <div class="col-lg-6">
                   <div class="companies-slider owl-carousel">
                      <div class="single-com-slider">
-                        <a href="#"><img src="https://lh3.googleusercontent.com/hpCa0ZSQrEshrO7bktxy8zeoT4ncoOQ96S-WZcFcHBdWGm7izsCtPydY-86RN6vyMg" alt="companies" /></a>
+                        <a href="#"><img src="https://payrequest.io/assets/img/payment-icons/ideal@2x.png" alt="ideal" /></a>
                      </div>
                      <div class="single-com-slider">
-                        <a href="#"><img src="https://lh3.googleusercontent.com/hpCa0ZSQrEshrO7bktxy8zeoT4ncoOQ96S-WZcFcHBdWGm7izsCtPydY-86RN6vyMg" alt="companies" /></a>
+                        <a href="#"><img src="https://payrequest.io/assets/img/payment-icons/visa@2x.png" alt="visa" /></a>
                      </div>
                      <div class="single-com-slider">
-                        <a href="#"><img src="https://lh3.googleusercontent.com/hpCa0ZSQrEshrO7bktxy8zeoT4ncoOQ96S-WZcFcHBdWGm7izsCtPydY-86RN6vyMg" alt="companies" /></a>
+                        <a href="#"><img src="https://payrequest.io/assets/img/payment-icons/mastercard@2x.png" alt="mastercard" /></a>
                      </div>
                      <div class="single-com-slider">
-                        <a href="#"><img src="https://lh3.googleusercontent.com/hpCa0ZSQrEshrO7bktxy8zeoT4ncoOQ96S-WZcFcHBdWGm7izsCtPydY-86RN6vyMg" alt="companies" /></a>
+                        <a href="#"><img src="https://payrequest.io/assets/img/payment-icons/sofort@2x.png" alt="sofort banking" /></a>
                      </div>
-                  </div>
+
+  <div class="single-com-slider">
+<a href="#"><img src="https://payrequest.io/assets/img/payment-icons/giropay@2x.png" alt="giropay" /></a>
+                     </div>
+
+
+ </div>
                </div>
             </div>
          </div>
-      </section>
-<!-- Companies Section End -->
+</section>
+ <!-- All Payment Methods Section End -->
        
 
 <!-- About Section Start -->
@@ -198,7 +204,7 @@ PayRequest makes it easy to create payment links and share them worldwide with a
                     
 <ul class="address-list">
 <li>
-<p>Send en Share Payment Links with your own brand logo &amp; background, also you can choose your own colors. 
+<p>Promote your Payment Page with your own brand logo &amp; background, also you can choose your own colors. 
 </p>
 </li>
                         
