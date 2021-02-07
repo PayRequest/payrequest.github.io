@@ -333,7 +333,7 @@ With PayRequest you can create your own payrequest.me payment page, and accept p
                   <div class="col-lg-12">
                   <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
                      <div class="section-title">
-<h2>Start sending<span> Payment Requests</span><br> in 3 simple steps.</h2>
+<h2>Get your<span> Payment Page</span><br> in 3 simple steps.</h2>
 </div>
                   </div>
                   
@@ -424,25 +424,25 @@ rounded {
           </div>
           <div class="col-sm-4 aos-init aos-animate" data-aos="fade-up" data-aos-easing="delay-slide" data-aos-duration="1300" data-aos-delay="500" data-aos-offset="-100">
             <div class="img-wrap">
-                    <img src="https://payrequest.io/assets/img/screens/new-request.png" alt="create your own payment link">
+                    <img src="https://i.imgur.com/uIawt8d.png" alt="create your own payment link">
               <span class="bubble-number">2</span>
             </div>
             <h5 style="
     font-weight: 700;
     color: #1c2045;
     margin-left: 20px;
-">2. Create a new payment request.</h5>
+">2. Choose your PayRequest.me name.</h5>
           </div>
           <div class="col-sm-4 aos-init aos-animate" data-aos="fade-up" data-aos-easing="delay-slide" data-aos-duration="1300" data-aos-delay="600" data-aos-offset="-100">
             <div class="img-wrap">
-              <img src="https://payrequest.io/assets/img/screens/payment-link.png" alt="Share your payment link and get paid">
+              <img src="https://i.imgur.com/R49kRK1.png" alt="Share your payment link and get paid">
               <span class="bubble-number">3</span>
             </div>
             <h5 style="
     font-weight: 700;
     color: #1c2045;
     margin-left: 20px;
-">3. Share your payment link, get paid!</h5>
+">3. Congratulations with your Payment Page!</h5>
           </div>
         </div>
                </div>
