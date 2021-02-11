@@ -22,9 +22,8 @@ title: PayRequest | Pre-authorization
             <div class="row align-items-center">
              <div class="col-lg-6 col-md-6">
                   <div class="hero-left">
-                     <h2>Send customers <br> pre-authorization 
+<h2>Send customers <br> pre-authorization 
 <span class="underline">payment links</span></h2>
-
 
 <p style="
     font-size: 20px;
@@ -48,7 +47,7 @@ title: PayRequest | Pre-authorization
 
 <div class="col-lg-6 col-md-6">
                   <div class="hero-right">
-                   <img src="https://i.imgur.com/DACCWXd.png" alt="hero" style="
+                   <img src="https://i.imgur.com/8Her0bS.png" alt="hero" style="
     transform: perspective(1000px) rotateY(-13deg) rotateX(5deg) rotateZ(7deg) scaleY(0.9) scaleX(0.95) translateX(-3%) translateY(-3%);
 ">
                      <div class="hero-dot-shape">
@@ -96,18 +95,17 @@ title: PayRequest | Pre-authorization
 <!-- About Bottom Start -->
 <div class="about-bottom section_b_100">
             <div class="container">
-          <div class="row align-items-center">
+<div class="row align-items-center">
                   <div class="col-lg-6">
                      <div class="about-right wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s; animation-name: fadeInLeft;">
-                        <img src="https://8designers.com/8/wp-content/uploads/2020/08/Artboard-%E2%80%93-7@2x.png" alt="about">
+                        <img src="https://ph-files.imgix.net/09d3a10b-0fa2-405c-b114-fd401dfcf4d3.png" alt="about">
                      </div>
                   </div>
                   <div class="col-lg-6">
                      <div class="about-left wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
-                        <h3>Customize your
-<br>Payment Page!</h3>
-                        <p>Brand colors are an important part of the branding equation. Not only do colors affect decision-making, they envoke emotions in humans, use your own brand colors on your payrequest.me payment page.
-
+                        <h3>Pre-authorization for
+<br>Rental, Hotels and more.</h3>
+                        <p>Pre-authorization payments are commonly used by a handful of different businesses. For example, hotels use pre-authorization payments while guests stay in hotel rooms, charging for the stay once the guest has checked out. Car rental companies will also use pre-authorization payments to ensure customers are paying for the rental and have an incentive to bring it back in good shape with plenty of gas.
 
 </p>
                        
