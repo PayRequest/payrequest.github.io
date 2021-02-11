@@ -166,7 +166,7 @@ title: PayRequest | Pre-authorization
                     
 <ul class="address-list">
 <li>
-<p>Promote your Payment Page with your own brand logo &amp; background, also you can choose your own colors. 
+<p>Pre-Authorization Payment Links with your own brand logo &amp; background, also you can choose your own colors. 
 </p>
 </li>
                         
@@ -184,7 +184,7 @@ title: PayRequest | Pre-authorization
                     
 <ul class="address-list">
 <li>
-<p>Payment Links are multi-language, so that you can welcome all your customers in your own language.
+<p>Pre-Authorization are multi-language, so that you can welcome all your customers in your own language.
 </p>
 </li>
                         
@@ -206,13 +206,12 @@ title: PayRequest | Pre-authorization
 
 <h4 class="title" style="margin-bottom: 0px; padding: 20px 24px 0px; font-size: 23px;">
     
-<i class="fa fa-money-bill-wave" style="padding-right: 10px;" aria-hidden="true"></i>Local Paymennts
-
+<i class="fa fa-money-bill-wave" style="padding-right: 10px;" aria-hidden="true"></i>Capture or Refund
 </h4>
                     
 <ul class="address-list">
                         <li>
-                           <p>Never say no again, we support 20+ local payment methods from Africa, Europe, North America and Asia.
+                           <p>Increase or decrease the initially authorised amount at a later point, with a full or partial refund or capture.
 </p>
                         </li>
                         
@@ -238,7 +237,7 @@ title: PayRequest | Pre-authorization
                     
 <ul class="address-list">
 <li>
-<p>For extra fraud protection we use 3D Secure authentication method used to verify a customer's identity 
+<p>For extra fraud protection we use 3D Secure authentication method used to verify a customer's identity. 
 </p>
 </li>
                         
@@ -261,7 +260,7 @@ title: PayRequest | Pre-authorization
                     
 <ul class="address-list">
 <li>
-<p>We make sure you can track all payment activity like: if your payment links is opened, and a notification when you get paid.
+<p>You can track all payment activity like: if your Pre-Authorization is opened, and a notification when you get paid.
 </p>
 </li>
                                  
@@ -370,7 +369,7 @@ title: PayRequest | Pre-authorization
    <div class="row">
              <div class="col-sm-4 aos-init aos-animate" data-aos="fade-up" data-aos-easing="delay-slide" data-aos-duration="1300" data-aos-delay="400" data-aos-offset="-100">
                <div class="img-wrap">
-                 <img src="https://i.imgur.com/V8IqnbY.png" alt="confirm chatlio screenshot">
+                 <img src="https://i.imgur.com/j9sunTi.png" alt="connect payment provider">
                  <span class="bubble-number">1</span>
                </div>
                <h5 style="
