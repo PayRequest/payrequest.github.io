@@ -34,7 +34,6 @@ title: PayRequest | Stripe Pre-authorization
 </div>
 
 
-
 <div class="mt-3" style="/* margin-bottom: 150px; */">
 <br> 
 <a href="https://www.producthunt.com/posts/payrequest?utm_source=badge-top-post-badge&amp;utm_medium=badge&amp;utm_souce=badge-payrequest" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=176421&amp;theme=light&amp;period=daily" alt="PayRequest - Simple, fast payment links via Stripe and Mollie | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px"></a>
@@ -411,7 +410,7 @@ title: PayRequest | Stripe Pre-authorization
    <!-- About Bottom End -->
    </section>
   
-  
+ 
   {% include why-section.html %}
   {% include footer-promo.html %}
   
