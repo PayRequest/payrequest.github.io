@@ -103,8 +103,7 @@ title: PayRequest | Pre-authorization
                   </div>
                   <div class="col-lg-6">
                      <div class="about-left wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
-                        <h3>Pre-authorization for
-<br>Rental, Hotels and more.</h3>
+                        <h3>Pre-authorization for <br>Hotels, B&B’s & Hostels</h3>
                         <p>Pre-authorization payments are commonly used by a handful of different businesses. For example, hotels use pre-authorization payments while guests stay in hotel rooms, charging for the stay once the guest has checked out. Car rental companies will also use pre-authorization payments to ensure customers are paying for the rental and have an incentive to bring it back in good shape with plenty of gas.
 
 </p>
