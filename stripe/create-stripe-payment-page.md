@@ -33,7 +33,7 @@ tags:
                <div class="col-lg-5 lg-1">
                   <div class="about-page-left wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInLeft;">
                      <h2 class="mr-5"><div class="">
- <img src="https://payrequest.io/assets/img/illustrations/payment-links-illustration.png" alt="blog image" style="
+ <img src="https://payrequest.io/assets/img/banners/payrequest-dashboard-v2.png" alt="blog image" style="
     border-radius: 20px;
 ">
                      </div></h2>
@@ -42,17 +42,14 @@ tags:
                <div class="col-lg-6">
                   <div class="about-page-text wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.6s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.6s; animation-name: fadeInRight;">
                      <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
-                     <h2>Send  Payment Links,
-<span>with Stripe</span>
+                     <h2>Create Stripe 
+
+<span>payment page</span>
 
 </h2>
                   </div>
 
-<h3>PayRequest makes it easy to create stripe payment links and send them worldwide with all your customers, accept credit card payments online.
-
-<br><br>
-
-We connect your Stripe account to easily send stripe payment links via your own paynet page, no coding required and all leading payment methods.
+<h3>PayRequest makes it easy to create a stripe payment page and to let your customers pay via credit card payments or other local payment methods, we are Strioe partner which make it easy to accept payments with your payment page.
 
 </h3>
                   </div>
@@ -68,10 +65,10 @@ We connect your Stripe account to easily send stripe payment links via your own 
          <div class="about-top-shape">
             <img src="http://themescare.com/demos/robofume-view/assets/img/about-shape.png" alt="about shape">
          </div>
-         <!-- Top Shape End -->
-         <!-- Bottom Shape Start -->
+<!-- Top Shape End -->
+<!-- Bottom Shape Start -->
 
- <!-- Bottom Shape End -->
+<!-- Bottom Shape End -->
  <!-- About Top Start -->
 <div class="about-top section_100">
             <div class="container">
@@ -79,11 +76,11 @@ We connect your Stripe account to easily send stripe payment links via your own 
                   <div class="col-lg-12">
                   <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
                      <div class="section-title">
-<h2>Start sending<span> Stripe Payment Links</span><br> in 3 simple steps.</h2>
+<h2>Create Stripe<span> Payment Page</span><br> in 3 simple steps.</h2>
 </div>
                   </div>
                   
-</div>
+ </div>
 <style>
   .bubble-number {
     display: block;
@@ -157,7 +154,7 @@ rounded {
 <div class="row">
           <div class="col-sm-4 aos-init aos-animate" data-aos="fade-up" data-aos-easing="delay-slide" data-aos-duration="1300" data-aos-delay="400" data-aos-offset="-100">
             <div class="img-wrap">
-              <img src="https://i.imgur.com/V8IqnbY.png" alt="payment image">
+              <img src="https://i.imgur.com/V8IqnbY.png" alt="confirm chatlio screenshot">
               <span class="bubble-number">1</span>
             </div>
             <h5 style="
@@ -165,41 +162,40 @@ rounded {
     color: #1c2045;
     margin-left: 20px;
 ">
-              1. Connect stripe payment provider.
+              1. Connect Stripe payment provider.
             <p></p></h5>
           </div>
           <div class="col-sm-4 aos-init aos-animate" data-aos="fade-up" data-aos-easing="delay-slide" data-aos-duration="1300" data-aos-delay="500" data-aos-offset="-100">
             <div class="img-wrap">
-                    <img src="https://payrequest.io/assets/img/screens/new-request.png" alt="create your own payment link">
+                    <img src="https://i.imgur.com/XeTru6O.png" alt="create your own payment link">
               <span class="bubble-number">2</span>
             </div>
             <h5 style="
     font-weight: 700;
     color: #1c2045;
     margin-left: 20px;
-">2. Create a new stripe payment link.</h5>
+">2. Choose a PayRequest.me name.</h5>
           </div>
           <div class="col-sm-4 aos-init aos-animate" data-aos="fade-up" data-aos-easing="delay-slide" data-aos-duration="1300" data-aos-delay="600" data-aos-offset="-100">
             <div class="img-wrap">
-              <img src="https://payrequest.io/assets/img/screens/payment-link.png" alt="Share your payment link and get paid">
+              <img src="https://i.imgur.com/R49kRK1.png" alt="Share your payment link and get paid">
               <span class="bubble-number">3</span>
             </div>
             <h5 style="
     font-weight: 700;
     color: #1c2045;
     margin-left: 20px;
-">3. Share your stripe payment link!</h5>
+">3. Share  your Stripe Payment Page!</h5>
           </div>
         </div>
                </div>
             </div>
          </div>
-         <!-- About Top End -->
+<!-- About Top End -->
           
 <!-- About Bottom Start -->
 <!-- About Bottom End -->
 </section>
-
 
 
 <section class="choose-section section_100">
