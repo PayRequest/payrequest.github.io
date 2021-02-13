@@ -28,8 +28,7 @@ tags:
                <div class="col-lg-12">
     
    <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
-                     <h2>Discover beatiful pages from 
-<span>Our Customers</span>
+<h2>Discover beatiful pages from  <span>Our Customers</span>
 
 </h2>
 
@@ -39,15 +38,13 @@ tags:
                   </div> 
     
     
-                  <div class="product-list-box">
+<div class="product-list-box">
                      <div class="row">
                         <div class="col-lg-6 col-md-6 col-sm-12">
                            <div class="product-item">
                               <div class="product-image">
                                  <a href="#">
-                                 <img src="https://i.imgur.com/cdiyYJe.png" alt="product 1" style="
-    height: 300px;
-">
+ <img src="https://i.imgur.com/cdiyYJe.png" alt="product 1" style="height: 300px;">
                                  </a>
                               </div>
                               <div class="product-text">
@@ -56,9 +53,7 @@ tags:
                                     <p>Payment Page for non-profit</p>
                                  </div>
                                  <div class="product-action">
-                                    <a href="#" style="
-    width: 100px;
-">View Page</a>
+              <a href="https://payrequest.me/NurulQuran" style="width: 100px;">View Page</a>
                                  </div>
                               </div>
                            </div>
@@ -66,11 +61,9 @@ tags:
                         <div class="col-lg-6 col-md-6 col-sm-12">
                            <div class="product-item">
                               <div class="product-image">
-                                 <a href="#">
-                                 <img src="https://i.imgur.com/g61tN7J.jpg" alt="product 1" style="
-    height: 300px;
-">
-                                 </a>
+     <a href="https://payrequest.me/NurulQuran"> 
+     <img src="https://i.imgur.com/g61tN7J.jpg" alt="product 1" style="height: 300px;">
+    </a>
                               </div>
                               <div class="product-text">
                                  <div class="product-title">
@@ -78,9 +71,7 @@ tags:
                                     <p>Payment Page for Webshop</p>
                                  </div>
                                  <div class="product-action">
-                                    <a href="#" style="
-    width: 100px;
-">View Page</a>
+                            <a href="https://payrequest.me/showoffimports" style="width: 100px;">View Page</a>
                                  </div>
                               </div>
                            </div>
@@ -88,19 +79,17 @@ tags:
                         <div class="col-lg-6 col-md-6 col-sm-12">
                            <div class="product-item">
                               <div class="product-image">
-                                 <a href="#">
-                                 <img src="https://i.imgur.com/qSlBiAv.jpg" alt="product 1">
+        <a href="https://payrequest.me/showoffimports">
+        <img src="https://i.imgur.com/qSlBiAv.jpg" alt="showoffimports payment page">
                                  </a>
                               </div>
                               <div class="product-text">
                                  <div class="product-title">
-                                    <h3><a href="#">42 Steaks</a></h3>
+                                    <h3><a href="https://payrequest.me/52gradi">52 Gradi</a></h3>
                                     <p>Payment Page for Restaurant</p>
                                  </div>
                                  <div class="product-action">
-                                    <a href="#" style="
-    width: 100px;
-">View Page</a>
+             <a href="https://payrequest.me/52gradi" style="width: 100px;">View Page</a>
                                  </div>
                               </div>
                            </div>
@@ -117,11 +106,11 @@ tags:
                               </div>
                               <div class="product-text">
                                  <div class="product-title">
-                                    <h3><a href="#">BrewDog</a></h3>
+                                    <h3><a href="https://payrequest.me/brewdog-hopline">BrewDog</a></h3>
                                     <p>Payment Page for Brewery</p>
                                  </div>
                                  <div class="product-action">
-                                    <a href="#" style="
+                                    <a href="https://payrequest.me/brewdog-hopline" style="
     width: 100px;
 ">View Page</a>
                                  </div>
@@ -133,17 +122,17 @@ tags:
 <div class="col-lg-6 col-md-6 col-sm-12">
                            <div class="product-item">
                               <div class="product-image">
-                                 <a href="#">
-                                 <img src="https://i.imgur.com/R8nlbIJ.jpg" alt="product 1">
+                                 <a href="https://payrequest.me/raceroom">
+                                 <img src="https://i.imgur.com/R8nlbIJ.jpg" alt="raceroom">
                                  </a>
                               </div>
                               <div class="product-text">
                                  <div class="product-title">
-                                    <h3><a href="#">Race Room</a></h3>
+                                    <h3><a href="https://payrequest.me/raceroom">Race Room</a></h3>
                                     <p>Payment Page for Game Room</p>
                                  </div>
                                  <div class="product-action">
-                                    <a href="#" style="
+                                    <a href="https://payrequest.me/raceroom" style="
     width: 100px;
 ">View Page</a>
                                  </div>
@@ -155,17 +144,17 @@ tags:
 <div class="col-lg-6 col-md-6 col-sm-12">
                            <div class="product-item">
                               <div class="product-image">
-                                 <a href="#">
-                                 <img src="https://i.imgur.com/SqSq8rU.jpg" alt="product 1">
+                                 <a href="https://payrequest.me/noxroom">
+                                 <img src="https://i.imgur.com/SqSq8rU.jpg" alt="nox room">
                                  </a>
                               </div>
                               <div class="product-text">
                                  <div class="product-title">
-                                    <h3><a href="#">NOX Room</a></h3>
+                                    <h3><a href="https://payrequest.me/noxroom">NOX Room</a></h3>
                                     <p>Payment Page for Escape Eoom</p>
                                  </div>
                                  <div class="product-action">
-                                    <a href="#" style="
+                                    <a href="https://payrequest.me/noxroom" style="
     width: 100px;
 ">View Page</a>
                                  </div>
@@ -196,17 +185,17 @@ tags:
                         </div><div class="col-lg-6 col-md-6 col-sm-12">
                            <div class="product-item">
                               <div class="product-image">
-                                 <a href="#">
+                                 <a href="https://payrequest.me/adellelouisediamonds.com">
                                  <img src="https://i.imgur.com/MlQGp7c.png" alt="product 1">
                                  </a>
                               </div>
                               <div class="product-text">
                                  <div class="product-title">
-                                    <h3><a href="#">Jewerly</a></h3>
+        <h3><a href="https://payrequest.me/adellelouisediamonds.com"> Adelle Louise Diamonds </a></h3>
                                     <p>Payment Page for Jewerly</p>
                                  </div>
                                  <div class="product-action">
-                                    <a href="#" style="
+                                    <a href="https://payrequest.me/adellelouisediamonds.com" style="
     width: 100px;
 ">View Page</a>
                                  </div>
