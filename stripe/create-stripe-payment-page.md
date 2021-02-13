@@ -1,6 +1,6 @@
 ---
 title: Create Stripe Payment Page
-description: We connect your Stripe account to easily send stripe payment links.
+description: We make it easy to create a stripe payment page and to let your customers pay
 tags:
 - color-logo
 ---
@@ -449,21 +449,19 @@ rounded {
 </section>
 
 
-
-
 <section class="subscribe-section innser_subscribe section_100">
 <div class="container">
             <div class="row">
                <div class="col-lg-12">
                   <div class="subscribe-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
                      <div class="section-title">
-                        <h2>Start sending <span>Stripe payment link</span></h2>
-                        <p>Stripe is the largest payment service provider in the world, they offer many local payment methods and a simple checkout which we have built in seamlessly into our donor page platform for the best experience to start your own donation page.
+                        <h2>Start creating your <span>Stripe payment page</span></h2>
+                        <p>Stripe is the largest payment service provider in the world, they offer many local payment methods and a simple checkout which we have built in seamlessly into our payment page platform for the best experience to start your own payment page.
 </p>
                      </div>
-<a href="https://dashboard.payrequest.io/" class="theme-btn-white wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 2s; animation-delay: 0.5s; animation-name: fadeInUp;">Send Stripe Payment Links<span class="fa fa-chevron-right"></span></a>
+<a href="https://dashboard.payrequest.io/" class="theme-btn-white wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 2s; animation-delay: 0.5s; animation-name: fadeInUp;">Create Stripe Payment Page<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
 </div>
                </div>
             </div>
          </div>
-      </section>
+</section>
