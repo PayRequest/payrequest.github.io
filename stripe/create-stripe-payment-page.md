@@ -283,6 +283,28 @@ rounded {
 
 
 
+<section class="blog-section section_100">
+         <div class="container">
+            <div class="row align-items-center">
+               <div class="col-lg-10 col-md-12">
+                  <div class="section-title wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
+                     <h2>What is a
+<span>Stripe Payment Page?</span></h2>
+                  </div>
+               </div>
+ </div>
+            
+
+
+<h3>With a Stripe Payment Page you can accepts payments from your customers, thanks to our partnership with Stripe, you can directly connect your Stripe Account, and every payment will be directly going into your Stripe account, on your Stripe Payment Page you can upload your own logo and background, to make it fit more with your business.</h3>
+         </div>
+      </section>
+
+
+
+
+
+
 
 
 <section class="subscribe-section innser_subscribe section_100">
