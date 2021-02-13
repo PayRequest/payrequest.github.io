@@ -24,23 +24,8 @@ description: Everything you need to accept payments and to sell online.
              <div class="col-lg-6 col-md-6">
 <div class="hero-left">
                      <br />
-<span class="label label-primary" style="
-    display: inline;
-    padding: .2em .6em .3em;
-    font-size: 75%;
-    font-weight: 700;
-    line-height: 1;
-    background-color: #03acca;
-    color: white;
-    text-align: center;
-    white-space: nowrap;
-    vertical-align: baseline;
-    border-radius: .25em;
-">Supporting 200 countries</span>
 
-<h2> No-Code
-<span class="underline">Payment Platform</span>
-</h2>
+<h2> No-Code <span class="underline">Payment Platform</span> </h2>
 
 
 <p>PayRequest makes it easy to create your own branded payment page, and to send payment links to all your customers.
@@ -83,9 +68,9 @@ description: Everything you need to accept payments and to sell online.
 
  <div class="col-lg-6 col-md-6">
                   <div class="hero-right">
-                   <img src="https://i.imgur.com/R49kRK1.png" alt="hero" style="
-    transform: perspective(1000px) rotateY(-13deg) rotateX(5deg) rotateZ(7deg) scaleY(0.9) scaleX(0.95) translateX(-3%) translateY(-3%);
-">
+           <img src="https://i.imgur.com/Cy6QsZb.jpg" alt="hero" style="
+               transform: perspective(1000px) rotateY(-13deg) rotateX(5deg) rotateZ(7deg) scaleY(0.9) scaleX(0.95) translateX(-3%) translateY(-3%);
+           ">
                      <div class="hero-dot-shape">
                  <img src="http://themescare.com/demos/robofume-view/assets/img/hero-dot-shape.png" alt="shape">
                      </div>
