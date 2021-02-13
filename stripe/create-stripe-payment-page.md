@@ -282,6 +282,81 @@ rounded {
       </section>
 
 
+<section class="choose-section section_100">
+         <div class="choose-shape-bg">
+            <img src="http://themescare.com/demos/robofume-view/assets/img/hero-dot-shape.png" alt="choose">
+         </div>
+         <div class="container">
+          <div class="row align-items-center">
+               <div class="col-lg-6 col-md-12 col-sm-12">
+                  <div class="choose-left wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
+                     <div class="section-title">
+                        <h2>Why <span>stripe payment page</span> <br>via PayRequest</h2>
+                     </div>
+                     <p>We replace all your payment tools in a handy dashboard where you can easily create stripe payment links and more.
+
+</p>
+                     <ul>
+                        <li><i class="fa fa-check-square-o" aria-hidden="true"></i> Stripe Payment Provider</li>
+                        <li><i class="fa fa-check-square-o" aria-hidden="true"></i> Branded Stripe Payment Page</li>
+                        <li><i class="fa fa-check-square-o" aria-hidden="true"></i>3D Secure authentication
+</li>
+                        <li><i class="fa fa-check-square-o" aria-hidden="true"></i>Send Stripe Payment Links</li>
+                        <li><i class="fa fa-check-square-o" aria-hidden="true"></i>Stripe Multi-currency</li>
+                        <li><i class="fa fa-check-square-o" aria-hidden="true"></i> 24/7 Payments Support</li>
+                     </ul>
+                  </div>
+               </div>
+               <div class="col-lg-6 col-md-12 col-sm-12">
+                  <div class="choose-right">
+                     <div class="row">
+                        <div class="col-lg-6 col-md-6 col-sm-12">
+                           <div class="choose-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
+                              <div class="choose-icon">
+                                 <i class="fa fa-users" aria-hidden="true"></i>
+                              </div>
+                              <h2>2K+</h2>
+                              <p>companies</p>
+                              
+</div>
+</div>
+                        <div class="col-lg-6 col-md-6 col-sm-12">
+                           <div class="choose-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.4s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.4s; animation-name: fadeInUp;">
+                              <div class="choose-icon">
+                                 <i class="fa fa-cube" aria-hidden="true"></i>
+                              </div>
+                              <h2>1K+</h2>
+                              <p>Active Products</p>
+                              
+ </div>
+ </div>
+ <div class="col-lg-6 col-md-6 col-sm-12">
+                           <div class="choose-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInUp;">
+                              <div class="choose-icon">
+                                 <i class="fa fa-link" aria-hidden="true"></i>
+                              </div>
+                              <h2>10K+</h2>
+                              <p>Payment Links</p>
+                              
+ </div>
+                        </div>
+                     <div class="col-lg-6 col-md-6 col-sm-12">
+                           <div class="choose-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInUp;">
+                              <div class="choose-icon">
+                                 <i class="fa fa-money" aria-hidden="true"></i>
+                              </div>
+                              <h2>€100K</h2>
+                              <p>Processed</p>
+                              
+</div>
+   </div>
+</div>
+ </div>
+  </div>
+  </div>
+  </div>
+</section>
+
 
 <section class="blog-section section_100">
          <div class="container">
