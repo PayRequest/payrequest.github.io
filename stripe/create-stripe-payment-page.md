@@ -198,89 +198,6 @@ rounded {
 </section>
 
 
-<section class="choose-section section_100">
-         <div class="choose-shape-bg">
-            <img src="http://themescare.com/demos/robofume-view/assets/img/hero-dot-shape.png" alt="choose">
-         </div>
-         <div class="container">
-          <div class="row align-items-center">
-               <div class="col-lg-6 col-md-12 col-sm-12">
-                  <div class="choose-left wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
-                     <div class="section-title">
-                        <h2>Send <span>stripe payment links</span> <br>via PayRequest</h2>
-                     </div>
-                     <p>We replace all your payment tools in a handy dashboard where you can easily create stripe payment links and more.
-
-</p>
-                     <ul>
-                        <li><i class="fa fa-check-square-o"></i> Stripe Payment Provider</li>
-                        <li><i class="fa fa-check-square-o"></i> Branded Stripe Payment Page</li>
-                        <li><i class="fa fa-check-square-o"></i>3D Secure authentication
-</li>
-                        <li><i class="fa fa-check-square-o"></i>Send Payment Links</li>
-                        <li><i class="fa fa-check-square-o"></i>Multi-currency</li>
-                        <li><i class="fa fa-check-square-o"></i> 24/7 Support</li>
-                     </ul>
-                  </div>
-               </div>
-               <div class="col-lg-6 col-md-12 col-sm-12">
-                  <div class="choose-right">
-                     <div class="row">
-                        <div class="col-lg-6 col-md-6 col-sm-12">
-                           <div class="choose-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
-                              <div class="choose-icon">
-                                 <i class="fa fa-users"></i>
-                              </div>
-                              <h2><span class="counter">2500</span>+</h2>
-                              <p>Happy Customers</p>
-                              <div class="choose-icon-bottom">
-                                 <i class="fa fa-users"></i>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="col-lg-6 col-md-6 col-sm-12">
-                           <div class="choose-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.4s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.4s; animation-name: fadeInUp;">
-                              <div class="choose-icon">
-                                 <i class="fa fa-cube"></i>
-                              </div>
-                              <h2><span class="counter">2</span>+</h2>
-                              <p>Integrations</p>
-                              <div class="choose-icon-bottom">
-                                 <i class="fa fa-cube"></i>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="col-lg-6 col-md-6 col-sm-12">
-                           <div class="choose-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInUp;">
-                              <div class="choose-icon">
-                                 <i class="fa fa-thumbs-up"></i>
-                              </div>
-                              <h2><span class="counter">135</span>+</h2>
-                              <p>Payment Links</p>
-                              <div class="choose-icon-bottom">
-                                 <i class="fa fa-thumbs-up"></i>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="col-lg-6 col-md-6 col-sm-12">
-                           <div class="choose-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInUp;">
-                              <div class="choose-icon">
-                                 <i class="fa fa-trophy"></i>
-                              </div>
-                              <h2><span class="counter">1400</span>+</h2>
-                              <p>Awards Winning</p>
-                              <div class="choose-icon-bottom">
-                                 <i class="fa fa-trophy"></i>
-                              </div>
-                           </div>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </section>
-
 
 <section class="choose-section section_100">
          <div class="choose-shape-bg">
@@ -291,7 +208,7 @@ rounded {
                <div class="col-lg-6 col-md-12 col-sm-12">
                   <div class="choose-left wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
                      <div class="section-title">
-                        <h2>Why <span>stripe payment page</span> <br>via PayRequest</h2>
+                        <h2>Why <span>Stripe payment page</span> <br>via PayRequest</h2>
                      </div>
                      <p>We replace all your payment tools in a handy dashboard where you can easily create stripe payment links and more.
 
@@ -377,7 +294,159 @@ rounded {
 
 
 
+<section class="contact-form section_100">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-12">
+                  <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
+                     <h2>Stripe Payment Page <span>Features</span></h2>
+                  </div>
+               </div>
+            </div>
+<div class="row" style="margin-bottom: 20px;">
+<div class="col-lg-4 d-flex">
+<div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
 
+<h4 class="title" style="margin-bottom: 0px;padding: 20px 24px 0px;font-size: 23px;">
+<i class="fad fa-euro-sign" style="padding-right: 10px;" aria-hidden="true"></i>Multi Currency
+</h4>
+                    
+<ul class="address-list">
+<li>
+<p>We support al major currencies all around the globe, with realtime currency conversion for every currency.
+</p>
+</li>        
+</ul>
+
+ </div>
+</div>
+
+
+
+
+<div class="col-lg-4 d-flex">
+<div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
+
+
+<h4 class="title" style="
+    margin-bottom: 0px;
+    font-size: 23px;
+    padding: 20px 24px 0px;
+">
+    
+ <i class="fad fa-paint-brush" style="padding-right: 5px;" aria-hidden="true"></i>Branded Payment Links
+</h4>
+                    
+<ul class="address-list">
+<li>
+<p>Promote your Payment Page with your own brand logo &amp; background, also you can choose your own colors. 
+</p>
+</li>
+                        
+</ul>
+
+ </div>
+ </div>
+
+<div class="col-lg-4 d-flex">
+<div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
+
+<h4 class="title" style="margin-bottom: 0px; padding: 20px 24px 0px; font-size: 23px;">
+<i class="fad fa-language" style="padding-right: 10px;" aria-hidden="true"></i>Multi Language
+</h4>
+                    
+<ul class="address-list">
+<li>
+<p>Payment Links are multi-language, so that you can welcome all your customers in your own language.
+</p>
+</li>
+                        
+ </ul>
+
+ </div>
+ </div>
+
+
+
+
+ </div>
+
+<div class="row">
+
+<div class="col-lg-4 d-flex">
+<div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
+
+
+<h4 class="title" style="margin-bottom: 0px; padding: 20px 24px 0px; font-size: 23px;">
+    
+<i class="fa fa-money-bill-wave" style="padding-right: 10px;" aria-hidden="true"></i>Local Paymennts
+
+</h4>
+                    
+<ul class="address-list">
+                        <li>
+                           <p>Never say no again, we support 20+ local payment methods from Africa, Europe, North America and Asia.
+</p>
+                        </li>
+                        
+ </ul>
+
+   </div>
+ </div>
+
+
+
+
+<div class="col-lg-4 d-flex">
+ <div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
+
+<h4 class="title" style="
+    margin-bottom: 0px;
+    padding: 20px 24px 0px;
+    font-size: 23px;
+">
+    
+ <i class="fad fa-shield-check" style="padding-right: 10px;" aria-hidden="true"></i> 3D Secure payments
+</h4>
+                    
+<ul class="address-list">
+<li>
+<p>For extra fraud protection we use 3D Secure authentication method used to verify a customer's identity 
+</p>
+</li>
+                        
+  </ul>
+ </div>
+ </div>
+
+
+<div class="col-lg-4 d-flex">
+<div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
+
+<h4 class="title" style="
+    margin-bottom: 0px;
+    padding: 20px 24px 0px;
+    font-size: 23px;
+">
+    
+<i class="fad fa-analytics" style="padding-right: 10px;" aria-hidden="true"></i>Payment Tracking
+</h4>
+                    
+<ul class="address-list">
+<li>
+<p>We make sure you can track all payment activity like: if your payment links is opened, and a notification when you get paid.
+</p>
+</li>
+                                 
+  </ul>
+
+  </div>
+  </div>
+
+
+  </div>
+</div>
+</section>
 
 
 
