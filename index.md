@@ -68,9 +68,11 @@ description: Everything you need to accept payments and to sell online.
 
  <div class="col-lg-6 col-md-6">
                   <div class="hero-right">
-           <img src="https://i.imgur.com/Cy6QsZb.jpg" alt="hero" style="
-               transform: perspective(1000px) rotateY(-13deg) rotateX(5deg) rotateZ(7deg) scaleY(0.9) scaleX(0.95) translateX(-3%) translateY(-3%);
-           ">
+    <img src="https://i.imgur.com/Cy6QsZb.jpg" alt="hero" style="
+        transform: perspective(1000px) rotateY(-13deg) rotateX(5deg) rotateZ(7deg) scaleY(0.9) scaleX(0.95) translateX(-3%) translateY(-3%);
+        width: 530px;
+        height: 360px;
+    ">
                      <div class="hero-dot-shape">
                  <img src="http://themescare.com/demos/robofume-view/assets/img/hero-dot-shape.png" alt="shape">
                      </div>
