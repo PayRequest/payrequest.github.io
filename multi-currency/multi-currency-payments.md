@@ -33,7 +33,7 @@ tags:
                <div class="col-lg-5 lg-1">
                   <div class="about-page-left wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInLeft;">
                      <h2 class="mr-5"><div class="">
- <img src="https://payrequest.io/assets/img/banners/payrequest-dashboard-v2.png" alt="blog image" style="
+ <img src="https://i.imgur.com/lhIiwWO.png" alt="multi-currency payments" style="
     border-radius: 20px;
 ">
                      </div></h2>
@@ -279,14 +279,11 @@ rounded {
                <div class="col-lg-10 col-md-12">
                   <div class="section-title wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
                      <h2>What are
-<span>Multi-=Currency Payments?</span></h2>
+<span>Multi-Currency Payments?</span></h2>
                   </div>
                </div>
  </div>
-            
-
-
-<h3>A multi-currency payment is a payment solution to let your customer choose what currency they want to pay you,
+<h3>A multi-currency payment is a payment solution to let your customers choose what currency they want to pay you,
 this will increase your conversion, and gives you the opportunity to do business worldwide.
 
 </h3>
@@ -450,19 +447,12 @@ this will increase your conversion, and gives you the opportunity to do business
                               <img src="https://www.flaticon.com/svg/static/icons/svg/591/591986.svg" alt="author">
                            </div>
                            <div class="tags">
-                              
-
-
-
 <h3>Turkish Lira </h3>
                            </div>
                         </div>
-                        <div class="blog-text">
-                           
+                        <div class="blog-text">        
 <h4>The Turkish lira (Turkish: Türk lirası; sign: ₺; code: TRY; ) is the currency of Turkey.
 </h4>
-
-
 
   </div>
                      </div>
@@ -480,10 +470,11 @@ this will increase your conversion, and gives you the opportunity to do business
                   <div class="subscribe-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
                      <div class="section-title">
                         <h2>Start accept <span>Multi-Currency Payments</span></h2>
-                        <p>Stripe is the largest payment service provider in the world, they offer many local payment methods and a simple checkout which we have built in seamlessly into our payment page platform for the best experience to start your own payment page.
+                        <p>
+Create your PayRequest account today, and start acccept multi-currency payments, we also support many local payments methods, and you can design your own payment page to make it yours.             
 </p>
                      </div>
-<a href="https://dashboard.payrequest.io/" class="theme-btn-white wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 2s; animation-delay: 0.5s; animation-name: fadeInUp;">Create Stripe Payment Page<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
+<a href="https://dashboard.payrequest.io/" class="theme-btn-white wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 2s; animation-delay: 0.5s; animation-name: fadeInUp;">Accept Multi-Currency Payments   <span class="fa fa-chevron-right" aria-hidden="true"></span></a>
 </div>
                </div>
             </div>
