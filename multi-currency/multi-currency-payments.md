@@ -12,7 +12,7 @@ tags:
                <div class="col-lg-12">
                   <div class="breadcrumb-inn">
                      <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
-                       <h2>Create Stripe <span>Payment Page</span></h2>
+                       <h2>Multi-Currency <span>Payments</span></h2>
                      </div>
                   </div>
                </div>
@@ -42,15 +42,13 @@ tags:
                <div class="col-lg-6">
                   <div class="about-page-text wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.6s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.6s; animation-name: fadeInRight;">
                      <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
-                     <h2>Create Stripe 
-
-<span>payment page</span>
+                     <h2>Multi-Currency 
+<span>Payments</span>
 
 </h2>
                   </div>
 
-<h3>PayRequest makes it easy to create a stripe payment page and to let your customers pay via credit card payments or other local payment methods, we are Strioe partner which make it easy to accept payments with your payment page.
-
+<h3>PayRequest supports multi-currency processing, your customers can pay with their preferred currency like: US Dollars or Pounds, Euros and more.
 </h3>
                   </div>
                </div>
@@ -76,7 +74,7 @@ tags:
                   <div class="col-lg-12">
                   <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
                      <div class="section-title">
-<h2>Create Stripe<span> Payment Page</span><br> in 3 simple steps.</h2>
+<h2>Multi-Currency <span> Payments</span><br> in 3 simple steps.</h2>
 </div>
                   </div>
                   
@@ -185,7 +183,7 @@ rounded {
     font-weight: 700;
     color: #1c2045;
     margin-left: 20px;
-">3. Share  your Stripe Payment Page!</h5>
+">3. Share multi-currency payments</h5>
           </div>
         </div>
                </div>
@@ -208,7 +206,7 @@ rounded {
                <div class="col-lg-6 col-md-12 col-sm-12">
                   <div class="choose-left wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
                      <div class="section-title">
-                        <h2>Why <span>Stripe payment page</span> <br>via PayRequest</h2>
+                        <h2>Why <span>Multi-Currrency Payments</span> <br>via PayRequest</h2>
                      </div>
                      <p>We replace all your payment tools in a handy dashboard where you can easily create stripe payment links and more.
 
@@ -280,15 +278,18 @@ rounded {
             <div class="row align-items-center">
                <div class="col-lg-10 col-md-12">
                   <div class="section-title wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
-                     <h2>What is a
-<span>Stripe Payment Page?</span></h2>
+                     <h2>What are
+<span>Multi-=Currency Payments?</span></h2>
                   </div>
                </div>
  </div>
             
 
 
-<h3>With a Stripe Payment Page you can accepts payments from your customers, thanks to our partnership with Stripe, you can directly connect your Stripe Account, and every payment will be directly going into your Stripe account, on your Stripe Payment Page you can upload your own logo and background, to make it fit more with your business.</h3>
+<h3>A multi-currency payment is a payment solution to let your customer choose what currency they want to pay you,
+this will increase your conversion, and gives you the opportunity to do business worldwide.
+
+</h3>
          </div>
       </section>
 
@@ -299,152 +300,175 @@ rounded {
             <div class="row">
                <div class="col-lg-12">
                   <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
-                     <h2>Stripe Payment Page <span>Features</span></h2>
+                     <h2>Currencies we support with <span>Multi-Currency</span></h2>
                   </div>
                </div>
             </div>
-<div class="row" style="margin-bottom: 20px;">
-<div class="col-lg-4 d-flex">
-<div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
+<div class="row">
+               <div class="col-lg-4 col-md-6">
+                  <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
+                     
+<div class="blog-desc">
+                        <div class="meta-image">
+                           <div class="author-round">
+                              <img src="https://www.flaticon.com/svg/static/icons/svg/591/591978.svg" alt="author">
+                           </div>
+                           <div class="tags">
+                              
 
-<h4 class="title" style="margin-bottom: 0px;padding: 20px 24px 0px;font-size: 23px;">
-<i class="fad fa-euro-sign" style="padding-right: 10px;" aria-hidden="true"></i>Multi Currency
+
+
+  <h3>EURO</h3>
+                           </div>
+                        </div>
+                        <div class="blog-text">
+                           
+<h4>The euro (sign: €; code: EUR) is the official currency of 19 of the 27 member states of the European Union.
 </h4>
-                    
-<ul class="address-list">
-<li>
-<p>We support al major currencies all around the globe, with realtime currency conversion for every currency.
-</p>
-</li>        
-</ul>
 
- </div>
+
 </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-6">
+                  <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
+                     
+<div class="blog-desc">
+                        <div class="meta-image">
+                           <div class="author-round">
+                              <img src="https://www.flaticon.com/svg/static/icons/svg/591/591971.svg" alt="author">
+                           </div>
+                           <div class="tags">
+                              
 
 
 
-
-<div class="col-lg-4 d-flex">
-<div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
-
-
-<h4 class="title" style="
-    margin-bottom: 0px;
-    font-size: 23px;
-    padding: 20px 24px 0px;
-">
-    
- <i class="fad fa-paint-brush" style="padding-right: 5px;" aria-hidden="true"></i>Branded Payment Links
+<h3>DOLLAR</h3>
+                           </div>
+                        </div>
+                        <div class="blog-text">
+                           
+<h4>Dollar (symbol: $) is the name of more than 20 currencies. They include the United States dollar and several other.
 </h4>
-                    
-<ul class="address-list">
-<li>
-<p>Promote your Payment Page with your own brand logo &amp; background, also you can choose your own colors. 
-</p>
-</li>
-                        
-</ul>
 
- </div>
- </div>
 
-<div class="col-lg-4 d-flex">
-<div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
 
-<h4 class="title" style="margin-bottom: 0px; padding: 20px 24px 0px; font-size: 23px;">
-<i class="fad fa-language" style="padding-right: 10px;" aria-hidden="true"></i>Multi Language
+</div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-6">
+                  <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
+                     
+<div class="blog-desc">
+                        <div class="meta-image">
+                           <div class="author-round">
+                              <img src="https://www.flaticon.com/svg/static/icons/svg/592/592010.svg" alt="author">
+                           </div>
+                           <div class="tags">
+                              
+
+
+
+<h3>POUND</h3>
+                           </div>
+                        </div>
+                        <div class="blog-text">
+                           
+<h4>Pound sterling (symbol: £) known also as the pound or sterling, is the official currency of the United Kingdom.
 </h4>
-                    
-<ul class="address-list">
-<li>
-<p>Payment Links are multi-language, so that you can welcome all your customers in your own language.
-</p>
-</li>
-                        
- </ul>
-
- </div>
- </div>
 
 
 
-
- </div>
+  </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
 
 <div class="row">
+               <div class="col-lg-4 col-md-6">
+                  <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
+                     
+<div class="blog-desc">
+                        <div class="meta-image">
+                           <div class="author-round">
+                              <img src="https://www.flaticon.com/svg/static/icons/svg/592/592015.svg" alt="author">
+                           </div>
+                           <div class="tags">
+                              
 
-<div class="col-lg-4 d-flex">
-<div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
 
 
-<h4 class="title" style="margin-bottom: 0px; padding: 20px 24px 0px; font-size: 23px;">
-    
-<i class="fa fa-money-bill-wave" style="padding-right: 10px;" aria-hidden="true"></i>Local Paymennts
-
+  <h3>INDIAN RUPEE</h3>
+                           </div>
+                        </div>
+                        <div class="blog-text">
+                           
+<h4>The Indian rupee (sign: ₹; currency code: INR) is the official currency of India. 
 </h4>
-                    
-<ul class="address-list">
-                        <li>
-                           <p>Never say no again, we support 20+ local payment methods from Africa, Europe, North America and Asia.
-</p>
-                        </li>
-                        
- </ul>
-
-   </div>
- </div>
 
 
+</div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-6">
+                  <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
+                     
+<div class="blog-desc">
+                        <div class="meta-image">
+                           <div class="author-round">
+                              <img src="https://www.flaticon.com/svg/static/icons/svg/592/592029.svg" alt="author">
+                           </div>
+                           <div class="tags">
+                              
 
 
-<div class="col-lg-4 d-flex">
- <div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
 
-<h4 class="title" style="
-    margin-bottom: 0px;
-    padding: 20px 24px 0px;
-    font-size: 23px;
-">
-    
- <i class="fad fa-shield-check" style="padding-right: 10px;" aria-hidden="true"></i> 3D Secure payments
+<h3>YEN</h3>
+                           </div>
+                        </div>
+                        <div class="blog-text">
+                           
+<h4>The yen (Japanese: 円, Hepburn: en, symbol: ¥) is the official currency of Japan.
 </h4>
-                    
-<ul class="address-list">
-<li>
-<p>For extra fraud protection we use 3D Secure authentication method used to verify a customer's identity 
-</p>
-</li>
-                        
-  </ul>
- </div>
- </div>
 
 
-<div class="col-lg-4 d-flex">
-<div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
 
-<h4 class="title" style="
-    margin-bottom: 0px;
-    padding: 20px 24px 0px;
-    font-size: 23px;
-">
-    
-<i class="fad fa-analytics" style="padding-right: 10px;" aria-hidden="true"></i>Payment Tracking
+</div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-6">
+                  <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
+                     
+<div class="blog-desc">
+                        <div class="meta-image">
+                           <div class="author-round">
+                              <img src="https://www.flaticon.com/svg/static/icons/svg/591/591986.svg" alt="author">
+                           </div>
+                           <div class="tags">
+                              
+
+
+
+<h3>Turkish Lira </h3>
+                           </div>
+                        </div>
+                        <div class="blog-text">
+                           
+<h4>The Turkish lira (Turkish: Türk lirası; sign: ₺; code: TRY; ) is the currency of Turkey.
 </h4>
-                    
-<ul class="address-list">
-<li>
-<p>We make sure you can track all payment activity like: if your payment links is opened, and a notification when you get paid.
-</p>
-</li>
-                                 
-  </ul>
+
+
 
   </div>
-  </div>
-
-
-  </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
 </div>
 </section>
 
@@ -455,7 +479,7 @@ rounded {
                <div class="col-lg-12">
                   <div class="subscribe-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
                      <div class="section-title">
-                        <h2>Start creating your <span>Stripe payment page</span></h2>
+                        <h2>Start accept <span>Multi-Currency Payments</span></h2>
                         <p>Stripe is the largest payment service provider in the world, they offer many local payment methods and a simple checkout which we have built in seamlessly into our payment page platform for the best experience to start your own payment page.
 </p>
                      </div>
