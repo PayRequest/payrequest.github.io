@@ -169,3 +169,19 @@ tags:
  </section>
  
  
+ 
+ <section class="blog-section section_100">
+<div class="container">
+<div class="row align-items-center">
+<div class="col-lg-10 col-md-12">
+<div class="section-title wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
+<h2>Switch easy from Patreon to <span>PayRequest</span></h2>
+</div>
+</div>
+ </div>
+
+<h3>We make it easy to switch from Patreon to PayRequest, our Support Team can help you with questions like: integrations, onboarding of your employees and configuration of your payment page. Our self-service payment platform is designed for small and large companies. <br>
+ Interested? You can always contact our team 24x7 via: info@payrequest.io</h3>
+</div>
+</section>
+ 
