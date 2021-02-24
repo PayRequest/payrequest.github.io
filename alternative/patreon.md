@@ -30,7 +30,7 @@ tags:
                <div class="col-lg-4 lg-1">
                   <div class="about-page-left wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInLeft;">
                      <h2 class="mr-5"><div class="">
- <img src="https://www.digitalmusicnews.com/wp-content/uploads/2019/01/Patreon.jpg" alt="blog image" style="
+ <img src="https://www.digitalmusicnews.com/wp-content/uploads/2019/01/Patreon.jpg" alt="patreon alternative" style="
     border-radius: 20px;
 ">
  </div></h2>
@@ -39,13 +39,13 @@ tags:
                <div class="col-lg-7">
                   <div class="about-page-text wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.6s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.6s; animation-name: fadeInRight;">
                      <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
-   <h2>Alternative for<span>Patreon</span>
+   <h2>Alternative for <span>Patreon</span>
 
 </h2>
                   </div>
 
 <h3>
-We are a alternative for Patreon which is a membership platform that makes it easy for creators to get paid. Patreon is a way to get paid for creating the things you're already creating like webcomics, videos, songs, whatevs.
+We are an alternative for Patreon which is a membership platform that makes it easy for creators to get paid. Patreon is a way to get paid for creating the things you're already creating like webcomics, videos, songs and more.
 </h3>
 </div>
                </div>
