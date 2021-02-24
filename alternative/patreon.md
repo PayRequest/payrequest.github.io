@@ -184,4 +184,100 @@ tags:
  Interested? You can always contact our team 24x7 via: info@payrequest.io</h3>
 </div>
 </section>
- 
+
+
+
+<section class="choose-section section_100">
+         <div class="choose-shape-bg">
+            <img src="http://themescare.com/demos/robofume-view/assets/img/hero-dot-shape.png" alt="choose">
+         </div>
+         <div class="container">
+          <div class="row align-items-center">
+               <div class="col-lg-6 col-md-12 col-sm-12">
+                  <div class="choose-left wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
+                     <div class="section-title">
+                        <h2>Why switching from <span>Patreon</span> To PayRequest</h2>
+                     </div>
+                     <p>We replace all your payment tools in a handy dashboard where you can easily create payment requests and more.
+
+</p>
+                     <ul>
+                        <li><i class="fa fa-check-square-o" aria-hidden="true"></i> Different Payment Providers</li>
+                        <li><i class="fa fa-check-square-o" aria-hidden="true"></i> Branded Payment Page</li>
+                        <li><i class="fa fa-check-square-o" aria-hidden="true"></i>3D Secure authentication
+</li>
+                        <li><i class="fa fa-check-square-o" aria-hidden="true"></i>Send Payment Links</li>
+                        <li><i class="fa fa-check-square-o" aria-hidden="true"></i>Multi-currency</li>
+                        <li><i class="fa fa-check-square-o" aria-hidden="true"></i> 24/7 Support</li>
+                     </ul>
+                  </div>
+               </div>
+               <div class="col-lg-6 col-md-12 col-sm-12">
+                  <div class="choose-right">
+                     <div class="row">
+                        <div class="col-lg-6 col-md-6 col-sm-12">
+                           <div class="choose-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
+                              <div class="choose-icon">
+                                 <i class="fa fa-users" aria-hidden="true"></i>
+                              </div>
+                              <h2>2K+</h2>
+                              <p>companies</p>
+                              
+  </div>
+              </div>
+                        <div class="col-lg-6 col-md-6 col-sm-12">
+                           <div class="choose-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.4s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.4s; animation-name: fadeInUp;">
+                              <div class="choose-icon">
+                                 <i class="fa fa-cube" aria-hidden="true"></i>
+                              </div>
+                              <h2>1K+</h2>
+                              <p>Active Products</p>
+                              
+ </div>
+ </div>
+                        <div class="col-lg-6 col-md-6 col-sm-12">
+                           <div class="choose-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInUp;">
+                              <div class="choose-icon">
+                                 <i class="fa fa-link" aria-hidden="true"></i>
+                              </div>
+                              <h2>10K+</h2>
+                              <p>Payment Links</p>
+                              
+ </div>
+   </div>
+ <div class="col-lg-6 col-md-6 col-sm-12">
+ <div class="choose-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInUp;">
+ <div class="choose-icon">
+ <i class="fa fa-money" aria-hidden="true"></i>
+  </div>
+ <h2>€500K</h2>
+ <p>Processed</p>                 
+   </div>
+ </div>
+
+</div>
+                  </div>
+               </div>
+            </div>
+         </div>
+</section>
+
+<section class="subscribe-section innser_subscribe section_100">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-12">
+                  <div class="subscribe-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
+                     <div class="section-title">
+                        <h2>Ready to switch from <span>Patreon?</span></h2>
+                        <p>Create a payment link for your customer or use reusable links to let all your customers pay.
+
+</p>
+                     </div>
+
+
+  <a href="https://dashboard.payrequest.io/" class="theme-btn-white wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 2s; animation-delay: 0.5s; animation-name: fadeInUp;">Create your free account <span class="fa fa-chevron-right" aria-hidden="true"></span></a>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </section>
