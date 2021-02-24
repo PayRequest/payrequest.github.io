@@ -39,13 +39,13 @@ tags:
                <div class="col-lg-7">
                   <div class="about-page-text wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.6s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.6s; animation-name: fadeInRight;">
                      <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
-                     <h2>Alternative for 
-<span>Patreon</span>
+   <h2>Alternative for<span>Patreon</span>
 
 </h2>
                   </div>
 
-<h3>With Bunq you can create payments requests and get your own bunq.me link, but with PayRequest you can get a payrequst.me link. 
+<h3>
+We are a alternative for Patreon which is a membership platform that makes it easy for creators to get paid. Patreon is a way to get paid for creating the things you're already creating like webcomics, videos, songs, whatevs.
 </h3>
 </div>
                </div>
@@ -268,16 +268,14 @@ tags:
                <div class="col-lg-12">
                   <div class="subscribe-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
                      <div class="section-title">
-                        <h2>Ready to switch from <span>Patreon?</span></h2>
-                        <p>Create a payment link for your customer or use reusable links to let all your customers pay.
-
+                        <h2>Ready to switch to <span>PayRequest?</span></h2>
+                        <p>
+Maybe It's Time To Skip Patreon, And to Join Thousands Of Creators, Startups And Businesses Around The World, Using Our Payment Platform To Get Paid Online.
 </p>
                      </div>
-
-
   <a href="https://dashboard.payrequest.io/" class="theme-btn-white wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 2s; animation-delay: 0.5s; animation-name: fadeInUp;">Create your free account <span class="fa fa-chevron-right" aria-hidden="true"></span></a>
-                  </div>
-               </div>
-            </div>
-         </div>
-      </section>
+ </div>
+ </div>
+ </div>
+ </div>
+</section>
