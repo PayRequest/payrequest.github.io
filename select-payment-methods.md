@@ -47,7 +47,7 @@ tags:
 </h2>
                   </div>
 
-<h3>Most payment providers give not the option to disable payment methods you don't need, with PayRequest you can higher your conversion by disable paytment methods that your customers don't need.
+<h3>Most payment providers give not the option to disable payment methods you don't need, with PayRequest you can higher your conversion by disable payment methods that your customers don't need.
 </h3>
 </div>
 </div>
