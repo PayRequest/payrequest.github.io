@@ -678,7 +678,6 @@ font-size: 23px;
 
 
 
-
 <h3>WECHAT PAY
 
 </h3>
