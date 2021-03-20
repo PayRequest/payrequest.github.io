@@ -6,10 +6,9 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<meta name="description" content="{{ page.description | default: site.description }}">
 	<meta name="author" content="PayRequest">
-	<title>{{ page.title | default: site.title }}</title>
+    {% seo %}
 
-
-<!-- Favicon -->
+    <!-- Favicon -->
 	<link href="./assets/logos/favicon.ico" rel="icon" type="image/png">
 
     <!-- Facebook Pixel Code -->
@@ -54,8 +53,6 @@
 
 		gtag('config', 'UA-152030908-2');
 	</script>
-	
-
 
 
       <link rel="stylesheet" href="assets/css/bootstrap.css">
@@ -81,126 +78,6 @@
 
 
 
-
-
-	<script type="application/ld+json">
-		{
-			"@context": "https://schema.org",
-			"@graph": [
-				{
-					"@type": "Organization",
-					"url": "https://payrequest.io",
-					"@id": "https://payrequest.io/#organization",
-					"name": "Payrequest",
-					"sameAs": [
-						"https://twitter.com/payrequest1",
-						"https://www.instagram.com/payrequest/",
-						"https://www.facebook.com/Payrequestio-101261248029884"
-					],
-					"logo": {
-						"@type": "ImageObject",
-						"@id": "https://payrequest.io/#logo",
-						"url": "https://payrequest.io/assets/logos/favicon.ico",
-						"width": 691,
-						"height": 691,
-						"caption": "Payrequest"
-					},
-					"image": {
-						"@id": "https://payrequest.io/#logo"
-					}
-				},
-				{
-					"@type": "WebSite",
-					"@id": "https://payrequest.io/#website",
-					"url": "https://payrequest.io/",
-					"name": "Payrequest",
-					"publisher": {
-						"@id": "https://payrequest.io/#organization"
-					}
-				},
-				{
-					"@type": "ImageObject",
-					"@id": "https://payrequest.io/#primaryimage",
-					"url": "https://payrequest.io/assets/img/screens/screen1.jpeg"
-				},
-				{
-					"@type": "WebPage",
-					"@id": "https://payrequest.io/#webpage",
-					"url": "https://payrequest.io/",
-					"inLanguage": "en",
-					"name": "Payrequest | Simple fast payment links",
-					"isPartOf": {
-						"@id": "https://payrequest.io/#website"
-					},
-					"about": {
-						"@id": "https://payrequest.io/#organization"
-					},
-					"primaryImageOfPage": {
-						"@id": "https://payrequest.io/#primaryimage"
-					},
-					"datePublished": "2019-11-29T12:58:10+01:00",
-					"dateModified": "2019-12-01T22:11:17+01:00",
-					"description": "Lets you easily create payment links and share them via email or sms, we support all payment methods directly via your current payment provider."
-				}
-			]
-		}
-	</script>
-	<script type="application/ld+json">
-		{
-			"@context": "https://schema.org",
-			"@type": "FAQPage",
-			"mainEntity": [
-				{
-					"@type": "Question",
-					"name": "What is payrequest?",
-					"acceptedAnswer": {
-						"@type": "Answer",
-						"text": "PayRequest is a Payment Platform where you can create payment links with Stripe or Mollie <small>More coming soon!</small>, and directly send reminders to your customers via email or sms. With PayRequest you can create Beautiful Payment Links and change the look & feel of your payment link pages. Add your own logo, change the company avatar or add your own background."
-					}
-				},
-				{
-					"@type": "Question",
-					"name": "What is a payment link?",
-					"acceptedAnswer": {
-						"@type": "Answer",
-						"text": "A payment link is a unique link you can share via email or sms which contains a specified amount and a personal message for the receiver. On the payment link page they can choose a payment method like credit card and pay the requested amount. After a successful payment you will get a notification about it."
-					}
-				},
-				{
-					"@type": "Question",
-					"name": "What are the costs for using payrequest?",
-					"acceptedAnswer": {
-						"@type": "Answer",
-						"text": "Signup for Payrequest and creating payment links is free, you only pay the transactions costs of Mollie or Stripe plus a 2% service fee to cover the costs of our platform."
-					}
-				},
-				{
-					"@type": "Question",
-					"name": "My payment service provider is not listed?",
-					"acceptedAnswer": {
-						"@type": "Answer",
-						"text": "For now we only support and Mollie & Stripe because this are big names in the PSP market, we are planning to support more PSP in the future, also CoinBase & PayPal is on our roadmap, if you need any other PSP please contact us and we will add it to our roadmap."
-					}
-				},
-				{
-					"@type": "Question",
-					"name": "Will I be charged sales tax for online orders?",
-					"acceptedAnswer": {
-						"@type": "Answer",
-						"text": "Local and State sales tax will be collected if your recipient's mailing address is in: <ul><li>Arizona</li><li>California</li><li>Colorado</li></ul>"
-					}
-				},
-				{
-					"@type": "Question",
-					"name": "Do you offer premium to non-profit organisations?",
-					"acceptedAnswer": {
-						"@type": "Answer",
-						"text": "Educational and non-profit organisations could be eligible to receive the premium package for no additional costs except sms or letter credits. For more information about this topic please contact us."
-					}
-				}
-			]
-		}
-	</script>
 </head>
 <body>
 

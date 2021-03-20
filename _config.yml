@@ -1,5 +1,4 @@
 ---
-title: PayRequest.io | Simple fast payment links
 timezone: UTC
 collections:
   posts:
@@ -14,3 +13,4 @@ description: Lets you easily create payment links and share them via email or sm
 markdown: kramdown
 plugins:
 - jekyll-sitemap
+- jekyll-seo-tag
