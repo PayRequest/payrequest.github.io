@@ -105,9 +105,20 @@ With PayRequest you can let customers pay via credit card just after they clicke
                                        <img src="https://payrequest.io/assets/logos/Icon%20Light%20Blue%20Aqua.png?" alt="PayRequest">
                                     </div>
                                     <div class="service-works-info">
-                                        <h5> H5 Title</h5>
-                                       <p>voluptatum deleniti atqued corrupti cepturi
-                                          sinte aeted psamtem quia voluptas sit aut odit aut fugit.
+<h5> Branded Payment Requests</h5>
+ <p>All communication you can use your own brand color, logo and even your own brand colors in your email and on your payment page.
+ </p>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="col-md-6">
+                                 <div class="service-works-item">
+                                    <div class="service-works-icon">
+                            <img src="https://payrequest.io/assets/logos/Icon%20Light%20Blue%20Aqua.png?" alt="PayRequest">
+                                    </div>
+                                    <div class="service-works-info">
+ <h5> Multi Language</h5>
+ <p>Send email payment requests in your own language, we support english, dutch, french, spanish, and more.
                                        </p>
                                     </div>
                                  </div>
@@ -118,23 +129,10 @@ With PayRequest you can let customers pay via credit card just after they clicke
                             <img src="https://payrequest.io/assets/logos/Icon%20Light%20Blue%20Aqua.png?" alt="PayRequest">
                                     </div>
                                     <div class="service-works-info">
-                                       <h5> H5 Title</h5>
-                                       <p>voluptatum deleniti atqued corrupti cepturi
-                                          sinte aeted psamtem quia voluptas sit aut odit aut fugit.
-                                       </p>
-                                    </div>
-                                 </div>
-                              </div>
-                              <div class="col-md-6">
-                                 <div class="service-works-item">
-                                    <div class="service-works-icon">
-                            <img src="https://payrequest.io/assets/logos/Icon%20Light%20Blue%20Aqua.png?" alt="PayRequest">
-                                    </div>
-                                    <div class="service-works-info">
-                                       <h5> H5 Title</h5>
-                                       <p>voluptatum deleniti atqued corrupti cepturi
-                                          sinte aeted psamtem quia voluptas sit aut odit aut fugit.
-                                       </p>
+<h5> Track Payment Requests</h5>
+ <p>
+We make sure you can track all payment activity like: if your payment request via email is opened, and a notification when you get paid.
+ </p>
                                     </div>
                                  </div>
                               </div>
