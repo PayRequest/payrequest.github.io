@@ -80,17 +80,17 @@ this will increase your conversion, and gives you the opportunity to do business
 <section class="contact-form section_100">
          <div class="container">
             <div class="service-details-text">
-                        <h4>How it works?</h4>
-                        <p>voluptatum deleniti atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat Neque porro quisquam est, qui dolorem ipsum</p>
+                        <h4>H4 title</h4>
+                        <p>P text ut labore et dolore magnam aliquam quaerat Neque porro quisquam est, qui dolorem ipsum</p>
                         <div class="service-works">
                            <div class="row">
                               <div class="col-md-6">
                                  <div class="service-works-item">
                                     <div class="service-works-icon">
-                                       <img src="assets/img/strategy.png" alt="How we work">
+                                  <img src="https://payrequest.io/assets/logos/Icon%20Light%20Blue%20Aqua.png?" alt="PayRequest">
                                     </div>
                                     <div class="service-works-info">
-                                       <h5>Case Strategy</h5>
+                                       <h5> H5 Title</h5>
                                        <p>voluptatum deleniti atqued corrupti cepturi
                                           sinte aeted psamtem quia voluptas sit aut odit aut fugit.
                                        </p>
@@ -100,10 +100,10 @@ this will increase your conversion, and gives you the opportunity to do business
                               <div class="col-md-6">
                                  <div class="service-works-item">
                                     <div class="service-works-icon">
-                                       <img src="assets/img/track-record.png" alt="How we work">
+                                       <img src="https://payrequest.io/assets/logos/Icon%20Light%20Blue%20Aqua.png?" alt="PayRequest">
                                     </div>
                                     <div class="service-works-info">
-                                       <h5>Track Record</h5>
+                                        <h5> H5 Title</h5>
                                        <p>voluptatum deleniti atqued corrupti cepturi
                                           sinte aeted psamtem quia voluptas sit aut odit aut fugit.
                                        </p>
@@ -113,10 +113,10 @@ this will increase your conversion, and gives you the opportunity to do business
                               <div class="col-md-6">
                                  <div class="service-works-item">
                                     <div class="service-works-icon">
-                                       <img src="assets/img/research.png" alt="How we work">
+                            <img src="https://payrequest.io/assets/logos/Icon%20Light%20Blue%20Aqua.png?" alt="PayRequest">
                                     </div>
                                     <div class="service-works-info">
-                                       <h5>Research &amp; Investigation</h5>
+                                       <h5> H5 Title</h5>
                                        <p>voluptatum deleniti atqued corrupti cepturi
                                           sinte aeted psamtem quia voluptas sit aut odit aut fugit.
                                        </p>
@@ -126,10 +126,10 @@ this will increase your conversion, and gives you the opportunity to do business
                               <div class="col-md-6">
                                  <div class="service-works-item">
                                     <div class="service-works-icon">
-                                       <img src="assets/img/analysis.png" alt="How we work">
+                            <img src="https://payrequest.io/assets/logos/Icon%20Light%20Blue%20Aqua.png?" alt="PayRequest">
                                     </div>
                                     <div class="service-works-info">
-                                       <h5>Case Analysis</h5>
+                                       <h5> H5 Title</h5>
                                        <p>voluptatum deleniti atqued corrupti cepturi
                                           sinte aeted psamtem quia voluptas sit aut odit aut fugit.
                                        </p>
