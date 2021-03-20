@@ -79,171 +79,69 @@ this will increase your conversion, and gives you the opportunity to do business
 
 <section class="contact-form section_100">
          <div class="container">
-            <div class="row">
-               <div class="col-lg-12">
-                  <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
-                     <h2>Currencies we support with <span>Multi-Currency</span></h2>
-                  </div>
-               </div>
-            </div>
-<div class="row">
-               <div class="col-lg-4 col-md-6">
-                  <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
-
-<div class="blog-desc">
-                        <div class="meta-image">
-                           <div class="author-round">
-                              <img src="https://www.flaticon.com/svg/static/icons/svg/591/591978.svg" alt="author">
-                           </div>
-                           <div class="tags">
-
-
-
-
-<h3>EURO</h3>
-</div>
-</div>
-<div class="blog-text">
-
-<h4>The euro (sign: €; code: EUR) is the official currency of 19 of the 27 member states of the European Union.
-</h4>
-
-
-</div>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-lg-4 col-md-6">
-                  <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
-
-<div class="blog-desc">
-                        <div class="meta-image">
-                           <div class="author-round">
-                              <img src="https://www.flaticon.com/svg/static/icons/svg/591/591971.svg" alt="author">
-                           </div>
-                           <div class="tags">
-
-
-
-
-<h3>DOLLAR</h3>
-</div>
-</div>
-<div class="blog-text">
-
-<h4>Dollar (symbol: $) is the name of more than 20 currencies. They include the United States dollar and several other.
-</h4>
-
-
-
-</div>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-lg-4 col-md-6">
-                  <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
-
-<div class="blog-desc">
-                        <div class="meta-image">
-                           <div class="author-round">
-                              <img src="https://www.flaticon.com/svg/static/icons/svg/592/592010.svg" alt="author">
-                           </div>
-                           <div class="tags">
-
-
-
-
-<h3>POUND</h3>
-</div>
-</div>
-<div class="blog-text">
-
-<h4>Pound sterling (symbol: £) known also as the pound or sterling, is the official currency of the United Kingdom.
-</h4>
-
-
-
-  </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-
-<div class="row">
-               <div class="col-lg-4 col-md-6">
-                  <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
-
-<div class="blog-desc">
-                        <div class="meta-image">
-                           <div class="author-round">
-                              <img src="https://www.flaticon.com/svg/static/icons/svg/592/592015.svg" alt="author">
-                           </div>
-                           <div class="tags">
-
-
-
-
-<h3>INDIAN RUPEE</h3>
-</div>
-</div>
-<div class="blog-text">
-
-<h4>The Indian rupee (sign: ₹; currency code: INR) is the official currency of India.
-</h4>
-
-
-</div>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-lg-4 col-md-6">
-                  <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
-
-<div class="blog-desc">
-                        <div class="meta-image">
-                           <div class="author-round">
-                              <img src="https://www.flaticon.com/svg/static/icons/svg/592/592029.svg" alt="author">
-                           </div>
-                           <div class="tags">
-
-
-
-
-<h3>YEN</h3>
-</div>
-</div>
-<div class="blog-text">
-
-<h4>The yen (Japanese: 円, Hepburn: en, symbol: ¥) is the official currency of Japan.
-</h4>
-
-
-
-</div>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-lg-4 col-md-6">
-                  <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
-
-<div class="blog-desc">
-                        <div class="meta-image">
-                           <div class="author-round">
-                              <img src="https://www.flaticon.com/svg/static/icons/svg/591/591986.svg" alt="author">
-                           </div>
-                           <div class="tags">
-<h3>Turkish Lira </h3>
+            <div class="service-details-text">
+                        <h4>How it works?</h4>
+                        <p>voluptatum deleniti atque corrupti is es et quas stias cepturi sint aete non provident, similique sunt dunt ut labore et dolore magnam aliquam quaerat Neque porro quisquam est, qui dolorem ipsum</p>
+                        <div class="service-works">
+                           <div class="row">
+                              <div class="col-md-6">
+                                 <div class="service-works-item">
+                                    <div class="service-works-icon">
+                                       <img src="assets/img/strategy.png" alt="How we work">
+                                    </div>
+                                    <div class="service-works-info">
+                                       <h5>Case Strategy</h5>
+                                       <p>voluptatum deleniti atqued corrupti cepturi
+                                          sinte aeted psamtem quia voluptas sit aut odit aut fugit.
+                                       </p>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="col-md-6">
+                                 <div class="service-works-item">
+                                    <div class="service-works-icon">
+                                       <img src="assets/img/track-record.png" alt="How we work">
+                                    </div>
+                                    <div class="service-works-info">
+                                       <h5>Track Record</h5>
+                                       <p>voluptatum deleniti atqued corrupti cepturi
+                                          sinte aeted psamtem quia voluptas sit aut odit aut fugit.
+                                       </p>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="col-md-6">
+                                 <div class="service-works-item">
+                                    <div class="service-works-icon">
+                                       <img src="assets/img/research.png" alt="How we work">
+                                    </div>
+                                    <div class="service-works-info">
+                                       <h5>Research &amp; Investigation</h5>
+                                       <p>voluptatum deleniti atqued corrupti cepturi
+                                          sinte aeted psamtem quia voluptas sit aut odit aut fugit.
+                                       </p>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="col-md-6">
+                                 <div class="service-works-item">
+                                    <div class="service-works-icon">
+                                       <img src="assets/img/analysis.png" alt="How we work">
+                                    </div>
+                                    <div class="service-works-info">
+                                       <h5>Case Analysis</h5>
+                                       <p>voluptatum deleniti atqued corrupti cepturi
+                                          sinte aeted psamtem quia voluptas sit aut odit aut fugit.
+                                       </p>
+                                    </div>
+                                 </div>
+                              </div>
                            </div>
                         </div>
-                        <div class="blog-text">        
-<h4>The Turkish lira (Turkish: Türk lirası; sign: ₺; code: TRY; ) is the currency of Turkey.
-</h4>
-
-  </div>
                      </div>
-                  </div>
-               </div>
-            </div>
+
+
+
 </div>
 </section>
 
@@ -254,12 +152,13 @@ this will increase your conversion, and gives you the opportunity to do business
                <div class="col-lg-12">
                   <div class="subscribe-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
                      <div class="section-title">
-                        <h2>Start accept <span>Multi-Currency Payments</span></h2>
+                        <h2>Call to <span>Action </span></h2>
                         <p>
-Create your PayRequest account today, and start acccept multi-currency payments, we also support many local payments methods, and you can design your own payment page to make it yours.             
+P text      
 </p>
                      </div>
-<a href="https://dashboard.payrequest.io/" class="theme-btn-white wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 2s; animation-delay: 0.5s; animation-name: fadeInUp;">Accept Multi-Currency Payments   <span class="fa fa-chevron-right" aria-hidden="true"></span></a>
+<a href="https://dashboard.payrequest.io/" class="theme-btn-white wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 2s; animation-delay: 0.5s; animation-name: fadeInUp;">
+Signup text   <span class="fa fa-chevron-right" aria-hidden="true"></span></a>
 </div>
                </div>
             </div>
