@@ -57,6 +57,7 @@ This files contents are outlined below >>>>
 33 - BLOG PAGE CSS
 34 - BLOG DETAILS PAGE CSS
 35 - CONTACT PAGE CSS
+36 - CUSTOM CSS
 
 
 
@@ -5176,3 +5177,13 @@ aside .widget:last-child {
 	text-align: center
 }
 
+
+/*================================================
+36 - CUSTOM CSS
+==================================================*/
+
+.breadcrumb-inn h1 {
+	color: #fff;
+	font-size: 48px;
+	font-weight: 700;
+}
