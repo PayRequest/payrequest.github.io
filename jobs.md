@@ -188,7 +188,68 @@ tags: [color-logo]
 </section>
 
 
-{% include why-section.html %}
+<section class="contact-form section_100">
+         <div class="container">
+            <div class="service-details-text">
+                        <h4>Perks and benefits
+</h4>
+                        <p>We offer perks and benefits to offer every teammate to offer a healthy work and safe workspace.
+
+</p>
+                        <div class="service-works">
+                           <div class="row">
+                              <div class="col-md-6">
+                                 <div class="service-works-item">
+                                    <div class="service-works-icon">
+                                  <img src="https://payrequest.io/assets/logos/Icon%20Light%20Blue%20Aqua.png?" alt="PayRequest">
+                                    </div>
+                                    <div class="service-works-info">
+                                       <h5> 💰 Competitive salary</h5>
+                                       <p>Our salary formula adjusts to your cost of living and experience. </p>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="col-md-6">
+                                 <div class="service-works-item">
+                                    <div class="service-works-icon">
+                                       <img src="https://payrequest.io/assets/logos/Icon%20Light%20Blue%20Aqua.png?" alt="PayRequest">
+                                    </div>
+                                    <div class="service-works-info">
+                                        <h5> 🏝 Work remotely</h5>
+                                       <p>Live and work wherever you like! But if you like to work in a office, it's also possible.</p>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="col-md-6">
+                                 <div class="service-works-item">
+                                    <div class="service-works-icon">
+                            <img src="https://payrequest.io/assets/logos/Icon%20Light%20Blue%20Aqua.png?" alt="PayRequest">
+                                    </div>
+                                    <div class="service-works-info">
+                                       <h5> 💻  Home office setup</h5>
+                                       <p>Get a new macbook or laptop + €500 to set up your home office!</p>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="col-md-6">
+                                 <div class="service-works-item">
+                                    <div class="service-works-icon">
+                            <img src="https://payrequest.io/assets/logos/Icon%20Light%20Blue%20Aqua.png?" alt="PayRequest">
+                                    </div>
+                                    <div class="service-works-info">
+                                       <h5> ⛺️ Paid vacation</h5>
+                                       <p>Get paid vacation every year for at least 3 weeks, and 6 weeks extra every 5 years.</p>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+
+
+
+</div>
+</section>
 
 {% include footer-promo.html %}
 
