@@ -76,10 +76,10 @@ With time, society is continuously evolving and adapting to new changes, needs, 
 A payment link takes you out of traditional online store purchase. It is a secure way of requesting payments when your customers purchase your goods or services. It is simply a “pay invoice” that you send to your customers via email. When your customer received that email they click on it and it will take them to the payment page showing the amount that is needed to be paid. The process is done through a secure payment link while keeping every sort of information and billing completely secured.
 </h3>
 
-<h4> Better conversions, without any risk</h4>
-<p>
+<b> Better conversions, without any risk</b>
+<h3>
 Secure Payment Links offers the fastest, most reliable, secured, trustworthy, and purpose-built payment system. It allows better conversions without any kind of risks.
-</p>
+</h3>
 
 
 </div>
