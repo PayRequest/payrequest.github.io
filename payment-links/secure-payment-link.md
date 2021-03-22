@@ -29,7 +29,7 @@ tags:
 </div>
             </div>
             <div class="row align-items-center">
-               <div class="col-lg-5 lg-1">
+               <div class="col-lg-4 lg-1">
    <div class="about-page-left wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInLeft;">
                      <h2 class="mr-5"><div class="">
  <img src="https://payrequest.io/assets/img/banners/payrequest-dashboard-v2.png" alt="secure payment link" style="
@@ -38,7 +38,7 @@ tags:
                      </div></h2>
                   </div>
                </div>
-               <div class="col-lg-6">
+               <div class="col-lg-7">
                   <div class="about-page-text wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.6s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.6s; animation-name: fadeInRight;">
                      <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
  <h2>A secure 
@@ -76,7 +76,7 @@ With time, society is continuously evolving and adapting to new changes, needs, 
 A payment link takes you out of traditional online store purchase. It is a secure way of requesting payments when your customers purchase your goods or services. It is simply a “pay invoice” that you send to your customers via email. When your customer received that email they click on it and it will take them to the payment page showing the amount that is needed to be paid. The process is done through a secure payment link while keeping every sort of information and billing completely secured.
 </h3>
 
-<b> Better conversions, without any risk</b>
+<br />
 <h3>
 Secure Payment Links offers the fastest, most reliable, secured, trustworthy, and purpose-built payment system. It allows better conversions without any kind of risks.
 </h3>
