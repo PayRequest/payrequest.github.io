@@ -75,7 +75,7 @@ Brand-specific color schemes are extremely important for consistent branding and
 Therefore, keeping in mind the importance of brand identity on social media, you can easily customize your PayRequest secure payment page to match your brand colors.
 </h3>
 
-
+<br />
 <div class="row align-items-center">
 <div class="col-lg-10 col-md-12">
 <div class="section-title wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
@@ -88,8 +88,44 @@ Therefore, keeping in mind the importance of brand identity on social media, you
 Great products and services shouldn’t be limited to one country, which is why most businesses go online to cater to a global demographic. PayRequest helps you convert your international social media followers to customers by offering a secure payment page for all major currencies around the world combined with a real-time conversion.
 </h3>
 
+<br />
+<div class="row align-items-center">
+<div class="col-lg-10 col-md-12">
+<div class="section-title wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
+<h2> No Coding Knowledge
+<span> Required</span></h2>
+</div>
+</div>
+</div>
+<h3>
+We have done all the difficult coding work so that you don’t have to. No special knowledge is required to operate PayRequest. With just a few simple clicks, you can create a payment link and share it with your customers to start accepting payments online. It’s easy to understand and perfectly apt for individuals and small to medium-sized businesses.
+</h3>
 
+<br />
+<div class="row align-items-center">
+<div class="col-lg-10 col-md-12">
+<div class="section-title wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
+<h2> Why Choose 
+<span> PayRequest?</span></h2>
+</div>
+</div>
+</div>
+<h3>
+Because more than 2000 companies have adopted our payment solutions and trust us with 1000+ active products. With over €100K processed via 10K+ PayRequest payment links, we are a trustworthy platform made for growing businesses. The 24x7 support is a cherry on top!
+</h3>
 
+<br />
+<div class="row align-items-center">
+<div class="col-lg-10 col-md-12">
+<div class="section-title wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
+<h2> Monetize Your
+<span> Social Media Handles</span></h2>
+</div>
+</div>
+</div>
+<h3>
+Latest date shows that users are spending the most time on their smartphones browsing through social media apps like Instagram, Facebook, and Twitter. You can use PayRequest to add a payment link on your social media pages to boost your leads and drive more sales.
+</h3>
 
 </div>
 </section>
@@ -99,9 +135,9 @@ Great products and services shouldn’t be limited to one country, which is why 
 <section class="contact-form section_100">
          <div class="container">
             <div class="service-details-text">
- <h4>Why a Social Media Payment Gateway</h4>
+ <h4>Social Media Payment Gateway Benefits</h4>
  <p>
-A secure payment link is an easy way to accept payment online, every business can use payment links to get paid.
+With a Social Media Payment Gateway you can request payments via social media.
 </p>
                         <div class="service-works">
                            <div class="row">
@@ -110,11 +146,11 @@ A secure payment link is an easy way to accept payment online, every business ca
                                     <div class="service-works-icon">
                                   <img src="https://payrequest.io/assets/logos/Icon%20Light%20Blue%20Aqua.png?" alt="PayRequest">
                                     </div>
-                                    <div class="service-works-info">
-                                       <h5> Convenience</h5>
-                                       <p>
-The Secure payment link is convenient. It is convenient because the receiver does not have to download any sort of application. It is merely a link and you are good to make payments. By clicking on the link all the tedious process of payment is done. Secure Payment Link has simplified the process of making payments. It is easier for you to collect payments and for your customers to make payments throughout the world. 
-                                       </p>
+<div class="service-works-info">
+<h5> Accept Local Payment Methods</h5>
+<p>
+PayRequest offers support for more than 20 local payment methods across Asia, Africa, North America, and Europe. We keep adding more local providers from time to time so that you never lose a customer.
+</p>
                                     </div>
                                  </div>
                               </div>
@@ -123,11 +159,11 @@ The Secure payment link is convenient. It is convenient because the receiver doe
                                     <div class="service-works-icon">
                                        <img src="https://payrequest.io/assets/logos/Icon%20Light%20Blue%20Aqua.png?" alt="PayRequest">
                                     </div>
-                                    <div class="service-works-info">
-                                        <h5> Faster payments </h5>
-                                       <p>
-Through Secure Payment Link, the collection of payments becomes faster. By simply adding “Pay Now” or “Pay invoice” in the electronic invoices, you inspire your customers to pay immediately. With faster payments, enjoy transparency and security. 
-                                       </p>
+<div class="service-works-info">
+<h5> Simple and Intuitive Dashboard </h5>
+<p>
+Managing your payment links and pages along with payment requests and more has never been easier. You can track transactions, get reminders, and log updates along with many more useful features. You can have a secure payment page up and running in just 3 easy steps.
+</p>
                                     </div>
                                  </div>
                               </div>
@@ -136,11 +172,10 @@ Through Secure Payment Link, the collection of payments becomes faster. By simpl
                                     <div class="service-works-icon">
                             <img src="https://payrequest.io/assets/logos/Icon%20Light%20Blue%20Aqua.png?" alt="PayRequest">
                                     </div>
-                                    <div class="service-works-info">
-                                       <h5> Assured Security</h5>
-                                       <p>
-Secure Payment link, as the name shows, ensures security and safety. It ensures that your payment is completely safe and secure. You need to get a payment link because well-known platforms all around the world are adopting this type of payment method. Through secure Payment links, there is full assurance of guaranteed transactions. There is no bank account displayed in this process, that’s why you need to get this payment link to make your payments secured, faster, and reliable.
-
+<div class="service-works-info">
+<h5> Support for Multiple Languages</h5>
+<p>
+ International sales are more successful if customers transact comfortably using their native language. With PayRequest, you get multi-lingual payment links. This also helps increase brand presence in non-English-speaking countries.
  </p>
 </div>
                                  </div>
@@ -151,10 +186,10 @@ Secure Payment link, as the name shows, ensures security and safety. It ensures 
                             <img src="https://payrequest.io/assets/logos/Icon%20Light%20Blue%20Aqua.png?" alt="PayRequest">
                                     </div>
                                     <div class="service-works-info">
-                                       <h5> Secure Payment Link for all</h5>
-                                       <p>
-The Secure Payment link is not restricted to a specific group of people for usage. Businesses all around the world are using this platform for taking a bulk of the amount online. B2B companies send electronic invoices to their customers embedded with payment links. You need to get the secure payment links due to its immense benefits. Secure payment link works at an international level. You can use this link to send money to any other currency. The receiver can receive the money and change it into its currency.
-                                       </p>
+<h5> One-Stop Solution for Your Payment Needs</h5>
+<p>
+Businesses and social media influencers require a one-stop payment gateway solution with easy management, and PayRequest does more than just that.
+</p>
                                     </div>
                                  </div>
                               </div>
@@ -174,13 +209,13 @@ The Secure Payment link is not restricted to a specific group of people for usag
                <div class="col-lg-12">
                   <div class="subscribe-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
                      <div class="section-title">
-                        <h2>Start creating <span>Secure Payment Links </span></h2>
-                        <p>
-Accept payments anytime, on any device, 24/7 with no effort.   
+<h2>Leverage Your Social Media Presence for More Profits</span></h2>
+<p>
+Use PayRequest to create a secure payment link for your social handle to convert followers into customers.
 </p>
                      </div>
 <a href="https://dashboard.payrequest.io/" class="theme-btn-white wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 2s; animation-delay: 0.5s; animation-name: fadeInUp;">
-Create free account   <span class="fa fa-chevron-right" aria-hidden="true"></span></a>
+Create your free account   <span class="fa fa-chevron-right" aria-hidden="true"></span></a>
 </div>
                </div>
             </div>
