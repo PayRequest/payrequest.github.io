@@ -162,7 +162,7 @@ PayRequest offers support for more than 20 local payment methods across Asia, Af
 <div class="service-works-info">
 <h5> Simple and Intuitive Dashboard </h5>
 <p>
-Managing your payment links and pages along with payment requests and more has never been easier. You can track transactions, get reminders, and log updates along with many more useful features. You can have a secure payment page up and running in just 3 easy steps.
+Managing your payment links and pages along with payment requests for your social media payments. You can track transactions, get reminders, and log updates along with many more useful features. You can have a secure payment page up and running in just 3 easy steps.
 </p>
                                     </div>
                                  </div>
@@ -209,7 +209,7 @@ Businesses and social media influencers require a one-stop payment gateway solut
                <div class="col-lg-12">
                   <div class="subscribe-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
                      <div class="section-title">
-<h2>Leverage Your Social Media Presence for More Profits</span></h2>
+<h2>Leverage Your Social Media Presence for <span> More Profits</span></h2>
 <p>
 Use PayRequest to create a secure payment link for your social handle to convert followers into customers.
 </p>
