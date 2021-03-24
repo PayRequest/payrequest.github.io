@@ -60,21 +60,35 @@ PayRequest offers a secure payment page for businesses and individuals selling p
 
 
 <section class="blog-section section_100">
-         <div class="container">
-            <div class="row align-items-center">
-               <div class="col-lg-10 col-md-12">
-                  <div class="section-title wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
-                     <h2> Payment Page for
-
+<div class="container">
+<div class="row align-items-center">
+<div class="col-lg-10 col-md-12">
+<div class="section-title wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
+<h2> Payment Page for
 <span> Social Media</span></h2>
-                  </div>
-               </div>
- </div>
+</div>
+</div>
+</div>
 <h3>
 Brand-specific color schemes are extremely important for consistent branding and customer retention. After all, businesses carefully pick their logo design and colors based on what emotions they evoke in their customers.
 <br />
 Therefore, keeping in mind the importance of brand identity on social media, you can easily customize your PayRequest secure payment page to match your brand colors.
 </h3>
+
+
+<div class="row align-items-center">
+<div class="col-lg-10 col-md-12">
+<div class="section-title wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
+<h2> Accept payments for your
+<span> Social Media</span></h2>
+</div>
+</div>
+</div>
+<h3>
+Great products and services shouldn’t be limited to one country, which is why most businesses go online to cater to a global demographic. PayRequest helps you convert your international social media followers to customers by offering a secure payment page for all major currencies around the world combined with a real-time conversion.
+</h3>
+
+
 
 
 </div>
