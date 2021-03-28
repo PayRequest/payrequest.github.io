@@ -7,9 +7,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-name: payrequest site
-description: Lets you easily create payment links and share them via email or sms,
-  we support all payment methods directly via your current payment provider.
+name: PayRequest
 markdown: kramdown
 plugins:
 - jekyll-sitemap
