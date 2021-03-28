@@ -48,17 +48,15 @@
                   <div class="hero-right">
 
 
-  <img src="https://payrequest.ams3.digitaloceanspaces.com/images/Cy6QsZb.webp" alt="Alt Text!" style="
+  <img src="https://media.payrequest.nl/images/Cy6QsZb.webp" alt="Alt Text!" style="
         transform: perspective(1000px) rotateY(-13deg) rotateX(5deg) rotateZ(7deg) scaleY(0.9) scaleX(0.95) translateX(-3%) translateY(-3%);
         width: 530px;
         height: 360px;
     ">
 
-
-
-                     <div class="hero-dot-shape">
-                 <img src="http://themescare.com/demos/robofume-view/assets/img/hero-dot-shape.png" alt="shape">
-                     </div>
+<div class="hero-dot-shape">
+<img src="https://media.payrequest.nl/images/hero-dot-shape.webp" alt="shape">
+</div>
                   </div>
                </div>
             </div>
@@ -290,17 +288,19 @@
                </div>
             </div>
             <div class="row">
-               <div class="col-lg-4 col-md-6">
+
+ <!-- News Article Start -->
+<div class="col-lg-4 col-md-6">
                   <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
                      <div class="blog-image">
                         <a href="#">
-                        <img src="https://i.imgur.com/f9DXJvw.png" alt="blog">
+                        <img src="https://media.payrequest.nl/images/stripe-partner-news.webp" alt="Stripe Partner">
                         </a>
                      </div>
                      <div class="blog-desc">
                         <div class="meta-image">
                            <div class="author-round">
-                              <img src="https://pbs.twimg.com/profile_images/1163820898475839488/3AfhxxDu_400x400.jpg" alt="author">
+<img src="https://media.payrequest.nl/images/payrequest-news-icon.webp" alt="payrequest news icon">
                            </div>
                            <div class="tags">
 
@@ -328,18 +328,20 @@
                      </div>
                   </div>
                </div>
+ <!-- News Article End -->
 
+ <!-- News Article Start -->
 <div class="col-lg-4 col-md-6">
 <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.4s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.4s; animation-name: fadeInLeft;">
 <div class="blog-image">
 <a href="https://payrequest.io/payment-providers/multisafepay">
-<img src="https://pbs.twimg.com/media/EiqpaR0WkAECTg-?format=jpg&amp;name=large" alt="blog"></a>
+<img src="https://media.payrequest.nl/images/multisafepay-news.webp" alt="multisafepay news"></a>
 </div>
 
 <div class="blog-desc">
 <div class="meta-image">
 <div class="author-round">
-<img src="https://pbs.twimg.com/profile_images/1163820898475839488/3AfhxxDu_400x400.jpg" alt="author">
+<img src="https://media.payrequest.nl/images/payrequest-news-icon.webp" alt="payrequest news icon">
 </div>
 <div class="tags">
 
@@ -360,20 +362,21 @@
 </div>
 </div>
 </div>
+ <!-- News Article End -->
 
-
+ <!-- News Article Start -->
 <div class="col-lg-4 col-md-6">
 <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInLeft;">
 <div class="blog-image">
 <a href="https://payrequest.io/api">
-<img src="https://i.imgur.com/ylvBOuu.png" alt="blog">
+<img src="https://media.payrequest.nl/images/payrequest-api.webp" alt="PayRequest API">
 </a>
 </div>
 
 <div class="blog-desc">
 <div class="meta-image">
 <div class="author-round">
-<img src="https://pbs.twimg.com/profile_images/1163820898475839488/3AfhxxDu_400x400.jpg" alt="author">
+<img src="https://media.payrequest.nl/images/payrequest-news-icon.webp" alt="payrequest news icon">
  </div>
 <div class="tags">
 
@@ -390,8 +393,13 @@
 <a href="https://payrequest.io/api"><h3>PayRequest API is now available for everyone</h3> </a>
 </div>
 </div>
+
 </div>
 </div>
+ <!-- News Article End -->
+
+
+
 </div>
 </div>
 </section>
