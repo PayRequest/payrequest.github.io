@@ -158,7 +158,7 @@
                   <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
                      <div class="blog-image">
                         <a href="#">
-                        <img src="https://i.imgur.com/01Dd1Dh.png" alt="blog">
+                        <img src="https://media.payrequest.nl/images/01Dd1Dh.webp" alt="payment links">
                         </a>
                      </div>
   <div class="blog-desc">
@@ -178,7 +178,7 @@
  <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
                      <div class="blog-image">
                         <a href="/donation-pages">
-                        <img src="https://i.imgur.com/nh9CnvP.png" alt="donation pages">
+                        <img src="https://media.payrequest.nl/images/nh9CnvP.webp" alt="donation pages">
                         </a>
                      </div>
  <div class="blog-desc">
@@ -205,7 +205,7 @@
                   <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
                      <div class="blog-image">
                         <a href="/payment-pages">
-                        <img src="https://i.imgur.com/wTSUMCp.png" alt="blog">
+                        <img src="https://media.payrequest.nl/images/wTSUMCp.webp" alt="payment pages">
                         </a>
                      </div>
  <div class="blog-desc">
@@ -247,6 +247,7 @@
                      </div>
                   </div>
                </div>
+
 <div class="col-lg-4 col-md-6">
                   <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
                      <div class="blog-image">
