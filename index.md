@@ -4,13 +4,13 @@
       
  <div class="hero-shape5">
         
-<img src="https://payrequest.io/assets/logos/Icon%20white.png" alt="shape" style="max-width: 160px;">
+<img src="https://media.payrequest.nl/images/Icon%2020white.webp" alt="shape" style="max-width: 160px;">
          </div>
          <!-- Hero Shape End -->
           
 <!-- Hero Bg Start -->
 <div class="hero-bg">
-<img src="assets/img/hero_shape.png" alt="hero shape" />
+<img src="https://media.payrequest.nl/images/hero_shape.webp" alt="hero shape" />
 </div>
 <!-- Hero Bg End -->
           
