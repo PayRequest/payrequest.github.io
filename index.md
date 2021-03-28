@@ -47,23 +47,13 @@
  <div class="col-lg-6 col-md-6">
                   <div class="hero-right">
 
-<picture>
-  <source srcset="https://payrequest.ams3.digitaloceanspaces.com/images/Cy6QsZb.webp" type="image/webp" style="
+
+  <img src="https://payrequest.ams3.digitaloceanspaces.com/images/Cy6QsZb.webp" alt="Alt Text!" style="
         transform: perspective(1000px) rotateY(-13deg) rotateX(5deg) rotateZ(7deg) scaleY(0.9) scaleX(0.95) translateX(-3%) translateY(-3%);
         width: 530px;
         height: 360px;
     ">
-  <source srcset="https://i.imgur.com/Cy6QsZb.jpg" type="image/jpeg" style="
-        transform: perspective(1000px) rotateY(-13deg) rotateX(5deg) rotateZ(7deg) scaleY(0.9) scaleX(0.95) translateX(-3%) translateY(-3%);
-        width: 530px;
-        height: 360px;
-    "> 
-  <img src="https://i.imgur.com/Cy6QsZb.jpg" alt="Alt Text!" style="
-        transform: perspective(1000px) rotateY(-13deg) rotateX(5deg) rotateZ(7deg) scaleY(0.9) scaleX(0.95) translateX(-3%) translateY(-3%);
-        width: 530px;
-        height: 360px;
-    ">
-</picture>
+
 
 
                      <div class="hero-dot-shape">
