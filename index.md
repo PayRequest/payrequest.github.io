@@ -107,7 +107,7 @@
 <section class="about-section">
  <!-- Top Shape Start -->
          <div class="about-top-shape">
-            <img src="http://themescare.com/demos/robofume-view/assets/img/about-shape.png" alt="about shape">
+            <img src="https://media.payrequest.nl/images/about-shape.webp" alt="about shape">
          </div>
  <!-- Top Shape End -->
   <!-- Bottom Shape Start -->
@@ -127,7 +127,7 @@
                   </div>
                   <div class="col-lg-6">
                      <div class="about-right wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
-                        <img src="https://payrequest.io/assets/img/banners/payrequest-dashboard-v2.png" alt="payrequest dashboard">
+                        <img src="https://media.payrequest.nl/images/payrequest-dashboard-v2.webp" alt="payrequest dashboard">
                      </div>
                   </div>
                </div>
