@@ -160,161 +160,125 @@ PayRequest makes it easy to create payment links and share them worldwide with a
 
 
 
-
 <section class="contact-form section_100">
          <div class="container">
-            <div class="row">
-               <div class="col-lg-12">
-                  <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
+            <div class="service-details-text">
+                        <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
                      <h2>Payment Link <span>Features</span></h2>
+    <p>With a payment link you can accept payments from your customers.</p>
                   </div>
-               </div>
-            </div>
-<div class="row" style="margin-bottom: 20px;">
-<div class="col-lg-4 d-flex">
-<div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
 
-<h4 class="title" style="margin-bottom: 0px;padding: 20px 24px 0px;font-size: 23px;">
-<i class="fad fa-euro-sign" style="padding-right: 10px;" aria-hidden="true"></i>Multi Currency
-</h4>
-                    
-<ul class="address-list">
-<li>
-<p>We support al major currencies all around the globe, with realtime currency conversion for every currency.
+
+
+                        <div class="service-works">
+                           <div class="row">
+                              <div class="col-md-6">
+                                 <div class="service-works-item">
+                                    <div class="service-works-icon">
+                                  <i class="fad fa-euro-sign" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="service-works-info">
+                                       <h5>Multi Currency
+
+</h5>
+                                       <p>We support al major currencies all around the globe, with realtime currency conversion for every currency.
+
+
 </p>
-</li>        
-</ul>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="col-md-6">
+                                 <div class="service-works-item">
+                                    <div class="service-works-icon">
+                                  <i class="fad fa-paint-brush" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="service-works-info">
+                                       <h5>Branded Payment Links
 
- </div>
+</h5>
+                                       <p>Send en Share Payment Links with your own brand logo &amp; background, also you can choose your own colors.
+
+
+</p>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="col-md-6">
+                                 <div class="service-works-item">
+                                    <div class="service-works-icon">
+                                  <i class="fad fa-language" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="service-works-info">
+                                       <h5>Accept Local Payment Methodds
+</h5>
+                                       <p>Never say no again, we support 20+ local payment methods from Africa, Europe, North America and Asia.
+
+
+</p>
+                                    </div>
+                                 </div>
+                              </div>
+
+
+
+<div class="col-md-6">
+                                 <div class="service-works-item">
+                                    <div class="service-works-icon">
+                                  <i class="fa fa-money-bill-wave" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="service-works-info">
+                                       <h5>Multi Currency
+
+</h5>
+                                       <p>We support al major currencies all around the globe, with realtime currency conversion for every currency.
+
+</p>
+                                    </div>
+                                 </div>
+                              </div>
+
+
+
+<div class="col-md-6">
+                                 <div class="service-works-item">
+                                    <div class="service-works-icon">
+                                  <i class="fad fa-shield-check" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="service-works-info">
+                                       <h5> 3D Secure payments
+
+</h5>
+                                       <p>For extra fraud protection we use 3D Secure authentication method used to verify a customer's identity
+
+
+</p>
+                                    </div>
+                                 </div>
+                              </div><div class="col-md-6">
+                                 <div class="service-works-item">
+                                    <div class="service-works-icon">
+                                  <i class="fad fa-analytics" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="service-works-info">
+                                       <h5>Payment Tracking
+
+</h5>
+                                       <p>We make sure you can track all payment activity like: if your payment links is opened, and a notification when you get paid.
+
+
+</p>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                     </div>
+
+
+
 </div>
-
-
-
-
-<div class="col-lg-4 d-flex">
-<div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
-
-
-<h4 class="title" style="
-    margin-bottom: 0px;
-    font-size: 23px;
-    padding: 20px 24px 0px;
-">
-    
- <i class="fad fa-paint-brush" style="padding-right: 5px;" aria-hidden="true"></i>Branded Payment Links
-</h4>
-                    
-<ul class="address-list">
-<li>
-<p>Send en Share Payment Links with your own brand logo &amp; background, also you can choose your own colors. 
-</p>
-</li>
-                        
-</ul>
-
- </div>
- </div>
-
-<div class="col-lg-4 d-flex">
-<div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
-
-<h4 class="title" style="margin-bottom: 0px; padding: 20px 24px 0px; font-size: 23px;">
-<i class="fad fa-language" style="padding-right: 10px;" aria-hidden="true"></i>Multi Language
-</h4>
-                    
-<ul class="address-list">
-<li>
-<p>Payment Links are multi-language, so that you can welcome all your customers in your own language.
-</p>
-</li>
-                        
- </ul>
-
- </div>
- </div>
-
-
-
-
- </div>
-
-<div class="row">
-
-<div class="col-lg-4 d-flex">
-<div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
-
-
-<h4 class="title" style="margin-bottom: 0px; padding: 20px 24px 0px; font-size: 23px;">
-    
-<i class="fa fa-money-bill-wave" style="padding-right: 10px;" aria-hidden="true"></i>Local Paymennts
-
-</h4>
-                    
-<ul class="address-list">
-                        <li>
-                           <p>Never say no again, we support 20+ local payment methods from Africa, Europe, North America and Asia.
-</p>
-                        </li>
-                        
- </ul>
-
-   </div>
- </div>
-
-
-
-
-<div class="col-lg-4 d-flex">
- <div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
-
-<h4 class="title" style="
-    margin-bottom: 0px;
-    padding: 20px 24px 0px;
-    font-size: 23px;
-">
-    
- <i class="fad fa-shield-check" style="padding-right: 10px;" aria-hidden="true"></i> 3D Secure payments
-</h4>
-                    
-<ul class="address-list">
-<li>
-<p>For extra fraud protection we use 3D Secure authentication method used to verify a customer's identity 
-</p>
-</li>
-                        
-  </ul>
- </div>
- </div>
-
-
-<div class="col-lg-4 d-flex">
-<div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
-
-<h4 class="title" style="
-    margin-bottom: 0px;
-    padding: 20px 24px 0px;
-    font-size: 23px;
-">
-    
-<i class="fad fa-analytics" style="padding-right: 10px;" aria-hidden="true"></i>Payment Tracking
-</h4>
-                    
-<ul class="address-list">
-<li>
-<p>We make sure you can track all payment activity like: if your payment links is opened, and a notification when you get paid.
-</p>
-</li>
-                                 
-  </ul>
-
-  </div>
-  </div>
-
-
-  </div>
-</div>
-  </section>
-
+</section>
 
 
   {% include footer-promo.html %}
