@@ -174,7 +174,7 @@ PayRequest makes it easy to create payment links and share them worldwide with a
                            <div class="row">
                               <div class="col-md-6">
                                  <div class="service-works-item">
-                                    <div class="service-works-icon">
+                                    <div class="service-works-icon2">
                                   <i class="fad fa-euro-sign" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
                                     </div>
                                     <div class="service-works-info">
