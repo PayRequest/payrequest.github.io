@@ -170,7 +170,7 @@ PayRequest makes it easy to create payment links and share them worldwide with a
 
 
 
-                        <div class="service-works">
+<div class="service-works">
                            <div class="row">
                               <div class="col-md-6">
                                  <div class="service-works-item">
@@ -190,7 +190,7 @@ PayRequest makes it easy to create payment links and share them worldwide with a
                               </div>
                               <div class="col-md-6">
                                  <div class="service-works-item">
-                                    <div class="service-works-icon">
+                                    <div class="service-works-icon2">
                                   <i class="fad fa-paint-brush" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
                                     </div>
                                     <div class="service-works-info">
@@ -206,7 +206,7 @@ PayRequest makes it easy to create payment links and share them worldwide with a
                               </div>
                               <div class="col-md-6">
                                  <div class="service-works-item">
-                                    <div class="service-works-icon">
+                                    <div class="service-works-icon2">
                                   <i class="fad fa-language" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
                                     </div>
                                     <div class="service-works-info">
@@ -224,7 +224,7 @@ PayRequest makes it easy to create payment links and share them worldwide with a
 
 <div class="col-md-6">
                                  <div class="service-works-item">
-                                    <div class="service-works-icon">
+                                    <div class="service-works-icon2">
                                   <i class="fa fa-money-bill-wave" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
                                     </div>
                                     <div class="service-works-info">
@@ -242,7 +242,7 @@ PayRequest makes it easy to create payment links and share them worldwide with a
 
 <div class="col-md-6">
                                  <div class="service-works-item">
-                                    <div class="service-works-icon">
+                                    <div class="service-works-icon2">
                                   <i class="fad fa-shield-check" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
                                     </div>
                                     <div class="service-works-info">
@@ -257,7 +257,7 @@ PayRequest makes it easy to create payment links and share them worldwide with a
                                  </div>
                               </div><div class="col-md-6">
                                  <div class="service-works-item">
-                                    <div class="service-works-icon">
+                                    <div class="service-works-icon2">
                                   <i class="fad fa-analytics" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
                                     </div>
                                     <div class="service-works-info">

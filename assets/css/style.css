@@ -3877,6 +3877,14 @@ li {
 	width: 50px;
 }
 
+.service-works-item .service-works-icon2 {
+	text-align: center;
+	margin-right: 20px;
+	-ms-flex-preferred-size: 50px;
+	flex-basis: 150px;
+	width: 150px;
+}
+
 .service-works-item .service-works-info {
 	width: 100%;
 	-ms-flex-preferred-size: auto;
