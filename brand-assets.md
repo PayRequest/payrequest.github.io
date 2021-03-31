@@ -285,6 +285,167 @@ tags: [color-logo]
          </div>
 
 
+<div class="container brand-assets-colors">
+            <div class="row align-items-center">
+               <div class="col-lg-3 lg-1" style="
+">
+                  <div class="about-page-left wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInLeft;">
+
+<div class="asset-description">
+               <h2>Product Icons</h2>
+               <p>Every PayRequest Product has his own Icon, this make it remarkable, please always mention PayRequest if you use any product icon. 
+</p>
+            </div>
+
+</div>
+               </div>
+
+
+
+<div class="logo-variation dark col-md-3">
+
+<div class="vertical">
+                        <div class="logo-bg">
+                           <img src="https://media.payrequest.nl/images/brand/product-icons/payment-page-icon.svg" style="
+    height: 100px;
+">
+                        </div>
+                        <div class="logo-download-links">Payment Pages Icon </div>
+                     </div>
+                  </div>
+
+
+
+<div class="logo-variation dark col-md-3">
+
+<div class="vertical">
+                        <div class="logo-bg">
+                           <img src="https://media.payrequest.nl/images/brand/product-icons/subscriptions-icon.svg" style="
+    height: 100px;
+">
+                        </div>
+                        <div class="logo-download-links">Subscriptions Icon </div>
+                     </div>
+                  </div>
+
+
+<div class="logo-variation dark col-md-3">
+
+<div class="vertical">
+                        <div class="logo-bg">
+                           <img src="https://media.payrequest.nl/images/brand/product-icons/digital-downloads-icon.svg" style="
+    height: 100px;
+">
+                        </div>
+                        <div class="logo-download-links">Digital Downloads Icon </div>
+                     </div>
+                  </div>
+
+
+
+<div class="col-lg-3 lg-1" style="
+">
+                  <div class="about-page-left wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInLeft;">
+
+
+
+</div>
+               </div>
+
+
+<div class="logo-variation dark col-md-3">
+
+<div class="vertical">
+                        <div class="logo-bg">
+                           <img src="https://media.payrequest.nl/images/brand/product-icons/payment-links-icon.svg" style="
+    height: 100px;
+">
+                        </div>
+                        <div class="logo-download-links">Payment Links Icon </div>
+                     </div>
+                  </div>
+
+
+<div class="logo-variation dark col-md-3">
+
+<div class="vertical">
+                        <div class="logo-bg">
+                           <img src="https://media.payrequest.nl/images/brand/product-icons/donation-pages-icon.svg" style="
+    height: 100px;
+">
+                        </div>
+                        <div class="logo-download-links">Donation Pages Icon </div>
+                     </div>
+                  </div>
+
+
+<div class="logo-variation dark col-md-3">
+
+<div class="vertical">
+                        <div class="logo-bg">
+                           <img src="https://media.payrequest.nl/images/brand/product-icons/pre-authorization-icon.svg" style="
+    height: 100px;
+">
+                        </div>
+                        <div class="logo-download-links">Pre Authorization Icon </div>
+                     </div>
+                  </div>
+
+
+
+<div class="col-lg-3 lg-1" style="
+">
+                  <div class="about-page-left wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInLeft;">
+
+
+
+</div>
+               </div>
+
+
+<div class="logo-variation dark col-md-3">
+
+<div class="vertical">
+                        <div class="logo-bg">
+                           <img src="https://media.payrequest.nl/images/brand/product-icons/invoices-icon.svg" style="
+    height: 100px;
+">
+                        </div>
+                        <div class="logo-download-links">Invoices Icon </div>
+                     </div>
+                  </div>
+
+
+
+<div class="logo-variation dark col-md-3">
+
+<div class="vertical">
+                        <div class="logo-bg">
+                           <img src="https://media.payrequest.nl/images/brand/product-icons/booking-pages-icon.svg" style="
+    height: 100px;
+">
+                        </div>
+                        <div class="logo-download-links">Booking Pages Icon </div>
+                     </div>
+                  </div><div class="logo-variation dark col-md-3">
+
+<div class="vertical">
+                        <div class="logo-bg">
+                           <img src="https://media.payrequest.nl/images/brand/product-icons/webshop-pages-icon.svg" style="
+    height: 100px;
+">
+                        </div>
+                        <div class="logo-download-links">Webshop Pages Icon </div>
+                     </div>
+                  </div>
+
+
+
+
+
+</div>
+         </div>
+
 
 
 <div class="container brand-assets-colors">
