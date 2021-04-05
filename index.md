@@ -341,7 +341,7 @@
 <div class="service-icon">
 <img src="https://media.payrequest.nl/images/brand/product-icons/payment-page-icon.svg" />
 </div>
-<div class="service-title"><h3>Payment Page</h3></div>
+<div class="service-title"><h3>Payment Pages</h3></div>
 <div class="service-desc">
 <p>With PayRequest you can create your own payrequest.me payment page</p>
 <a class="btn-simple mt-3" href="#">Read More <i class="fa fa-long-arrow-right"></i></a>
@@ -362,7 +362,7 @@
 <div class="service-icon">
 <img src="https://media.payrequest.nl/images/brand/product-icons/payment-page-icon.svg" />
 </div>
-<div class="service-title"><h3>Payment Page</h3></div>
+<div class="service-title"><h3>Payment Links</h3></div>
 <div class="service-desc">
 <p>With PayRequest you can create your own payrequest.me payment page</p>
 <a class="btn-simple mt-3" href="#">Read More <i class="fa fa-long-arrow-right"></i></a>
@@ -383,7 +383,7 @@
 <div class="service-icon">
 <img src="https://media.payrequest.nl/images/brand/product-icons/payment-page-icon.svg" />
 </div>
-<div class="service-title"><h3>Payment Page</h3></div>
+<div class="service-title"><h3>Donation Page</h3></div>
 <div class="service-desc">
 <p>With PayRequest you can create your own payrequest.me payment page</p>
 <a class="btn-simple mt-3" href="#">Read More <i class="fa fa-long-arrow-right"></i></a>
