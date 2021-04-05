@@ -139,6 +139,131 @@
  <!-- About Bottom End -->
  </section>
 
+ <!-- Service Section Start -->
+ <section class="service-section section_100">
+ <div class="container">
+            <div class="row align-items-center">
+               <div class="col-lg-5 col-md-12">
+                  <div class="section-title wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.1s">
+                     <h2>Our <span>Professional</span> <br>Services For You</h2>
+                  </div>
+               </div>
+               <div class="col-lg-7 col-md-12">
+                  <div class="section-para wow fadeInRight" data-wow-duration="2s" data-wow-delay="0.3s">
+                     <p>Etiam nec odio vestibulum est mattis effic iturut magna. Pelle ntesque sit am et tellus blandit. Etiam nec odio vestibul. Etiam nec odio vestibulum est mattis effic iturut.</p>
+                  </div>
+               </div>
+            </div>
+            <div class="row">
+               <div class="col-lg-4 col-md-6">
+                  <div class="service-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
+                     <div class="service-icon">
+                        <i class="flaticon-chip"></i>
+                     </div>
+                     <div class="service-title">
+                        <h3>Robotics & Drones</h3>
+                     </div>
+                     <div class="service-desc">
+                        <p>Capitalize on low hanging fruit to identify a ball park value added activity to beta test. Override the digital divide with additional</p>
+                        <a class="btn-simple mt-3" href="#">Read More <i class="fa fa-long-arrow-right"></i></a>
+                     </div>
+                     <div class="service-icon-bottom">
+                        <i class="flaticon-chip"></i>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-6">
+                  <div class="service-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s">
+                     <div class="service-icon">
+                        <i class="flaticon-picture"></i>
+                     </div>
+                     <div class="service-title">
+                        <h3>Image Processing</h3>
+                     </div>
+                     <div class="service-desc">
+                        <p>Capitalize on low hanging fruit to identify a ball park value added activity to beta test. Override the digital divide with additional</p>
+                        <a class="btn-simple mt-3" href="#">Read More <i class="fa fa-long-arrow-right"></i></a>
+                     </div>
+                     <div class="service-icon-bottom">
+                        <i class="flaticon-picture"></i>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-6">
+                  <div class="service-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.4s">
+                     <div class="service-icon">
+                        <i class="flaticon-box"></i>
+                     </div>
+                     <div class="service-title">
+                        <h3>Data Visualization</h3>
+                     </div>
+                     <div class="service-desc">
+                        <p>Capitalize on low hanging fruit to identify a ball park value added activity to beta test. Override the digital divide with additional</p>
+                        <a class="btn-simple mt-3" href="#">Read More <i class="fa fa-long-arrow-right"></i></a>
+                     </div>
+                     <div class="service-icon-bottom">
+                        <i class="flaticon-box"></i>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-6">
+                  <div class="service-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s">
+                     <div class="service-icon">
+                        <i class="flaticon-mobile"></i>
+                     </div>
+                     <div class="service-title">
+                        <h3>Virtually Reality</h3>
+                     </div>
+                     <div class="service-desc">
+                        <p>Capitalize on low hanging fruit to identify a ball park value added activity to beta test. Override the digital divide with additional</p>
+                        <a class="btn-simple mt-3" href="#">Read More <i class="fa fa-long-arrow-right"></i></a>
+                     </div>
+                     <div class="service-icon-bottom">
+                        <i class="flaticon-mobile"></i>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-6">
+                  <div class="service-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.6s">
+                     <div class="service-icon">
+                        <i class="flaticon-facial-recognition"></i>
+                     </div>
+                     <div class="service-title">
+                        <h3>Face Recognition</h3>
+                     </div>
+                     <div class="service-desc">
+                        <p>Capitalize on low hanging fruit to identify a ball park value added activity to beta test. Override the digital divide with additional</p>
+                        <a class="btn-simple mt-3" href="#">Read More <i class="fa fa-long-arrow-right"></i></a>
+                     </div>
+                     <div class="service-icon-bottom">
+                        <i class="flaticon-facial-recognition"></i>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-lg-4 col-md-6">
+                  <div class="service-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.7s">
+                     <div class="service-icon">
+                        <i class="flaticon-video-player"></i>
+                     </div>
+                     <div class="service-title">
+                        <h3>Video Analytics</h3>
+                     </div>
+                     <div class="service-desc">
+                        <p>Capitalize on low hanging fruit to identify a ball park value added activity to beta test. Override the digital divide with additional</p>
+                        <a class="btn-simple mt-3" href="#">Read More <i class="fa fa-long-arrow-right"></i></a>
+                     </div>
+                     <div class="service-icon-bottom">
+                        <i class="flaticon-video-player"></i>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+</section>
+      <!-- Service Section End -->
+
+
+
 
 <section class="blog-section section_50">
          <div class="container">
