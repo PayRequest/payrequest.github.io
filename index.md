@@ -334,8 +334,9 @@
                
  </div>
 
-<!-- begin product column -->
 <div class="row">
+
+<!-- begin product column -->
 <div class="col-lg-4 col-md-6">
 <div class="service-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
 <div class="service-icon">
@@ -356,7 +357,6 @@
 
 
 <!-- begin product column -->
-<div class="row">
 <div class="col-lg-4 col-md-6">
 <div class="service-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
 <div class="service-icon">
@@ -377,7 +377,6 @@
 
 
 <!-- begin product column -->
-<div class="row">
 <div class="col-lg-4 col-md-6">
 <div class="service-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
 <div class="service-icon">
@@ -450,9 +449,6 @@
 </div>
 </div>
 </div>
-
-
-
 
 </section>
 
