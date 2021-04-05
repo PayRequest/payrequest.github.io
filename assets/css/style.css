@@ -1773,10 +1773,6 @@ li {
 	color: #fff
 }
 
-.service-box.active .service-icon:after {
-	border: 1px solid #fff
-}
-
 .service-box.active .service-icon-bottom {
 	color: #7C61F5
 }
