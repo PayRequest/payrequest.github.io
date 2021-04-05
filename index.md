@@ -139,24 +139,88 @@
  <!-- About Bottom End -->
  </section>
 
- <!-- Service Section Start -->
- <section class="service-section section_100">
- <div class="container">
-            <div class="row align-items-center">
-               <div class="col-lg-5 col-md-12">
-                  <div class="section-title wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.1s">
-                     <h2>Our <span>Professional</span> <br>Services For You</h2>
-                  </div>
-               </div>
-               <div class="col-lg-7 col-md-12">
-                  <div class="section-para wow fadeInRight" data-wow-duration="2s" data-wow-delay="0.3s">
-                     <p>Etiam nec odio vestibulum est mattis effic iturut magna. Pelle ntesque sit am et tellus blandit. Etiam nec odio vestibul. Etiam nec odio vestibulum est mattis effic iturut.</p>
+<!-- Testimonial Section Start -->
+<section class="testimonial-section section_b_100">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-12">
+                  <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s">
+                     <h2>Some <span>reviews</span> from <br> our clients</h2>
                   </div>
                </div>
             </div>
             <div class="row">
-               <div class="col-lg-4 col-md-6">
-                  <div class="service-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
+               <div class="col-lg-12">
+                  <div class="testimonial-pos">
+                     <h3>feedback</h3>
+                  </div>
+               </div>
+               <div class="col-lg-12">
+                  <div class="testimonial-slider owl-carousel">
+                     <div class="testimonial-item">
+                        <div class="client-image">
+                           <img src="assets/img/t3.png" alt="testimonial" />
+                        </div>
+                        <div class="testimonial-body">
+                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla mauris dolor, gravida a varius blandit Lorem sit dix dolor sit. consectetur adipiscing. Nulla mauris dolor, gravida a varius blandit, Lorem ipsum dolor sit Lorem ipsum dolor sit. consectetur adipiscing elit. </p>
+                        </div>
+                        <div class="testimonial-meta">
+                           <h3>Lina doris</h3>
+                           <ul>
+                              <li><i class="fa fa-star"></i></li>
+                              <li><i class="fa fa-star"></i></li>
+                              <li><i class="fa fa-star"></i></li>
+                              <li><i class="fa fa-star"></i></li>
+                              <li><i class="fa fa-star-half-o"></i></li>
+                           </ul>
+                        </div>
+                     </div>
+                     <div class="testimonial-item">
+                        <div class="client-image">
+                           <img src="assets/img/t1.png" alt="testimonial" />
+                        </div>
+                        <div class="testimonial-body">
+                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla mauris dolor, gravida a varius blandit, Lorem ipsum dolor sit. consectetur adipiscing. Nulla mauris dolor, gravida a varius blandit, Lorem ipsum dolor sit Lorem ipsum dolor sit. consectetur adipiscing elit. </p>
+                        </div>
+                        <div class="testimonial-meta">
+                           <h3>knot williams</h3>
+                           <ul>
+                              <li><i class="fa fa-star"></i></li>
+                              <li><i class="fa fa-star"></i></li>
+                              <li><i class="fa fa-star"></i></li>
+                              <li><i class="fa fa-star"></i></li>
+                              <li><i class="fa fa-star-half-o"></i></li>
+                           </ul>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+</section>
+ <!-- Testimonial Section End -->
+
+
+
+
+
+
+
+
+<section class="blog-section section_50">
+         <div class="container">
+            <div class="row align-items-center">
+               <div class="col-lg-12 col-md-12">
+                  <div class="section-title wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
+                     <h2><span>PayRequest</span> Products</h2>
+                  </div>
+               </div>
+               
+ </div>
+
+<div class="row">
+<div class="col-lg-4 col-md-6">
+<div class="service-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
                      <div class="service-icon">
                         <i class="flaticon-chip"></i>
                      </div>
@@ -254,146 +318,16 @@
                      </div>
                      <div class="service-icon-bottom">
                         <i class="flaticon-video-player"></i>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
-</section>
-      <!-- Service Section End -->
-
-
-
-
-<section class="blog-section section_50">
-         <div class="container">
-            <div class="row align-items-center">
-               <div class="col-lg-12 col-md-12">
-                  <div class="section-title wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
-                     <h2><span>PayRequest</span> Products</h2>
-                  </div>
-               </div>
-               
- </div>
- <div class="row">
-
-
-  <!-- Payment Links block Start -->
-<div class="col-lg-4 col-md-6">
-                  <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
-                     <div class="blog-image">
-                        <a href="#">
-                        <img src="https://media.payrequest.nl/images/01Dd1Dh.webp" alt="payment links">
-                        </a>
-                     </div>
-  <div class="blog-desc">
-                        
-<div class="blog-text">
-<a href="/payment-links"><h3> <i class="fad fa-link" style="color: #25b7c7;" aria-hidden="true"></i> Payment Links</h3>
-<h5 style="margin-top: 10px;"> Create and share payment links in seconds, .
- </h5></a>
-                        </div>
-                     </div>
-                  </div>
 </div>
-  <!-- Payment Links block End -->
+</div>
+</div>
+</div>
+</div>
 
 
-<div class="col-lg-4 col-md-6">
- <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
-                     <div class="blog-image">
-                        <a href="/donation-pages">
-                        <img src="https://media.payrequest.nl/images/nh9CnvP.webp" alt="donation pages">
-                        </a>
-                     </div>
- <div class="blog-desc">
-                        
-<div class="blog-text">
-                           <a href="/donation-pages">
-                              <h3> 
-    <i class="fad fa-hand-holding-heart" style="color: #25b7c7;" aria-hidden="true"></i> Donation Pages</h3>
-
-<h5 style="
-    margin-top: 10px;
-"> Create and share payment links in seconds, .
-
- </h5>
-                           </a>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-               
 
 
-<div class="col-lg-4 col-md-6">
-                  <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
-                     <div class="blog-image">
-                        <a href="/payment-pages">
-                        <img src="https://media.payrequest.nl/images/wTSUMCp.webp" alt="payment pages">
-                        </a>
-                     </div>
- <div class="blog-desc">
-     <div class="blog-text">
-                           <a href="/payment-pages">
-                              <h3> 
-    <i class="fad fa-user-tie" style="color: #25b7c7;" aria-hidden="true"></i>
- Payment Pages</h3>
-
-<h5 style="
-    margin-top: 10px;
-">Create your own payrequest.me page and share your payment page.</h5>
-                           </a>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-
-
-<!-- Products coming soon  
-<div class="col-lg-4 col-md-6">
-                  <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
-                     <div class="blog-image">
-                        <a href="/payment-pages">
-                        <img src="https://i.imgur.com/NWPfDVt.png" alt="payrequest webshop">
-                        </a>
-                     </div>
- <div class="blog-desc">
-     <div class="blog-text">
-                           <a href="/payment-pages">
-                              <h3> 
-    <i class="fad fa-store-alt" style="color: #25b7c7;" aria-hidden="true"></i> PayRequest Webshop</h3>
-
-<h5 style="
-    margin-top: 10px;
-">Create a free webshop and sell all your products online</h5>
-                           </a>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-
-<div class="col-lg-4 col-md-6">
-                  <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
-                     <div class="blog-image">
-                        <a href="/payment-pages">
-                        <img src="https://i.imgur.com/wTSUMCp.png" alt="blog">
-                        </a>
-                     </div>
- <div class="blog-desc">
-     <div class="blog-text">
- <a href="/payment-pages"> <h3>  <i class="fad fa-user-tie" style="color: #25b7c7;" aria-hidden="true"></i> Payment Pages</h3>
-<h5 style="margin-top: 10px;">Create your own payrequest.me page and share your payment page.</h5></a>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-           -->    
-               
-               
-            </div>
-         </div>
-      </section>
+</section>
 
 
 {% include why-section.html %}
