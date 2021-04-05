@@ -1662,7 +1662,7 @@ li {
 	top: 0px;
 	right: 0px;
 	bottom: 0px;
-	background: url(../img/service-paternt.png) no-repeat;
+	background: url(https://media.payrequest.nl/images/layout/service-paternt.webp) no-repeat;
 	z-index: -1;
 	-webkit-transition: all 0.4s ease 0s;
 	transition: all 0.4s ease 0s;
@@ -1690,7 +1690,6 @@ li {
 	height: 80px;
 	text-align: center;
 	border-radius: 50%;
-	border: 1px solid #25b7c7;
 	-webkit-transition: all 0.4s ease 0s;
 	transition: all 0.4s ease 0s
 }
@@ -2425,7 +2424,7 @@ li {
 
 .testimonial-section {
 	position: relative;
-	background: url(../img/testimonial-bg.png) no-repeat scroll center center;
+	background: url(https://media.payrequest.nl/images/layout/testimonial-bg.webp) no-repeat scroll center center;
 }
 
 .testimonial-section .section-title h2 span {
@@ -2454,6 +2453,7 @@ li {
 
 .testimonial-body {
 	margin-top: 30px;
+	max-width: 900px;
 }
 
 .testimonial-body p {
@@ -5194,4 +5194,10 @@ aside .widget:last-child {
 	color: #fff;
 	font-size: 48px;
 	font-weight: 700;
+}
+
+.owl-carousel .owl-item img {
+	display: block;
+	width: 100%;
+	padding-top: 15px !important;
 }
