@@ -20,7 +20,7 @@
 <div class="hero-left">
 <br />
 
-<h2> No-Code <span class="underline">Payment Platform</span> </h2>
+<h2> Payment <span class="underline">Request Platform</span> </h2>
 
 <p>PayRequest makes it easy to create your own branded payment page, and to send payment links to all your customers.
 
@@ -334,59 +334,70 @@
                
  </div>
 
+<!-- begin product column -->
 <div class="row">
 <div class="col-lg-4 col-md-6">
 <div class="service-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
-                     <div class="service-icon">
-                        <i class="flaticon-chip"></i>
-                     </div>
-                     <div class="service-title">
-                        <h3>Robotics & Drones</h3>
-                     </div>
-                     <div class="service-desc">
-                        <p>Capitalize on low hanging fruit to identify a ball park value added activity to beta test. Override the digital divide with additional</p>
-                        <a class="btn-simple mt-3" href="#">Read More <i class="fa fa-long-arrow-right"></i></a>
-                     </div>
-                     <div class="service-icon-bottom">
-                        <i class="flaticon-chip"></i>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-lg-4 col-md-6">
-                  <div class="service-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s">
-                     <div class="service-icon">
-                        <i class="flaticon-picture"></i>
-                     </div>
-                     <div class="service-title">
-                        <h3>Image Processing</h3>
-                     </div>
-                     <div class="service-desc">
-                        <p>Capitalize on low hanging fruit to identify a ball park value added activity to beta test. Override the digital divide with additional</p>
-                        <a class="btn-simple mt-3" href="#">Read More <i class="fa fa-long-arrow-right"></i></a>
-                     </div>
-                     <div class="service-icon-bottom">
-                        <i class="flaticon-picture"></i>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-lg-4 col-md-6">
-                  <div class="service-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.4s">
-                     <div class="service-icon">
-                        <i class="flaticon-box"></i>
-                     </div>
-                     <div class="service-title">
-                        <h3>Data Visualization</h3>
-                     </div>
-                     <div class="service-desc">
-                        <p>Capitalize on low hanging fruit to identify a ball park value added activity to beta test. Override the digital divide with additional</p>
-                        <a class="btn-simple mt-3" href="#">Read More <i class="fa fa-long-arrow-right"></i></a>
-                     </div>
-                     <div class="service-icon-bottom">
-                        <i class="flaticon-box"></i>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-lg-4 col-md-6">
+<div class="service-icon">
+<img src="https://media.payrequest.nl/images/brand/product-icons/payment-page-icon.svg" />
+</div>
+<div class="service-title"><h3>Payment Page</h3></div>
+<div class="service-desc">
+<p>With PayRequest you can create your own payrequest.me payment page</p>
+<a class="btn-simple mt-3" href="#">Read More <i class="fa fa-long-arrow-right"></i></a>
+</div>
+
+<div class="service-icon-bottom">
+<img src="https://media.payrequest.nl/images/Icon%2020white.webp">
+</div>
+</div>
+</div>
+<!-- end product column -->
+
+
+<!-- begin product column -->
+<div class="row">
+<div class="col-lg-4 col-md-6">
+<div class="service-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
+<div class="service-icon">
+<img src="https://media.payrequest.nl/images/brand/product-icons/payment-page-icon.svg" />
+</div>
+<div class="service-title"><h3>Payment Page</h3></div>
+<div class="service-desc">
+<p>With PayRequest you can create your own payrequest.me payment page</p>
+<a class="btn-simple mt-3" href="#">Read More <i class="fa fa-long-arrow-right"></i></a>
+</div>
+
+<div class="service-icon-bottom">
+<img src="https://media.payrequest.nl/images/Icon%2020white.webp">
+</div>
+</div>
+</div>
+<!-- end product column -->
+
+
+<!-- begin product column -->
+<div class="row">
+<div class="col-lg-4 col-md-6">
+<div class="service-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
+<div class="service-icon">
+<img src="https://media.payrequest.nl/images/brand/product-icons/payment-page-icon.svg" />
+</div>
+<div class="service-title"><h3>Payment Page</h3></div>
+<div class="service-desc">
+<p>With PayRequest you can create your own payrequest.me payment page</p>
+<a class="btn-simple mt-3" href="#">Read More <i class="fa fa-long-arrow-right"></i></a>
+</div>
+
+<div class="service-icon-bottom">
+<img src="https://media.payrequest.nl/images/Icon%2020white.webp">
+</div>
+</div>
+</div>
+<!-- end product column -->
+
+
+<div class="col-lg-4 col-md-6">
                   <div class="service-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s">
                      <div class="service-icon">
                         <i class="flaticon-mobile"></i>

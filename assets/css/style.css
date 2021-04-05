@@ -5197,3 +5197,8 @@ aside .widget:last-child {
 	width: 100%;
 	padding-top: 15px !important;
 }
+
+.service-box.active .service-icon-bottom img{
+	max-width: 30px;
+	opacity: 0.3;
+}
