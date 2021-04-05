@@ -261,7 +261,7 @@
             <div class="row">
                <div class="col-lg-12">
                   <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s">
-                     <h2>Some <span>reviews</span> from <br> our clients</h2>
+                     <h2>Read <span>reviews</span> from <br> our clients</h2>
                   </div>
                </div>
             </div>
