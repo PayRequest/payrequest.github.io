@@ -261,7 +261,7 @@
             <div class="row">
                <div class="col-lg-12">
                   <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s">
-                     <h2>Read <span>reviews</span> from <br> our clients</h2>
+                     <h2>SOME <span>Reviews</span> from <br> our clients</h2>
                   </div>
                </div>
             </div>
@@ -275,13 +275,13 @@
                   <div class="testimonial-slider owl-carousel">
                      <div class="testimonial-item">
                         <div class="client-image">
-                           <img src="assets/img/t3.png" alt="testimonial" />
+                           <img src="https://media.payrequest.nl/images/reviews/review-logo-partydoosmedia.webp" alt="partydoosmedia" />
                         </div>
                         <div class="testimonial-body">
-                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla mauris dolor, gravida a varius blandit Lorem sit dix dolor sit. consectetur adipiscing. Nulla mauris dolor, gravida a varius blandit, Lorem ipsum dolor sit Lorem ipsum dolor sit. consectetur adipiscing elit. </p>
+                           <p>Our business uses PayRequest to easily support Stripe Payments to our website. With easy integrations to our site and custom redirects after payments, nice customisation and helpful support PayRequest is one of the best no-code payment solution. </p>
                         </div>
                         <div class="testimonial-meta">
-                           <h3>Lina doris</h3>
+                           <h3>Partydoosmedia</h3>
                            <ul>
                               <li><i class="fa fa-star"></i></li>
                               <li><i class="fa fa-star"></i></li>
@@ -293,19 +293,19 @@
                      </div>
                      <div class="testimonial-item">
                         <div class="client-image">
-                           <img src="assets/img/t1.png" alt="testimonial" />
+                           <img src="https://media.payrequest.nl/images/reviews/review-logo-hostingwalk.webp" alt="Hostingwalk" />
                         </div>
                         <div class="testimonial-body">
-                           <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla mauris dolor, gravida a varius blandit, Lorem ipsum dolor sit. consectetur adipiscing. Nulla mauris dolor, gravida a varius blandit, Lorem ipsum dolor sit Lorem ipsum dolor sit. consectetur adipiscing elit. </p>
+                           <p>We use PayRequest to send dynamic payment links, thanks to their API and Webhook we can automate this process and save hours per month. </p>
                         </div>
                         <div class="testimonial-meta">
-                           <h3>knot williams</h3>
+                           <h3>Hostingwalk</h3>
                            <ul>
                               <li><i class="fa fa-star"></i></li>
                               <li><i class="fa fa-star"></i></li>
                               <li><i class="fa fa-star"></i></li>
                               <li><i class="fa fa-star"></i></li>
-                              <li><i class="fa fa-star-half-o"></i></li>
+                              <li><i class="fa fa-star"></i></li>
                            </ul>
                         </div>
                      </div>
