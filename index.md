@@ -345,7 +345,7 @@
 <div class="service-title"><h3>Payment Pages</h3></div>
 <div class="service-desc">
 <p>With PayRequest you can create your own payrequest.me payment page</p>
-<a class="btn-simple mt-3" href="#">Read More <i class="fa fa-long-arrow-right"></i></a>
+<a class="btn-simple mt-3" href="/payment-pages">Read More <i class="fa fa-long-arrow-right"></i></a>
 </div>
 
 <div class="service-icon-bottom">
@@ -360,12 +360,12 @@
 <div class="col-lg-4 col-md-6">
 <div class="service-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
 <div class="service-icon">
-<img src="https://media.payrequest.nl/images/brand/product-icons/payment-page-icon.svg" />
+<img src="https://media.payrequest.nl/images/brand/product-icons/payment-links-icon.svg" />
 </div>
 <div class="service-title"><h3>Payment Links</h3></div>
 <div class="service-desc">
-<p>With PayRequest you can create your own payrequest.me payment page</p>
-<a class="btn-simple mt-3" href="#">Read More <i class="fa fa-long-arrow-right"></i></a>
+<p>Create payment links and share them worldwide with all your customers, accept payments online.</p>
+<a class="btn-simple mt-3" href="/payment-links">Read More <i class="fa fa-long-arrow-right"></i></a>
 </div>
 
 <div class="service-icon-bottom">
@@ -380,12 +380,12 @@
 <div class="col-lg-4 col-md-6">
 <div class="service-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
 <div class="service-icon">
-<img src="https://media.payrequest.nl/images/brand/product-icons/payment-page-icon.svg" />
+<img src="https://media.payrequest.nl/images/brand/product-icons/donation-pages-icon.svg" />
 </div>
-<div class="service-title"><h3>Donation Page</h3></div>
+<div class="service-title"><h3>Donation Pages</h3></div>
 <div class="service-desc">
-<p>With PayRequest you can create your own payrequest.me payment page</p>
-<a class="btn-simple mt-3" href="#">Read More <i class="fa fa-long-arrow-right"></i></a>
+<p>PayRequest makes it easy to create donation pages for charity, fundraising or non-profits.</p>
+<a class="btn-simple mt-3" href="/donation-pages">Read More <i class="fa fa-long-arrow-right"></i></a>
 </div>
 
 <div class="service-icon-bottom">
@@ -396,57 +396,46 @@
 <!-- end product column -->
 
 
+<!-- begin product column -->
 <div class="col-lg-4 col-md-6">
-                  <div class="service-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.5s">
-                     <div class="service-icon">
-                        <i class="flaticon-mobile"></i>
-                     </div>
-                     <div class="service-title">
-                        <h3>Virtually Reality</h3>
-                     </div>
-                     <div class="service-desc">
-                        <p>Capitalize on low hanging fruit to identify a ball park value added activity to beta test. Override the digital divide with additional</p>
-                        <a class="btn-simple mt-3" href="#">Read More <i class="fa fa-long-arrow-right"></i></a>
-                     </div>
-                     <div class="service-icon-bottom">
-                        <i class="flaticon-mobile"></i>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-lg-4 col-md-6">
-                  <div class="service-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.6s">
-                     <div class="service-icon">
-                        <i class="flaticon-facial-recognition"></i>
-                     </div>
-                     <div class="service-title">
-                        <h3>Face Recognition</h3>
-                     </div>
-                     <div class="service-desc">
-                        <p>Capitalize on low hanging fruit to identify a ball park value added activity to beta test. Override the digital divide with additional</p>
-                        <a class="btn-simple mt-3" href="#">Read More <i class="fa fa-long-arrow-right"></i></a>
-                     </div>
-                     <div class="service-icon-bottom">
-                        <i class="flaticon-facial-recognition"></i>
-                     </div>
-                  </div>
-               </div>
-               <div class="col-lg-4 col-md-6">
-                  <div class="service-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.7s">
-                     <div class="service-icon">
-                        <i class="flaticon-video-player"></i>
-                     </div>
-                     <div class="service-title">
-                        <h3>Video Analytics</h3>
-                     </div>
-                     <div class="service-desc">
-                        <p>Capitalize on low hanging fruit to identify a ball park value added activity to beta test. Override the digital divide with additional</p>
-                        <a class="btn-simple mt-3" href="#">Read More <i class="fa fa-long-arrow-right"></i></a>
-                     </div>
-                     <div class="service-icon-bottom">
-                        <i class="flaticon-video-player"></i>
+<div class="service-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
+<div class="service-icon">
+<img src="https://media.payrequest.nl/images/brand/product-icons/pre-authorization-icon.svg" />
+</div>
+<div class="service-title"><h3>Pre-Authorization</h3></div>
+<div class="service-desc">
+<p>Temporary hold an amount on your customers credit card, with a hold up period of 7 days.</p>
+<a class="btn-simple mt-3" href="/pre-authorization">Read More <i class="fa fa-long-arrow-right"></i></a>
+</div>
+
+<div class="service-icon-bottom">
+<img src="https://media.payrequest.nl/images/Icon%2020white.webp">
 </div>
 </div>
 </div>
+<!-- end product column -->
+
+<!-- begin product column -->
+<div class="col-lg-4 col-md-6">
+<div class="service-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
+<div class="service-icon">
+<img src="https://media.payrequest.nl/images/brand/product-icons/pre-authorization-icon.svg" />
+</div>
+<div class="service-title"><h3>Subscriptions</h3></div>
+<div class="service-desc">
+<p>Temporary hold an amount on your customers credit card, with a hold up period of 7 days.</p>
+<a disabled class="btn-simple mt-3" href="#">Coming Soon <i class="fa fa-long-arrow-right"></i></a>
+</div>
+
+<div class="service-icon-bottom">
+<img src="https://media.payrequest.nl/images/Icon%2020white.webp">
+</div>
+</div>
+</div>
+<!-- end product column -->
+
+
+
 </div>
 </div>
 
