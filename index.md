@@ -344,7 +344,7 @@
 </div>
 <div class="service-title"><h3>Payment Pages</h3></div>
 <div class="service-desc">
-<p>With PayRequest you can create your own payrequest.me payment page</p>
+<p>With PayRequest you can create your own payrequest.me payment page, with your own branding.</p>
 <a class="btn-simple mt-3" href="/payment-pages">Read More <i class="fa fa-long-arrow-right"></i></a>
 </div>
 
@@ -419,12 +419,31 @@
 <div class="col-lg-4 col-md-6">
 <div class="service-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
 <div class="service-icon">
-<img src="https://media.payrequest.nl/images/brand/product-icons/pre-authorization-icon.svg" />
+<img src="https://media.payrequest.nl/images/brand/product-icons/subscriptions-icon.svg" />
 </div>
 <div class="service-title"><h3>Subscriptions</h3></div>
 <div class="service-desc">
 <p>Temporary hold an amount on your customers credit card, with a hold up period of 7 days.</p>
-<a disabled class="btn-simple mt-3" href="#">Coming Soon <i class="fa fa-long-arrow-right"></i></a>
+<a class="btn-simple mt-3">Coming Soon <i class="fa fa-long-arrow-right"></i></a>
+</div>
+
+<div class="service-icon-bottom">
+<img src="https://media.payrequest.nl/images/Icon%2020white.webp">
+</div>
+</div>
+</div>
+<!-- end product column -->
+
+<!-- begin product column -->
+<div class="col-lg-4 col-md-6">
+<div class="service-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
+<div class="service-icon">
+<img src="https://media.payrequest.nl/images/brand/product-icons/invoices-icon.svg" />
+</div>
+<div class="service-title"><h3>Online Invoices</h3></div>
+<div class="service-desc">
+<p>Temporary hold an amount on your customers credit card, with a hold up period of 7 days.</p>
+<a class="btn-simple mt-3">Coming Soon <i class="fa fa-long-arrow-right"></i></a>
 </div>
 
 <div class="service-icon-bottom">
@@ -435,6 +454,62 @@
 <!-- end product column -->
 
 
+<!-- begin product column -->
+<div class="col-lg-4 col-md-6">
+<div class="service-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
+<div class="service-icon">
+<img src="https://media.payrequest.nl/images/brand/product-icons/webshop-pages-icon.svg" />
+</div>
+<div class="service-title"><h3>Webshop Pages</h3></div>
+<div class="service-desc">
+<p>Temporary hold an amount on your customers credit card, with a hold up period of 7 days.</p>
+<a class="btn-simple mt-3">Coming Soon <i class="fa fa-long-arrow-right"></i></a>
+</div>
+
+<div class="service-icon-bottom">
+<img src="https://media.payrequest.nl/images/Icon%2020white.webp">
+</div>
+</div>
+</div>
+<!-- end product column -->
+
+<!-- begin product column -->
+<div class="col-lg-4 col-md-6">
+<div class="service-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
+<div class="service-icon">
+<img src="https://media.payrequest.nl/images/brand/product-icons/booking-pages-icon.svg" />
+</div>
+<div class="service-title"><h3>Booking Pages</h3></div>
+<div class="service-desc">
+<p>Temporary hold an amount on your customers credit card, with a hold up period of 7 days.</p>
+<a class="btn-simple mt-3">Coming Soon <i class="fa fa-long-arrow-right"></i></a>
+</div>
+
+<div class="service-icon-bottom">
+<img src="https://media.payrequest.nl/images/Icon%2020white.webp">
+</div>
+</div>
+</div>
+<!-- end product column -->
+
+<!-- begin product column -->
+<div class="col-lg-4 col-md-6">
+<div class="service-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
+<div class="service-icon">
+<img src="https://media.payrequest.nl/images/brand/product-icons/digital-downloads-icon.svg" />
+</div>
+<div class="service-title"><h3>Digital Downloads</h3></div>
+<div class="service-desc">
+<p>Temporary hold an amount on your customers credit card, with a hold up period of 7 days.</p>
+<a class="btn-simple mt-3">Coming Soon <i class="fa fa-long-arrow-right"></i></a>
+</div>
+
+<div class="service-icon-bottom">
+<img src="https://media.payrequest.nl/images/Icon%2020white.webp">
+</div>
+</div>
+</div>
+<!-- end product column -->
 
 </div>
 </div>
