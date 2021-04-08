@@ -114,7 +114,7 @@ PayRequest is a no-code payment platform with over 2000 businesses using our sof
 </div>
 </div>
 <h3>
-Latest date shows that users are spending the most time on their smartphones browsing through social media apps like Twitter, Facebook, and Twitter. You can use PayRequest to add a payment link on your social media pages to boost your leads and drive more sales.
+Latest date shows that users are spending the most time on their smartphones browsing through social media apps like Twitter, Facebook, and Instagram. You can use PayRequest to add a payment link on your social media pages to boost your leads and drive more sales.
 </h3>
 
 </div>
