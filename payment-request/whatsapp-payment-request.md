@@ -135,7 +135,7 @@ With a WhatApp Payment Request you can request payments to your customers.
                               <div class="col-md-6">
                                  <div class="service-works-item">
 <div class="service-works-icon2">
-<i class="fab fa-whatapp" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+<i class="fab fa-whatsapp" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
 </div>
 <div class="service-works-info">
 <h5> Accept Local Payment Methods</h5>
@@ -148,7 +148,7 @@ PayRequest offers support for more than 20 local payment methods across Asia, Af
 <div class="col-md-6">
 <div class="service-works-item">
 <div class="service-works-icon2">
-<i class="fab fa-whatapp" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+<i class="fab fa-whasapp" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
 </div>
 <div class="service-works-info">
 <h5> Simple and Intuitive Dashboard </h5>
@@ -161,7 +161,7 @@ Managing your payment links and pages along with payment requests for your socia
                               <div class="col-md-6">
                                  <div class="service-works-item">
 <div class="service-works-icon2">
-<i class="fab fa-whatapp" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+<i class="fab fa-whatsapp" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
 </div>
 <div class="service-works-info">
 <h5> Support for Multiple Languages</h5>
@@ -174,7 +174,7 @@ International sales are more successful if customers transact comfortably using 
                               <div class="col-md-6">
                                  <div class="service-works-item">
 <div class="service-works-icon2">
-<i class="fab fa-whatapp" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+<i class="fab fa-whatsapp" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
 </div>
 <div class="service-works-info">
 <h5> One-Stop Solution for Your Payment Needs</h5>
