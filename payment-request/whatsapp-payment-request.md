@@ -78,7 +78,8 @@ We help you to generate revenue via your WhatApp, it is up to you what you want 
 </div>
 </div>
 <h3>
-WhatApp is social network, but often referred as a microblogging platform, where you can share short texts called tweets.
+WhatsApp is a simple and secure messaging app to call and chat with everybody all over the world, it is owned by Facebook.
+
 </h3>
 
 <br />
@@ -134,7 +135,7 @@ With a WhatApp Payment Request you can request payments to your customers.
                               <div class="col-md-6">
                                  <div class="service-works-item">
 <div class="service-works-icon2">
-<i class="fab fa-WhatApp" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+<i class="fab fa-whatapp" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
 </div>
 <div class="service-works-info">
 <h5> Accept Local Payment Methods</h5>
@@ -147,7 +148,7 @@ PayRequest offers support for more than 20 local payment methods across Asia, Af
 <div class="col-md-6">
 <div class="service-works-item">
 <div class="service-works-icon2">
-<i class="fab fa-WhatApp" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+<i class="fab fa-whatapp" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
 </div>
 <div class="service-works-info">
 <h5> Simple and Intuitive Dashboard </h5>
@@ -160,7 +161,7 @@ Managing your payment links and pages along with payment requests for your socia
                               <div class="col-md-6">
                                  <div class="service-works-item">
 <div class="service-works-icon2">
-<i class="fab fa-WhatApp" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+<i class="fab fa-whatapp" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
 </div>
 <div class="service-works-info">
 <h5> Support for Multiple Languages</h5>
@@ -173,7 +174,7 @@ International sales are more successful if customers transact comfortably using 
                               <div class="col-md-6">
                                  <div class="service-works-item">
 <div class="service-works-icon2">
-<i class="fab fa-WhatApp" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+<i class="fab fa-whatapp" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
 </div>
 <div class="service-works-info">
 <h5> One-Stop Solution for Your Payment Needs</h5>
