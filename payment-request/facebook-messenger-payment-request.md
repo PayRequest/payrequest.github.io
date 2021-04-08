@@ -41,14 +41,11 @@ tags:
                <div class="col-lg-7">
                   <div class="about-page-text wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.6s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.6s; animation-name: fadeInRight;">
                      <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
- <h2>Create Payment Requests 
-<span> for Facebook Messenger</span>
-
-</h2>
+ <h2>Create Payment Requests<span> for Facebook Messenger</span></h2>
                   </div>
 
 <h3>
-PayRequest offers a secure payment page for businesses and individuals selling products and services to their social media followers. With social media becoming the epicenter of marketing globally, adding a payment option to your social handles can increase your business manifold.
+PayRequest makes it easy to create payment links for your Facebook Messenger, you can connect your Stripe account and all your clients can click on your payment request in facebook messenger, after payment they receive a payment confirmation.
 </h3>
 </div>
 </div>
@@ -64,8 +61,7 @@ PayRequest offers a secure payment page for businesses and individuals selling p
 <div class="row align-items-center">
 <div class="col-lg-10 col-md-12">
 <div class="section-title wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
-<h2> Payment Page for
-<span> Social Media</span></h2>
+<h2> Accept Payments on <span> Facebook Messenger</span></h2>
 </div>
 </div>
 </div>
