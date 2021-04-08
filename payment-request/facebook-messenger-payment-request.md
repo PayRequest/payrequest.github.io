@@ -66,56 +66,52 @@ PayRequest makes it easy to create payment links for your Facebook Messenger, yo
 </div>
 </div>
 <h3>
-Brand-specific color schemes are extremely important for consistent branding and customer retention. After all, businesses carefully pick their logo design and colors based on what emotions they evoke in their customers.
-<br />
-Therefore, keeping in mind the importance of brand identity on social media, you can easily customize your PayRequest secure payment page to match your brand colors.
+We help you to generate revenue via your Facebook Messenger, it is up to you what you want to sell: online courses, digital downloads, clothes or furniture, with PayRequest you can generate payment requests for Facebook Messenger, just choose the amount and send the pay by link to your customer.
 </h3>
 
 <br />
 <div class="row align-items-center">
 <div class="col-lg-10 col-md-12">
 <div class="section-title wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
-<h2> Accept payments for your
-<span> Social Media</span></h2>
+<h2> What is
+<span> Facebook Messenger?</span></h2>
 </div>
 </div>
 </div>
 <h3>
-Great products and services shouldn’t be limited to one country, which is why most businesses go online to cater to a global demographic. PayRequest helps you convert your international social media followers to customers by offering a secure payment page for all major currencies around the world combined with a real-time conversion.
+Facebook Messenger is a messaging app to stay contacted with your friends or audience, you can share photos, videos, gifs and even start group chats.
+
 </h3>
 
 <br />
 <div class="row align-items-center">
 <div class="col-lg-10 col-md-12">
 <div class="section-title wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
-<h2> No Coding Knowledge
-<span> Required</span></h2>
+<h2> No Coding Knowledge  <span> Required</span></h2>
 </div>
 </div>
 </div>
 <h3>
-We have done all the difficult coding work so that you don’t have to. No special knowledge is required to operate PayRequest. With just a few simple clicks, you can create a payment link and share it with your customers to start accepting payments online. It’s easy to understand and perfectly apt for individuals and small to medium-sized businesses.
+We have done all the difficult coding work so that you don’t have to. No special knowledge is required to use Facebook Messenger Payment Request. With just a few simple clicks, you can create a payment link and share it with your customers to start accepting payments online. It’s easy to understand and perfectly apt for individuals and small to medium-sized businesses.
 </h3>
 
 <br />
 <div class="row align-items-center">
 <div class="col-lg-10 col-md-12">
 <div class="section-title wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
-<h2> Why Choose 
-<span> PayRequest?</span></h2>
+<h2> Why Choose <span> PayRequest?</span></h2>
 </div>
 </div>
 </div>
 <h3>
-Because more than 2000 companies have adopted our payment solutions and trust us with 1000+ active products. With over €100K processed via 10K+ PayRequest payment links, we are a trustworthy platform made for growing businesses. The 24x7 support is a cherry on top!
+PayRequest is a no-code payment platform with over 2000 businesses using our software every day to accept payments worldwide, we offering 24x7 support.
 </h3>
 
 <br />
 <div class="row align-items-center">
 <div class="col-lg-10 col-md-12">
 <div class="section-title wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
-<h2> Monetize Your
-<span> Social Media Handles</span></h2>
+<h2> Monetize Your <span> Social Media Handles</span></h2>
 </div>
 </div>
 </div>
@@ -133,7 +129,7 @@ Latest date shows that users are spending the most time on their smartphones bro
             <div class="service-details-text">
  <h4>Facebook Messenger Payment Request Benefits</h4>
  <p>
-With a Social Media Payment Gateway you can request payments via social media.
+With a Facebook Messenger Payment Request you can request payments to your customers.
 </p>
                         <div class="service-works">
                            <div class="row">
@@ -145,13 +141,13 @@ With a Social Media Payment Gateway you can request payments via social media.
 <div class="service-works-info">
 <h5> Accept Local Payment Methods</h5>
 <p>
-PayRequest offers support for more than 20 local payment methods across Asia, Africa, North America, and Europe. We keep adding more local providers from time to time so that you never lose a customer.
+PayRequest offers support for more than 20 local payment methods across Asia, Africa, North America, and Europe. All your Facebook Messenger customers can pay with all these payment methods.
 </p>
                                     </div>
                                  </div>
                               </div>
-                              <div class="col-md-6">
-                                 <div class="service-works-item">
+<div class="col-md-6">
+<div class="service-works-item">
 <div class="service-works-icon2">
 <i class="fab fa-facebook" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
 </div>
@@ -171,7 +167,7 @@ Managing your payment links and pages along with payment requests for your socia
 <div class="service-works-info">
 <h5> Support for Multiple Languages</h5>
 <p>
- International sales are more successful if customers transact comfortably using their native language. With PayRequest, you get multi-lingual payment links. This also helps increase brand presence in non-English-speaking countries.
+International sales are more successful if customers transact comfortably using their native language. With PayRequest, you get multi-lingual payment links. This also helps increase revenue in non-English-speaking countries.
  </p>
 </div>
                                  </div>
@@ -181,10 +177,11 @@ Managing your payment links and pages along with payment requests for your socia
 <div class="service-works-icon2">
 <i class="fab fa-facebook" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
 </div>
-                                    <div class="service-works-info">
+<div class="service-works-info">
 <h5> One-Stop Solution for Your Payment Needs</h5>
 <p>
-Businesses and social media influencers require a one-stop payment gateway solution with easy management, and PayRequest does more than just that.
+Businesses and social media influencers require a one-stop payment gateway solution with easy management, and PayRequest does more than just that,
+to makes Facebook Messenger Payment Requests available for everyone.
 </p>
                                     </div>
                                  </div>
@@ -205,9 +202,9 @@ Businesses and social media influencers require a one-stop payment gateway solut
                <div class="col-lg-12">
                   <div class="subscribe-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
                      <div class="section-title">
-<h2>Leverage Your Social Media Presence for <span> More Profits</span></h2>
+<h2>Leverage Your Facebook Messenger with <span> Payment Requests</span></h2>
 <p>
-Use PayRequest to create a secure payment link for your social handle to convert followers into customers.
+Use PayRequest to create a secure payment link for your facebook messenger to convert followers into customers.
 </p>
                      </div>
 <a href="https://dashboard.payrequest.io/" class="theme-btn-white wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 2s; animation-delay: 0.5s; animation-name: fadeInUp;">
