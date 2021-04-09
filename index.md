@@ -20,7 +20,7 @@
 <div class="hero-left">
 <br />
 
-<h2> Payment <span class="underline">Request Platform</span> </h2>
+<h2> Payment <br /> <span class="underline">Request Platform</span> </h2>
 
 <p>PayRequest makes it easy to create your own branded payment page, and to send payment links to all your customers.
 
@@ -364,7 +364,7 @@
 </div>
 <div class="service-title"><h3>Payment Links</h3></div>
 <div class="service-desc">
-<p>Create payment links and share them worldwide with all your customers, accept payments online.</p>
+<p>Create payment links and share or send them worldwide to all your customers.</p>
 <a class="btn-simple mt-3" href="/payment-links">Read More <i class="fa fa-long-arrow-right"></i></a>
 </div>
 
