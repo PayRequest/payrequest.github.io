@@ -261,7 +261,7 @@
             <div class="row">
                <div class="col-lg-12">
                   <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s">
-                     <h2>SOME <span>Reviews</span> from <br> our clients</h2>
+                     <h2>Why <span>Businesses</span> love <br> PayRequest</h2>
                   </div>
                </div>
             </div>
