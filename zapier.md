@@ -1,7 +1,5 @@
 ---
 title: Zapier Integration
-tags:
-- color-logo
 ---
 
 <section class="hero-section">
