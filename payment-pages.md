@@ -411,7 +411,7 @@ rounded {
 <div class="row">
           <div class="col-sm-4 aos-init aos-animate" data-aos="fade-up" data-aos-easing="delay-slide" data-aos-duration="1300" data-aos-delay="400" data-aos-offset="-100">
             <div class="img-wrap">
-              <img src="https://i.imgur.com/V8IqnbY.png" alt="confirm chatlio screenshot">
+              <img src="https://i.imgur.com/HBrpiql.png" alt="confirm chatlio screenshot">
               <span class="bubble-number">1</span>
             </div>
             <h5 style="
@@ -419,23 +419,23 @@ rounded {
     color: #1c2045;
     margin-left: 20px;
 ">
-              1. Connect a payment provider.
+              1. Connect a Stripe account.
             <p></p></h5>
           </div>
           <div class="col-sm-4 aos-init aos-animate" data-aos="fade-up" data-aos-easing="delay-slide" data-aos-duration="1300" data-aos-delay="500" data-aos-offset="-100">
             <div class="img-wrap">
-                    <img src="https://i.imgur.com/XeTru6O.png" alt="create your own payment link">
+                    <img src="https://i.imgur.com/hWAc37C.png" alt="create your own payment link">
               <span class="bubble-number">2</span>
             </div>
             <h5 style="
     font-weight: 700;
     color: #1c2045;
     margin-left: 20px;
-">2. Choose a PayRequest.me name.</h5>
+">2. Choose your PayRequest.me/name</h5>
           </div>
           <div class="col-sm-4 aos-init aos-animate" data-aos="fade-up" data-aos-easing="delay-slide" data-aos-duration="1300" data-aos-delay="600" data-aos-offset="-100">
             <div class="img-wrap">
-              <img src="https://i.imgur.com/R49kRK1.png" alt="Share your payment link and get paid">
+              <img src="https://i.imgur.com/ezWmQhy.png" alt="Share your payment link and get paid">
               <span class="bubble-number">3</span>
             </div>
             <h5 style="
