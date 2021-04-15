@@ -67,7 +67,7 @@ title: Zapier Integration
             <div class="row align-items-center">
                <div class="col-lg-6">
                   <div class="companies-left">
-                     <h4>  Connect PayRequest via Zapier with </h4>
+                     <h4> Connect PayRequest with 3000+ apps via Zapier </h4>
                   </div>
                </div>
                <div class="col-lg-6">
@@ -98,3 +98,97 @@ title: Zapier Integration
          </div>
       </section>
  <!-- Companies Section End -->
+
+<section class="blog-section section_100">
+<div class="container">
+            <div class="row align-items-center">
+               <div class="col-lg-6 col-md-12">
+                  <div class="section-title wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
+                     <h2><span>PayRequest</span> integrations</h2>
+</div>
+</div>
+               <div class="col-lg-6 col-md-12">
+                  <div class="section-para wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.4s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.4s; animation-name: fadeInRight;">
+                     <p>Connect your favorite apps with PayRequest via Zapier.</p>
+</div>
+</div>
+</div>
+            <div class="row">
+               <div class="col-lg-4 col-md-6">
+                  <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
+
+<div class="blog-desc">
+ <div class="meta-image">
+                           <div class="single-com-slider">
+<img src="https://zapier-images.imgix.net/storage/services/62c82a7958c6c29736f17d0495b6635c.png?auto=format&amp;ixlib=react-9.0.2&amp;ar=undefined&amp;fit=crop&amp;h=84&amp;w=84&amp;q=50&amp;dpr=2" alt="ideal">
+</div>
+ <div class="tags">
+
+<h3>Google Calendar
+
+</h3>
+</div>
+</div>
+<div class="blog-text">
+
+<h4>Add or Update an event in your Google Calendar everytime someone pays you with PayRequest.
+</h4>
+
+<a href="/payment-providers/stripe" class="theme-btn mt-4" style="">Read More<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
+
+</div>
+</div>
+</div>
+</div>
+               <div class="col-lg-4 col-md-6">
+                  <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
+
+<div class="blog-desc">
+ <div class="meta-image">
+                           <div class="single-com-slider">
+<img src="https://zapier-images.imgix.net/storage/services/54f0bd6f9c31b757ab20d4c7058dc7c0.png?auto=format&amp;ixlib=react-9.0.2&amp;ar=undefined&amp;fit=crop&amp;h=84&amp;w=84&amp;q=50&amp;dpr=2" alt="ideal">
+</div>
+ <div class="tags">
+
+<h3>Gmail</h3>
+</div>
+</div>
+<div class="blog-text">
+
+<h4>Connect Gmail with PayRequest and send or create an email everytime someone pays you.
+</h4>
+
+<a href="/payment-providers/stripe" class="theme-btn mt-4" style="">Read More<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
+
+</div>
+</div>
+</div>
+</div>
+               <div class="col-lg-4 col-md-6">
+                  <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
+
+<div class="blog-desc">
+ <div class="meta-image">
+                           <div class="single-com-slider">
+
+<img src="https://zapier-images.imgix.net/storage/developer/13c1832bd352ae605dac38d80a9b5902_2.png?auto=format&amp;ixlib=react-9.0.2&amp;ar=undefined&amp;fit=crop&amp;h=105&amp;w=105&amp;q=50&amp;dpr=2" alt="ideal">
+</div>
+ <div class="tags">
+
+<h3>MessageBird</h3>
+</div>
+</div>
+<div class="blog-text">
+
+<h4>With MessageBird you can send SMS and voice messages, for example you can receive an SMS if someone pays you.
+</h4>
+
+<a href="/payment-providers/stripe" class="theme-btn mt-4" style="">Read More<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</section>
