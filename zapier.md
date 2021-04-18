@@ -146,16 +146,16 @@ title: Zapier Integration
 <div class="blog-desc">
  <div class="meta-image">
                            <div class="single-com-slider">
-<img src="https://zapier-images.imgix.net/storage/services/54f0bd6f9c31b757ab20d4c7058dc7c0.png?auto=format&amp;ixlib=react-9.0.2&amp;ar=undefined&amp;fit=crop&amp;h=84&amp;w=84&amp;q=50&amp;dpr=2" alt="ideal">
+<img src="https://zapier-images.imgix.net/storage/services/6cf3f5a461feadfba7abc93c4c395b33_2.png?auto=format&amp;ixlib=react-9.0.2&amp;ar=undefined&amp;fit=crop&amp;h=105&amp;w=105&amp;q=50&amp;dpr=1" alt="ideal">
 </div>
  <div class="tags">
 
-<h3>Gmail</h3>
+<h3>Slack</h3>
 </div>
 </div>
 <div class="blog-text">
 
-<h4>Connect Gmail with PayRequest and send or create an email everytime someone pays you.
+<h4>Connect Slackwith PayRequest and send a create a message everytime someone pays you.
 </h4>
 
 <a href="/payment-providers/stripe" class="theme-btn mt-4" style="">Read More<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
@@ -164,7 +164,36 @@ title: Zapier Integration
 </div>
 </div>
 </div>
-               <div class="col-lg-4 col-md-6">
+
+
+
+<div class="col-lg-4 col-md-6">
+                  <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
+
+<div class="blog-desc">
+ <div class="meta-image">
+                           <div class="single-com-slider">
+
+<img src="https://zapier-images.imgix.net/storage/services/a0593c9367f0399018187eed64c9da46.png?auto=format&amp;ixlib=react-9.0.2&amp;ar=undefined&amp;fit=crop&amp;h=105&amp;w=105&amp;q=50&amp;dpr=1" alt="ideal">
+</div>
+ <div class="tags">
+
+<h3>Evernote</h3>
+</div>
+</div>
+<div class="blog-text">
+
+<h4>Connect EverNote to make a new Note every time a new request gets paid.
+</h4>
+
+<a href="/payment-providers/stripe" class="theme-btn mt-4" style="">Read More<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
+
+</div>
+</div>
+</div>
+</div>
+
+<div class="col-lg-4 col-md-6">
                   <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
 
 <div class="blog-desc">
@@ -180,7 +209,215 @@ title: Zapier Integration
 </div>
 <div class="blog-text">
 
-<h4>With MessageBird you can send SMS and voice messages, for example you can receive an SMS if someone pays you.
+<h4>With MessageBird you can send SMS and voice messages, you can receive an SMS if someone pays you.
+</h4>
+
+<a href="/payment-providers/stripe" class="theme-btn mt-4" style="">Read More<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
+
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="col-lg-4 col-md-6">
+                  <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
+
+<div class="blog-desc">
+ <div class="meta-image">
+                           <div class="single-com-slider">
+
+<img src="https://zapier-images.imgix.net/storage/developer/c6c8c5e300ef0da0e47b3084e5522f20.png?auto=format&amp;ixlib=react-9.0.2&amp;ar=undefined&amp;fit=crop&amp;h=105&amp;w=105&amp;q=50&amp;dpr=1" alt="ideal">
+</div>
+ <div class="tags">
+
+<h3>Airtable</h3>
+</div>
+</div>
+<div class="blog-text">
+
+<h4>Connect AirTable with PayRequest, and add a new record to your table when someone paid you.
+</h4>
+
+<a href="/payment-providers/stripe" class="theme-btn mt-4" style="">Read More<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
+
+</div>
+</div>
+</div>
+</div>
+
+<div class="col-lg-4 col-md-6">
+                  <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
+
+<div class="blog-desc">
+ <div class="meta-image">
+                           <div class="single-com-slider">
+
+<img src="https://zapier-images.imgix.net/storage/services/c23b6298d70e5cc925a8e795e48b6898.png?auto=format&amp;ixlib=react-9.0.2&amp;ar=undefined&amp;fit=crop&amp;h=105&amp;w=105&amp;q=50&amp;dpr=1" alt="ideal">
+</div>
+ <div class="tags">
+
+<h3>MySQL</h3>
+</div>
+</div>
+<div class="blog-text">
+
+<h4>Connect PayRequest with a MySQL Database, and add a row everytime you get paid.
+</h4>
+
+<a href="/payment-providers/stripe" class="theme-btn mt-4" style="">Read More<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
+
+</div>
+</div>
+</div>
+</div>
+
+<div class="col-lg-4 col-md-6">
+                  <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
+
+<div class="blog-desc">
+ <div class="meta-image">
+                           <div class="single-com-slider">
+
+<img src="https://zapier-images.imgix.net/storage/developer/472b2b8aba2dc38d4ef605c955341739_6.png?auto=format&amp;ixlib=react-9.0.2&amp;ar=undefined&amp;fit=crop&amp;h=84&amp;w=84&amp;q=50&amp;dpr=1" alt="ideal">
+</div>
+ <div class="tags">
+
+<h3>Zoom</h3>
+</div>
+</div>
+<div class="blog-text">
+
+<h4>Connect Zoom with PayRequest and create a new meeting when someone has pays you.
+</h4>
+
+<a href="/payment-providers/stripe" class="theme-btn mt-4" style="">Read More<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
+
+</div>
+</div>
+</div>
+</div>
+
+<div class="col-lg-4 col-md-6">
+                  <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
+
+<div class="blog-desc">
+ <div class="meta-image">
+                           <div class="single-com-slider">
+
+<img src="https://zapier-images.imgix.net/storage/developer_cli/9f34aa95d848d5418eff70244e2d8c6e_3.png?auto=format&amp;ixlib=react-9.0.2&amp;ar=undefined&amp;fit=crop&amp;h=84&amp;w=84&amp;q=50&amp;dpr=1" alt="ideal">
+</div>
+ <div class="tags">
+
+<h3>Bubble</h3>
+</div>
+</div>
+<div class="blog-text">
+
+<h4>Connect Bubble with PayRequest and create a new thing everytime someone pays you.
+</h4>
+
+<a href="/payment-providers/stripe" class="theme-btn mt-4" style="">Read More<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
+
+</div>
+</div>
+</div>
+</div>
+
+<div class="col-lg-4 col-md-6">
+                  <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
+
+<div class="blog-desc">
+ <div class="meta-image">
+                           <div class="single-com-slider">
+
+<img src="https://zapier-images.imgix.net/storage/developer/d289b95436d2e5d9d4623741c0a818b4_2.png?auto=format&amp;ixlib=react-9.0.2&amp;ar=undefined&amp;fit=crop&amp;h=84&amp;w=84&amp;q=50&amp;dpr=1" alt="ideal">
+</div>
+ <div class="tags">
+
+<h3>PushBullet</h3>
+</div>
+</div>
+<div class="blog-text">
+
+<h4>Connect Pushbullet with PayRequest and send a notifcation everytime someone pays you.
+</h4>
+
+<a href="/payment-providers/stripe" class="theme-btn mt-4" style="">Read More<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
+
+</div>
+</div>
+</div>
+</div>
+
+
+<div class="col-lg-4 col-md-6">
+                  <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
+
+<div class="blog-desc">
+ <div class="meta-image">
+                           <div class="single-com-slider">
+
+<img src="https://zapier-images.imgix.net/storage/services/ef74f1fda109e37e63797cfdf182721b.png?auto=format&amp;ixlib=react-9.0.2&amp;ar=undefined&amp;fit=crop&amp;h=84&amp;w=84&amp;q=50&amp;dpr=1" alt="ideal">
+</div>
+ <div class="tags">
+
+<h3>Xero</h3>
+</div>
+</div>
+<div class="blog-text">
+
+<h4>Connect Xerowith PayRequest and create a transaction everytime someone pays you.
+</h4>
+
+<a href="/payment-providers/stripe" class="theme-btn mt-4" style="">Read More<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
+
+</div>
+</div>
+</div>
+</div>
+
+<div class="col-lg-4 col-md-6">
+                  <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
+
+<div class="blog-desc">
+ <div class="meta-image">
+                           <div class="single-com-slider">
+
+<img src="https://zapier-images.imgix.net/storage/developer/43122a30a3267068c69ab34f528e5bab.png?auto=format&amp;ixlib=react-9.0.2&amp;ar=undefined&amp;fit=crop&amp;h=105&amp;w=105&amp;q=50&amp;dpr=1" alt="ideal">
+</div>
+ <div class="tags">
+
+<h3>Calendly</h3>
+</div>
+</div>
+<div class="blog-text">
+
+<h4>Connect Calendy with PayRequest and create a payment request when an invitee schedules an event.
+</h4>
+
+<a href="/payment-providers/stripe" class="theme-btn mt-4" style="">Read More<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
+
+</div>
+</div>
+</div>
+</div><div class="col-lg-4 col-md-6">
+                  <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
+
+<div class="blog-desc">
+ <div class="meta-image">
+                           <div class="single-com-slider">
+
+<img src="https://zapier-images.imgix.net/storage/services/4da9d3e3f93cd522f85e1b0695341f89.png?auto=format&amp;ixlib=react-9.0.2&amp;ar=undefined&amp;fit=crop&amp;h=84&amp;w=84&amp;q=50&amp;dpr=1" alt="ideal">
+</div>
+ <div class="tags">
+
+<h3>Shopify</h3>
+</div>
+</div>
+<div class="blog-text">
+
+<h4>Connect Shopify with PayRequest and create a new order everytime someone pays you.
 </h4>
 
 <a href="/payment-providers/stripe" class="theme-btn mt-4" style="">Read More<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
