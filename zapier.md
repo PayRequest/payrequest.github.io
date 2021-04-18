@@ -72,26 +72,30 @@ title: Zapier Integration
                </div>
                <div class="col-lg-6">
                   <div class="companies-slider owl-carousel">
+
 <div class="single-com-slider">
-<a href="https://payrequest.io/payment-methods/ideal">
-<img src="https://payrequest.io/assets/img/payment-icons/ideal@2x.png" alt="ideal" />
-</a>
+<a href="https://zapier.com/apps/payrequest/integrations/shopify">
+<img src="https://media.payrequest.nl/images/zapier/zapier-shopify.png" alt="Zapier Shopify" /></a>
 </div>
 
 <div class="single-com-slider">
-<a href="#"><img src="https://payrequest.io/assets/img/payment-icons/visa@2x.png" alt="visa" /></a>
+<a href="https://zapier.com/apps/payrequest/integrations/airtable">
+<img src="https://media.payrequest.nl/images/zapier/zapier-airtable.png" alt="Zapier Airtable" /></a>
 </div>
 
 <div class="single-com-slider">
-<a href="#"><img src="https://payrequest.io/assets/img/payment-icons/mastercard@2x.png" alt="mastercard" /></a>
+<a href="https://zapier.com/apps/payrequest/integrations/zoom">
+<img src="https://media.payrequest.nl/images/zapier/zapier-zoom.png" alt="Zapier Zoom" /></a>
 </div>
 
 <div class="single-com-slider">
-<a href="#"><img src="https://payrequest.io/assets/img/payment-icons/sofort@2x.png" alt="sofort banking" /></a>
+<a href="https://zapier.com/apps/payrequest/integrations/calendly">
+<img src="https://media.payrequest.nl/images/zapier/zapier-calendly.png" alt="Zapier Calendly" /></a>
 </div>
 
 <div class="single-com-slider">
-<a href="#"><img src="https://payrequest.io/assets/img/payment-icons/giropay@2x.png" alt="giropay" /></a>
+<a href="https://zapier.com/apps/payrequest/integrations/bubble">
+<img src="https://media.payrequest.nl/images/zapier/zapier-bubble.png" alt="Zapier Bubble" /></a>
 </div>
 
 
@@ -426,3 +430,7 @@ title: Zapier Integration
 </div>
 </div>
 </section>
+
+
+{% include why-section.html %}
+{% include footer-promo.html %}
