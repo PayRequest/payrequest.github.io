@@ -256,7 +256,7 @@ title: Zapier Integration
 <div class="blog-desc">
  <div class="meta-image">
  <div class="single-com-slider">
-<img src="https://zapier.com/apps/payrequest/integrations/mysql" alt="Zapier MySQL">
+<img src="https://media.payrequest.nl/images/zapier/zapier-mysql.png" alt="Zapier MySQL">
 </div>
  <div class="tags">
 
@@ -334,7 +334,7 @@ title: Zapier Integration
  <div class="meta-image">
                            <div class="single-com-slider">
 
-<img src="https://zapier-images.imgix.net/storage/developer/d289b95436d2e5d9d4623741c0a818b4_2.png?auto=format&amp;ixlib=react-9.0.2&amp;ar=undefined&amp;fit=crop&amp;h=84&amp;w=84&amp;q=50&amp;dpr=1" alt="ideal">
+<img src="https://media.payrequest.nl/images/zapier/zapier-pushbullet.png" alt="Zapier Pushbullet">
 </div>
  <div class="tags">
 
@@ -346,7 +346,7 @@ title: Zapier Integration
 <h4>Connect Pushbullet with PayRequest and send a notifcation everytime someone pays you.
 </h4>
 
-<a href="/payment-providers/stripe" class="theme-btn mt-4" style="">Read More<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
+<a href="https://zapier.com/apps/payrequest/integrations/pushbullet" class="theme-btn mt-4" style="">Connect Pushbullet<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
 
 </div>
 </div>
@@ -361,19 +361,17 @@ title: Zapier Integration
  <div class="meta-image">
                            <div class="single-com-slider">
 
-<img src="https://zapier-images.imgix.net/storage/services/ef74f1fda109e37e63797cfdf182721b.png?auto=format&amp;ixlib=react-9.0.2&amp;ar=undefined&amp;fit=crop&amp;h=84&amp;w=84&amp;q=50&amp;dpr=1" alt="ideal">
+<img src="https://media.payrequest.nl/images/zapier/zapier-xero.png" alt="Zapier Xero">
 </div>
  <div class="tags">
-
 <h3>Xero</h3>
 </div>
 </div>
 <div class="blog-text">
-
-<h4>Connect Xerowith PayRequest and create a transaction everytime someone pays you.
+<h4>Connect Xero with PayRequest and create a transaction everytime someone pays you.
 </h4>
 
-<a href="/payment-providers/stripe" class="theme-btn mt-4" style="">Read More<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
+<a href="https://zapier.com/apps/payrequest/integrations/xero" class="theme-btn mt-4" style="">Connect Xero<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
 
 </div>
 </div>
@@ -386,11 +384,9 @@ title: Zapier Integration
 <div class="blog-desc">
  <div class="meta-image">
                            <div class="single-com-slider">
-
-<img src="https://zapier-images.imgix.net/storage/developer/43122a30a3267068c69ab34f528e5bab.png?auto=format&amp;ixlib=react-9.0.2&amp;ar=undefined&amp;fit=crop&amp;h=105&amp;w=105&amp;q=50&amp;dpr=1" alt="ideal">
+<img src="https://media.payrequest.nl/images/zapier/zapier-calendly.png" alt="Zapier Calendly">
 </div>
  <div class="tags">
-
 <h3>Calendly</h3>
 </div>
 </div>
@@ -399,7 +395,7 @@ title: Zapier Integration
 <h4>Connect Calendy with PayRequest and create a payment request when an invitee schedules an event.
 </h4>
 
-<a href="/payment-providers/stripe" class="theme-btn mt-4" style="">Read More<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
+<a href="https://zapier.com/apps/payrequest/integrations/calendly" class="theme-btn mt-4" style="">Connect Calendly<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
 
 </div>
 </div>
@@ -410,8 +406,7 @@ title: Zapier Integration
 <div class="blog-desc">
  <div class="meta-image">
                            <div class="single-com-slider">
-
-<img src="https://zapier-images.imgix.net/storage/services/4da9d3e3f93cd522f85e1b0695341f89.png?auto=format&amp;ixlib=react-9.0.2&amp;ar=undefined&amp;fit=crop&amp;h=84&amp;w=84&amp;q=50&amp;dpr=1" alt="ideal">
+<img src="https://media.payrequest.nl/images/zapier/zapier-shopify.png" alt="Zapier Shopify">
 </div>
  <div class="tags">
 
@@ -419,11 +414,10 @@ title: Zapier Integration
 </div>
 </div>
 <div class="blog-text">
-
 <h4>Connect Shopify with PayRequest and create a new order everytime someone pays you.
 </h4>
 
-<a href="/payment-providers/stripe" class="theme-btn mt-4" style="">Read More<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
+<a href="https://zapier.com/apps/payrequest/integrations/shopify" class="theme-btn mt-4" style="">Connect Shopify<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
 
 </div>
 </div>
