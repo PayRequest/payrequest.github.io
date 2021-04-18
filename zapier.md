@@ -72,24 +72,27 @@ title: Zapier Integration
                </div>
                <div class="col-lg-6">
                   <div class="companies-slider owl-carousel">
-                     <div class="single-com-slider">
-                        <a href="https://payrequest.io/payment-methods/ideal">
-                        <img src="https://payrequest.io/assets/img/payment-icons/ideal@2x.png" alt="ideal" />
-                        </a>
-                     </div>
-                     <div class="single-com-slider">
-                        <a href="#"><img src="https://payrequest.io/assets/img/payment-icons/visa@2x.png" alt="visa" /></a>
-                     </div>
-                     <div class="single-com-slider">
-                        <a href="#"><img src="https://payrequest.io/assets/img/payment-icons/mastercard@2x.png" alt="mastercard" /></a>
-                     </div>
-                     <div class="single-com-slider">
-                        <a href="#"><img src="https://payrequest.io/assets/img/payment-icons/sofort@2x.png" alt="sofort banking" /></a>
-                     </div>
+<div class="single-com-slider">
+<a href="https://payrequest.io/payment-methods/ideal">
+<img src="https://payrequest.io/assets/img/payment-icons/ideal@2x.png" alt="ideal" />
+</a>
+</div>
 
-  <div class="single-com-slider">
-                        <a href="#"><img src="https://payrequest.io/assets/img/payment-icons/giropay@2x.png" alt="giropay" /></a>
-                     </div>
+<div class="single-com-slider">
+<a href="#"><img src="https://payrequest.io/assets/img/payment-icons/visa@2x.png" alt="visa" /></a>
+</div>
+
+<div class="single-com-slider">
+<a href="#"><img src="https://payrequest.io/assets/img/payment-icons/mastercard@2x.png" alt="mastercard" /></a>
+</div>
+
+<div class="single-com-slider">
+<a href="#"><img src="https://payrequest.io/assets/img/payment-icons/sofort@2x.png" alt="sofort banking" /></a>
+</div>
+
+<div class="single-com-slider">
+<a href="#"><img src="https://payrequest.io/assets/img/payment-icons/giropay@2x.png" alt="giropay" /></a>
+</div>
 
 
  </div>
@@ -119,8 +122,8 @@ title: Zapier Integration
 
 <div class="blog-desc">
  <div class="meta-image">
-                           <div class="single-com-slider">
-<img src="https://zapier-images.imgix.net/storage/services/62c82a7958c6c29736f17d0495b6635c.png?auto=format&amp;ixlib=react-9.0.2&amp;ar=undefined&amp;fit=crop&amp;h=84&amp;w=84&amp;q=50&amp;dpr=2" alt="ideal">
+<div class="single-com-slider">
+<img src="https://media.payrequest.nl/images/zapier/zapier-google-calendar.png" alt="zapier google calendar">
 </div>
  <div class="tags">
 
@@ -134,19 +137,20 @@ title: Zapier Integration
 <h4>Add or Update an event in your Google Calendar everytime someone pays you with PayRequest.
 </h4>
 
-<a href="/payment-providers/stripe" class="theme-btn mt-4" style="">Read More<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
+<a href="https://zapier.com/apps/payrequest/integrations/google-calendar" class="theme-btn mt-4" style="">Connect Google Calendar<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
 
 </div>
 </div>
 </div>
 </div>
-               <div class="col-lg-4 col-md-6">
-                  <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
+
+<div class="col-lg-4 col-md-6">
+<div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
 
 <div class="blog-desc">
  <div class="meta-image">
-                           <div class="single-com-slider">
-<img src="https://zapier-images.imgix.net/storage/services/6cf3f5a461feadfba7abc93c4c395b33_2.png?auto=format&amp;ixlib=react-9.0.2&amp;ar=undefined&amp;fit=crop&amp;h=105&amp;w=105&amp;q=50&amp;dpr=1" alt="ideal">
+<div class="single-com-slider">
+<img src="https://media.payrequest.nl/images/zapier/zapier-mysql.png" alt="zapier mysql">
 </div>
  <div class="tags">
 
@@ -155,10 +159,10 @@ title: Zapier Integration
 </div>
 <div class="blog-text">
 
-<h4>Connect Slackwith PayRequest and send a create a message everytime someone pays you.
+<h4>Connect Slack with PayRequest and send a create a message everytime someone pays you.
 </h4>
 
-<a href="/payment-providers/stripe" class="theme-btn mt-4" style="">Read More<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
+<a href="https://zapier.com/apps/payrequest/integrations/mysql" class="theme-btn mt-4" style="">Connect MySQL <span class="fa fa-chevron-right" aria-hidden="true"></span></a>
 
 </div>
 </div>
@@ -174,7 +178,7 @@ title: Zapier Integration
  <div class="meta-image">
                            <div class="single-com-slider">
 
-<img src="https://zapier-images.imgix.net/storage/services/a0593c9367f0399018187eed64c9da46.png?auto=format&amp;ixlib=react-9.0.2&amp;ar=undefined&amp;fit=crop&amp;h=105&amp;w=105&amp;q=50&amp;dpr=1" alt="ideal">
+<img src="https://media.payrequest.nl/images/zapier/zapier-evernote.jfif" alt="zapier evernote">
 </div>
  <div class="tags">
 
@@ -186,7 +190,7 @@ title: Zapier Integration
 <h4>Connect EverNote to make a new Note every time a new request gets paid.
 </h4>
 
-<a href="/payment-providers/stripe" class="theme-btn mt-4" style="">Read More<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
+<a href="https://zapier.com/apps/payrequest/integrations/evernote" class="theme-btn mt-4" style="">Connect Evernote<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
 
 </div>
 </div>
@@ -194,13 +198,13 @@ title: Zapier Integration
 </div>
 
 <div class="col-lg-4 col-md-6">
-                  <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
+ <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
 
 <div class="blog-desc">
  <div class="meta-image">
-                           <div class="single-com-slider">
+<div class="single-com-slider">
 
-<img src="https://zapier-images.imgix.net/storage/developer/13c1832bd352ae605dac38d80a9b5902_2.png?auto=format&amp;ixlib=react-9.0.2&amp;ar=undefined&amp;fit=crop&amp;h=105&amp;w=105&amp;q=50&amp;dpr=2" alt="ideal">
+<img src="https://media.payrequest.nl/images/zapier/zapier-messagebird.png" alt="Zapier Messagebird">
 </div>
  <div class="tags">
 
@@ -212,7 +216,7 @@ title: Zapier Integration
 <h4>With MessageBird you can send SMS and voice messages, you can receive an SMS if someone pays you.
 </h4>
 
-<a href="/payment-providers/stripe" class="theme-btn mt-4" style="">Read More<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
+<a href="https://zapier.com/apps/payrequest/integrations/messagebird" class="theme-btn mt-4" style="">Connect Messagebird<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
 
 </div>
 </div>
@@ -221,13 +225,13 @@ title: Zapier Integration
 
 
 <div class="col-lg-4 col-md-6">
-                  <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
+<div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
 
 <div class="blog-desc">
  <div class="meta-image">
-                           <div class="single-com-slider">
+<div class="single-com-slider">
 
-<img src="https://zapier-images.imgix.net/storage/developer/c6c8c5e300ef0da0e47b3084e5522f20.png?auto=format&amp;ixlib=react-9.0.2&amp;ar=undefined&amp;fit=crop&amp;h=105&amp;w=105&amp;q=50&amp;dpr=1" alt="ideal">
+<img src="https://media.payrequest.nl/images/zapier/zapier-airtable.png" alt="Zapier airtable">
 </div>
  <div class="tags">
 
@@ -239,7 +243,7 @@ title: Zapier Integration
 <h4>Connect AirTable with PayRequest, and add a new record to your table when someone paid you.
 </h4>
 
-<a href="/payment-providers/stripe" class="theme-btn mt-4" style="">Read More<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
+<a href="https://zapier.com/apps/payrequest/integrations/airtable" class="theme-btn mt-4" style="">Connect AirTable<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
 
 </div>
 </div>
@@ -247,13 +251,12 @@ title: Zapier Integration
 </div>
 
 <div class="col-lg-4 col-md-6">
-                  <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
+<div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
 
 <div class="blog-desc">
  <div class="meta-image">
-                           <div class="single-com-slider">
-
-<img src="https://zapier-images.imgix.net/storage/services/c23b6298d70e5cc925a8e795e48b6898.png?auto=format&amp;ixlib=react-9.0.2&amp;ar=undefined&amp;fit=crop&amp;h=105&amp;w=105&amp;q=50&amp;dpr=1" alt="ideal">
+ <div class="single-com-slider">
+<img src="https://zapier.com/apps/payrequest/integrations/mysql" alt="Zapier MySQL">
 </div>
  <div class="tags">
 
@@ -265,7 +268,8 @@ title: Zapier Integration
 <h4>Connect PayRequest with a MySQL Database, and add a row everytime you get paid.
 </h4>
 
-<a href="/payment-providers/stripe" class="theme-btn mt-4" style="">Read More<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
+<a href="https://media.payrequest.nl/images/zapier/zapier-mysql.png
+" class="theme-btn mt-4" style="">Connect MySQL<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
 
 </div>
 </div>
@@ -277,9 +281,8 @@ title: Zapier Integration
 
 <div class="blog-desc">
  <div class="meta-image">
-                           <div class="single-com-slider">
-
-<img src="https://zapier-images.imgix.net/storage/developer/472b2b8aba2dc38d4ef605c955341739_6.png?auto=format&amp;ixlib=react-9.0.2&amp;ar=undefined&amp;fit=crop&amp;h=84&amp;w=84&amp;q=50&amp;dpr=1" alt="ideal">
+<div class="single-com-slider">
+<img src="https://media.payrequest.nl/images/zapier/zapier-zoom.png" alt="Zapier Zoom">
 </div>
  <div class="tags">
 
@@ -291,7 +294,7 @@ title: Zapier Integration
 <h4>Connect Zoom with PayRequest and create a new meeting when someone has pays you.
 </h4>
 
-<a href="/payment-providers/stripe" class="theme-btn mt-4" style="">Read More<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
+<a href="https://zapier.com/apps/payrequest/integrations/zapier" class="theme-btn mt-4" style="">Connect Zoom<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
 
 </div>
 </div>
@@ -305,7 +308,7 @@ title: Zapier Integration
  <div class="meta-image">
                            <div class="single-com-slider">
 
-<img src="https://zapier-images.imgix.net/storage/developer_cli/9f34aa95d848d5418eff70244e2d8c6e_3.png?auto=format&amp;ixlib=react-9.0.2&amp;ar=undefined&amp;fit=crop&amp;h=84&amp;w=84&amp;q=50&amp;dpr=1" alt="ideal">
+<img src="https://media.payrequest.nl/images/zapier/zapier-bubble.png" alt="zapier bubble">
 </div>
  <div class="tags">
 
@@ -317,7 +320,7 @@ title: Zapier Integration
 <h4>Connect Bubble with PayRequest and create a new thing everytime someone pays you.
 </h4>
 
-<a href="/payment-providers/stripe" class="theme-btn mt-4" style="">Read More<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
+<a href="https://zapier.com/apps/payrequest/integrations/bubble" class="theme-btn mt-4" style="">Connect Bubble<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
 
 </div>
 </div>
