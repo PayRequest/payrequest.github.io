@@ -9,20 +9,23 @@
 
     <!-- Favicon -->
 	<link href="./assets/logos/favicon.ico" rel="icon" type="image/png">
-	
-	<!--Start of Tawk.to Script-->
-	<script type="text/javascript">
-		var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
-		(function () {
-			var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
-			s1.async = true;
-			s1.src = 'https://embed.tawk.to/5de3e2bdd96992700fca2824/default';
-			s1.charset = 'UTF-8';
-			s1.setAttribute('crossorigin', '*');
-			s0.parentNode.insertBefore(s1, s0);
-		})();
-	</script>
-	<!--End of Tawk.to Script-->
+
+    <script type="text/javascript">
+        (function(w,d){
+            w.HelpCrunch=function(){w.HelpCrunch.q.push(arguments)};w.HelpCrunch.q=[];
+            function r(){var s=document.createElement('script');s.async=1;s.type='text/javascript';s.src='https://widget.helpcrunch.com/';(d.body||d.head).appendChild(s);}
+            if(w.attachEvent){w.attachEvent('onload',r)}else{w.addEventListener('load',r,false)}
+        })(window, document)
+    </script>
+
+    <script type="text/javascript">
+        HelpCrunch('init', 'payrequest', {
+            applicationId: 1,
+            applicationSecret: 'KgHuq6KPofMn7osmW2GUCf+UJEo5CkZyEzk1aB9yoiF/WksYngWhSAzBETTEU3HQ0D30zzJ0ranuXVcDX5JxpQ=='
+        })
+
+        HelpCrunch('showChatWidget');
+    </script>
 	
 	<!-- Global site tag (gtag.js) - Google Analytics -->
 	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-152030908-2"></script>
