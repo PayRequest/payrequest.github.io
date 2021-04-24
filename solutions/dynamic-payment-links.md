@@ -158,10 +158,10 @@ title: Dynamic Payment Links
                                   <i class="fa fa-brackets-curly" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
                                     </div>
                                     <div class="service-works-info">
-                                       <h5>(Dynamic) PHP Variable Payment Links <br>
+                                       <h5>(Dynamic) Variable Payment Links <br>
     <img src="https://i.imgur.com/6JZSAVr.png">
 </h5>
-                                       <p>Automate Payments by using PHP variables in your dynamic payment links for example {invoice} {email} {amount} 
+                                       <p>Automate Payments by using PHP/Python/Javascript variables in your links for example /{invoice} /{email} /{amount} 
 </p>
                                     </div>
                                  </div>
