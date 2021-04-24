@@ -1,6 +1,5 @@
 ---
-title: PayRequest | Payment Pages
-description: Create your own payrequest.me payment page and share it with everyone.
+title: Payment Pages
 ---
 
 <!-- Done for the new website! -->
@@ -47,7 +46,7 @@ With PayRequest you can create your own payrequest.me payment page, and accept p
 
 <div class="col-lg-6 col-md-6">
                   <div class="hero-right">
-                   <img src="https://ph-files.imgix.net/6d83fd11-c994-4ec4-9ec5-c0fc66046051.png?auto=format&auto=compress&codec=mozjpeg&cs=strip&w=675.5555555555555&h=380&fit=max&dpr=2" alt="hero" style="
+                   <img src="https://media.payrequest.nl/images/banners/payment-page-example.webp" alt="payment page" style="
     transform: perspective(1000px) rotateY(-13deg) rotateX(5deg) rotateZ(7deg) scaleY(0.9) scaleX(0.95) translateX(-3%) translateY(-3%);
 ">
                      <div class="hero-dot-shape">

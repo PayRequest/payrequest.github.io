@@ -1,8 +1,6 @@
 ---
-title: PayRequest | Payment Links
+title: Payment Links
 ---
-
-<!-- Done for the new website! -->
 
 
 <section class="hero-section">
