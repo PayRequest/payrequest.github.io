@@ -128,12 +128,10 @@ title: Dynamic Payment Links
                                   <i class="fad fa-paper-plane" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
                                     </div>
                                     <div class="service-works-info">
-                                       <h5>Bulk Payment Requests (payrequest.me/company/15,00/concert-payment)
-
+                                       <h5>(Dynamic) Bulk Payment Requests <br>
+<img src="https://i.imgur.com/OSBpwzJ.png">
 </h5>
-                                       <p>Send en Share Payment Links with your own brand logo &amp; background, also you can choose your own colors.
-
-
+                                       <p>Dynamic payment links are reussable, send payment requests in bulk, for example a concert.
 </p>
                                     </div>
                                  </div>
@@ -157,13 +155,13 @@ title: Dynamic Payment Links
 <div class="col-md-6">
                                  <div class="service-works-item">
                                     <div class="service-works-icon2">
-                                  <i class="fa fa-money-bill-wave" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                  <i class="fa fa-brackets-curly" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
                                     </div>
                                     <div class="service-works-info">
-                                       <h5>Dynamic E-mail Payment Links (payrequest.me/company/customer1@gmail.com)
+                                       <h5>(Dynamic) PHP Variable Payment Links <br>
+    <img src="https://i.imgur.com/6JZSAVr.png">
 </h5>
-                                       <p>We support al major currencies all around the globe, with realtime currency conversion for every currency.
-
+                                       <p>Automate Payments by using PHP variables in your dynamic payment links for example {invoice} {email} {amount} 
 </p>
                                     </div>
                                  </div>
@@ -171,37 +169,7 @@ title: Dynamic Payment Links
 
 
 
-<div class="col-md-6">
-                                 <div class="service-works-item">
-                                    <div class="service-works-icon2">
-                                  <i class="fad fa-shield-check" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
-                                    </div>
-                                    <div class="service-works-info">
-                                       <h5> 3D Secure payments
 
-</h5>
-                                       <p>For extra fraud protection we use 3D Secure authentication method used to verify a customer's identity
-
-
-</p>
-                                    </div>
-                                 </div>
-                              </div><div class="col-md-6">
-                                 <div class="service-works-item">
-                                    <div class="service-works-icon2">
-                                  <i class="fad fa-analytics" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
-                                    </div>
-                                    <div class="service-works-info">
-                                       <h5>Payment Tracking
-
-</h5>
-                                       <p>We make sure you can track all payment activity like: if your payment links is opened, and a notification when you get paid.
-
-
-</p>
-                                    </div>
-                                 </div>
-                              </div>
                            </div>
                         </div>
                      </div>
