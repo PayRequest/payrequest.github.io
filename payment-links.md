@@ -102,6 +102,94 @@ PayRequest makes it easy to create payment links and share them worldwide with a
  <!-- All Payment Methods Section End -->
 
 
+<section class="contact-form section_100">
+         <div class="container">
+            <div class="service-details-text">
+                        <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
+                     <h2>Payment Links <span>Use Cases</span></h2>
+    <p>Payments links are a great way to request for payments, you can easily share them on your website, via SMS or E-mail.</p>
+                  </div>
+
+
+
+<div class="service-works">
+                           <div class="row">
+                              <div class="col-md-6">
+                                 <div class="service-works-item">
+                                    <div class="service-works-icon2">
+                                  <i class="fad fa-user-headset" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="service-works-info">
+                                       <h5>Payment Links for Customer Support
+</h5>
+                                       <p>Most reasons customers are contacting a support team is because billing related questions, save time by sending payment links directly via support tickets or in a live-chat.
+</p>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="col-md-6">
+                                 <div class="service-works-item">
+                                    <div class="service-works-icon2">
+                                  <i class="fad fa-mailbox" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="service-works-info">
+                                       <h5>Payment Links for E-mail Payments
+<br>
+
+</h5>
+                                       <p>Sometimes you have not the ability to directly let customers pay, in that case you send them a payment link via e-mail, and they can pay later if they checking their e-mail.
+</p>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="col-md-6">
+                                 <div class="service-works-item">
+                                    <div class="service-works-icon2">
+                                  <i class="fad fa-file-invoice" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="service-works-info">
+  <h5>Payment Links for Overdue Invoices
+<br> 
+</h5>
+                                       <p>Has you customer still not paid there invoice after some weeks? Best way is to remind them is with a payment link, and offer them an easy way to pay your invoice without extra fees.
+</p>
+                                    </div>
+                                 </div>
+                              </div>
+
+
+
+<div class="col-md-6">
+                                 <div class="service-works-item">
+                                    <div class="service-works-icon2">
+                                  <i class="fad fa-shopping-cart" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="service-works-info">
+                                       <h5>Payment Links for Digital Goods
+
+<br>
+
+</h5>
+                                       <p>Selling Online Products? then payment links are the easiest way to get paid for your digital goods, just add a payment link on your website, and deliver your digital goods after payment.
+</p>
+                                    </div>
+                                 </div>
+                              </div>
+
+
+
+
+</div>
+</div>
+</div>
+
+
+
+</div>
+</section>
+
+
+
 
  <section class="about-section">
          <!-- Top Shape Start -->
