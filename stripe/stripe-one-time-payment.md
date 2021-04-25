@@ -30,7 +30,7 @@ tags:
                <div class="col-lg-5 lg-1">
                   <div class="about-page-left wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInLeft;">
                      <h2 class="mr-5"><div class="">
- <img src="https://media.payrequest.nl/images/banners/stripe-payment-link-generator.png" alt="stripe one time payment" style="
+ <img src="https://media.payrequest.nl/images/banners/stripe-one-time-payment.png" alt="stripe one time payment" style="
     border-radius: 20px;
 ">
                      </div></h2>
