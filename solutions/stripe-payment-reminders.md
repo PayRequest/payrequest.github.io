@@ -105,3 +105,111 @@ PayRequest makes it easy to send payment reminders via e-mail, and let them simp
 </section>
 
 
+
+<section class="contact-form section_100">
+         <div class="container">
+            <div class="service-details-text">
+                        <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
+                     <h2>Payment Reminders <span>for Stripe</span></h2>
+    <p>Connect your Stripe account, and start creating payment reminders for all your customers, they will receive e-mails reminders with a payment link.</p>
+                  </div>
+
+
+
+<div class="service-works">
+                           <div class="row">
+                              <div class="col-md-6">
+                                 <div class="service-works-item">
+                                    <div class="service-works-icon2">
+                                  <i class="fad fa-alarm-clock" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="service-works-info">
+                                       <h5>Automatic payment reminders
+</h5>
+                                       <p>You can setup an receiver who will receive your payment reminders, Schedule the email reminders every day, every week, or every month. 
+</p>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="col-md-6">
+                                 <div class="service-works-item">
+                                    <div class="service-works-icon2">
+                                  <i class="fad fa-analytics" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="service-works-info">
+                                       <h5>Track your Payment Reminders
+<br>
+
+</h5>
+                                       <p>Follow the payment reminder process via the PayRequest, see if they open your payment reminder, and get a notification if your payment reminder gets paid!
+</p>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="col-md-6">
+                                 <div class="service-works-item">
+                                    <div class="service-works-icon2">
+                                  <i class="fad fa-paint-brush" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="service-works-info">
+  <h5>Payment Reminders with your own Branding
+<br> 
+</h5>
+                                       <p>Send payment reminders with your own logo and upload a background which will be showed on the payment link, also you can use your own brand colors and we will send the e-mails with your domainname.
+</p>
+                                    </div>
+                                 </div>
+                              </div>
+
+
+
+<div class="col-md-6">
+                                 <div class="service-works-item">
+                                    <div class="service-works-icon2">
+                                  <i class="fad fa-shield-check" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="service-works-info">
+                                       <h5>Secure Payment Reminders
+<br>
+
+</h5>
+                                       <p>Send payment reminders with trust, use your own domain and use Stripe the largest payment provider in the world, for extra fraud protection we use 3D Secure authentication method used to verify a customer's identity.
+</p>
+                                    </div>
+                                 </div>
+                              </div>
+
+
+
+
+</div>
+</div>
+</div>
+
+
+
+</div>
+</section>
+
+
+{% include why-section.html %}
+
+
+<section class="subscribe-section innser_subscribe section_100">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-12">
+                  <div class="subscribe-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
+                     <div class="section-title">
+                        <h2>Start sending <span>Payment Reminders</span></h2>
+                        <p>Connect your Stripe account and start sending payment links with e-mail reminders.
+</p>
+                     </div>
+
+
+<a href="https://dashboard.payrequest.io/" class="theme-btn-white wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 2s; animation-delay: 0.5s; animation-name: fadeInUp;">Create your free account <span class="fa fa-chevron-right" aria-hidden="true"></span></a>
+</div>
+</div>
+</div>
+</div>
+</section>
