@@ -61,10 +61,10 @@ tags:
                            <div class="col-lg-12">
                               <div class="form-group button-area">
                                  <button type="submit" class="theme-btn">Send Message<span class="fa fa-chevron-right"></span></button>
-                              </div>
-                           </div>
-                        </div>
-                     </form>
+</div>
+</div>
+</div>
+</form>
                   </div>
                </div>
                <div class="col-lg-4 d-flex">
