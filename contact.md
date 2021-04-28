@@ -1,5 +1,5 @@
 ---
-title: PayRequest.io | Contact
+title: Contact
 tags:
 - color-logo
 ---
@@ -32,8 +32,8 @@ tags:
             <div class="row">
                <div class="col-lg-8">
                   <div class="contact-form-wrapper wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.4s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.4s; animation-name: fadeInLeft;">
-                     <form>
-                        <div class="row">
+                   <form action="https://formspree.io/f/xdoklaqr" method="POST"></form>
+<div class="row">
                            <div class="col-lg-6">
                               <div class="form-group">
                                  <label for="name">Name </label>
@@ -43,19 +43,19 @@ tags:
                            <div class="col-lg-6">
                               <div class="form-group">
                                  <label for="email">Email </label>
-                                 <input type="text" class="input-field" id="email" placeholder="Enter Your Email">
-                              </div>
+                                 <input type="email" name="_replyto" class="input-field" id="email" placeholder="Enter Your Email">
+                              </div>  
                            </div>
                            <div class="col-lg-12">
                               <div class="form-group">
-                                 <label for="subjict">Subjict </label>
+                                 <label for="subjict">Subject </label>
                                  <input type="text" class="input-field" id="subjict" placeholder="Write Your Subjict">
                               </div>
                            </div>
  <div class="col-lg-12">
                               <div class="form-group button-area">
                                  <label for="message">Message </label>
-                                 <textarea id="message" class="input-field textarea" placeholder="Write Your Message"></textarea>
+                                 <textarea name="message" id="message" class="input-field textarea" placeholder="Write Your Message"></textarea>
                               </div>
                            </div>
                            <div class="col-lg-12">
@@ -87,7 +87,7 @@ tags:
                         <li>
                            <p>
                               <i class="fa fa-envelope"></i>
-                              info@payrequest.io
+                              support@payrequest.io
                            </p>
                         </li>
                         <li>
