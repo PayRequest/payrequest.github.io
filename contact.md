@@ -32,7 +32,7 @@ tags:
             <div class="row">
                <div class="col-lg-8">
 <div class="contact-form-wrapper wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.4s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.4s; animation-name: fadeInLeft;">
-<form action="https://formspree.io/f/xdoklaqr" method="POST"></form>
+<form action="https://formspree.io/f/xdoklaqr" method="POST">
 <div class="row">
                            <div class="col-lg-12">
                               <div class="form-group">
@@ -57,8 +57,7 @@ tags:
                                  <button type="submit" class="theme-btn">Send Message<span class="fa fa-chevron-right"></span></button>
 </div>
 </div>
-</div>
-</form>
+</div></form>
                   </div>
                </div>
                <div class="col-lg-4 d-flex">
