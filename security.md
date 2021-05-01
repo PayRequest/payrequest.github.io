@@ -1,6 +1,5 @@
 ---
-title: PayRequest | Security
-description: We at PayRequests takes security seriously
+title: Security
 tags:
 - color-logo
 ---
