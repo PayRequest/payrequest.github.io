@@ -51,150 +51,138 @@ tags:
 
 <section class="contact-form section_100">
          <div class="container">
-            <div class="row">
-               <div class="col-lg-12">
-                  <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
+            <div class="service-details-text">
+                        <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
                      <h2>PayRequest <span>Security</span></h2>
+    <p>We are fully GDPR complain, and have build a payment platform with security first.</p>
                   </div>
-               </div>
-            </div>
-            <div class="row" style="
-    margin-bottom: 20px;
-">
-               
 
 
-<div class="col-lg-4 d-flex">
-                  <div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
-                     
 
-<h4 class="title" style="margin-bottom: 0px; padding: 20px 24px 0px; font-size: 23px;">
-<i class="fad fa-credit-card" style="padding-right: 10px;" aria-hidden="true"></i>PCI DSS compliant
-</h4>
-                    
-<ul class="address-list">
-                        <li>
-                           <p>We do not store any sensitive card data, we also only work together with PCI Level 1 Service Providers like Stripe.
+<div class="service-works">
+                           <div class="row">
+                              <div class="col-md-4">
+                                 <div class="service-works-item">
+                                    <div class="service-works-icon2">
+                                  <i class="fad fa-credit-card" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="service-works-info">
+                                       <h5>PCI DSS compliant
+
+</h5>
+                                       <p>We do not store any sensitive card data, we also only work together with PCI Level 1 Service Providers like Stripe.
+
+
 </p>
-                        </li>
-                        
- </ul>
-
-  </div>
- </div>
+                                    </div>
+                                 </div>
+                              </div>
 
 
+<div class="col-md-4">
+                                 <div class="service-works-item">
+                                    <div class="service-works-icon2">
+                                  <i class="fad fa-clipboard-check" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="service-works-info">
+                                       <h5>Fully GDPR compliant
 
+<br>
 
-<div class="col-lg-4 d-flex">
-<div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
-
-<h4 class="title" style="margin-bottom: 0px;font-size: 23px;padding: 20px 24px 0px;">
-<i class="fad fa-clipboard-check" style="padding-right: 10px;" aria-hidden="true"></i>Fully GDPR compliant
-</h4>
-                    
-<ul class="address-list">
-<li>
-<p>Via our dashboard you can export your account data or permanent delete your entire account.
+</h5>
+                                       <p>Due the COVID-19 pandemic is distance very important to outcome the spreading, with a QR Code you can accept contactless payments, customers scan the QR Code and pay directly via their smartphone.
 </p>
-</li>
-                        
-</ul>
+                                    </div>
+                                 </div>
+                              </div>
+
+<div class="col-md-4">
+                                 <div class="service-works-item">
+                                    <div class="service-works-icon2">
+                                  <i class="fad fa-user-lock" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="service-works-info">
+                                       <h5>CSRF Protection
+
+<br>
+
+</h5>
+                                       <p>Due the COVID-19 pandemic is distance very important to outcome the spreading, with a QR Code you can accept contactless payments, customers scan the QR Code and pay directly via their smartphone.
+</p>
+                                    </div>
+                                 </div>
+                              </div>
+
+
+<div class="col-md-4">
+                                 <div class="service-works-item">
+                                    <div class="service-works-icon2">
+                                  <i class="fad fa-shield-check" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="service-works-info">
+                                       <h5> 3D Secure payments
+
+<br>
+
+</h5>
+                                       <p>For extra fraud protection we use 3D Secure authentication method used to verify a customer's identity before an online card purchase.
+
+
+</p>
+                                    </div>
+                                 </div>
+                              </div>
+
+
+<div class="col-md-4">
+                                 <div class="service-works-item">
+                                    <div class="service-works-icon2">
+                                  <i class="fad fa-lock" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="service-works-info">
+                                       <h5>Secure Data Encryption
+
+<br>
+
+</h5>
+                                       <p>The complete database is always encrypted with the industry-standard AES (alias Rijndael) encryption algorithm using a 256 bit key.
+
+
+</p>
+                                    </div>
+                                 </div>
+                              </div><div class="col-md-4">
+                                 <div class="service-works-item">
+                                    <div class="service-works-icon2">
+                                  <i class="fab fa-digital-ocean" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="service-works-info">
+                                       <h5>Reliable Infrastructure
+<br>
+
+</h5>
+                                       <p>We are a DigitalOcean Partner, and have over 10 years experience in cloud services and application performance to offer you a secure payment platform.
+</p>
+                                    </div>
+                                 </div>
+                              </div>
+
+
+
+
+
+
+
+
 
 </div>
 </div>
+</div>
 
 
 
-<div class="col-lg-4 d-flex">
-<div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
-
-<h4 class="title" style="
-    margin-bottom: 0px;
-    padding: 20px 24px 0px;
-    font-size: 23px;
-">
-    
-<i class="fad fa-user-lock" style="padding-right: 10px;" aria-hidden="true"></i>CSRF Protection
-</h4>
-                    
-<ul class="address-list">
-<li>
-<p>All our applications are protected with CSRF Protection, to protect against cross-site request forgery (CSRF) attacks.
-</p>
- </li>
-                        
-  </ul>
-
-  </div>
-  </div>
-
-
- </div>
-
-<div class="row">
-               
-
-<div class="col-lg-4 d-flex">
- <div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
-
-<h4 class="title" style="margin-bottom: 0px; padding: 20px 24px 0px; font-size: 23px;">
-    
-<i class="fad fa-shield-check" style="padding-right: 10px;" aria-hidden="true"></i> 3D Secure payments
-</h4>
-                    
-<ul class="address-list">
-<li>
-<p>For extra fraud protection we use 3D Secure authentication method used to verify a customer's identity before an online card purchase.
-</p>
- </li>
-                       
-</ul>
-
- </div>
- </div>
-
-
-
-
-<div class="col-lg-4 d-flex">
-<div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
-
-<h4 class="title" style="margin-bottom: 0px; padding: 20px 24px 0px; font-size: 23px;">
-<i class="fad fa-lock" style="padding-right: 10px;" aria-hidden="true"></i>Secure Data Encryption
-</h4>
-                    
-<ul class="address-list">
-<li>
-<p>The complete database is always encrypted with the industry-standard AES (alias Rijndael) encryption algorithm using a 256 bit key.
-</p>
-</li>           
- </ul>
-
- </div>
- </div>
-
-<div class="col-lg-4 d-flex">
-<div class="address-area wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
-
-<h4 class="title" style="margin-bottom: 0px; padding: 20px 24px 0px; font-size: 23px;">
-    
-<i class="fab fa-amazon" style="padding-right: 10px;" aria-hidden="true"></i>Reliable Infrastructure
-</h4>
-                    
-<ul class="address-list">
-<li>
-<p>Amazon Web Services (AWS) the largest cloud provider in the world, it garantees us the best security and performance for our payment platformn.
-</p>
-</li>                    
-</ul>
-
-   </div>
- </div>
-
-  </div>
- </div>
- </section>
+</div>
+</section>
 
 
 
