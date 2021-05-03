@@ -1,3 +1,8 @@
+---
+title: Get paid faster with PayRequest
+---
+
+
 <!-- Hero Section Start -->
 <section class="hero-section">
 <!-- Hero Shape Start -->
@@ -20,10 +25,9 @@
 <div class="hero-left">
 <br />
 
-<h2> Payment <br /> <span class="underline">Request Platform</span> </h2>
+<h2> Get paid faster <br /> <span class="underline">With PayRequest</span> </h2>
 
-<p>PayRequest makes it easy to create your own branded payment page, and to send payment links to all your customers.
-
+<p>Create your own payment page with PayRequest and send payment requests via SMS, E-mail or QR Code.
 </p>
 
 <a href="https://dashboard.payrequest.io/dashboard" class="theme-btn mt-4"> Create Your Free Account<span class="fa fa-chevron-right"></span></a>
@@ -48,7 +52,7 @@
                   <div class="hero-right">
 
 
-  <img src="https://media.payrequest.nl/images/Cy6QsZb.webp" alt="Alt Text!" style="
+  <img src="https://media.payrequest.nl/images/banners/dashboard-homepage.webp" alt="Get paid faster" style="
         transform: perspective(1000px) rotateY(-13deg) rotateX(5deg) rotateZ(7deg) scaleY(0.9) scaleX(0.95) translateX(-3%) translateY(-3%);
         width: 530px;
         height: 360px;
