@@ -145,3 +145,6 @@ PayRequest makes it easy to send payment reminders via SMS, and let them simply 
 
 </div>
 </section>
+
+
+{% include footer-promo.html %}
