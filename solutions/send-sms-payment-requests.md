@@ -59,3 +59,89 @@ PayRequest makes it easy to send payment reminders via SMS, and let them simply 
             </div>
          </div>
 </section>
+
+
+<section class="contact-form section_100">
+         <div class="container">
+            <div class="service-details-text">
+                        <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
+                     <h2>SMS Payment Request <span>Use Cases</span></h2>
+    <p>You can use SMS payment links for everything, it is a great payment solution for small and large businsses.</p>
+                  </div>
+
+
+
+<div class="service-works">
+                           <div class="row">
+                              <div class="col-md-6">
+                                 <div class="service-works-item">
+                                    <div class="service-works-icon2">
+                                  <i class="fad fa-gavel" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="service-works-info">
+                                       <h5>SMS Payment Request for Debt Collection
+</h5>
+                                       <p>QR Codes are useful for street vendors, because they can print QR Code Payment Links for all their products, customers scan the QR code and merchant gets directly an conformation when the customer has paid.
+</p>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="col-md-6">
+                                 <div class="service-works-item">
+                                    <div class="service-works-icon2">
+                                  <i class="fad fa-sms" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="service-works-info">
+                                       <h5>SMS Payment Request for Call Centers
+<br>
+
+</h5>
+                                       <p>Closing a deal? stop asking their e-mail, you already got their phone number, send them a payment link, and they will fill in their e-mail, name and pay your request.
+</p>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="col-md-6">
+                                 <div class="service-works-item">
+                                    <div class="service-works-icon2">
+                                  <i class="fad fa-exclamation-circle" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="service-works-info">
+  <h5>SMS Payment Request for Final Overdue Reminders
+<br> 
+</h5>
+                                       <p>In Restaurants like Mac Donalds you already can go directly to your table and scan the QR Code to order food and pay online, this safes time, customers can directly see the menu and you save time with taking orders.
+</p>
+                                    </div>
+                                 </div>
+                              </div>
+
+
+
+<div class="col-md-6">
+                                 <div class="service-works-item">
+                                    <div class="service-works-icon2">
+                                  <i class="fab fa-stripe" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="service-works-info">
+                                       <h5>SMS Payment Request for Stripe Payments
+<br>
+
+</h5>
+                                       <p>Using Stripe for your online payment processing? With PayRequest you can let your customers pay via Stripe, and let them receive a SMS from PayRequest.
+</p>
+                                    </div>
+                                 </div>
+                              </div>
+
+
+
+
+</div>
+</div>
+</div>
+
+
+
+</div>
+</section>
