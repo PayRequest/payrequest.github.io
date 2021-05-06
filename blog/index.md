@@ -145,7 +145,6 @@ text-align: center; white-space: nowrap; vertical-align: baseline; border-radius
  <!-- News Article End -->
 
 
-
 </div>
 </div>
 </section>
