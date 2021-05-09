@@ -62,9 +62,6 @@ itemprop="datePublished">
 
 </label>
  <label><i class="fad fa-tag" aria-hidden="true"></i>
-test: {{ post.categories }}
-
-
  {%- if post.categories -%}
      {% for category in post.categories %}
      {{ post.categories }}
