@@ -9,7 +9,6 @@ collections:
     output: true
 name: PayRequest
 markdown: kramdown
-
 # Blog
 paginate: 5
 paginate_path: "/:num/"
