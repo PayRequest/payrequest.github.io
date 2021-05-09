@@ -43,7 +43,7 @@ tags:
 <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
 <div class="blog-image">
 <a href="{{ site.baseurl }}{{ post.url }}">
-<img src="{{ page.image | escape }}" alt="{{ post.title }}">
+<img src="{{ post.image | escape }}" alt="{{ post.title }}">
 </a>
 </div>
 
@@ -57,14 +57,14 @@ tags:
 <time class="dt-published"
 datetime="{{ page.date | date_to_xmlschema }}"
 itemprop="datePublished">
-{{ page.date | date: site.date_format }}
+{{ post.date | date: site.date_format }}
 </time>
 
 </label>
  <label><i class="fad fa-tag" aria-hidden="true"></i>
  {%- if page.categories -%}
      {% for category in page.categories %}
-     {{ category }}
+     {{ post.category }}
      {%- if forloop.last == false %}, {% endif -%}
      {% endfor %}
      {%- endif -%}
