@@ -62,9 +62,12 @@ itemprop="datePublished">
 
 </label>
  <label><i class="fad fa-tag" aria-hidden="true"></i>
+test: {{ post.categories }}
+
+
  {%- if post.categories -%}
      {% for category in post.categories %}
-     {{ post.category }}
+     {{ post.categories }}
      {%- if forloop.last == false %}, {% endif -%}
      {% endfor %}
      {%- endif -%}
@@ -72,10 +75,8 @@ itemprop="datePublished">
 </div>
 
 <div class="blog-text">
-<a href="{{ site.baseurl }}{{ post.url }}">
-<h3> {{ post.title }}</h3> 
-</a> 
-<div class="entry"> <h4>{{ post.excerpt }} </h4></div>
+<a href="{{ site.baseurl }}{{ post.url }}">  <h3> {{ post.title }}</h3> </a> 
+<h4>{{ post.excerpt }} </h4>
 </div>
 </div>
 </div>
