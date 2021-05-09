@@ -80,56 +80,9 @@ itemprop="datePublished">
 </div>
 </article>
 {% endfor %}
- <!-- News Article End -->
-
-
-
- <!-- News Article Start -->
-<div class="col-lg-4 col-md-6">
-<div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInLeft;">
-<div class="blog-image">
-<a href="https://payrequest.io/api">
-<img src="https://media.payrequest.nl/images/payrequest-api.webp" alt="PayRequest API">
-</a>
-</div>
-
-<div class="blog-desc">
-<div class="meta-image">
-<div class="author-round">
-<img src="https://media.payrequest.nl/images/payrequest-news-icon.webp" alt="payrequest news icon">
- </div>
-<div class="tags">
-
-<h4><span class="label label-primary" style="display: inline;
-padding: .2em .6em .3em; font-size: 75%; font-weight: 700;
-line-height: 1; background-color: #03acca; color: white;
-text-align: center; white-space: nowrap; vertical-align: baseline; border-radius: .25em;
-">Web Page</span>
-</h4>
-<h5>5 August 2020</h5>
-</div>
-</div>
-<div class="blog-text">
-<a href="https://payrequest.io/api"><h3>PayRequest API is now available for everyone</h3> </a>
-</div>
-</div>
-
-</div>
-</div>
- <!-- News Article End -->
+<!-- News Article End -->
 
 
 </div>
 </div>
 </section>
-
-
-<div class="posts">
-{% for post in site.posts %}
-<article class="post">
-<h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-<div class="entry">{{ post.excerpt }}</div>
-<a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-</article>
-{% endfor %}
-</div>
