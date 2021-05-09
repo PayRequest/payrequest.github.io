@@ -43,7 +43,7 @@ tags:
 <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
 <div class="blog-image">
 <a href="{{ site.baseurl }}{{ post.url }}">
-<img src="https://media.payrequest.nl/images/stripe-partner-news.webp" alt="{{ post.title }}">
+<img src="{{ page.image | escape }}" alt="{{ post.title }}">
 </a>
 </div>
 
