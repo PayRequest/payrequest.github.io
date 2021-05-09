@@ -9,8 +9,13 @@ collections:
     output: true
 name: PayRequest
 markdown: kramdown
+# Blog
+paginate: 5
+paginate_path: "/:num/"
+date_format: "%b %-d, %Y"
 
 plugins:
 - jekyll-sitemap
 - jekyll-seo-tag
+- jekyll-feed
 - jekyll-paginate
