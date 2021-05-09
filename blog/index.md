@@ -39,10 +39,6 @@ tags:
 {% for post in site.posts %}
 <article class="post">
 
-<h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-<a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-
-
 <div class="col-lg-4 col-md-6">
 <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
 <div class="blog-image">
@@ -88,39 +84,7 @@ itemprop="datePublished">
 {% endfor %}
  <!-- News Article End -->
 
- <!-- News Article Start -->
-<div class="col-lg-4 col-md-6">
-<div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.4s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.4s; animation-name: fadeInLeft;">
-<div class="blog-image">
-<a href="https://payrequest.io/payment-providers/multisafepay">
-<img src="https://media.payrequest.nl/images/multisafepay-news.webp" alt="multisafepay news"></a>
-</div>
 
-<div class="blog-desc">
-<div class="meta-image">
-<div class="author-round">
-<img src="https://media.payrequest.nl/images/payrequest-news-icon.webp" alt="payrequest news icon">
-</div>
-<div class="tags">
-
-<h4><span class="label label-primary" style="display: inline; padding: .2em .6em .3em; font-size: 75%;
-font-weight: 700; line-height: 1; background-color: #03acca; color: white; text-align: center;
-white-space: nowrap; vertical-align: baseline; border-radius: .25em;
-">Blog Post</span>
-</h4>
-
-<h5>5 August 2020</h5>
-</div>
-</div>
-
-<div class="blog-text"><a href="https://payrequest.io/payment-providers/multisafepay">
-<h3>New Payment Provider: MultiSafePay</h3></a>
-</div>
-
-</div>
-</div>
-</div>
- <!-- News Article End -->
 
  <!-- News Article Start -->
 <div class="col-lg-4 col-md-6">
