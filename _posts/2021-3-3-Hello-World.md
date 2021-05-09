@@ -1,12 +1,13 @@
 ---
 layout: post
-title: HttpClient and Unit Testing
+title: Sell Products Without A Website
 categories: [blogging]
+image: https://media.payrequest.nl/images/payrequest-api.webp
 tags:
 - color-logo
 ---
 
-<h2>  hoi </h2>
+<h2>  How to start selling products without a website? </h2>
 
 <p>
 

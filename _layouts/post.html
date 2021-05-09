@@ -41,7 +41,7 @@ layout: default
     </time>
 </b></li>
 
- <li style="padding: 5px;"><i class="fad tag" aria-hidden="true" style="color: #25b7c7;"></i><b>
+ <li style="padding: 5px;"><i class="fad fa-tag" aria-hidden="true" style="color: #25b7c7;"></i><b>
      {%- if page.categories -%}
      {% for category in page.categories %}
      {{ category }}
@@ -53,7 +53,7 @@ layout: default
                             </ul>
 
                             <div class="product-details-image wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible;margin: 0 auto;animation-duration: 1s;animation-delay: 0.3s;animation-name: fadeInLeft;max-width: 600px;margin-top: 10px;">
-                                <img src="https://media.payrequest.nl/images/banners/sell-products-without-a-website.png" alt="product">
+                                <img src="{{ page.image | escape }}" title="{{ page.title | escape }}" alt="{{ page.title | escape }}">
                             </div>
 
 
