@@ -6,7 +6,6 @@ tags: [.NET, testing]
 comments: true
 ---
 
-
 <article class="post">
   <h1>{{ page.title }}</h1>
 
