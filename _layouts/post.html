@@ -1,0 +1,79 @@
+---
+layout: default
+---
+<div class="post-nav">
+    {%- if page.previous -%}
+    <span class="post-previous">
+        <a href="{{ page.previous.url }}"
+           rel="prev">← Previous Post</a>
+    </span>
+    {%- endif -%}
+    {%- if page.next -%}
+    <span class="post-next">
+        <a href="{{ page.next.url }}"
+           rel="next">Next Post →</a>
+    </span>
+    {%- endif -%}
+</div>
+
+<article class="post h-entry"
+         itemscope
+         itemtype="http://schema.org/BlogPosting">
+
+    <header class="post-header">
+        <h1 class="post-title p-name"
+            itemprop="name headline">{{ page.title | escape }}</h1>
+        <p class="post-meta">
+            <time class="dt-published"
+                  datetime="{{ page.date | date_to_xmlschema }}"
+                  itemprop="datePublished">
+                {{ page.date | date: site.date_format }}
+            </time>
+            {%- if page.categories -%}
+            • Posted in
+            {% for category in page.categories %}
+            <a href="{% link categories.html %}#{{category | uri_escape | downcase }}">{{ category }}</a>
+            {%- if forloop.last == false %}, {% endif -%}
+            {% endfor %}
+            {%- endif -%}</p>
+    </header>
+
+    <div class="post-content e-content"
+         itemprop="articleBody">
+        {{ content }}
+    </div>
+
+    {%- if site.disqus.shortname -%}
+    {%- include disqus_comments.html -%}
+    {%- endif -%}
+
+    <a class="u-url"
+       href="{{ page.url | relative_url }}"
+       hidden></a>
+</article>
+
+
+
+
+
+TEST
+
+{%- assign categories = site.categories | sort -%}
+{%- for category in categories -%}
+
+{%- assign categoryName = category[0] -%}
+{%- assign categoryNumPosts = category[1] | size -%}
+<h2 id="{{categoryName | uri_escape | downcase }}">{{ categoryName }} ({{ categoryNumPosts }})</h2>
+
+<ul>
+    {% assign sorted_posts = category[1] | reversed %}
+    {% for post in sorted_posts %}
+    <li>
+        <a href="{{ post.url }}">{{ post.title }}</a> -
+        <time datetime="{{ post.date | date_to_xmlschema }}"
+              itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time>
+    </li>
+    {% endfor %}
+</ul>
+
+{%- endfor -%}
