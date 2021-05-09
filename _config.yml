@@ -11,7 +11,7 @@ name: PayRequest
 markdown: kramdown
 
 # Site settings
-permalink: /:title/
+permalink: /blog/:title:output_ext
 paginate: 5
 paginate_path: "/:num/"
 date_format: "%b %-d, %Y"
