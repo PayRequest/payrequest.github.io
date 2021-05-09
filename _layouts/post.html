@@ -14,10 +14,17 @@ layout: default
                   itemprop="datePublished">
                 {{ page.date | date: site.date_format }}
             </time>
+
             {%- if page.categories -%}
             • Posted in
-         {{ category }}
-            {%- endif -%}</p>
+            {% for category in page.categories %}
+            <a href="{% link categories.html %}#{{category | uri_escape | downcase }}">{{ category }}</a>
+            {%- if forloop.last == false %}, {% endif -%}
+            {% endfor %}
+            {%- endif -%}
+
+
+            }</p>
     </header>
 
 
