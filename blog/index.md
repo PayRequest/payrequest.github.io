@@ -148,3 +148,16 @@ text-align: center; white-space: nowrap; vertical-align: baseline; border-radius
 </div>
 </div>
 </section>
+
+
+<div class="posts">
+<a href="{{ site.baseurl }}/posts.by.category">View Posts by Category</a>
+{% for post in site.posts %}
+<article class="post">
+<h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+<div class="entry">{{ post.excerpt }}</div>
+<a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+</article>
+{% endfor %}
+</div>
