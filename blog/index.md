@@ -36,44 +36,56 @@ tags:
             <div class="row">
 
  <!-- News Article Start -->
-<div class="col-lg-4 col-md-6">
-                  <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
-                     <div class="blog-image">
-                        <a href="#">
-                        <img src="https://media.payrequest.nl/images/stripe-partner-news.webp" alt="Stripe Partner">
-                        </a>
-                     </div>
-                     <div class="blog-desc">
-                        <div class="meta-image">
-                           <div class="author-round">
-<img src="https://media.payrequest.nl/images/payrequest-news-icon.webp" alt="payrequest news icon">
-                           </div>
-                           <div class="tags">
+{% for post in site.posts %}
+<article class="post">
 
-<h4><span class="label label-primary" style="
-display: inline;
-padding: .2em .6em .3em;
-font-size: 75%;
-font-weight: 700;
-line-height: 1;
-background-color: #03acca;
-color: white;
-text-align: center;
-white-space: nowrap;
-vertical-align: baseline;
-border-radius: .25em;
-">Blog Post</span>
-</h4>
-<h5>5 August 2020</h5>
-</div></div>
+<h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+<a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+
+
+<div class="col-lg-4 col-md-6">
+<div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
+<div class="blog-image">
+<a href="{{ site.baseurl }}{{ post.url }}">
+<img src="https://media.payrequest.nl/images/stripe-partner-news.webp" alt="{{ post.title }}">
+</a>
+</div>
+
+<div class="blog-desc" style="padding-top: 10px;">
+<div class="other_info" style="margin: 10px;padding: 5px 0 0 0;">
+<div class="blog-meta">
+<figure><img src="https://media.payrequest.nl/images/payrequest-news-icon.webp" alt="blog image"></figure>
+</div>
+<label><i class="fad fa-calendar" aria-hidden="true"></i>
+
+<time class="dt-published"
+datetime="{{ page.date | date_to_xmlschema }}"
+itemprop="datePublished">
+{{ page.date | date: site.date_format }}
+</time>
+
+</label>
+ <label><i class="fad fa-tag" aria-hidden="true"></i>
+ {%- if page.categories -%}
+     {% for category in page.categories %}
+     {{ category }}
+     {%- if forloop.last == false %}, {% endif -%}
+     {% endfor %}
+     {%- endif -%}
+</label>
+</div>
 
 <div class="blog-text">
-<a href="https://medium.com/payrequest/payrequest-joins-stripe-partner-program-765eb3de62b3">
-<h3>PayRequest joins Stripe Partner program</h3> </a>
-                        </div>
-                     </div>
-                  </div>
-               </div>
+<a href="{{ site.baseurl }}{{ post.url }}">
+<h3> {{ post.title }}</h3> 
+<div class="entry"> {{ post.excerpt }}</div>
+</a>  
+</div>
+</div>
+</div>
+</div>
+</article>
+{% endfor %}
  <!-- News Article End -->
 
  <!-- News Article Start -->
@@ -151,11 +163,9 @@ text-align: center; white-space: nowrap; vertical-align: baseline; border-radius
 
 
 <div class="posts">
-<a href="{{ site.baseurl }}/posts.by.category">View Posts by Category</a>
 {% for post in site.posts %}
 <article class="post">
 <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
 <div class="entry">{{ post.excerpt }}</div>
 <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
 </article>
