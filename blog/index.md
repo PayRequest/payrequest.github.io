@@ -24,12 +24,12 @@ tags:
             <div class="row align-items-center">
                <div class="col-lg-5 col-md-12">
                   <div class="section-title wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
-                     <h2><span>Product</span> Updates</h2>
+                     <h2><span>New</span> Articles</h2>
                   </div>
                </div>
                <div class="col-lg-7 col-md-12">
                   <div class="section-para wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.4s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.4s; animation-name: fadeInRight;">
-                     <p>We keep working on PayRequest to make it better</p>
+                     <p>Read helpful articles written by us, to get paid faster!</p>
                   </div>
                </div>
             </div>
