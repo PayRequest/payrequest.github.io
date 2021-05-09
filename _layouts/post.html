@@ -44,22 +44,22 @@ layout: default
     </time>
 </b></li>
 
- <li style="padding: 5px;"><i class="fad fa-clock" aria-hidden="true" style="color: #25b7c7;"></i><b>  1. {{ page.categories | escape }} 2. {{ page.cetagories }}
-
-
- 3.
+ <li style="padding: 5px;"><i class="fad fa-clock" aria-hidden="true" style="color: #25b7c7;"></i><b>
      {%- if page.categories -%}
-     • Posted in
      {% for category in page.categories %}
      {{ category }}
      {%- if forloop.last == false %}, {% endif -%}
      {% endfor %}
      {%- endif -%}
-
  </b> </li>
 
-
                             </ul>
+
+                            <div class="product-details-image wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible;margin: 0 auto;animation-duration: 1s;animation-delay: 0.3s;animation-name: fadeInLeft;max-width: 600px;margin-top: 10px;">
+                                <img src="https://media.payrequest.nl/images/banners/sell-products-without-a-website.png" alt="product">
+                            </div>
+
+
                         </div>
 
 
