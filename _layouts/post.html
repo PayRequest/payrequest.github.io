@@ -38,7 +38,7 @@ layout: default
                             <ul>
 <li style="padding: 5px;"><i class="fad fa-clock" aria-hidden="true" style="color: #25b7c7;"></i><b>  {{ page.date | date: site.date_format }}</b></li>
 
- <li style="padding: 5px;"><i class="fad fa-clock" aria-hidden="true" style="color: #25b7c7;"></i><b>   1. {{ category }}  2. {{ categoryName }}  3. {{ categories }}  </b> </li>
+ <li style="padding: 5px;"><i class="fad fa-clock" aria-hidden="true" style="color: #25b7c7;"></i><b>  1. {{ page.catagories | escape }} 2. {{ page.catagories }}  </b> </li>
 
 
                             </ul>
@@ -46,17 +46,12 @@ layout: default
 
 
                         <div class="single-pro-page-para">
-                            <h4><b> Your role <b></b></b></h4><p>
-                            PayRequest is growing fast, your role as a Marketing Manager is to use all your experience to help users with onboarding, and to create marketing strategies.
-                        </p>
-                        </div><div class="single-pro-page-para">
-                        <h4><b>We offer<b></b></b></h4><p>
-                    </p><ul>
-                        <li>- Work remote, or at our Office.</li>
-                        <li>- Competitive Salary</li>
-                        <li>- Flexible work hours &amp; 30 days holiday</li>
-                    </ul>
-                        <p></p>
+                      <p>
+
+                          {{ content }}
+
+                      </p>
+
                     </div>
 
 
