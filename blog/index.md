@@ -86,3 +86,5 @@ itemprop="datePublished">
 </div>
 </div>
 </section>
+
+{% include footer-promo.html %}
