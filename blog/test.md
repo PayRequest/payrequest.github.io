@@ -17,5 +17,4 @@ comments: true
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
 
-{%- feed_meta -%}
 </article>
