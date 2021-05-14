@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Payment Links: The Ultimate Guide
+title: Payment Links The Ultimate Guide
 categories: [business]
 image: https://cdn-images-1.medium.com/max/800/1*EwF8aaEYaF8gZ31iZbkMWg.png
 tags:
