@@ -7,11 +7,6 @@ tags:
 - color-logo
 ---
 
-<style>
-ul {
-list-style-image: url(https://payrequest.io/assets/logos/favicon.svg);
-}
-</style>
 
 
 There is not even a Wikipedia page for Payment Links, it is a pretty new payment solution, that makes it easier for customers to pay online, in this guide we will explain what Payment Links are, and how businesses can benefit from it.
@@ -23,19 +18,19 @@ A payment link is a URL (hyperlink) that you can share online, on your website, 
 Payment links are a fast and easy way for merchants to send payment requests to their customers, successful payments will be real-time to notify the merchant that the payment is successful.
 
 ### Benefits of Payment Links
-- Most payment links are paid within 24 hours
-- Payment Links can be shared via QR Codes or WhatsApp.
-- Let customers pay when it suits them.
-- Send bulk payment links to all your customers in minutes.
-- Offer more payment methods than the competition.
-- Accept payments worldwide with multilingual and multicurrency.
+ - Most payment links are paid within 24 hours
+ - Payment Links can be shared via QR Codes or WhatsApp.
+ - Let customers pay when it suits them.
+ - Send bulk payment links to all your customers in minutes.
+ - Offer more payment methods than the competition.
+ - Accept payments worldwide with multilingual and multicurrency.
 
-1. First ordered list item
-2. Another item
-⋅⋅* Unordered sub-list. 
-1. Actual numbers don't matter, just that it's a number
-⋅⋅1. Ordered sub-list
-4. And another item.
+ 1. First ordered list item
+ 2. Another item
+ ⋅⋅* Unordered sub-list. 
+ 1. Actual numbers don't matter, just that it's a number
+ ⋅⋅1. Ordered sub-list
+ 4. And another item.
 
 ⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
 
