@@ -7,6 +7,7 @@ tags:
 - color-logo
 ---
 
+
 There is not even a Wikipedia page for Payment Links, it is a pretty new payment solution, that makes it easier for customers to pay online, in this guide we will explain what Payment Links are, and how businesses can benefit from it.
 
 ## So what are Payment Links?
@@ -15,7 +16,7 @@ A payment link is a URL (hyperlink) that you can share online, on your website, 
 
 Payment links are a fast and easy way for merchants to send payment requests to their customers, successful payments will be real-time to notify the merchant that the payment is successful.
 
-### Benefits of Payment Links
+### Benefits of Payment Links
 - Most payment links are paid within 24 hours
 - Payment Links can be shared via QR Codes or WhatsApp.
 - Let customers pay when it suits them.
@@ -25,7 +26,7 @@ Payment links are a fast and easy way for merchants to send payment requests to 
 
 There are many more benefits to why your business should using Payment Links, you will encounter this yourself in this payment link ultimate guide.
 
-## How to start to accept Payment Links
+## How to start to accept Payment Links
 To start creating payment links, you need a payment processor or payment provider, that has software to generate payment links, more and more financial companies, such as banks, Payment Service Providers, and fintech startups.
 
 ** List of companies where you can create Payment Links: **
