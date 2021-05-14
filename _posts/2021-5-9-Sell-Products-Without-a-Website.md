@@ -7,6 +7,7 @@ tags:
 - color-logo
 ---
 
+
 There is not even a Wikipedia page for Payment Links, it is a pretty new payment solution, that makes it easier for customers to pay online, in this guide we will explain what Payment Links are, and how businesses can benefit from it.
 
 ### How to start selling products without a website?
