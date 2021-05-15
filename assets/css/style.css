@@ -4652,7 +4652,7 @@ input[type="radio"]:checked~label {
 	top: 5px;
 }
 
-blog-detail h2 {
+.blog-detail h2 {
 	font-weight: 600;
 	margin-bottom: 20px;
 	font-size: 34px;

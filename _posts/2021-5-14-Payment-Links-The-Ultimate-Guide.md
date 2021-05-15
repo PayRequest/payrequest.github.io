@@ -57,12 +57,15 @@ A payment link starts always with a website URL like paypal.me or payrequest.me 
 After you have created a payment link, you must of course share it or place it somewhere, you can send a payment link via E-mail, SMS, WhatsApp, or post it on your website or social media, you can also create a QR Code that you links to your payment link.
 
 <b> Send Payment Links via E-mail </b>
+
 Many payment platforms like PayRequest, send the payment directly to your customer, but of course, you can also copy the payment link and send it to your customer via Gmail or outlook.
 
 <b> Send Payment Links via SMS </b>
+
 If you have the phone number of your customer, you can also send the payment link via SMS, PayRequest can also do this for you.
 
 <b> Send Payment Links via WhatsApp </b>
+
 Payment links are increasingly sent that include messaging services like WhatsApp, Telegram, and iMessage, benefiting the many users already using messaging services.
 
 Share your Payment Links on your Website
