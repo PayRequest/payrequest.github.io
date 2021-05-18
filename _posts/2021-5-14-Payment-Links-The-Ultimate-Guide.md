@@ -24,9 +24,10 @@ Payment links are a fast and easy way for merchants to send payment requests to 
 <li> - Send bulk payment links to all your customers in minutes. </li>
 <li> - Offer more payment methods than the competition. </li>
 <li> - Accept payments worldwide with multilingual and multicurrency. </li>
+<br />
 
 
-There are many more benefits to why your business should using Payment Links, you will encounter this yourself in this payment link ultimate guide.
+There are many more benefits to why your business should be using Payment Links, you will encounter this yourself in this payment link ultimate guide.
 
 ## How to start to accept Payment Links
 To start creating payment links, you need a payment processor or payment provider, that has software to generate payment links, more and more financial companies, such as banks, Payment Service Providers, and fintech startups.
@@ -40,6 +41,8 @@ To start creating payment links, you need a payment processor or payment provide
 <li> - PayPal  </li>
 <li> - Adyen  </li>
 <li> - RazorPay  </li>
+<br />
+
 
 But also long-standing companies like banks and invoice software companies (XERO and QuickBooks) are adding payment links, to give their merchants a simple solution to collect money.
 
@@ -68,10 +71,10 @@ If you have the phone number of your customer, you can also send the payment lin
 
 Payment links are increasingly sent that include messaging services like WhatsApp, Telegram, and iMessage, benefiting the many users already using messaging services.
 
-Share your Payment Links on your Website
+<b> Share your Payment Links on your Website </b>
 Do you have a website or blog? then simply place a payment link on your website, visitors can simply click on the link and pay.
 
-Share your Payment Links via QR Codes
+<b> Share your Payment Links via QR Codes </b>
 In China you can pay everywhere with QR Codes, more and more payment requests worldwide are made via a QR Code, the biggest advantage is that you can share them offline.
 
 
@@ -81,15 +84,16 @@ Payment Links are useful for businesses large and small that want to request pay
 
 <b> Payment Links for Charity </b>
 Charities can easily receive donations via payment links, there is the possibility that visitors enter an amount themselves, and can choose how much to donate.
-Payment Links for Influencers
+
+<b> Payment Links for Influencers </b>
 Payment links are very useful to offer to a large audience, as they can complete the payment themselves, which saves a lot of time and increases conversion.
-Payment Links for Global Companies
+
+<b> Payment Links for Global Companies </b>
 Payment Links can be multilingual and multicurrency, allowing you to accept payments in any country and continent.
-Payment Links for Businesses without a website
+
+<b> Payment Links for Businesses without a website </b>
 With your own payment link and payment page, you do not need an own website, to start accepting payments from your customers, just send them to your payment link.
 
 ## Offer payment links for your customers today
 PayRequest is the expert in payment links, we can help to integrate payment links into your payment processes, thanks to our extensive dashboard you can offer payment links with your own corporate identity.
 
-
-More info about Payment Links: https://payrequest.io/payment-links
