@@ -72,9 +72,11 @@ If you have the phone number of your customer, you can also send the payment lin
 Payment links are increasingly sent that include messaging services like WhatsApp, Telegram, and iMessage, benefiting the many users already using messaging services.
 
 <b> Share your Payment Links on your Website </b>
+
 Do you have a website or blog? then simply place a payment link on your website, visitors can simply click on the link and pay.
 
 <b> Share your Payment Links via QR Codes </b>
+
 In China you can pay everywhere with QR Codes, more and more payment requests worldwide are made via a QR Code, the biggest advantage is that you can share them offline.
 
 
@@ -97,3 +99,4 @@ With your own payment link and payment page, you do not need an own website, to 
 ## Offer payment links for your customers today
 PayRequest is the expert in payment links, we can help to integrate payment links into your payment processes, thanks to our extensive dashboard you can offer payment links with your own corporate identity.
 
+<a href="/payment-links" class="theme-btn mt-4"> Check out Payment Links<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
