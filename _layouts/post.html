@@ -205,62 +205,6 @@ layout: default
 
 
 
-    <section class="product-details section_100">
-        <div class="container">
-            <div class="row">
-
-
-                <div class="text-center col-lg-12">
-                    <div class="product-details-text wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
-                        <h3>  {{ page.title | escape }}  </h3>
-                        <div class="tour-rating">
-
-                            <ul>
-<li style="padding: 5px;"><i class="fad fa-calendar-day" aria-hidden="true" style="color: #25b7c7;"></i><b>
-    <time class="dt-published"
-          datetime="{{ page.date | date_to_xmlschema }}"
-          itemprop="datePublished">
-        {{ page.date | date: site.date_format }}
-    </time>
-</b></li>
-
- <li style="padding: 5px;"><i class="fad fa-tag" aria-hidden="true" style="color: #25b7c7;"></i><b>
-     {%- if page.categories -%}
-     {% for category in page.categories %}
-     {{ category }}
-     {%- if forloop.last == false %}, {% endif -%}
-     {% endfor %}
-     {%- endif -%}
- </b> </li>
-
-                            </ul>
-
-                            <div class="product-details-image wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible;margin: 0 auto;animation-duration: 1s;animation-delay: 0.3s;animation-name: fadeInLeft;max-width: 600px;margin-top: 10px;">
-                                <img src="{{ page.image | escape }}" title="{{ page.title | escape }}" alt="{{ page.title | escape }}">
-                            </div>
-
-
-                        </div>
-
-
-                        <div class="single-pro-page-para">
-                      <p>
-
-                          {{ content }}
-
-                      </p>
-
-                    </div>
-
-
-
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-
 </article>
 
 
