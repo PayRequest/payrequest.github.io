@@ -41,17 +41,12 @@ PayRequest makes it easy to create payment links and share them worldwide with a
 
 <img alt="Stripe logo" src="https://payrequest.io/assets/img/stripe-partner-badges/L_Color_Solid.svg" style="height: 63px;padding: 6px;">
 
-<!-- TrustBox widget - Micro Review Count -->
-<div style="margin-left:10px;" class="trustpilot-widget" data-locale="en-US" data-template-id="5419b6a8b0d04a076446a9ad" data-businessunit-id="5f47f39cf225070001b40cfa" data-style-height="24px" data-style-width="250px" data-theme="light">
-  <a href="https://www.trustpilot.com/review/payrequest.io" target="_blank" rel="noopener">Trustpilot</a>
-</div>
-<!-- End TrustBox widget -->
  </div>
 </div>
 
  <div class="col-lg-6 col-md-6">
                   <div class="hero-right">
-                   <img src="https://payrequest.io/assets/img/banners/payment-links.png" alt="hero" style="
+                   <img src="https://media.payrequest.nl/images/brand/product-icons/payment-links-icon.svg" alt="payment links" style="
     transform: perspective(1000px) rotateY(-13deg) rotateX(5deg) rotateZ(7deg) scaleY(0.9) scaleX(0.95) translateX(-3%) translateY(-3%);
 ">
                      <div class="hero-dot-shape">
@@ -69,7 +64,7 @@ PayRequest makes it easy to create payment links and share them worldwide with a
             <div class="row align-items-center">
                <div class="col-lg-6">
                   <div class="companies-left">
-                     <h4>We let you accept all payment methods</h4>
+                     <h4> Create payment links with all payment methods </h4>
                   </div>
                </div>
                <div class="col-lg-6">
@@ -204,7 +199,9 @@ PayRequest makes it easy to create payment links and share them worldwide with a
              <div class="row align-items-center">
                   <div class="col-lg-6">
 <div class="about-left wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s; animation-name: fadeInLeft;">
-<h3>Manage all<br>Your Payment Pages<br>And Payment Links</h3>
+<h3>Create & Manage
+<br>Payment Links in the
+<br>PayRequest Dashboard</h3>
 <p>The PayRequest Dashboard lets you manage all your payment links and more, with a simple overview you can view all status and reminders that are send, you will also get a log update when someone views, payment or pays your payment link.
 </p>
                       
