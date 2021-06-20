@@ -73,7 +73,7 @@ title: Get paid faster with PayRequest
             <div class="row align-items-center">
                <div class="col-lg-6">
                   <div class="companies-left">
-                     <h4>Accept all payments worldwide</h4>
+                     <h4>Accept all payments methods with <b>PayRequest</b></h4>
                   </div>
                </div>
                <div class="col-lg-6">
