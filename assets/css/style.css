@@ -2322,7 +2322,7 @@ li {
 	color: #25b7c7;
 	font-weight: 400;
 	position: absolute;
-	left: -20px;
+	left: -30px;
 	top: 16px;
 	-webkit-transition: all 0.3s ease-in-out;
 	transition: all 0.3s ease-in-out;
@@ -5239,7 +5239,7 @@ aside .widget:last-child {
 	border: 5em;
 	cursor: pointer;
 	outline: none;
-	font-size: 14px;
+	font-size: 15px;
 	-webkit-transform: translate(0);
 	transform: translate(0);
 	background: linear-gradient(
@@ -5257,7 +5257,7 @@ aside .widget:last-child {
 	border: 5em;
 	cursor: pointer;
 	outline: none;
-	font-size: 16px;
+	font-size: 18px;
 	-webkit-transform: translate(0);
 	transform: translate(0);
 	background: linear-gradient(
