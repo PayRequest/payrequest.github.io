@@ -5216,3 +5216,75 @@ aside .widget:last-child {
 	margin-top: 30px;
 	max-width: 910px;
 }
+
+.prbutton-small {
+	border: 5em;
+	cursor: pointer;
+	outline: none;
+	font-size: 12px;
+	-webkit-transform: translate(0);
+	transform: translate(0);
+	background: linear-gradient(
+			130deg
+			, #1951bf 0%, #25b7c7 89%) !important;
+	padding: 0.5em 1em;
+	border-radius: 65px;
+	box-shadow: 1px 1px 10px rgb(255 255 255 / 44%);
+	-webkit-transition: box-shadow 0.25s;
+	transition: box-shadow 0.25s;
+	color: black;
+}
+
+.prbutton-medium {
+	border: 5em;
+	cursor: pointer;
+	outline: none;
+	font-size: 14px;
+	-webkit-transform: translate(0);
+	transform: translate(0);
+	background: linear-gradient(
+			130deg
+			, #1951bf 0%, #25b7c7 89%) !important;
+	padding: 0.6em 1.5em;
+	border-radius: 65px;
+	box-shadow: 1px 1px 10px rgb(255 255 255 / 44%);
+	-webkit-transition: box-shadow 0.25s;
+	transition: box-shadow 0.25s;
+	color: black;
+}
+
+.prbutton-big {
+	border: 5em;
+	cursor: pointer;
+	outline: none;
+	font-size: 16px;
+	-webkit-transform: translate(0);
+	transform: translate(0);
+	background: linear-gradient(
+			130deg
+			, #1951bf 0%, #25b7c7 89%) !important;
+	padding: 0.7em 2em;
+	border-radius: 65px;
+	box-shadow: 1px 1px 10px rgb(255 255 255 / 44%);
+	-webkit-transition: box-shadow 0.25s;
+	transition: box-shadow 0.25s;
+	color: black;
+}
+
+.prbutton:after {
+	content: "";
+	border-radius: 18px;
+	position: absolute;
+	margin: 4px;
+	top: 0;
+	left: 0;
+	bottom: 0;
+	right: 0;
+	z-index: -1;
+	background: white;
+}
+
+.prbutton:hover {
+	background-image: linear-gradient(-45deg, #4568dc, #b06ab3);
+	box-shadow: 0 12px 24px rgba(128, 128, 128, 0.1);
+}
