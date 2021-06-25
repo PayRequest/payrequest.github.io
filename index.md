@@ -30,7 +30,11 @@ title: Get paid faster with PayRequest
 <p>Create your own payment page with PayRequest and send payment requests via SMS, E-mail or QR Code.
 </p>
 
-<a href="https://dashboard.payrequest.io/dashboard" class="theme-btn mt-4"> Create Your Free Account<span class="fa fa-chevron-right"></span></a>
+<br />
+<a href="https://dashboard.payrequest.io/dashboard">
+<button class="prbutton prbutton-big"> <span class="fas fa-chevron-right" aria-hidden="true"></span> Create Your Free Account</button>
+</a>
+
 </div>
 
 

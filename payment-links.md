@@ -2,7 +2,6 @@
 title: Payment Links
 ---
 
-
 <section class="hero-section">
          <!-- Hero Shape Start -->
       
@@ -25,9 +24,9 @@ title: Payment Links
 <h2> Send Branded <span class="underline">Payment Links</span>
 </h2>
 
-<p>
+<h3>
 PayRequest makes it easy to create payment links and share them worldwide with all your customers, accept payments online.
-</p>
+</h3>
 
 <a href="http://dashboard.payrequest.io/" class="theme-btn mt-4"> Create Your Free Account<span class="fa fa-chevron-right"></span></a>
  </div>
@@ -64,7 +63,7 @@ PayRequest makes it easy to create payment links and share them worldwide with a
             <div class="row align-items-center">
                <div class="col-lg-6">
                   <div class="companies-left">
-                     <h4> Create payment links with all payment methods </h4>
+                     <h4> Accept all payments methods with PayRequest </h4>
                   </div>
                </div>
                <div class="col-lg-6">
