@@ -266,60 +266,13 @@ title: Get paid faster with PayRequest
 <section class="testimonial-section section_b_100">
          <div class="container">
             <div class="row">
-               <div class="col-lg-12">
-                  <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s">
-                     <h2>Why <span>Businesses</span> love <br> PayRequest</h2>
-                  </div>
-               </div>
-            </div>
-            <div class="row">
-               <div class="col-lg-12">
-                  <div class="testimonial-pos">
-                     <h3>feedback</h3>
-                  </div>
-               </div>
-               <div class="col-lg-12">
-                  <div class="testimonial-slider owl-carousel">
-                     <div class="testimonial-item">
-                        <div class="client-image">
-                           <img src="https://media.payrequest.nl/images/reviews/review-logo-partydoosmedia.webp" alt="partydoosmedia" />
-                        </div>
-                        <div class="testimonial-body">
-                           <p>Our business uses PayRequest to easily support Stripe Payments to our website. With easy integrations to our site and custom redirects after payments, nice customisation and helpful support PayRequest is one of the best no-code payment solution. </p>
-                        </div>
-                        <div class="testimonial-meta">
-                           <h3>Partydoosmedia</h3>
-                           <ul>
-                              <li><i class="fa fa-star"></i></li>
-                              <li><i class="fa fa-star"></i></li>
-                              <li><i class="fa fa-star"></i></li>
-                              <li><i class="fa fa-star"></i></li>
-                              <li><i class="fa fa-star-half-o"></i></li>
-                           </ul>
-                        </div>
-                     </div>
-                     <div class="testimonial-item">
-                        <div class="client-image">
-                           <img src="https://media.payrequest.nl/images/reviews/review-logo-hostingwalk.webp" alt="Hostingwalk" />
-                        </div>
-                        <div class="testimonial-body">
-                           <p>We use PayRequest to send dynamic payment links, thanks to their API and Webhook we can automate this process and save hours per month. </p>
-                        </div>
-                        <div class="testimonial-meta">
-                           <h3>Hostingwalk</h3>
-                           <ul>
-                              <li><i class="fa fa-star"></i></li>
-                              <li><i class="fa fa-star"></i></li>
-                              <li><i class="fa fa-star"></i></li>
-                              <li><i class="fa fa-star"></i></li>
-                              <li><i class="fa fa-star"></i></li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div>
-               </div>
-            </div>
-         </div>
+
+<script type="text/javascript" src="https://testimonial.to/js/iframeResizer.min.js"></script>
+<iframe id="testimonialto-payrequest-light" src="https://embed.testimonial.to/w/payrequest?theme=light&card=base" frameborder="0" scrolling="no" width="100%"></iframe>
+<script type="text/javascript">iFrameResize({log: false, checkOrigin: false}, "#testimonialto-payrequest-light");</script>
+
+</div>
+</div>
 </section>
  <!-- Testimonial Section End -->
 
