@@ -264,13 +264,16 @@ title: Get paid faster with PayRequest
 
 <!-- Testimonial Section Start -->
 <section class="section section_b_100">
-         <div class="container">
-            <div class="row">
+<div class="container">
+<div class="row">
 
 {% include twitter-feed.html %}
+
 </div>
 </div>
+
 </section>
+
  <!-- Testimonial Section End -->
 
 
