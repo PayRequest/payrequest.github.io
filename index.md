@@ -259,8 +259,8 @@ title: Get paid faster with PayRequest
                   </div>
                </div>
             </div>
-         </div>
-  </section>
+</div>
+</section>
 
 <!-- Testimonial Section Start -->
 
