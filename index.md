@@ -263,14 +263,11 @@ title: Get paid faster with PayRequest
   </section>
 
 <!-- Testimonial Section Start -->
-<section class="testimonial-section section_b_100">
+<section class="section section_b_100">
          <div class="container">
             <div class="row">
 
-<script type="text/javascript" src="https://testimonial.to/js/iframeResizer.min.js"></script>
-<iframe id="testimonialto-payrequest-light" src="https://embed.testimonial.to/w/payrequest?theme=light&card=base" frameborder="0" scrolling="no" width="100%"></iframe>
-<script type="text/javascript">iFrameResize({log: false, checkOrigin: false}, "#testimonialto-payrequest-light");</script>
-
+{% include twitter-feed.html %}
 </div>
 </div>
 </section>
