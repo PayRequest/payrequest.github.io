@@ -495,13 +495,14 @@ title: Get paid faster with PayRequest
                   <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
                      <div class="blog-image">
                         <a href="#">
-                        <img src="https://media.payrequest.nl/images/stripe-partner-news.webp" alt="Stripe Partner">
-                        </a>
+                        <img data-src="https://media.payrequest.nl/images/stripe-partner-news.webp" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" onload="lzld(this)" alt="Stripe Partner">
+
+</a>
                      </div>
                      <div class="blog-desc">
                         <div class="meta-image">
                            <div class="author-round">
-<img src="https://media.payrequest.nl/images/payrequest-news-icon.webp" alt="payrequest news icon">
+<img data-src="https://media.payrequest.nl/images/payrequest-news-icon.webp" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" onload="lzld(this)" alt="payrequest news icon" onload="lzld(this)">
                            </div>
                            <div class="tags">
 
@@ -536,7 +537,7 @@ title: Get paid faster with PayRequest
 <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.4s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.4s; animation-name: fadeInLeft;">
 <div class="blog-image">
 <a href="https://payrequest.io/payment-providers/multisafepay">
-<img src="https://media.payrequest.nl/images/multisafepay-news.webp" alt="multisafepay news"></a>
+<img data-src="https://media.payrequest.nl/images/multisafepay-news.webp" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" onload="lzld(this)" alt="multisafepay news"></a>
 </div>
 
 <div class="blog-desc">
@@ -570,7 +571,7 @@ title: Get paid faster with PayRequest
 <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInLeft;">
 <div class="blog-image">
 <a href="https://payrequest.io/api">
-<img src="https://media.payrequest.nl/images/payrequest-api.webp" alt="PayRequest API">
+<img data-src="https://media.payrequest.nl/images/payrequest-api.webp" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" onload="lzld(this)" alt="PayRequest API">
 </a>
 </div>
 
