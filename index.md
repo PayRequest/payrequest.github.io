@@ -134,7 +134,7 @@ title: Get paid faster with PayRequest
                   </div>
                   <div class="col-lg-6">
                      <div class="about-right wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
-                        <img src="https://media.payrequest.nl/images/payrequest-dashboard-v2.webp" alt="payrequest dashboard">
+                        <img class="lazy" data-src="https://media.payrequest.nl/images/payrequest-dashboard-v2.webp" alt="payrequest dashboard">
                      </div>
                   </div>
                </div>
@@ -294,7 +294,7 @@ title: Get paid faster with PayRequest
 <div class="col-lg-4 col-md-6">
 <div class="service-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
 <div class="service-icon">
-<img src="https://media.payrequest.nl/images/brand/product-icons/payment-page-icon.svg" />
+<img class="lazy" data-src="https://media.payrequest.nl/images/brand/product-icons/payment-page-icon.svg" />
 </div>
 <div class="service-title"><h3>Payment Pages</h3></div>
 <div class="service-desc">
@@ -314,7 +314,7 @@ title: Get paid faster with PayRequest
 <div class="col-lg-4 col-md-6">
 <div class="service-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
 <div class="service-icon">
-<img src="https://media.payrequest.nl/images/brand/product-icons/payment-links-icon.svg" />
+<img class="lazy" data-src="https://media.payrequest.nl/images/brand/product-icons/payment-links-icon.svg" />
 </div>
 <div class="service-title"><h3>Payment Links</h3></div>
 <div class="service-desc">
@@ -323,7 +323,7 @@ title: Get paid faster with PayRequest
 </div>
 
 <div class="service-icon-bottom">
-<img src="https://media.payrequest.nl/images/Icon%2020white.webp">
+<img class="lazy" data-src="https://media.payrequest.nl/images/Icon%2020white.webp">
 </div>
 </div>
 </div>
@@ -334,7 +334,7 @@ title: Get paid faster with PayRequest
 <div class="col-lg-4 col-md-6">
 <div class="service-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
 <div class="service-icon">
-<img src="https://media.payrequest.nl/images/brand/product-icons/donation-pages-icon.svg" />
+<img class="lazy" data-src="https://media.payrequest.nl/images/brand/product-icons/donation-pages-icon.svg" />
 </div>
 <div class="service-title"><h3>Donation Pages</h3></div>
 <div class="service-desc">
@@ -343,7 +343,7 @@ title: Get paid faster with PayRequest
 </div>
 
 <div class="service-icon-bottom">
-<img src="https://media.payrequest.nl/images/Icon%2020white.webp">
+<img class="lazy" data-src="https://media.payrequest.nl/images/Icon%2020white.webp">
 </div>
 </div>
 </div>
@@ -354,7 +354,7 @@ title: Get paid faster with PayRequest
 <div class="col-lg-4 col-md-6">
 <div class="service-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
 <div class="service-icon">
-<img src="https://media.payrequest.nl/images/brand/product-icons/pre-authorization-icon.svg" />
+<img class="lazy" data-src="https://media.payrequest.nl/images/brand/product-icons/pre-authorization-icon.svg" />
 </div>
 <div class="service-title"><h3>Pre-Authorization</h3></div>
 <div class="service-desc">
@@ -363,7 +363,7 @@ title: Get paid faster with PayRequest
 </div>
 
 <div class="service-icon-bottom">
-<img src="https://media.payrequest.nl/images/Icon%2020white.webp">
+<img class="lazy" data-src="https://media.payrequest.nl/images/Icon%2020white.webp">
 </div>
 </div>
 </div>
@@ -373,7 +373,7 @@ title: Get paid faster with PayRequest
 <div class="col-lg-4 col-md-6">
 <div class="service-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
 <div class="service-icon">
-<img src="https://media.payrequest.nl/images/brand/product-icons/subscriptions-icon.svg" />
+<img class="lazy" data-src="https://media.payrequest.nl/images/brand/product-icons/subscriptions-icon.svg" />
 </div>
 <div class="service-title"><h3>Subscriptions</h3></div>
 <div class="service-desc">
@@ -382,7 +382,7 @@ title: Get paid faster with PayRequest
 </div>
 
 <div class="service-icon-bottom">
-<img src="https://media.payrequest.nl/images/Icon%2020white.webp">
+<img class="lazy" data-src="https://media.payrequest.nl/images/Icon%2020white.webp">
 </div>
 </div>
 </div>
@@ -392,7 +392,7 @@ title: Get paid faster with PayRequest
 <div class="col-lg-4 col-md-6">
 <div class="service-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
 <div class="service-icon">
-<img src="https://media.payrequest.nl/images/brand/product-icons/invoices-icon.svg" />
+<img class="lazy" data-src="https://media.payrequest.nl/images/brand/product-icons/invoices-icon.svg" />
 </div>
 <div class="service-title"><h3>Online Invoices</h3></div>
 <div class="service-desc">
@@ -401,7 +401,7 @@ title: Get paid faster with PayRequest
 </div>
 
 <div class="service-icon-bottom">
-<img src="https://media.payrequest.nl/images/Icon%2020white.webp">
+<img class="lazy" data-src="https://media.payrequest.nl/images/Icon%2020white.webp">
 </div>
 </div>
 </div>
@@ -412,7 +412,7 @@ title: Get paid faster with PayRequest
 <div class="col-lg-4 col-md-6">
 <div class="service-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
 <div class="service-icon">
-<img src="https://media.payrequest.nl/images/brand/product-icons/webshop-pages-icon.svg" />
+<img class="lazy" data-src="https://media.payrequest.nl/images/brand/product-icons/webshop-pages-icon.svg" />
 </div>
 <div class="service-title"><h3>Webshop Pages</h3></div>
 <div class="service-desc">
@@ -421,7 +421,7 @@ title: Get paid faster with PayRequest
 </div>
 
 <div class="service-icon-bottom">
-<img src="https://media.payrequest.nl/images/Icon%2020white.webp">
+<img class="lazy" data-src="https://media.payrequest.nl/images/Icon%2020white.webp">
 </div>
 </div>
 </div>
@@ -431,7 +431,7 @@ title: Get paid faster with PayRequest
 <div class="col-lg-4 col-md-6">
 <div class="service-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
 <div class="service-icon">
-<img src="https://media.payrequest.nl/images/brand/product-icons/booking-pages-icon.svg" />
+<img class="lazy" data-src="https://media.payrequest.nl/images/brand/product-icons/booking-pages-icon.svg" />
 </div>
 <div class="service-title"><h3>Booking Pages</h3></div>
 <div class="service-desc">
@@ -440,7 +440,7 @@ title: Get paid faster with PayRequest
 </div>
 
 <div class="service-icon-bottom">
-<img src="https://media.payrequest.nl/images/Icon%2020white.webp">
+<img class="lazy" data-src="https://media.payrequest.nl/images/Icon%2020white.webp">
 </div>
 </div>
 </div>
@@ -450,7 +450,7 @@ title: Get paid faster with PayRequest
 <div class="col-lg-4 col-md-6">
 <div class="service-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
 <div class="service-icon">
-<img src="https://media.payrequest.nl/images/brand/product-icons/digital-downloads-icon.svg" />
+<img class="lazy" data-src="https://media.payrequest.nl/images/brand/product-icons/digital-downloads-icon.svg" />
 </div>
 <div class="service-title"><h3>Digital Downloads</h3></div>
 <div class="service-desc">
@@ -459,7 +459,7 @@ title: Get paid faster with PayRequest
 </div>
 
 <div class="service-icon-bottom">
-<img src="https://media.payrequest.nl/images/Icon%2020white.webp">
+<img class="lazy" data-src="https://media.payrequest.nl/images/Icon%2020white.webp">
 </div>
 </div>
 </div>
@@ -539,7 +539,7 @@ document.addEventListener("DOMContentLoaded", function() {
                      <div class="blog-desc">
                         <div class="meta-image">
                            <div class="author-round">
-<img data-src="https://media.payrequest.nl/images/payrequest-news-icon.webp" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazy" alt="payrequest news icon" onload="lzld(this)">
+<img class="lazy" data-src="https://media.payrequest.nl/images/payrequest-news-icon.webp" alt="payrequest news icon">
                            </div>
                            <div class="tags">
 
