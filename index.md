@@ -507,7 +507,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
 
-<img class="lazy" data-src="https://ik.imagekit.io/demo/img/image4.jpeg?tr=w-400,h-300" />
+
        
  <!-- Blog Section Start -->
 <section class="blog-section section_100">
@@ -531,7 +531,8 @@ document.addEventListener("DOMContentLoaded", function() {
                   <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
                      <div class="blog-image">
                         <a href="#">
-<img data-src="https://media.payrequest.nl/images/stripe-partner-news.webp" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazy" alt="Stripe Partner">
+
+<img class="lazy" data-src="https://media.payrequest.nl/images/stripe-partner-news.webp" alt="Stripe Partner" />
 
 </a>
                      </div>
@@ -573,7 +574,8 @@ document.addEventListener("DOMContentLoaded", function() {
 <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.4s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.4s; animation-name: fadeInLeft;">
 <div class="blog-image">
 <a href="https://payrequest.io/payment-providers/multisafepay">
-<img data-src="https://media.payrequest.nl/images/multisafepay-news.webp" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazy" alt="multisafepay news"></a>
+<img class="lazy" data-src="https://media.payrequest.nl/images/multisafepay-news.webp" alt="multisafepay news" />
+</a>
 </div>
 
 <div class="blog-desc">
@@ -607,7 +609,7 @@ document.addEventListener("DOMContentLoaded", function() {
 <div class="blog-item wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.5s; animation-name: fadeInLeft;">
 <div class="blog-image">
 <a href="https://payrequest.io/api">
-<img data-src="https://media.payrequest.nl/images/payrequest-api.webp" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" class="lazy" alt="PayRequest API">
+<img class="lazy" data-src="https://media.payrequest.nl/images/payrequest-api.webp" alt="PayRequest API" />
 </a>
 </div>
 
