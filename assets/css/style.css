@@ -5289,3 +5289,31 @@ aside .widget:last-child {
 	background-image: linear-gradient(-45deg, #4568dc, #b06ab3);
 	box-shadow: 0 12px 24px rgba(128, 128, 128, 0.1);
 }
+
+.dropdown-icon {
+	position: absolute;
+	width: 64px;
+	height: 64px;
+	border-radius: 8px;
+	background-color: #f4f7fa;
+}
+.M-16 {
+	margin: 16px!important;
+	height: 55%;
+}
+.dropdown-content {
+	margin-left: 88px;
+	min-height: 70px;
+}
+.dropdown-title {
+	color: black;
+	margin-bottom: 8px;
+	font-weight: 500;
+}
+.dropdown-subline {
+	margin-bottom: 0;
+	font-size: 10px;
+	line-height: 10px;
+	font-weight: 400;
+	letter-spacing: .5px;
+}
