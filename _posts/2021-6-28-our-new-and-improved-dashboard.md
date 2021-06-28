@@ -2,13 +2,17 @@
 layout: post
 title: Our New and Improved Dashboard
 categories: [update]
-image: https://media.payrequest.nl/images/banners/10-business-tips-to-get-paid-faster.png
+image: https://media.payrequest.nl/images/banners/improved-dashboard.png
 tags:
 - color-logo
 ---
 
-text
+Last months wer worked hard to improve our dashboard, 
 
-##   text
+##   Changelog Improved Dashboard 2021
 
-text
+
+
+### Bootstrap 5
+jjj
+
