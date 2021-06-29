@@ -515,12 +515,11 @@ document.addEventListener("DOMContentLoaded", function() {
             <div class="row align-items-center">
                <div class="col-lg-5 col-md-12">
                   <div class="section-title wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInLeft;">
-                     <h2><span>Product</span> Updates</h2>
+                     <h2><span>PayRequest</span> Blog</h2>
                   </div>
                </div>
                <div class="col-lg-7 col-md-12">
                   <div class="section-para wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.4s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.4s; animation-name: fadeInRight;">
-                     <p>We keep working on PayRequest to make it better</p>
                   </div>
                </div>
             </div>
@@ -532,7 +531,7 @@ document.addEventListener("DOMContentLoaded", function() {
                      <div class="blog-image">
                         <a href="#">
 
-<img class="lazy" data-src="https://media.payrequest.nl/images/stripe-partner-news.webp" alt="Stripe Partner" />
+<img class="lazy" data-src="https://media.payrequest.nl/images/banners/improved-dashboard.png" alt="Stripe Partner" />
 
 </a>
                      </div>
@@ -561,8 +560,8 @@ document.addEventListener("DOMContentLoaded", function() {
 </div></div>
 
 <div class="blog-text">
-<a href="https://medium.com/payrequest/payrequest-joins-stripe-partner-program-765eb3de62b3">
-<h3>PayRequest joins Stripe Partner program</h3> </a>
+<a href="https://payrequest.io/blog/our-new-and-improved-dashboard">
+<h3>Our New and Improved Dashboard</h3> </a>
                         </div>
                      </div>
                   </div>

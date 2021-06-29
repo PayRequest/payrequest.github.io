@@ -29,6 +29,10 @@ and make it more easy to create a payment link in less then 1 minutes.
 max-width: 500px;
 ">
 
+## Onboarding (for new customers)
+
+
+
 
 ## Feedback
 We hope you will enjoy our new dashboard, and if you have any questions or feedback, you can reach us 24x7 via livechat or e-mail.
