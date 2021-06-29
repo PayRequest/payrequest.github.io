@@ -26,7 +26,7 @@ title: Payment Pages
  <h2> Create your own
 <span class="underline">Payment Page</span></h2>
 <p>
-With PayRequest you can create your own payrequest.me payment page, and accept payments from your cvustomers worldwide.
+With PayRequest you can create your own payrequest.me payment page, and accept payments from your customers worldwide.
 </p>
 
 <a href="http://dashboard.payrequest.io/" class="theme-btn mt-4"> Create Your Free Account <span class="fa fa-chevron-right"></span> </a>
