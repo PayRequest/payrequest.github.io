@@ -38,11 +38,22 @@ and make it more easy to create a payment link in less then 1 minutes.
 
 <br />
 
+## Insights 2.0
+See the statistics of all your payments in an overview,
+And keep track of customers that have a low open rate, or still not have paid after many payment reminders.
+
+
+<img src="https://media.payrequest.nl/images/banners/Insights-2-0.png" style="max-width: 500px;">
+
+<br />
+
 ## Onboarding (for new customers)
 To help new customers set up their account, we've set up an entire onboarding page,
 where they can choose their payrequest.me name and connect Stripe, so they can immediately start making payments.
 
 <img src="https://media.payrequest.nl/images/banners/onboarding-screenshot.png" style="max-width: 500px;">
+
+<br />
 
 ## Feedback
 We hope you will enjoy our new dashboard, and if you have any questions or feedback, you can reach us 24x7 via livechat or e-mail.
