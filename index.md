@@ -265,7 +265,7 @@ title: Get paid faster with PayRequest
 <!-- Testimonial Section Start -->
 
 
-{% include twitter-feed.html %}
+
 
 
  <!-- Testimonial Section End -->
