@@ -21,14 +21,15 @@ title: Payrequest PRO
             <div class="row align-items-center">
              <div class="col-lg-6 col-md-6">
                   <div class="hero-left">
-<h2> More Features with, <span class="underline">PayRequest PRO</span>
+<h2> More Features, <span class="underline">PayRequest PRO</span>
 </h2>
 
 <h3>
-PayRequest makes it easy to create payment links and share them worldwide with all your customers, accept payments online.
+For just €20 per month you get access to features like Subscriptions, Payment Links, PayPal, Custom CSS, Whitelabel and
+a Reduced Service Fee (0,5%) instead of 1%!
 </h3>
 
-<a href="http://dashboard.payrequest.io/" class="theme-btn mt-4"> Create Your Free Account<span class="fa fa-chevron-right"></span></a>
+<a href="http://dashboard.payrequest.io/" class="theme-btn mt-4"> Start 30-day Trial<span class="fa fa-chevron-right"></span></a>
  </div>
 
 
@@ -98,8 +99,8 @@ PayRequest makes it easy to create payment links and share them worldwide with a
          <div class="container">
             <div class="service-details-text">
                         <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
-                     <h2>Payment Links <span>Use Cases</span></h2>
-    <p>Payments links are a great way to request for payments, you can easily share them on your website, via SMS or E-mail.</p>
+                     <h2>PayRequest PRO <span>Benefits</span></h2>
+    <p>PayRequest PRO noy only saves you money, it also gives you more features for growing your online business.</p>
                   </div>
 
 
@@ -109,10 +110,10 @@ PayRequest makes it easy to create payment links and share them worldwide with a
                               <div class="col-md-6">
                                  <div class="service-works-item">
                                     <div class="service-works-icon2">
-                                  <i class="fad fa-user-headset" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                  <i class="fad fa-badge-percent" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
                                     </div>
                                     <div class="service-works-info">
-                                       <h5>Payment Links for Customer Support
+                                       <h5>Reduced Service Fee (0,5%)
 </h5>
                                        <p>Most reasons customers are contacting a support team is because billing related questions, save time by sending payment links directly via support tickets or in a live-chat.
 </p>
@@ -122,14 +123,15 @@ PayRequest makes it easy to create payment links and share them worldwide with a
                               <div class="col-md-6">
                                  <div class="service-works-item">
                                     <div class="service-works-icon2">
-                                  <i class="fad fa-mailbox" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                  <i class="fab fa-paypal" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true" fab=""></i>
                                     </div>
                                     <div class="service-works-info">
-                                       <h5>Payment Links for E-mail Payments
+                                       <h5>Access to all Payment Providers
 <br>
 
 </h5>
-                                       <p>Sometimes you have not the ability to directly let customers pay, in that case you send them a payment link via e-mail, and they can pay later if they checking their e-mail.
+                                       <p>Stripe is a popular payment provider, but sometimes you need to use another payment provider, with PRO you can choose from  PayPal, Bunq, MultiSafePay &amp; Mollie Integration
+
 </p>
                                     </div>
                                  </div>
@@ -137,13 +139,13 @@ PayRequest makes it easy to create payment links and share them worldwide with a
                               <div class="col-md-6">
                                  <div class="service-works-item">
                                     <div class="service-works-icon2">
-                                  <i class="fad fa-file-invoice" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                  <i class="fad fa-repeat-alt" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true" fad=""></i>
                                     </div>
                                     <div class="service-works-info">
-  <h5>Payment Links for Overdue Invoices
+  <h5>Subscriptions &amp; Payment Plans
 <br> 
 </h5>
-                                       <p>Has you customer still not paid there invoice after some weeks? Best way is to remind them is with a payment link, and offer them an easy way to pay your invoice without extra fees.
+                                       <p>With Subscriptions you can accept recurring payments, customers can self-service their subscriptions, also you can use payment plans  
 </p>
                                     </div>
                                  </div>
@@ -154,15 +156,14 @@ PayRequest makes it easy to create payment links and share them worldwide with a
 <div class="col-md-6">
                                  <div class="service-works-item">
                                     <div class="service-works-icon2">
-                                  <i class="fad fa-shopping-cart" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                  <i class="fad fa-paint-brush" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
                                     </div>
                                     <div class="service-works-info">
-                                       <h5>Payment Links for Digital Goods
-
+                                       <h5>Whitelabel &amp; Custom CSS
 <br>
 
 </h5>
-                                       <p>Selling Online Products? then payment links are the easiest way to get paid for your digital goods, just add a payment link on your website, and deliver your digital goods after payment.
+                                       <p>Replace payrequest.me/samsung with pay.samsung.com for example, give customers more confidence and make any customization you want Custom CSS!
 </p>
                                     </div>
                                  </div>
