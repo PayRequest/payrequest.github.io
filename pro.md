@@ -46,7 +46,7 @@ a Reduced Service Fee (0,5%) instead of 1%!
 
  <div class="col-lg-6 col-md-6">
                   <div class="hero-right">
-                   <img src="https://media.payrequest.nl/images/brand/product-icons/payment-links-icon.svg" alt="payment links" style="
+                   <img src="https://i.imgur.com/0ybWaQv.png" alt="payment links" style="
     transform: perspective(1000px) rotateY(-13deg) rotateX(5deg) rotateZ(7deg) scaleY(0.9) scaleX(0.95) translateX(-3%) translateY(-3%);
 ">
                      <div class="hero-dot-shape">
