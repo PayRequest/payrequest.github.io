@@ -42,7 +42,7 @@ title: Subscriptions
 
  <div class="col-lg-6 col-md-6">
                   <div class="hero-right">
-                   <img src="https://i.imgur.com/liTJiHB.png" alt="payment links" style="
+                   <img src="https://media.payrequest.nl/images/subscriptions-tablet.png" alt="manage subscriptions" style="
     transform: perspective(1000px) rotateY(-13deg) rotateX(5deg) rotateZ(7deg) scaleY(0.9) scaleX(0.95) translateX(-3%) translateY(-3%);
 ">
                      <div class="hero-dot-shape">
@@ -210,8 +210,8 @@ especially Fitness, Yoga, Gaming, Music companies are creating new subscriptions
          <div class="container">
             <div class="service-details-text">
                         <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
-                     <h2>Payment Link <span>Features</span></h2>
-    <p>With a payment link you can accept payments from your customers.</p>
+                     <h2>Subscription Platform <span>Features</span></h2>
+    <p>We offer you a all-in-one Subscription management software, no code required. </p>
                   </div>
 
 
@@ -221,15 +221,12 @@ especially Fitness, Yoga, Gaming, Music companies are creating new subscriptions
                               <div class="col-md-6">
                                  <div class="service-works-item">
                                     <div class="service-works-icon2">
-                                  <i class="fad fa-euro-sign" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                  <i class="fad fa-sitemap" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
                                     </div>
                                     <div class="service-works-info">
-                                       <h5>Multi Currency
-
+                                       <h5>Payment Plans
 </h5>
-                                       <p>We support al major currencies all around the globe, with realtime currency conversion for every currency.
-
-
+                                       <p>With payment plans you can create one-time or subscription plans, This will save you time and keep you organized.
 </p>
                                     </div>
                                  </div>
@@ -240,10 +237,9 @@ especially Fitness, Yoga, Gaming, Music companies are creating new subscriptions
                                   <i class="fad fa-paint-brush" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
                                     </div>
                                     <div class="service-works-info">
-                                       <h5>Branded Payment Links
-
+                                       <h5>Your own Branding
 </h5>
-                                       <p>Send en Share Payment Links with your own brand logo &amp; background, also you can choose your own colors.
+                                       <p>You can use your own logo and background on your billing portal and payment links, and even your own colors.
 
 
 </p>
@@ -256,7 +252,7 @@ especially Fitness, Yoga, Gaming, Music companies are creating new subscriptions
                                   <i class="fad fa-language" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
                                     </div>
                                     <div class="service-works-info">
-                                       <h5>Accept Local Payment Methodds
+                                       <h5>Multi Language &amp; Multi Currency
 </h5>
                                        <p>Never say no again, we support 20+ local payment methods from Africa, Europe, North America and Asia.
 
@@ -271,14 +267,12 @@ especially Fitness, Yoga, Gaming, Music companies are creating new subscriptions
 <div class="col-md-6">
                                  <div class="service-works-item">
                                     <div class="service-works-icon2">
-                                  <i class="fa fa-money-bill-wave" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                  <i class="fa fa-user-edit" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
                                     </div>
                                     <div class="service-works-info">
-                                       <h5>Multi Currency
-
+                                       <h5>Customer Management
 </h5>
-                                       <p>We support al major currencies all around the globe, with realtime currency conversion for every currency.
-
+                                       <p>Manage all your customers via the customers list, search customers or add customer notes via a customers profile.
 </p>
                                     </div>
                                  </div>
@@ -301,7 +295,10 @@ especially Fitness, Yoga, Gaming, Music companies are creating new subscriptions
 </p>
                                     </div>
                                  </div>
-                              </div><div class="col-md-6">
+                              </div>
+
+
+<div class="col-md-6">
                                  <div class="service-works-item">
                                     <div class="service-works-icon2">
                                   <i class="fad fa-analytics" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
@@ -313,6 +310,63 @@ especially Fitness, Yoga, Gaming, Music companies are creating new subscriptions
                                        <p>We make sure you can track all payment activity like: if your payment links is opened, and a notification when you get paid.
 
 
+</p>
+                                    </div>
+                                 </div>
+                              </div>
+
+
+<div class="col-md-6">
+                                 <div class="service-works-item">
+                                    <div class="service-works-icon2">
+                                  <i class="fad fa-sign-in" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="service-works-info">
+                                       <h5>PayRequest Billing Portal
+</h5>
+                                       <p>Customers can login and placing orders, and see their invoices (and only if you want) cancel their subscriptions.
+</p>
+                                    </div>
+                                 </div>
+                              </div>
+
+<div class="col-md-6">
+                                 <div class="service-works-item">
+                                    <div class="service-works-icon2">
+                                  <i class="fad fa-receipt" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="service-works-info">
+                                       <h5>Online Invoices
+</h5>
+                                       <p>With every payment your customer receives an online invoice, they can download all their invoices via your billing portal.
+</p>
+                                    </div>
+                                 </div>
+                              </div>
+
+
+<div class="col-md-6">
+                                 <div class="service-works-item">
+                                    <div class="service-works-icon2">
+                                  <i class="fab fa-cc-visa" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="service-works-info">
+                                       <h5>Multiple Payment Options
+</h5>
+                                       <p>Customers can activate their subscription via the following payment methods: Credit Card, iDeal and Bancontact.
+</p>
+                                    </div>
+                                 </div>
+                              </div><div class="col-md-6">
+                                 <div class="service-works-item">
+                                    <div class="service-works-icon2">
+                                  <i class="fad fa-history" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="service-works-info">
+                                       <h5>Payment Schedules
+
+</h5>
+                                       <p>Schedule your payment plans to automatically bill your customers every day, week, month and even years.
 </p>
                                     </div>
                                  </div>
