@@ -145,9 +145,7 @@ especially Fitness, Yoga, Gaming, Music companies are creating new subscriptions
 </section>
 
 
-
-
- <section class="about-section">
+<section class="about-section">
          <!-- Top Shape Start -->
          <div class="about-top-shape">
             <img src="http://themescare.com/demos/robofume-view/assets/img/about-shape.png" alt="about shape">
@@ -162,9 +160,9 @@ especially Fitness, Yoga, Gaming, Music companies are creating new subscriptions
              <div class="row align-items-center">
                   <div class="col-lg-6">
 <div class="about-left wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s; animation-name: fadeInLeft;">
-<h3>Create & Manage
-<br>Payment Links in the
-<br>PayRequest Dashboard</h3>
+<h3>Get your own Billing Portal.
+<br>Let Customers manage their  Subscriptions.
+</h3>
 <p>The PayRequest Dashboard lets you manage all your payment links and more, with a simple overview you can view all status and reminders that are send, you will also get a log update when someone views, payment or pays your payment link.
 </p>
 
@@ -172,7 +170,7 @@ especially Fitness, Yoga, Gaming, Music companies are creating new subscriptions
 </div>
 <div class="col-lg-6">
 <div class="about-right wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
-  <img src="https://payrequest.io/assets/img/banners/payrequest-dashboard-v2.png" alt="payrequest dashboard">
+  <img src="https://i.imgur.com/Pxr5qZM.png" alt="payrequest dashboard">
                      </div>
 </div>
     </div>
@@ -185,14 +183,15 @@ especially Fitness, Yoga, Gaming, Music companies are creating new subscriptions
           <div class="row align-items-center">
                   <div class="col-lg-6">
                      <div class="about-right wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s; animation-name: fadeInLeft;">
-                        <img src="https://ph-files.imgix.net/1bc052d0-8494-4055-8c79-9ee65c25f08e.png?auto=format&amp;auto=compress&amp;codec=mozjpeg&amp;cs=strip&amp;w=675.5555555555555&amp;h=380&amp;fit=max&amp;dpr=2" alt="about">
+                        <img src="https://i.imgur.com/liTJiHB.png" alt="about">
                      </div>
                   </div>
                   <div class="col-lg-6">
                      <div class="about-left wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
- <h3>Dynamic Payment Links
-<br>For custom amounts</h3>
-                        <p>Save time with creating payment links, just use dynamic links like: payrequest.me/name/12,50 or even payrequest.me/12,50/title/email
+ <h3>Manage your Subscriptions
+<br>Via the PayRequest Dashboard</h3>
+                        <p>See al your customers at a glance, search for a customer, filter on name, email or even creation date, also you can create customers.
+
 
 </p>
 
@@ -203,7 +202,6 @@ especially Fitness, Yoga, Gaming, Music companies are creating new subscriptions
  </div>
  <!-- About Bottom End -->
 </section>
-
 
 
 <section class="contact-form section_100">
