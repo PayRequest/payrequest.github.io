@@ -54,49 +54,15 @@ title: Subscriptions
          </div>
 </section>
 
- <!-- All Payment Methods Section Start -->
- <section class="companies-section section_b_70 wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.2s">
-         <div class="container">
-            <div class="row align-items-center">
-               <div class="col-lg-6">
-                  <div class="companies-left">
-                     <h4> Accept all payments methods with PayRequest </h4>
-                  </div>
-               </div>
-               <div class="col-lg-6">
-                  <div class="companies-slider owl-carousel">
-                     <div class="single-com-slider">
-                        <a href="#"><img src="https://payrequest.io/assets/img/payment-icons/ideal@2x.png" alt="ideal" /></a>
-                     </div>
-                     <div class="single-com-slider">
-                        <a href="#"><img src="https://payrequest.io/assets/img/payment-icons/visa@2x.png" alt="visa" /></a>
-                     </div>
-                     <div class="single-com-slider">
-                        <a href="#"><img src="https://payrequest.io/assets/img/payment-icons/mastercard@2x.png" alt="mastercard" /></a>
-                     </div>
-                     <div class="single-com-slider">
-                        <a href="#"><img src="https://payrequest.io/assets/img/payment-icons/sofort@2x.png" alt="sofort banking" /></a>
-                     </div>
 
-  <div class="single-com-slider">
-<a href="#"><img src="https://payrequest.io/assets/img/payment-icons/giropay@2x.png" alt="giropay" /></a>
-                     </div>
-
-
- </div>
-               </div>
-            </div>
-         </div>
-</section>
- <!-- All Payment Methods Section End -->
 
 
 <section class="contact-form section_100">
          <div class="container">
             <div class="service-details-text">
                         <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
-                     <h2>Payment Links <span>Use Cases</span></h2>
-    <p>Payments links are a great way to request for payments, you can easily share them on your website, via SMS or E-mail.</p>
+                     <h2>A Subscription  <span>Platform for every Business</span></h2>
+    <p>With our Subscriptions Platform you can directly start creating subscriptions, and receiving recurring payments form your customers or supporters.</p>
                   </div>
 
 
@@ -106,12 +72,12 @@ title: Subscriptions
                               <div class="col-md-6">
                                  <div class="service-works-item">
                                     <div class="service-works-icon2">
-                                  <i class="fad fa-user-headset" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                  <i class="fad fa-podcast" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
                                     </div>
                                     <div class="service-works-info">
-                                       <h5>Payment Links for Customer Support
+                                       <h5>Subscriptions for Podcasts or Supporters
 </h5>
-                                       <p>Most reasons customers are contacting a support team is because billing related questions, save time by sending payment links directly via support tickets or in a live-chat.
+                                       <p>Subscriptions are a great way to receive payments from your listeners or fans, it gives you independicy as you not need anymore need to show ads or keep asking for donations, so you can just do what you love.
 </p>
                                     </div>
                                  </div>
@@ -119,14 +85,15 @@ title: Subscriptions
                               <div class="col-md-6">
                                  <div class="service-works-item">
                                     <div class="service-works-icon2">
-                                  <i class="fad fa-mailbox" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                  <i class="fad fa-box-open" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
                                     </div>
                                     <div class="service-works-info">
-                                       <h5>Payment Links for E-mail Payments
+                                       <h5>Subscriptions for Monthly subscription boxes
+
 <br>
 
 </h5>
-                                       <p>Sometimes you have not the ability to directly let customers pay, in that case you send them a payment link via e-mail, and they can pay later if they checking their e-mail.
+                                       <p>Not only food boxes are popular also other markets are creating their own subscription boxes, you have for example beauty boxes to meal boxes and wine boxes, clothing boxes and so on. 
 </p>
                                     </div>
                                  </div>
@@ -134,13 +101,13 @@ title: Subscriptions
                               <div class="col-md-6">
                                  <div class="service-works-item">
                                     <div class="service-works-icon2">
-                                  <i class="fad fa-file-invoice" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                  <i class="fad fa-user-tie" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
                                     </div>
                                     <div class="service-works-info">
-  <h5>Payment Links for Overdue Invoices
+  <h5>Subscriptions for SaaS Businesses
 <br> 
 </h5>
-                                       <p>Has you customer still not paid there invoice after some weeks? Best way is to remind them is with a payment link, and offer them an easy way to pay your invoice without extra fees.
+                                       <p>We offer a Subscription management software for Startups and SaaS businesses to automate their recurring payments, with our API and Zapier integration you can intehgrate it with your own applications.
 </p>
                                     </div>
                                  </div>
@@ -151,15 +118,15 @@ title: Subscriptions
 <div class="col-md-6">
                                  <div class="service-works-item">
                                     <div class="service-works-icon2">
-                                  <i class="fad fa-shopping-cart" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                  <i class="fad fa-popcorn" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
                                     </div>
                                     <div class="service-works-info">
-                                       <h5>Payment Links for Digital Goods
-
+                                       <h5>Subscriptions for Sport &amp; Entertainment
 <br>
 
 </h5>
-                                       <p>Selling Online Products? then payment links are the easiest way to get paid for your digital goods, just add a payment link on your website, and deliver your digital goods after payment.
+                                       <p>Many Businesses in the Sport &amp; Entertainment industry, are experimentalizing with Subscription Business Models, 
+especially Fitness, Yoga, Gaming, Music companies are creating new subscriptions to grow their MRR.
 </p>
                                     </div>
                                  </div>
