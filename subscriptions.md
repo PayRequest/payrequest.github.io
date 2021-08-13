@@ -75,9 +75,9 @@ title: Subscriptions
                                   <i class="fad fa-podcast" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
                                     </div>
                                     <div class="service-works-info">
-                                       <h5>Subscriptions for Podcasts or Supporters
-</h5>
-                                       <p>Subscriptions are a great way to receive payments from your listeners or fans, it gives you independicy as you not need anymore need to show ads or keep asking for donations, so you can just do what you love.
+<h5>Subscriptions for Podcasts or Supporters</h5>
+ <p>
+Subscriptions are a great way to receive payments from your listeners or fans, it gives you independence as you no longer need to show ads or keep asking for donations, so you can just do what you love.
 </p>
                                     </div>
                                  </div>
@@ -88,12 +88,9 @@ title: Subscriptions
                                   <i class="fad fa-box-open" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
                                     </div>
                                     <div class="service-works-info">
-                                       <h5>Subscriptions for Monthly subscription boxes
-
-<br>
-
-</h5>
-                                       <p>Not only food boxes are popular also other markets are creating their own subscription boxes, you have for example beauty boxes to meal boxes and wine boxes, clothing boxes and so on. 
+<h5>Subscriptions for Monthly subscription boxes<br></h5>
+<p>
+Not only food boxes are popular, other markets are creating their own subscription boxes. For example you have beauty boxes, toy boxes, wine boxes, clothing boxes and many more.
 </p>
                                     </div>
                                  </div>
@@ -107,7 +104,8 @@ title: Subscriptions
   <h5>Subscriptions for SaaS Businesses
 <br> 
 </h5>
-                                       <p>We offer a Subscription management software for Startups and SaaS businesses to automate their recurring payments, with our API and Zapier integration you can intehgrate it with your own applications.
+<p>
+We offer Subscription management software for Startups and SaaS businesses to automate their recurring payments, with our API and Zapier integration you can integrate it seamlessly with your own applications.
 </p>
                                     </div>
                                  </div>
@@ -125,8 +123,8 @@ title: Subscriptions
 <br>
 
 </h5>
-                                       <p>Many Businesses in the Sport &amp; Entertainment industry, are experimentalizing with Subscription Business Models, 
-especially Fitness, Yoga, Gaming, Music companies are creating new subscriptions to grow their MRR.
+<p>
+Many Businesses in the Sport & Entertainment industry, are experimenting with Subscription Business Models, especially Fitness, Yoga, Gaming & Music companies are creating new subscriptions to grow their MRR.
 </p>
                                     </div>
                                  </div>
@@ -161,9 +159,10 @@ especially Fitness, Yoga, Gaming, Music companies are creating new subscriptions
                   <div class="col-lg-6">
 <div class="about-left wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s; animation-name: fadeInLeft;">
 <h3>Get your own Billing Portal.
-<br>Let Customers manage their  Subscriptions.
+<br>Let Customers manage their Subscriptions.
 </h3>
-<p>The PayRequest Dashboard lets you manage all your payment links and more, with a simple overview you can view all status and reminders that are send, you will also get a log update when someone views, payment or pays your payment link.
+<p>
+The PayRequest Dashboard lets you manage all your payment links and more, with a simple overview you can view all status and reminders that are sent, you will also get a log update when someone opens or pays your payment link.
 </p>
 
 </div>
@@ -190,9 +189,7 @@ especially Fitness, Yoga, Gaming, Music companies are creating new subscriptions
                      <div class="about-left wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
  <h3>Manage your Subscriptions
 <br>Via the PayRequest Dashboard</h3>
-                        <p>See al your customers at a glance, search for a customer, filter on name, email or even creation date, also you can create customers.
-
-
+ <p>See all your customers at a glance, search for a customer, filter on name, email or even creation date, also you can create customers.
 </p>
 
 </div>
@@ -209,7 +206,7 @@ especially Fitness, Yoga, Gaming, Music companies are creating new subscriptions
             <div class="service-details-text">
                         <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
                      <h2>Subscription Platform <span>Features</span></h2>
-    <p>We offer you a all-in-one Subscription management software, no code required. </p>
+    <p>We offer you all-in-one Subscription management software, no code required. </p>
                   </div>
 
 
@@ -222,8 +219,7 @@ especially Fitness, Yoga, Gaming, Music companies are creating new subscriptions
                                   <i class="fad fa-sitemap" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
                                     </div>
                                     <div class="service-works-info">
-                                       <h5>Payment Plans
-</h5>
+                                       <h5>Payment Plans</h5>
                                        <p>With payment plans you can create one-time or subscription plans, This will save you time and keep you organized.
 </p>
                                     </div>
@@ -302,12 +298,9 @@ especially Fitness, Yoga, Gaming, Music companies are creating new subscriptions
                                   <i class="fad fa-analytics" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
                                     </div>
                                     <div class="service-works-info">
-                                       <h5>Payment Tracking
-
-</h5>
-                                       <p>We make sure you can track all payment activity like: if your payment links is opened, and a notification when you get paid.
-
-
+                                       <h5>Payment Tracking</h5>
+<p>
+We make sure you can track all payment activities. For example if your payment link is opened, and receive a notification when you get paid.
 </p>
                                     </div>
                                  </div>
