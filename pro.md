@@ -1,5 +1,5 @@
 ---
-title: Payrequest PRO
+title: PayRequest PRO
 ---
 
 <section class="hero-section">
@@ -7,7 +7,7 @@ title: Payrequest PRO
 
  <div class="hero-shape5">
 
-<img src="https://payrequest.io/assets/logos/Icon%20white.png" alt="shape" style="max-width: 160px;">
+<img src="https://payrequest.io/assets/logos/Icon%20white.png" alt="payrequest icon" style="max-width: 160px;">
          </div>
          <!-- Hero Shape End -->
 
@@ -25,11 +25,10 @@ title: Payrequest PRO
 </h2>
 
 <h3>
-For just €20 per month you get access to features like Subscriptions, Payment Links, PayPal, Custom CSS, Whitelabel and
-a Reduced Service Fee (0,5%) instead of 1%!
+With our PRO plan you get Subscriptions, Payment Plans, Custom CSS and a reduced fee for just 20% per month.
 </h3>
 
-<a href="http://dashboard.payrequest.io/" class="theme-btn mt-4"> Start 30-day Trial<span class="fa fa-chevron-right"></span></a>
+<a href="/pricing" class="theme-btn mt-4"> Go to Pricing <span class="fa fa-chevron-right"></span></a>
  </div>
 
 
@@ -66,7 +65,7 @@ a Reduced Service Fee (0,5%) instead of 1%!
             <div class="service-details-text">
                         <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
                      <h2>PayRequest PRO <span>Benefits</span></h2>
-    <p>PayRequest PRO noy only saves you money, it also gives you more features for growing your online business.</p>
+    <p>PayRequest PRO noy only saves you money, it also gives you more features to growing your online business.</p>
                   </div>
 
 
@@ -81,7 +80,7 @@ a Reduced Service Fee (0,5%) instead of 1%!
                                     <div class="service-works-info">
                                        <h5>Reduced Service Fee (0,5%)
 </h5>
-                                       <p>Most reasons customers are contacting a support team is because billing related questions, save time by sending payment links directly via support tickets or in a live-chat.
+ <p>With PayRequest Basic our service fee is 1%. If you consider using PayRequest PRO your service fee is only 0.5% with a payment of €1000 you already saving €5!
 </p>
                                     </div>
                                  </div>
@@ -148,9 +147,7 @@ a Reduced Service Fee (0,5%) instead of 1%!
 </section>
 
 
-
-
- <section class="about-section">
+<section class="about-section">
          <!-- Top Shape Start -->
          <div class="about-top-shape">
             <img src="http://themescare.com/demos/robofume-view/assets/img/about-shape.png" alt="about shape">
@@ -165,17 +162,18 @@ a Reduced Service Fee (0,5%) instead of 1%!
              <div class="row align-items-center">
                   <div class="col-lg-6">
 <div class="about-left wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s; animation-name: fadeInLeft;">
-<h3>Create & Manage
-<br>Payment Links in the
-<br>PayRequest Dashboard</h3>
-<p>The PayRequest Dashboard lets you manage all your payment links and more, with a simple overview you can view all status and reminders that are send, you will also get a log update when someone views, payment or pays your payment link.
+<h3>Get your own Billing Portal.
+<br>Let Customers manage their Subscriptions.
+</h3>
+<p>
+The PayRequest Dashboard lets you manage all your payment links and more, with a simple overview you can view all status and reminders that are sent, you will also get a log update when someone opens or pays your payment link.
 </p>
 
 </div>
 </div>
 <div class="col-lg-6">
 <div class="about-right wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
-  <img src="https://payrequest.io/assets/img/banners/payrequest-dashboard-v2.png" alt="payrequest dashboard">
+  <img src="https://i.imgur.com/Pxr5qZM.png" alt="payrequest dashboard">
                      </div>
 </div>
     </div>
@@ -188,15 +186,14 @@ a Reduced Service Fee (0,5%) instead of 1%!
           <div class="row align-items-center">
                   <div class="col-lg-6">
                      <div class="about-right wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.2s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.2s; animation-name: fadeInLeft;">
-                        <img src="https://ph-files.imgix.net/1bc052d0-8494-4055-8c79-9ee65c25f08e.png?auto=format&amp;auto=compress&amp;codec=mozjpeg&amp;cs=strip&amp;w=675.5555555555555&amp;h=380&amp;fit=max&amp;dpr=2" alt="about">
+                        <img src="https://i.imgur.com/liTJiHB.png" alt="about">
                      </div>
                   </div>
                   <div class="col-lg-6">
                      <div class="about-left wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
- <h3>Dynamic Payment Links
-<br>For custom amounts</h3>
-                        <p>Save time with creating payment links, just use dynamic links like: payrequest.me/name/12,50 or even payrequest.me/12,50/title/email
-
+ <h3>Manage your Subscriptions
+<br>Via the PayRequest Dashboard</h3>
+ <p>See all your customers at a glance, search for a customer, filter on name, email or even creation date, also you can create customers.
 </p>
 
 </div>
@@ -208,13 +205,12 @@ a Reduced Service Fee (0,5%) instead of 1%!
 </section>
 
 
-
 <section class="contact-form section_100">
          <div class="container">
             <div class="service-details-text">
                         <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
-                     <h2>Payment Link <span>Features</span></h2>
-    <p>With a payment link you can accept payments from your customers.</p>
+                     <h2>Subscription Platform <span>Features</span></h2>
+    <p>We offer you all-in-one Subscription management software, no code required. </p>
                   </div>
 
 
@@ -224,15 +220,11 @@ a Reduced Service Fee (0,5%) instead of 1%!
                               <div class="col-md-6">
                                  <div class="service-works-item">
                                     <div class="service-works-icon2">
-                                  <i class="fad fa-euro-sign" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                  <i class="fad fa-sitemap" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
                                     </div>
                                     <div class="service-works-info">
-                                       <h5>Multi Currency
-
-</h5>
-                                       <p>We support al major currencies all around the globe, with realtime currency conversion for every currency.
-
-
+                                       <h5>Payment Plans</h5>
+                                       <p>With payment plans you can create one-time or subscription plans, This will save you time and keep you organized.
 </p>
                                     </div>
                                  </div>
@@ -243,10 +235,9 @@ a Reduced Service Fee (0,5%) instead of 1%!
                                   <i class="fad fa-paint-brush" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
                                     </div>
                                     <div class="service-works-info">
-                                       <h5>Branded Payment Links
-
+                                       <h5>Your own Branding
 </h5>
-                                       <p>Send en Share Payment Links with your own brand logo &amp; background, also you can choose your own colors.
+                                       <p>You can use your own logo and background on your billing portal and payment links, and even your own colors.
 
 
 </p>
@@ -259,7 +250,7 @@ a Reduced Service Fee (0,5%) instead of 1%!
                                   <i class="fad fa-language" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
                                     </div>
                                     <div class="service-works-info">
-                                       <h5>Accept Local Payment Methodds
+                                       <h5>Multi Language &amp; Multi Currency
 </h5>
                                        <p>Never say no again, we support 20+ local payment methods from Africa, Europe, North America and Asia.
 
@@ -274,14 +265,12 @@ a Reduced Service Fee (0,5%) instead of 1%!
 <div class="col-md-6">
                                  <div class="service-works-item">
                                     <div class="service-works-icon2">
-                                  <i class="fa fa-money-bill-wave" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                  <i class="fa fa-user-edit" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
                                     </div>
                                     <div class="service-works-info">
-                                       <h5>Multi Currency
-
+                                       <h5>Customer Management
 </h5>
-                                       <p>We support al major currencies all around the globe, with realtime currency conversion for every currency.
-
+                                       <p>Manage all your customers via the customers list, search customers or add customer notes via a customers profile.
 </p>
                                     </div>
                                  </div>
@@ -304,18 +293,75 @@ a Reduced Service Fee (0,5%) instead of 1%!
 </p>
                                     </div>
                                  </div>
-                              </div><div class="col-md-6">
+                              </div>
+
+
+<div class="col-md-6">
                                  <div class="service-works-item">
                                     <div class="service-works-icon2">
                                   <i class="fad fa-analytics" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
                                     </div>
                                     <div class="service-works-info">
-                                       <h5>Payment Tracking
+                                       <h5>Payment Tracking</h5>
+<p>
+We make sure you can track all payment activities. For example if your payment link is opened, and receive a notification when you get paid.
+</p>
+                                    </div>
+                                 </div>
+                              </div>
+
+
+<div class="col-md-6">
+                                 <div class="service-works-item">
+                                    <div class="service-works-icon2">
+                                  <i class="fad fa-sign-in" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="service-works-info">
+                                       <h5>PayRequest Billing Portal
+</h5>
+                                       <p>Customers can login and placing orders, and see their invoices (and only if you want) cancel their subscriptions.
+</p>
+                                    </div>
+                                 </div>
+                              </div>
+
+<div class="col-md-6">
+                                 <div class="service-works-item">
+                                    <div class="service-works-icon2">
+                                  <i class="fad fa-receipt" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="service-works-info">
+                                       <h5>Online Invoices
+</h5>
+                                       <p>With every payment your customer receives an online invoice, they can download all their invoices via your billing portal.
+</p>
+                                    </div>
+                                 </div>
+                              </div>
+
+
+<div class="col-md-6">
+                                 <div class="service-works-item">
+                                    <div class="service-works-icon2">
+                                  <i class="fab fa-cc-visa" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="service-works-info">
+                                       <h5>Multiple Payment Options
+</h5>
+                                       <p>Customers can activate their subscription via the following payment methods: Credit Card, iDeal and Bancontact.
+</p>
+                                    </div>
+                                 </div>
+                              </div><div class="col-md-6">
+                                 <div class="service-works-item">
+                                    <div class="service-works-icon2">
+                                  <i class="fad fa-history" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="service-works-info">
+                                       <h5>Payment Schedules
 
 </h5>
-                                       <p>We make sure you can track all payment activity like: if your payment links is opened, and a notification when you get paid.
-
-
+                                       <p>Schedule your payment plans to automatically bill your customers every day, week, month and even years.
 </p>
                                     </div>
                                  </div>
