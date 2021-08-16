@@ -51,15 +51,15 @@ title: Payment Plans
             </div>
          </div>
 </section>
+
+
 <section class="contact-form section_100">
          <div class="container">
             <div class="service-details-text">
                         <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
-                     <h2>Create different <span>Payment Plans</span></h2>
+                     <h2>Create Unlimited <span>Payment Plans</span></h2>
     <p>We support different types of payment plans, so we have always a payment plan for your business needs.</p>
                   </div>
-
-
 
 <div class="service-works">
                            <div class="row">
@@ -69,9 +69,8 @@ title: Payment Plans
                                   <i class="fad fa-fad fa-sitemap" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
                                     </div>
                                     <div class="service-works-info">
-                                       <h5>One-Time Payment Plans
-</h5>
-                                       <p>Subscriptions are a great way to receive payments from your listeners or fans, it gives you independicy as you not need anymore need to show ads or keep asking for donations, so you can just do what you love.
+                                       <h5>One-Time Payment Plans</h5>
+                                       <p>One-time payment plans are useful if you have to create many of the same payment links, because you can reuse them, and clearly see how many customers use a certain payment plan.
 </p>
                                     </div>
                                  </div>
@@ -82,12 +81,8 @@ title: Payment Plans
                                   <i class="fad fa-history" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
                                     </div>
                                     <div class="service-works-info">
-                                       <h5>Subscription Payment Plans
-
-<br>
-
-</h5>
-                                       <p>Not only food boxes are popular also other markets are creating their own subscription boxes, you have for example beauty boxes to meal boxes and wine boxes, clothing boxes and so on. 
+                                       <h5>Subscription Payment Plans<br></h5>
+                                       <p>If you want to offer recurring payments, you can create a subscriptions payment plan, customers can give permission for automatic collection of an amount on daily, weekly or monthly basis.
 </p>
                                     </div>
                                  </div>
@@ -98,10 +93,8 @@ title: Payment Plans
                                   <i class="fad fa-credit-card" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
                                     </div>
                                     <div class="service-works-info">
-  <h5>Pre-Authorization Payment Plans (coming soon)
-<br> 
-</h5>
-                                       <p>We offer a Subscription management software for Startups and SaaS businesses to automate their recurring payments, with our API and Zapier integration you can intehgrate it with your own applications.
+  <h5>Pre-Authorization Payment Plans (coming soon)<br></h5>
+                                       <p>Later you can also create payments for pre-auth payments.
 </p>
                                     </div>
                                  </div>
@@ -115,25 +108,16 @@ title: Payment Plans
                                   <i class="fad fa-bags-shopping" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
                                     </div>
                                     <div class="service-works-info">
-                                       <h5>Product Payment Plans (coming soon)
-<br>
-
-</h5>
-                                       <p>Many Businesses in the Sport &amp; Entertainment industry, are experimentalizing with Subscription Business Models, 
-especially Fitness, Yoga, Gaming, Music companies are creating new subscriptions to grow their MRR.
+                                       <h5>Product Payment Plans (coming soon)<br></h5>
+                                       <p>Later you can also create payments for selling products.
 </p>
                                     </div>
                                  </div>
                               </div>
 
-
-
-
 </div>
 </div>
 </div>
-
-
 
 </div>
 </section>
@@ -200,7 +184,7 @@ especially Fitness, Yoga, Gaming, Music companies are creating new subscriptions
             <div class="service-details-text">
                         <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
                      <h2>Payment Plans is available via <span>PRO</span></h2>
-    <p>Payment Plans is part of our PRO Plan for just €20 per month you get all these features.</p>
+    <p>Payment Plans is part of our PRO Plan for just €20 per month you get all these features:</p>
                   </div>
 
 
