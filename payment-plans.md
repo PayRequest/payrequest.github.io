@@ -33,8 +33,6 @@ title: Payment Plans
 <div class="mt-3" style="/* margin-bottom: 150px; */">
 <br> 
 
-<a href="https://www.producthunt.com/posts/payrequest?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-payrequest" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=176421&theme=dark" alt="PayRequest - Simple, fast payment links via Stripe and Mollie | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px" /></a>
-
 <img alt="Stripe logo" src="https://payrequest.io/assets/img/stripe-partner-badges/L_Color_Solid.svg" style="height: 63px;padding: 6px;">
 
  </div>
@@ -159,7 +157,7 @@ especially Fitness, Yoga, Gaming, Music companies are creating new subscriptions
 <h3>Show all your services.
 <br>On your Payment Page.
 </h3>
-<p>The PayRequest Dashboard lets you manage all your payment links and more, with a simple overview you can view all status and reminders that are send, you will also get a log update when someone views, payment or pays your payment link.
+<p>With Payment Plans you can add more products or services to your payment page, which will increase your conversion and reduce your Average Cart Abandonment rate.
 </p>
 
 </div>
@@ -186,9 +184,7 @@ especially Fitness, Yoga, Gaming, Music companies are creating new subscriptions
                      <div class="about-left wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInRight;">
  <h3>Manage your Subscriptions
 <br>Via the PayRequest Dashboard</h3>
-                        <p>See al your customers at a glance, search for a customer, filter on name, email or even creation date, also you can create customers.
-
-
+ <p> Payment Plans are just a small piece of our all-in-one subscriptions platform, you can see all your subscriptions at a glance, and you can pause or cancel any subscription.
 </p>
 
 </div>
