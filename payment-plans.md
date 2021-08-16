@@ -183,7 +183,7 @@ title: Payment Plans
          <div class="container">
             <div class="service-details-text">
                         <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
-                     <h2>Payment Plans is available via <span>PRO</span></h2>
+                     <h2>Payment Plans are available via <span>PRO</span></h2>
     <p>Payment Plans is part of our PRO Plan for just €20 per month you get all these features:</p>
                   </div>
 

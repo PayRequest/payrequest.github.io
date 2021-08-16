@@ -152,12 +152,11 @@ title: Get paid faster with PayRequest
             <div class="row">
                <div class="col-lg-12">
                   <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
-                     <h2>We have no<span>  Monthly Fees</span><br> Only pay per transaction</h2>
+                     <h2>Choose our<span> Free plan</span><br> Or PRO to unlock all features</h2>
                   </div>
                   <div class="check_toggle">
                      <input id="checkbox" type="checkbox" class="checkbox">
-
- </div>
+</div>
                </div>
             </div>
             <div class="row">
@@ -165,93 +164,77 @@ title: Get paid faster with PayRequest
                   <div class="priceShow">
                      <div class="row">
                         <div class="col-md-6 col-lg-4">
-
- </div>
-                        <div class="col-md-6 col-lg-4">
                            <div class="single-price-box active">
                               <div class="pricing-head">
-                                 <div class="pricing-type"><span>PayRequest Fees</span></div>
-                                 <div class="price"><span class="dollar-sign"></span> 1%<span class="per-time" style="
-    margin-left: 10px;
-">    per transaction</span></div>
+<div class="pricing-type"><span>PayRequest Basic</span></div>
+<div class="price"><span class="dollar-sign">€</span>0<span class="per-time" style="
+    margin-left: 4px;
+"> 
+/mo</span></div>
                               </div>
                               <div class="pricing-body">
                                  <ul>
-                                    <li>Only for succesful transactions</li>
-                                    <li>Your own payment page</li>
-                                    <li>Unlimited Payment Links</li>
-                                    <li>Free Integrations</li>
-                                    <li class="">24/7 Customer Support</li>
+                                    <li>1% service fee* (only succesful transactions)</li>
+                                    <li><i class="fa fa-check-square-o" aria-hidden="true"></i>   1 payment page</li>
+                                    <li> <i class="fa fa-check-square-o" aria-hidden="true"></i>  1000 Customers</li>
+                                    <li><i class="fa fa-check-square-o" aria-hidden="true"></i> Zapier Integration</li>
+                                    <li class=""><i class="fa fa-check-square-o" aria-hidden="true"></i> 24/7 Business Support</li>
+ </ul><br>
 
+<a href="https://dashboard.payrequest.io/dashboard">
+<button class="prbutton prbutton-big"> <span class="fas fa-chevron-right" aria-hidden="true"></span> Create Your Free Account</button>
+</a>
+<p class="hidden-charge mt-3">* plus stripe's transaction fees, <br>
+   typically 2,9% + 30¢</p>
+                              </div>
+                           </div>
+                        </div>
+                        <div class="col-md-6 col-lg-4">
+                           <div class="single-price-box active">
+                              <div class="pricing-head">
+<div class="pricing-type"><span>PayRequest PRO</span></div>
+<div class="price"><span class="dollar-sign">€</span>20<span class="per-time" style="
+    margin-left: 4px;
+"> 
+/mo</span></div>
+                              </div>
+                              <div class="pricing-body">
+                                 <ul>
+                                    <li>0,5% service fee* (only succesful transactions)</li>
+                                    <li> <b> Everything in BASIC + </b> </li>
+                                    <li> <i class="fa fa-check-square-o" aria-hidden="true"></i> Custom domain (Whitelabel)</li>
+                                    <li><i class="fa fa-check-square-o" aria-hidden="true"></i> Unlimited Payment Pages</li>
+                                    <li class=""><i class="fa fa-check-square-o" aria-hidden="true"></i> PayPal &amp; Mollie connections</li>
  </ul>
-                                 <a href="#" class="theme-btn mt-4">Create your free account<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
-                                 <p class="hidden-charge mt-3">No hidden charges!</p>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="col-md-6 col-lg-4">
 
-  </div>
-                     </div>
-                  </div>
-                  <div class="priceHide">
-                     <div class="row">
-                        <div class="col-md-6 col-lg-4">
-                           <div class="single-price-box">
-                              <div class="pricing-head">
-                                 <div class="pricing-type"><span>Basic</span></div>
-                                 <div class="price"><span class="dollar-sign">$</span>35 <span class="per-time">/yr.</span></div>
-                              </div>
-                              <div class="pricing-body">
-                                 <ul>
-                                    <li>Drag &amp; Drop Page Builder</li>
-                                    <li>Bot &amp; Digital Assistants</li>
-                                    <li>Up to 1000 Subscribers</li>
-                                    <li class="off-price">Unlimited Broadcasts</li>
-                                    <li class="off-price">24/7 Customer Support</li>
-                                    <li class="off-price">Unlimited Staff</li>
-                                 </ul>
-                                 <a href="#" class="theme-btn mt-4">Order Now <span class="fa fa-chevron-right" aria-hidden="true"></span></a>
-                                 <p class="hidden-charge mt-3">No hidden charges!</p>
+<br>
+<a href="https://dashboard.payrequest.io/dashboard">
+<button class="prbutton prbutton-big"> <span class="fas fa-chevron-right" aria-hidden="true"></span> Start 14 Day Free Trial</button>
+</a>
+<p class="hidden-charge mt-3">* plus stripe's transaction fees, <br>
+   typically 2,9% + 30¢</p>
                               </div>
                            </div>
                         </div>
                         <div class="col-md-6 col-lg-4">
                            <div class="single-price-box active">
                               <div class="pricing-head">
-                                 <div class="pricing-type"><span>Professional</span></div>
-                                 <div class="price"><span class="dollar-sign">$</span>75 <span class="per-time">/yr.</span></div>
+<div class="pricing-type"><span>PayRequest Enterprise</span></div>
+<div class="price"><span class="dollar-sign"></span>Contact us</div>
                               </div>
                               <div class="pricing-body">
                                  <ul>
-                                    <li>Drag &amp; Drop Page Builder</li>
-                                    <li>Bot &amp; Digital Assistants</li>
-                                    <li>Up to 1000 Subscribers</li>
-                                    <li>Unlimited Broadcasts</li>
-                                    <li class="off-price">24/7 Customer Support</li>
-                                    <li class="off-price">Unlimited Staff</li>
-                                 </ul>
-                                 <a href="#" class="theme-btn mt-4">Order Now <span class="fa fa-chevron-right" aria-hidden="true"></span></a>
-                                 <p class="hidden-charge mt-3">No hidden charges!</p>
-                              </div>
-                           </div>
-                        </div>
-                        <div class="col-md-6 col-lg-4">
-                           <div class="single-price-box">
-                              <div class="pricing-head">
-                                 <div class="pricing-type"><span>Business</span></div>
-                                 <div class="price"><span class="dollar-sign">$</span>175 <span class="per-time">/yr.</span></div>
-                              </div>
-                              <div class="pricing-body">
-                                 <ul>
-                                    <li>Drag &amp; Drop Page Builder</li>
-                                    <li>Bot &amp; Digital Assistants</li>
-                                    <li>Up to 1000 Subscribers</li>
-                                    <li>Unlimited Broadcasts</li>
-                                    <li>24/7 Customer Support</li>
-                                    <li>Unlimited Staff</li>
-                                 </ul>
-                                 <a href="#" class="theme-btn mt-4">Order Now <span class="fa fa-chevron-right" aria-hidden="true"></span></a>
+                                    <li>Custom development</li>
+                                    <li>Custom team roles and permissions</li>
+                                    <li>Higher rate-limits for APIs</li>
+                                    <li>Migration services</li>
+                                    <li class="">24/7 Telephone Support</li>
+ </ul>
+<br>
+<a href="https://dashboard.payrequest.io/dashboard">
+<button class="prbutton prbutton-big"> <span class="fas fa-chevron-right" aria-hidden="true"></span> Get in touch</button>
+</a>
+<p class="hidden-charge mt-3">Contact us for a free quote <br> about your custom requests.</p>
                               </div>
                            </div>
                         </div>
@@ -259,16 +242,8 @@ title: Get paid faster with PayRequest
                   </div>
                </div>
             </div>
-</div>
-</section>
-
-<!-- Testimonial Section Start -->
-
-
-
-
-
- <!-- Testimonial Section End -->
+         </div>
+      </section>
 
 
 
@@ -378,7 +353,7 @@ title: Get paid faster with PayRequest
 <div class="service-title"><h3>Subscriptions</h3></div>
 <div class="service-desc">
 <p>Temporary hold an amount on your customers credit card, with a hold up period of 7 days.</p>
-<a class="btn-simple mt-3">Coming Soon <i class="fa fa-long-arrow-right"></i></a>
+<a class="btn-simple mt-3" href="/subscriptions">Read More <i class="fa fa-long-arrow-right"></i></a>
 </div>
 
 <div class="service-icon-bottom">
