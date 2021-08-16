@@ -1,97 +1,175 @@
 ---
 title: Accept Payments Without a Website
-description: We connect your Stripe account to easily send email payment link
 ---
 
-<div class="position-relative">
-    <!-- Hero for FREE version -->
-    <section class="section section-lg section-shaped">
-        <!-- Background circles -->
-        <div class="shape shape-style-self shape-primary">
-            <span class="span-150"></span>
-            <span class="span-50"></span>
-            <span class="span-50"></span>
-            <span class="span-75"></span>
-            <span class="span-100"></span>
-            <span class="span-75"></span>
-            <span class="span-50"></span>
-            <span class="span-100"></span>
-            <span class="span-50"></span>
-            <span class="span-100"></span>
-        </div>
-        <div class="container shape-container d-flex align-items-center">
-            <div class="col px-0">
-                <div class="row align-items-center justify-content-center">
-                    <div class="col-lg-7 text-center">
+<section class="hero-section">
+         <!-- Hero Shape Start -->
 
-<div class="icon icon-shape bg-gradient-white shadow rounded-circle mb-3"><i class="fal fa-link text-info" aria-hidden="true"></i></div>
-                        
-  <h1 class="text-white">Accept Payments Without a Website
-</h1>
- <p class="lead text-white">No website needed to accept payments, with PayRequest you can create your own payment page and share it via whatsapp or social media.
+ <div class="hero-shape5">
+
+<img src="https://payrequest.io/assets/logos/Icon%20white.png" alt="shape" style="max-width: 160px;">
+         </div>
+         <!-- Hero Shape End -->
+
+ <!-- Hero Bg Start -->
+ <div class="hero-bg">
+            <img src="assets/img/hero_shape.png" alt="hero shape">
+         </div>
+         <!-- Hero Bg End -->
+
+ <div class="container">
+            <div class="row align-items-center">
+             <div class="col-lg-6 col-md-6">
+                  <div class="hero-left">
+<h2>Accept Payments<span class="underline">Without a website</span>
+</h2>
+
+<p>No website needed to accept payments, with PayRequest you can create your own payment page and share it via whatsapp or social media.
+
+
 </p>
-                        
 
-  </div>
-                </div>
-  </div>
+<a href="http://dashboard.payrequest.io/" class="theme-btn mt-4"> Create Your Free Account<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
  </div>
-        <!-- SVG separator -->
-        <div class="separator separator-bottom separator-skew zindex-100">
-            <svg x="0" y="0" viewBox="0 0 2560 100" preserveAspectRatio="none" version="1.1" xmlns="http://www.w3.org/2000/svg">
-                <polygon class="fill-white" points="2560 0 2560 100 0 100"></polygon>
-            </svg>
-        </div>
-    </section>
+
+
+
+<div class="mt-3" style="/* margin-bottom: 150px; */">
+<br> 
+
+<a href="https://www.producthunt.com/posts/payrequest?utm_source=badge-featured&amp;utm_medium=badge&amp;utm_souce=badge-payrequest" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=176421&amp;theme=dark" alt="PayRequest - Simple, fast payment links via Stripe and Mollie | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px"></a>
+
+<img alt="Stripe logo" src="https://payrequest.io/assets/img/stripe-partner-badges/L_Color_Solid.svg" style="height: 63px;padding: 6px;">
+
+<!-- TrustBox widget - Micro Review Count -->
+
+<!-- End TrustBox widget -->
+ </div>
+</div>
+
+ <div class="col-lg-6 col-md-6">
+                  <div class="hero-right">
+                   <img src="https://media.payrequest.nl/images/banners/payment-page-example.webp" alt="Stripe Payment Reminders" style="
+    transform: perspective(1000px) rotateY(-13deg) rotateX(5deg) rotateZ(7deg) scaleY(0.9) scaleX(0.95) translateX(-3%) translateY(-3%);
+">
+                     <div class="hero-dot-shape">
+                 <img src="http://themescare.com/demos/robofume-view/assets/img/hero-dot-shape.png" alt="shape">
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+</section>
+
+<section class="contact-form section_100">
+         <div class="container">
+            <div class="service-details-text">
+                        <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
+                     <h2>4 Ways to Accept Payments without a <span> Website</span></h2>
+    <p>Start your online business in minutes, no need to hire someone to create a website for you.</p>
+                  </div>
+
+
+
+<div class="service-works">
+                           <div class="row">
+                              <div class="col-md-6">
+                                 <div class="service-works-item">
+                                    <div class="service-works-icon2">
+                                  <i class="fad fa-paint-brush" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="service-works-info">
+                                       <h5>Get your own payrequest.me Payment Page! 
+</h5>
+                                       <p>With PayRequest you can create your own payrequest.me payment page, and accept payments from your customers worldwide.
+
+</p>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="col-md-6">
+                                 <div class="service-works-item">
+                                    <div class="service-works-icon2">
+                                  <i class="fad fa-sms" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="service-works-info">
+                                       <h5>Accept Credit Card Payments over the Phone
+<br>
+
+</h5>
+                                       <p>Closing a deal? stop asking their e-mail, you already got their phone number, send them a payment link, and they will fill in their e-mail, name and pay your request.
+</p>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="col-md-6">
+                                 <div class="service-works-item">
+                                    <div class="service-works-icon2">
+                                  <i class="fad fa-qrcode" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="service-works-info">
+  <h5>
+Start using QR Code Payments
+<br> 
+</h5>
+                                       <p>QR Codes are useful for street vendors, because they can print QR Code Payment Links for all their products, customers scan the QR code and merchant gets directly an conformation when the customer has paid.
+</p>
+                                    </div>
+                                 </div>
+                              </div>
+
+
+
+<div class="col-md-6">
+                                 <div class="service-works-item">
+                                    <div class="service-works-icon2">
+                                  <i class="fad fa-envelope" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="service-works-info">
+                                       <h5>Send your Customers Email Payment Requests
+<br>
+
+</h5>
+                                       <p>Using Stripe for your online payment processing? With PayRequest you can let your customers pay via Stripe, just send them a payment request via Email.
+</p>
+                                    </div>
+                                 </div>
+                              </div>
+
+
+
+
+</div>
+</div>
 </div>
 
 
-<section class="section section-lg">
-          <div class="container">
-            <div class="row align-items-center text-left">
-              <div class="col-lg-6 col-12">
-                <span class="badge badge-info badge-pill mb-3">PayRequest</span>
-<h1 class="display-3">Accept Payments,<span class="text-primary">Without a website.</span></h1>
-                <p class="lead pb-4">PayRequest makes it easy to create payment pages and payment links, send your customer a email with a payment link or share your payment page everywhere.
 
-<br> <br>
-<a href="https://dashboard.payrequest.io" class="btn btn-lg btn-github btn-icon mb-3 mb-sm-0">
-                                <span class="btn-inner--icon"><i class="fal fa-link" aria-hidden="true"></i></span>
-                                <span class="btn-inner--text">Start accept payments without a website</span>
-                            </a>
-
-                </p>
-                
-  </div>
-              <div class="col-lg-6 col-12 pl-0">
-                <img class="ml-lg-5" src="https://payrequest.io/assets/img/illustrations/payment-links-illustration.png" width="100%">
-              </div>
-            </div>
-          </div>
+</div>
 </section>
 
 
+<section class="about-section">
+         <!-- Top Shape Start -->
+         <div class="about-top-shape">
+            <img src="http://themescare.com/demos/robofume-view/assets/img/about-shape.png" alt="about shape">
+         </div>
+<!-- Top Shape End -->
+<!-- Bottom Shape Start -->
 
-<section class="section bg-secondary">
-    <div class="container">
-        <div class="row row-grid align-items-center">
-            
- <div class="col-md-12">
-                <div class="pl-md-5">
-                    <div class="icon icon-lg icon-shape icon-shape-warning shadow rounded-circle mb-5" style="
-    float: left;
-">
-                        <i class="fa fa-money-bill" aria-hidden="true"></i>
-
+<!-- Bottom Shape End -->
+ <!-- About Top Start -->
+<div class="about-top section_100">
+            <div class="container">
+             <div class="row align-items-center">
+                  <div class="col-lg-12">
+                  <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
+                     <div class="section-title">
+<h2>Accept Payments Without a Website<br> in 3 simple steps.</h2>
 </div>
+                  </div>
 
-<h3 style="
-    /* float: right; */
-    margin-left: 90px;
-">SAccept Payments Without a Websites in 3 simple steps.</h3>
-
-<br> 
-                    
+ </div>
 <style>
   .bubble-number {
     display: block;
@@ -108,26 +186,26 @@ description: We connect your Stripe account to easily send email payment link
     top: -20px;
     right: 0;
   }
-  
-  .img-wrap {
-    max-height: 220px;
-    max-width: 360px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 30px;
-    border-radius: 10px;
-    position: relative;
-  }
-  
-  .img-wrap img {
-    background: #f5f9fc;
-    border-radius: 10px;
-    max-width: 100%;
-    height: auto;
-    box-shadow: 0 2px 3px 0 rgba(0, 0, 0, .1);
-  height: 160px;
-    width: 400px;
-  }
+
+.img-wrap {
+max-height: 220px;
+max-width: 360px;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 30px;
+border-radius: 10px;
+position: relative;
+}
+
+.img-wrap img {
+background: #f5f9fc;
+border-radius: 10px;
+max-width: 100%;
+height: auto;
+box-shadow: 0 2px 3px 0 rgba(0, 0, 0, .1);
+height: 200px;
+width: 350px;
+}
 
 </style>
 
@@ -165,93 +243,71 @@ rounded {
 <div class="row">
           <div class="col-sm-4 aos-init aos-animate" data-aos="fade-up" data-aos-easing="delay-slide" data-aos-duration="1300" data-aos-delay="400" data-aos-offset="-100">
             <div class="img-wrap">
-              <img src="https://i.imgur.com/V8IqnbY.png" alt="confirm chatlio screenshot">
+              <img src="https://i.imgur.com/HBrpiql.png" alt="confirm chatlio screenshot">
               <span class="bubble-number">1</span>
             </div>
-            <h4>
-              1. Connect a payment provider like Stripe.
-            </h4>
+            <h5 style="
+    font-weight: 700;
+    color: #1c2045;
+    margin-left: 20px;
+">
+              1. Connect a Stripe account.
+            <p></p></h5>
           </div>
           <div class="col-sm-4 aos-init aos-animate" data-aos="fade-up" data-aos-easing="delay-slide" data-aos-duration="1300" data-aos-delay="500" data-aos-offset="-100">
             <div class="img-wrap">
-                    <img src="https://payrequest.io/assets/img/screens/new-request.png" alt="create your stripe payment request">
+                    <img src="https://i.imgur.com/hWAc37C.png" alt="create your own payment link">
               <span class="bubble-number">2</span>
             </div>
-            <h4>2. Create your own payment link.</h4>
+            <h5 style="
+    font-weight: 700;
+    color: #1c2045;
+    margin-left: 20px;
+">2. Choose your PayRequest.me/name</h5>
           </div>
           <div class="col-sm-4 aos-init aos-animate" data-aos="fade-up" data-aos-easing="delay-slide" data-aos-duration="1300" data-aos-delay="600" data-aos-offset="-100">
             <div class="img-wrap">
-              <img src="https://payrequest.io/assets/img/screens/payment-link.png" alt="Share your payment request and get paid">
+              <img src="https://i.imgur.com/ezWmQhy.png" alt="Share your payment link and get paid">
               <span class="bubble-number">3</span>
             </div>
-            <h4>3. Share your payment links and get paid!</h4>
+            <h5 style="
+    font-weight: 700;
+    color: #1c2045;
+    margin-left: 20px;
+">3. Share  your own Payment Page!</h5>
           </div>
         </div>
-                
- </div>
+               </div>
             </div>
-        </div>
-    </div>
+         </div>
+<!-- About Top End -->
+
+<!-- About Bottom Start -->
+<!-- About Bottom End -->
 </section>
 
 
-<section class="section-content" style="padding: 80px 0;">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-6 mt-md-5 order-md-2 order-lg-1">
-            <div class="image-container">
-              <img class="img shadow rounded img-comments w-100" alt="Payrequest Integrions screen" src="https://i.imgur.com/NBB9yC7.png">
-              <img class="img shadow rounded img-blog mt-5 w-100" alt="Payrequest Request overview" src="https://i.imgur.com/ggVaoJu.png">
-            </div>
-          </div>
-          <div class="col-lg-6 mx-auto order-md-1">
-            <div class="section-description">
-              <h2 class="display-3">PayRequest Dashboard<span class="text-success">Manage your payment requests.</span></h2>
-              <p class="lead">The PayRequest Dashboard lets you manage all your stripe payment link, with a simple overview you can view all status and reminders that are send via mail, you will also get a log update when someone views, chooses payment type or pays your payment request.
+{% include why-section.html %}
+
+<section class="subscribe-section innser_subscribe section_100">
+         <div class="container">
+            <div class="row">
+               <div class="col-lg-12">
+                  <div class="subscribe-box wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
+                     <div class="section-title">
+                        <h2>Accept <span>Stripe Payments</span>
+Without a Website</h2>
+                        <p>Stripe is the largest payment service provider in the world, they offer many local payment methods and a simple checkout which we have built in seamlessly into our donor page platform for the best experience to start your own donation page.
+
 
 </p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
+                     </div>
 
 
- <section class="section-free-demo bg-secondary" style="padding: 80px 0;">
-      <div class="container">
-        <div class="row">
-          <div class="col-lg-7 col-md-12">
-            <div class="section-description">
-              <h3 class="display-3">Accept Stripe payments without a website</h3>
-              <p class="lead mb-4">Stripe is the largest payment service provider in the world, they offer many local payment methods and a simple checkout which we have built in seamlessly into our donor page platform for the best experience to start your own donation page.
-
-</p>   
-
-<a href="https://dashboard.payrequest.io" class="btn btn-lg btn-github btn-icon mb-3 mb-sm-0">
-                                <span class="btn-inner--icon"><i class="fal fa-link" aria-hidden="true"></i></span>
-                                <span class="btn-inner--text">Start accepting payments</span>
-                            </a>
-   </div>
-          </div>
-
-<style>
-.stripe-background-container {
-    position: absolute;
-    top: -80px;
-}
-.stripe-background-container i {
-    font-size: 410px;
-    opacity: .1;
-}
-</style>
-  <div class="col-lg-5 col-md-12">
-            <div class="stripe-background-container">
-              <i class="fab fa-stripe"></i>
-            </div>
-          </div>
-        </div>
-        
-  </div>
-    </section>
-
+<a href="https://dashboard.payrequest.io/" class="theme-btn-white wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.5s" style="visibility: visible; animation-duration: 2s; animation-delay: 0.5s; animation-name: fadeInUp;">Start accept payments<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
+</div>
+</div>
+</div>
+</div>
+</section>
 
