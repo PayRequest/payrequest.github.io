@@ -250,6 +250,93 @@ tags:
 </section>
 
 
+<section class="contact-form section_100">
+         <div class="container">
+            <div class="service-details-text">
+                        <div class="section-title wow fadeInUp" data-wow-duration="1s" data-wow-delay="0.3s" style="visibility: visible; animation-duration: 1s; animation-delay: 0.3s; animation-name: fadeInUp;">
+                     <h2>PayRequest PRO <span>Benefits</span></h2>
+    <p>PayRequest PRO noy only saves you money, it also gives you more features for growing your online business.</p>
+                  </div>
+
+
+
+<div class="service-works">
+                           <div class="row">
+                              <div class="col-md-6">
+                                 <div class="service-works-item">
+                                    <div class="service-works-icon2">
+                                  <i class="fad fa-badge-percent" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="service-works-info">
+                                       <h5>Reduced Service Fee (0,5%)
+</h5>
+                                       <p>Most reasons customers are contacting a support team is because billing related questions, save time by sending payment links directly via support tickets or in a live-chat.
+</p>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="col-md-6">
+                                 <div class="service-works-item">
+                                    <div class="service-works-icon2">
+                                  <i class="fab fa-paypal" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true" fab=""></i>
+                                    </div>
+                                    <div class="service-works-info">
+                                       <h5>Access to all Payment Providers
+<br>
+
+</h5>
+                                       <p>Stripe is a popular payment provider, but sometimes you need to use another payment provider, with PRO you can choose from  PayPal, Bunq, MultiSafePay &amp; Mollie Integration
+
+</p>
+                                    </div>
+                                 </div>
+                              </div>
+                              <div class="col-md-6">
+                                 <div class="service-works-item">
+                                    <div class="service-works-icon2">
+                                  <i class="fad fa-repeat-alt" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true" fad=""></i>
+                                    </div>
+                                    <div class="service-works-info">
+  <h5>Subscriptions &amp; Payment Plans
+<br> 
+</h5>
+                                       <p>With Subscriptions you can accept recurring payments, customers can self-service their subscriptions, also you can use payment plans  
+</p>
+                                    </div>
+                                 </div>
+                              </div>
+
+
+
+<div class="col-md-6">
+                                 <div class="service-works-item">
+                                    <div class="service-works-icon2">
+                                  <i class="fad fa-paint-brush" style="padding-right: 10px;font-size: 50px;color: #25b7c7;" aria-hidden="true"></i>
+                                    </div>
+                                    <div class="service-works-info">
+                                       <h5>Whitelabel &amp; Custom CSS
+<br>
+
+</h5>
+                                       <p>Replace payrequest.me/samsung with pay.samsung.com for example, give customers more confidence and make any customization you want Custom CSS!
+</p>
+                                    </div>
+                                 </div>
+                              </div>
+
+
+
+
+</div>
+</div>
+</div>
+
+
+
+</div>
+</section>
+
+
 
 
 {% include footer-promo.html %}
