@@ -174,15 +174,34 @@ title: Get paid faster with PayRequest
                               </div>
                               <div class="pricing-body">
                                  <ul>
-                                    <li>1% service fee* (only succesful transactions)</li>
-                                    <li><i class="fa fa-check-square-o" aria-hidden="true"></i>   1 payment page</li>
-                                    <li> <i class="fa fa-check-square-o" aria-hidden="true"></i>  1000 Customers</li>
-                                    <li><i class="fa fa-check-square-o" aria-hidden="true"></i> Zapier Integration</li>
-                                    <li class=""><i class="fa fa-check-square-o" aria-hidden="true"></i> 24/7 Business Support</li>
+                                    <li> <b> Basic Features</b> </li>
+
+<li> <i class="fad fa-check" aria-hidden="true" style="
+"></i> 1% Service Fee</li>
+
+<li> <i class="fad fa-check" aria-hidden="true" style="
+"></i> Up to 1000 customers</li>
+                                    <li> <i class="fad fa-check" aria-hidden="true" style="
+"></i> Zapier Integration</li>
+
+
+<li> <i class="fad fa-check" aria-hidden="true" style="
+"></i> 24/7 Chat Support
+
+</li>
+
+
+<li> <i class="fad fa-check" aria-hidden="true" style="
+"></i> 24/7 Chat Support</li>
+
+
+
+
+
  </ul><br>
 
 <a href="https://dashboard.payrequest.io/dashboard">
-<button class="prbutton prbutton-big"> <span class="fas fa-chevron-right" aria-hidden="true"></span> Create Your Free Account</button>
+<button class="prbutton prbutton-big"> <span class="fas fa-chevron-right" aria-hidden="true"></span> Create Your Account</button>
 </a>
 <p class="hidden-charge mt-3">* plus stripe's transaction fees, <br>
    typically 2,9% + 30¢</p>
@@ -200,16 +219,64 @@ title: Get paid faster with PayRequest
                               </div>
                               <div class="pricing-body">
                                  <ul>
-                                    <li>0,5% service fee* (only succesful transactions)</li>
-                                    <li> <b> Everything in BASIC + </b> </li>
-                                    <li> <i class="fa fa-check-square-o" aria-hidden="true"></i> Custom domain (Whitelabel)</li>
-                                    <li><i class="fa fa-check-square-o" aria-hidden="true"></i> Unlimited Payment Pages</li>
-                                    <li class=""><i class="fa fa-check-square-o" aria-hidden="true"></i> PayPal &amp; Mollie connections</li>
+                                    <li> <b> Basic Features</b> </li>
+
+<li> <i class="fad fa-check" aria-hidden="true" style="
+"></i> 0.5% Service Fee</li>
+
+<li> <i class="fad fa-check" aria-hidden="true" style="
+"></i> Unlimited customers</li>
+                                    <li> <i class="fad fa-check" aria-hidden="true" style="
+"></i> Zapier Integration</li>
+
+
+<li> <i class="fad fa-check" aria-hidden="true" style="
+"></i> 24/7 Chat Support
+
+</li>
+
+
+<li> <i class="fad fa-check" aria-hidden="true" style="
+"></i> PayRequest API + API Logs
+
+</li>
+
+<li> <i class="fad fa-check" aria-hidden="true" style="
+"></i> Custom Domain (+SSL)
+</li>
+
+<li> <i class="fad fa-check" aria-hidden="true" style="
+"></i> PayPal &amp; Mollie Integration
+</li>
+
+
+<li> <i class="fad fa-check" aria-hidden="true" style="
+"></i>  Subscriptions &amp; Payment Plans
+</li>
+
+<li> <i class="fad fa-check" aria-hidden="true" style="
+"></i>   Custom CSS
+</li>
+
+<li> <i class="fad fa-check" aria-hidden="true" style="
+"></i>    Billing Portal
+</li>
+
+<li> <i class="fad fa-check" aria-hidden="true" style="
+"></i>     Whitelabel (No PR badge)
+</li>
+
+
+
+
+
+
+
  </ul>
 
 <br>
 <a href="https://dashboard.payrequest.io/dashboard">
-<button class="prbutton prbutton-big"> <span class="fas fa-chevron-right" aria-hidden="true"></span> Start 14 Day Free Trial</button>
+<button class="prbutton prbutton-big"> <span class="fas fa-chevron-right" aria-hidden="true"></span> Create Your Account</button>
 </a>
 <p class="hidden-charge mt-3">* plus stripe's transaction fees, <br>
    typically 2,9% + 30¢</p>
