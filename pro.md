@@ -45,7 +45,7 @@ With our PRO plan you get Subscriptions, Payment Plans, Custom CSS and a reduced
 
  <div class="col-lg-6 col-md-6">
                   <div class="hero-right">
-                   <img src="https://i.imgur.com/mImaH5z.png" alt="payment links" style="
+                   <img src="https://pbs.twimg.com/media/E9Es1juXMAMGk47?format=jpg" alt="payrequest pro" style="
     transform: perspective(1000px) rotateY(-13deg) rotateX(5deg) rotateZ(7deg) scaleY(0.9) scaleX(0.95) translateX(-3%) translateY(-3%);
 ">
                      <div class="hero-dot-shape">
