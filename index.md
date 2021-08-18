@@ -1,5 +1,5 @@
 ---
-title: Get paid faster with PayRequest
+title: No-code Billing & Subscriptions Platform
 ---
 
 
