@@ -23,7 +23,7 @@ title: Payment Insights
                   <div class="hero-left">
 <h2>Payment Insights<span class="underline">for your company</span></h2>
 
-<h3>With the PayRequest Dashboard you get Financial Business Insights, see how many customers you have and how many gots a subscription, See your MRR (Monthly Recurring Revenue) plua your Churn Rate, and check the open rate of all your payment requests.</h3>
+<h3>With the PayRequest Dashboard you get Financial Business Insights, see how many customers you have and how many subscriptions you got, See your MRR (Monthly Recurring Revenue) plus your Churn Rate, and check the open rate of all your payment requests.</h3>
 
 <a href="http://dashboard.payrequest.io/" class="theme-btn mt-4"> Create Your Free Account<span class="fa fa-chevron-right" aria-hidden="true"></span></a>
  </div>
