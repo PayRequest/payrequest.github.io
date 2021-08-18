@@ -75,7 +75,7 @@ title: Payment Insights
                                     <div class="service-works-info">
 <h5>Overview of all your Payment Requests</h5>
  <p>
-Subscriptions are a great way to receive payments from your listeners or fans, it gives you independence as you no longer need to show ads or keep asking for donations, so you can just do what you love.
+Get an overview of all your payment requests, in a glance you see how many payment links, payment plans, subscriptions, and Pre-authorisations you have.
 </p>
                                     </div>
                                  </div>
@@ -90,7 +90,7 @@ Subscriptions are a great way to receive payments from your listeners or fans, i
 
 <br></h5>
 <p>
-Not only food boxes are popular, other markets are creating their own subscription boxes. For example you have beauty boxes, toy boxes, wine boxes, clothing boxes and many more.
+With Sales Summary you can get an overview of your total revenue and total payment requests, it also gives revenue of previous months.
 </p>
                                     </div>
                                  </div>
@@ -105,7 +105,7 @@ Not only food boxes are popular, other markets are creating their own subscripti
 <br> 
 </h5>
 <p>
-We offer Subscription management software for Startups and SaaS businesses to automate their recurring payments, with our API and Zapier integration you can integrate it seamlessly with your own applications.
+When you log in to the PayRequest Dashboard, you see directly how many customers you have, also you can directly go to your newest customers.
 </p>
                                     </div>
                                  </div>
@@ -125,14 +125,11 @@ We offer Subscription management software for Startups and SaaS businesses to au
 
 </h5>
 <p>
-Many Businesses in the Sport &amp; Entertainment industry, are experimenting with Subscription Business Models, especially Fitness, Yoga, Gaming &amp; Music companies are creating new subscriptions to grow their MRR.
+With PayRequest Insights we give you a quick overview of your last transactions, you immediately see which payments have come in.
 </p>
                                     </div>
                                  </div>
                               </div>
-
-
-
 
 </div>
 </div>

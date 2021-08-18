@@ -20,17 +20,18 @@ title: Get paid faster with PayRequest
 <!-- Hero Bg End -->
           
   <div class="container">
-            <div class="row align-items-center">
+ <div class="row align-items-center">
              <div class="col-lg-6 col-md-6">
 <div class="hero-left">
-<br />
+<br>
 
-<h2> Get paid faster <br /> <span class="underline">With PayRequest</span> </h2>
+<h2>No-code Billing &amp;<br> <span class="underline">Subscriptions Platform</span> </h2>
 
-<p>Create your own payment page with PayRequest and send payment requests via SMS, E-mail or QR Code.
+<p>Create your own payment page with PayRequest and accept recurring payments or send payment requests via SMS, E-mail or QR Code.
+
 </p>
 
-<br />
+<br>
 <a href="https://dashboard.payrequest.io/dashboard">
 <button class="prbutton prbutton-big"> <span class="fas fa-chevron-right" aria-hidden="true"></span> Create Your Free Account</button>
 </a>
@@ -55,11 +56,11 @@ title: Get paid faster with PayRequest
                   <div class="hero-right">
 
 
-  <img src="https://media.payrequest.nl/images/banners/dashboard-homepage.webp" alt="Get paid faster" style="
-        transform: perspective(1000px) rotateY(-13deg) rotateX(5deg) rotateZ(7deg) scaleY(0.9) scaleX(0.95) translateX(-3%) translateY(-3%);
-        width: 530px;
-        height: 360px;
-    ">
+<img src="https://i.imgur.com/JUaxu8K.png" alt="Get paid faster" style="
+transform: perspective(1000px) rotateY(-13deg) rotateX(5deg) rotateZ(7deg) scaleY(0.9) scaleX(0.95) translateX(-3%) translateY(-3%);
+width: 530px;
+height: 360px;
+">
 
 <div class="hero-dot-shape">
 <img src="https://media.payrequest.nl/images/hero-dot-shape.webp" alt="shape">
