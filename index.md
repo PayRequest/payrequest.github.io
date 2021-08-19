@@ -43,8 +43,10 @@ title: No-code Billing & Subscriptions Platform
 <div class="mt-3" style="/* margin-bottom: 150px; */">
 <br>
 
-<a href="https://www.producthunt.com/posts/payrequest?utm_source=badge-top-post-badge&amp;utm_medium=badge&amp;utm_souce=badge-payrequest" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/top-post-badge.svg?post_id=176421&amp;theme=light&amp;period=daily" alt="PayRequest - Simple, fast payment links via Stripe and Mollie | Product Hunt Embed" style="width: 250px; height: 54px;" width="250px" height="54px"></a>
-
+<a href="https://www.capterra.com/reviews/198184/PayRequest?utm_source=vendor&amp;utm_medium=badge&amp;utm_campaign=capterra_reviews_badge"> 
+<img alt="payrequest capterra" border="0" src="https://assets.capterra.com/badge/f7848c80b246a5ed0e4d3779ea958f26.svg?v=2139225&amp;p=198184" style="
+    max-width: 120px;
+"> </a>
 <img alt="Stripe logo" src="https://payrequest.io/assets/img/stripe-partner-badges/L_Color_Solid.svg" style="height: 63px;padding: 6px;">
 
 
